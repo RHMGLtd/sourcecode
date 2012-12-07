@@ -1,0 +1,118 @@
+{
+  "BandName": {
+    "Value": "Troubadour"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/2052",
+      "BandNames": [
+        {
+          "Value": "Troubadour"
+        },
+        {
+          "Value": "Jon Brindley"
+        },
+        {
+          "Value": "Rae Morris"
+        },
+        {
+          "Value": "Dan Wilde"
+        },
+        {
+          "Value": "Spiral Scouts"
+        },
+        {
+          "Value": "Jily Riley"
+        },
+        {
+          "Value": "Pan"
+        },
+        {
+          "Value": "Ghost Trains"
+        },
+        {
+          "Value": "Andy Stones"
+        },
+        {
+          "Value": "Gaia"
+        },
+        {
+          "Value": "The Magdalenas"
+        },
+        {
+          "Value": "3 Daft Monkeys"
+        },
+        {
+          "Value": "Emily Barker & the Red Clay Halo"
+        }
+      ],
+      "Venue": "Victorian Sunlounge",
+      "Date": "\/Date(1306537200000+0100)\/",
+      "StartTime": "11:30",
+      "Price": "£15.00",
+      "MoreInfo": "TICKETS NOW ON SALE!\r\nPlease follow Ticketweb link\r\nhttp://www.ticketweb.co.uk/user/?region=xxx&query=schedule&promoter=barefootbabylon&interface=barefootbabylon\r\n\r\nor pop into Winter Gardens Box Officeto buy Adult Tickets for discount advance price of only £15.",
+      "GigTitle": "Barefoot in Babylon Festival",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303686000000+0100)\/",
+      "Edited": "\/Date(1303686000000+0100)\/"
+    },
+    {
+      "Id": "gig/40966",
+      "BandNames": [
+        {
+          "Value": "Troubadour"
+        }
+      ],
+      "Venue": "The North Euston",
+      "Date": "\/Date(1306623600000+0100)\/",
+      "StartTime": "15:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306394558000+0100)\/",
+      "Edited": "\/Date(1306394558000+0100)\/"
+    },
+    {
+      "Id": "gig/52226",
+      "BandNames": [
+        {
+          "Value": "Troubadour"
+        }
+      ],
+      "Venue": "Stanley Park",
+      "Date": "\/Date(1309647600000+0100)\/",
+      "StartTime": "16:00",
+      "Price": "free",
+      "MoreInfo": "T in the Park....Troubadour in Stanley Park that is, with our chums George, Andy and Kim from the Spiral Scouts.\r\n\r\nSo we got rained off last year...but after a good cloudburst the year before it brightened up nicely and a smashing time was had by all, so keep your fingers crossed, dust off your picnic baskets and join us for an afternoon of acoustic music in the great outdoors",
+      "GigTitle": "T in the Park II",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306695778000+0100)\/",
+      "Edited": "\/Date(1306695778000+0100)\/"
+    },
+    {
+      "Id": "gig/52227",
+      "BandNames": [
+        {
+          "Value": "Martin Stephenson"
+        },
+        {
+          "Value": "Troubadour"
+        }
+      ],
+      "Venue": "Marine Hall",
+      "Date": "\/Date(1322784000000+0000)\/",
+      "StartTime": "19:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306695945000+0100)\/",
+      "Edited": "\/Date(1306695945000+0100)\/"
+    }
+  ]
+}

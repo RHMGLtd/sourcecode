@@ -1,0 +1,220 @@
+{
+  "BandName": {
+    "Value": "Dysphonia"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/31756",
+      "BandNames": [
+        {
+          "Value": "Uncle Paul"
+        },
+        {
+          "Value": "Secret Diablo"
+        },
+        {
+          "Value": "Dysphonia"
+        },
+        {
+          "Value": "Orin"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1305932400000+0100)\/",
+      "StartTime": "19:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": "Alternative Rock Night",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1305537303000+0100)\/",
+      "Edited": "\/Date(1308917090000+0100)\/"
+    },
+    {
+      "Id": "gig/25",
+      "BandNames": [
+        {
+          "Value": "Dysphonia"
+        },
+        {
+          "Value": "Dirty Hearts Club"
+        },
+        {
+          "Value": "Cowards"
+        },
+        {
+          "Value": "The 10 of Spades"
+        },
+        {
+          "Value": "Matchstick Men"
+        },
+        {
+          "Value": "Marionette"
+        },
+        {
+          "Value": "The Lemontops"
+        },
+        {
+          "Value": "The Retrospective"
+        },
+        {
+          "Value": "Every Effort Made"
+        },
+        {
+          "Value": "The Valvetronics"
+        }
+      ],
+      "Venue": "The Blue Room",
+      "Date": "\/Date(1306623600000+0100)\/",
+      "StartTime": "19.00",
+      "Price": "£2",
+      "MoreInfo": "Later At The Blue Room \r\n\r\nwww.facebook.com/theblueroomblackpool\r\nyou can follow us on twitter at www.twitter.com/blueroombpl",
+      "GigTitle": "Later At The Blue Room",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303686000000+0100)\/",
+      "Edited": "\/Date(1303686000000+0100)\/"
+    },
+    {
+      "Id": "gig/40963",
+      "BandNames": [
+        {
+          "Value": "Janice Graham Band"
+        },
+        {
+          "Value": "The Curiosity Shop"
+        },
+        {
+          "Value": "Dysphonia"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1308178800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": "The Janice Graham band are a gang of funkateers from Manchester who sound so unique in an age when it is so easy to copy what has gone before. They are much much more than just another bunch of Mancunian council house riff raff, they have got attitude aplenty and hearts full of soul. I don’t know how my city does it, but I am glad it does. The North is about to rise again. MANI – PRIMAL SCREAM/THE STONE ROSES \r\n\r\nOne of the best of the new breed of Manchester bands who could easily become our next big thing. Deffo! CLINT BOON – XFM\r\n\r\n\r\nStraight out of South Manchester, an area that hasn't really been associated with the cutting edge of Manchester music since the post-punk days of the early Durutti Column et al, come Acid Jazz’s newest signing \r\n\r\nTHE JANICE GRAHAM BAND.\r\n\r\nConvention is a difficult little island to skirt around. Stick too close and you end up getting sucked into a colony of sound-alike bands that are indistinguishable apart from subtle variations in the fraying of the tightly worn jeans. Steer too far away from land and you run the risk of becoming the master of your domain; but with pitifully few little souls and sailors to catalogue your mysterious and exotic voyage. Of course, no bugger told THE JANICE GRAHAM BAND any of this! Convention is a word that doesn’t exist in the Janice Graham vocabulary. And, as a result, the band are quite extraordinary. They kaleidoscope through musical influences at the flick of a plectrum in absolute precision, keeping every song full of deliciously danceable and immediate ideas that are never allowed to become tiresome before swiftly morphing into the next snaking groove or flourishing brass ‘n’ bass interjection. The young Manc band, Joe Jones (lead vocals/bass), Andy Mortan (guitar), Josh Hunt (trumpet and backing vocals) and Tom Scott (drums and backing vocals) - average age a mere 21, are a true garage band; the lads had known each other from around the estate for years and soon endless jamming in a South Manchester garage ensued, where they not only formed, but rehearsed and played their first gigs in October 2008. The JGB sound is heavily infused with Hip Hop, Funk, Soul, Garage Rock, Jazz and Reggae/Ska influences, but the band are none of these labels, they transcend their influences and come out the other side with their own sound! Moving forward the band have supported the likes of Steve Cradock, The Heavy, Kid British, Matt Berry and Madness in front of 5000 people at the Hull Arena. \r\n\r\nWhen I first heard this band they blew me away. Their sound is fresh and totally uncategorisable - after I got to see them live I realised that I wanted to bring them to Acid Jazz. I expect great things! EDDIE PILLER – ACID JAZZ RECORDS",
+      "GigTitle": "Janice Graham Band + Support",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306392314000+0100)\/",
+      "Edited": "\/Date(1308168228000+0100)\/"
+    },
+    {
+      "Id": "gig/60417",
+      "BandNames": [
+        {
+          "Value": "Magic Trees"
+        },
+        {
+          "Value": "Dysphonia"
+        },
+        {
+          "Value": "The Drop-Out Wives"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1308956400000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": "Underground Rock 'n' Roll... Real Raw Sounds",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307096693000+0100)\/",
+      "Edited": "\/Date(1307096694000+0100)\/"
+    },
+    {
+      "Id": "gig/95234",
+      "BandNames": [
+        {
+          "Value": "Let's Go Eskimo"
+        },
+        {
+          "Value": "The Valvetronics"
+        },
+        {
+          "Value": "Dysphonia"
+        }
+      ],
+      "Venue": "Bierkeller",
+      "Date": "\/Date(1311202800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311234509000+0100)\/",
+      "Edited": "\/Date(1311234509000+0100)\/"
+    },
+    {
+      "Id": "gig/95235",
+      "BandNames": [
+        {
+          "Value": "Inca Babies"
+        },
+        {
+          "Value": "Dysphonia"
+        },
+        {
+          "Value": "Party Faithful"
+        },
+        {
+          "Value": "Army of Walking Corpses"
+        }
+      ],
+      "Venue": "Beat",
+      "Date": "\/Date(1314918000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "unknown",
+      "MoreInfo": "Misery Of Sound is back for September the 2nd 2011, and with a wonderful little line up for you as well. We have the INCA BABIES or the Manchester Cramps as there often reffered to, or if you need a little more deffinaition , swampy trash n Blues with a bit a GothPost-punk as well ;]\r\n\r\nwww.myspace.com/incababies\r\n\r\nWe also have the Blackpool debut of Ed Tuke [Banshee's] new project PARTLY FAITHFUL who played a great gig supporting March Violets in Leeds in June\r\n\r\nhttp://www.facebook.com/?ref=mb&sk=inbox#!/home.php?sk=group_205515186148447\r\n\r\nAnother Misery of Sound debut will be for Ashfields ARMY OF WALKING CORPSES, think Michael Graves era Misfits with the best instrument in the world, a double bass ;] they have previously released 2 EP's\r\n\r\nwww.myspace.com/armyofwalkingcorpses\r\n\r\nFinal act confirmed are Blackpool Punk/Post-Punks DYSPHONIA and its also their bebut gig at Misery Of sound.\r\n\r\nhttp://www.facebook.com/?ref=mb&sk=inbox#!/pages/Dysphonia/172102612817880\r\n\r\nhope to see you all there folks ;] Stay Ghoul",
+      "GigTitle": "Misery of Sound",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311234565000+0100)\/",
+      "Edited": "\/Date(1314443157000+0100)\/"
+    },
+    {
+      "Id": "gig/111618",
+      "BandNames": [
+        {
+          "Value": "Addictive Personality"
+        },
+        {
+          "Value": "Dysphonia"
+        },
+        {
+          "Value": "The Senton Bombs"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1315263600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": "ADDICTIVE PHILOSOPHY http://www.addictivephilosophy.biz/\r\n\r\nFantastic Ska/Punk band from Derby on Tour. We play a range of original music from mellow rocksteady to full throttle thrash, but mainly levelling out in the Ska/Punk area - think Rancid, Specials, Inner Terrestrials and Crass, but as far and wide as The Paragons to Discharge. Check our lyrics page out for what we're about - we say what we think and we're not shy about it!!\r\n\r\n**************************************************\r\n\r\nDYSPHONIA http://www.facebook.com/pages/Dysphonia/172102612817880?sk=info\r\n\r\nLocal Post-punk heroes. Influenced by The Cramps, The Dead Kennedys, Bowie, Joy Division, Magazine, Siouxsie and the Banshees.\r\n\r\n**************************************************\r\n\r\nSENTON BOMBS http://www.myspace.com/thesentonbombs\r\n\r\nPunk infected Rock 'n' Roll from Galleon Favourites Senton Bombs. Influences: Aerosmith, AC/DC, Bad Religion, Clash, Dead Kennedys, Megadeth, Misfits, New Bomb Turks, Operation Ivy, NOFX, Ramones, Rancid, Sonics, Springsteen, Supersuckers, Zeke",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1314190239000+0100)\/",
+      "Edited": "\/Date(1314257849000+0100)\/"
+    },
+    {
+      "Id": "gig/116831",
+      "BandNames": [
+        {
+          "Value": "Dysphonia"
+        }
+      ],
+      "Venue": "The Raikes Hall",
+      "Date": "\/Date(1317337200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315142523000+0100)\/",
+      "Edited": "\/Date(1315142523000+0100)\/"
+    }
+  ]
+}

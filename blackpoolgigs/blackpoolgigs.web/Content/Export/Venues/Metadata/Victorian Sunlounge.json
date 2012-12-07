@@ -1,0 +1,22 @@
+{
+  "Id": "metadata/2052",
+  "VenueName": "Victorian Sunlounge",
+  "MainImageName": null,
+  "BarAndClubReviewsUrl": "",
+  "ContactDetail": {
+    "MainPhoneNumber": null,
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "North Pier",
+      "Blackpool"
+    ],
+    "Website": "http://www.northpierblackpool.co.uk/page/81/Carousel-Bar-Sun-Lounge.htm",
+    "EmailAddress": null,
+    "PostCode": "FY1 1NE",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.818794",
+    "Long": "-3.05642"
+  }
+}

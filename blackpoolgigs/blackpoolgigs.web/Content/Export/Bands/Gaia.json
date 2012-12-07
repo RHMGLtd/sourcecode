@@ -1,0 +1,85 @@
+{
+  "BandName": {
+    "Value": "Gaia"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/2049",
+      "BandNames": [
+        {
+          "Value": "Andy Stones"
+        },
+        {
+          "Value": "The Magdalenas"
+        },
+        {
+          "Value": "Gaia"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1304031600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "£5.00",
+      "MoreInfo": "Welcome one & all to the final Barefoot in Babylon Fundraiser on Fri 29th April, 8pm til late, The Tavern, Church St, Blackpool. The fabulous line-up includes\r\nANDY STONES\r\nTHE MAGDALENAS\r\n& GAIA for only £5 entry.\r\n\r\nIf you came to the festival or any of the nights then you’ll know what to expect…high calibre artists in relaxed surroundings, decked out with Persian carpets, cushions & candles plus great tunes between acts to add to the atmosphere.",
+      "GigTitle": "Barefoot in Babylon Fundraiser",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303599600000+0100)\/",
+      "Edited": "\/Date(1303599600000+0100)\/"
+    },
+    {
+      "Id": "gig/2052",
+      "BandNames": [
+        {
+          "Value": "Troubadour"
+        },
+        {
+          "Value": "Jon Brindley"
+        },
+        {
+          "Value": "Rae Morris"
+        },
+        {
+          "Value": "Dan Wilde"
+        },
+        {
+          "Value": "Spiral Scouts"
+        },
+        {
+          "Value": "Jily Riley"
+        },
+        {
+          "Value": "Pan"
+        },
+        {
+          "Value": "Ghost Trains"
+        },
+        {
+          "Value": "Andy Stones"
+        },
+        {
+          "Value": "Gaia"
+        },
+        {
+          "Value": "The Magdalenas"
+        },
+        {
+          "Value": "3 Daft Monkeys"
+        },
+        {
+          "Value": "Emily Barker & the Red Clay Halo"
+        }
+      ],
+      "Venue": "Victorian Sunlounge",
+      "Date": "\/Date(1306537200000+0100)\/",
+      "StartTime": "11:30",
+      "Price": "£15.00",
+      "MoreInfo": "TICKETS NOW ON SALE!\r\nPlease follow Ticketweb link\r\nhttp://www.ticketweb.co.uk/user/?region=xxx&query=schedule&promoter=barefootbabylon&interface=barefootbabylon\r\n\r\nor pop into Winter Gardens Box Officeto buy Adult Tickets for discount advance price of only £15.",
+      "GigTitle": "Barefoot in Babylon Festival",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303686000000+0100)\/",
+      "Edited": "\/Date(1303686000000+0100)\/"
+    }
+  ]
+}

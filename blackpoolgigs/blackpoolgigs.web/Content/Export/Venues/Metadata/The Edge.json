@@ -1,0 +1,22 @@
+{
+  "Id": "metadata/2059",
+  "VenueName": "The Edge",
+  "MainImageName": "The Edge.jpg",
+  "BarAndClubReviewsUrl": "http://www.bar-and-club-reviews.com/bars/77454-the-edge",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 882015",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "22 Hardhorn Road",
+      "Poulton-le-Fylde"
+    ],
+    "Website": "",
+    "EmailAddress": "ontheedge-poulton@btconnect.com",
+    "PostCode": "FY7 6SR",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.845299",
+    "Long": "-2.992224"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "BandName": {
+    "Value": "The 45s"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/20482",
+      "BandNames": [
+        {
+          "Value": "The 45s"
+        }
+      ],
+      "Venue": "The Old Bank Inn",
+      "Date": "\/Date(1305327600000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1304118000000+0100)\/",
+      "Edited": "\/Date(1304118000000+0100)\/"
+    }
+  ]
+}

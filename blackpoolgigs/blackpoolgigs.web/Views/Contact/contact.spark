@@ -1,0 +1,73 @@
+<viewdata model="ContactViewModel" />
+
+<content name="css">
+  <link href="~/content/form.css" rel="stylesheet" type="text/css" />
+  <link href="~/content/contact.css" rel="stylesheet" type="text/css" />
+</content>
+<content name="title">
+  Blackpool Gigs - Live Music and Events in Blackpool :: Contact Us
+</content>
+<content name="body">
+  <pageTitle />
+  <div class="infoPanel">
+    At blackpoolgigs.co.uk we are always happy to hear from you.  You can use the form below to send us information about any gigs that you are aware of that
+    we don't have on the site yet.  Alternatively, call us or come visit us at our studio.  We are based out of Rock Hard Studios in the centre of Blackpool,
+    so come and make yourself welcome.  We look forward to hearing from you soon.
+  </div>
+  <div class="contactDetails">
+    <div class="address">
+      Rock Hard Studios<br />
+      Unit 4, Cocker Street Trading Estate<br />
+      Blackpool, Lancashire<br />
+      FY1 2EP
+    </div>
+    <div class="direct">
+      01253 749761<br />
+      <a href="mailto:contact@blackpoolgigs.co.uk">contact@blackpoolgigs.co.uk</a>
+    </div>
+  </div>
+  <div class="contactForm infoPanel">
+    <hr />
+    <form method="post">
+      <ul class="contact">
+        <li class="item">
+          <span class="label">Your Name :: </span>
+          <input id="yourName" type="text" name="yourName" value="!{Model.yourName}" class="input required" minlength="2"/>
+        </li>
+        <li class="item">
+          <span class="label">Your Email Address :: </span>
+          <input id="yourEmail" type="text" name="yourEmail" value="!{Model.yourEmail}" class="input required email" minlength="2"/>
+        </li>
+        <li class="item">
+          <span class="label">Tell us something :: </span>
+          <textarea id="whatAbout" name="whatAbout" rows="5" cols="60" class="input required">!{Model.whatAbout}</textarea>
+          <div class="contextHelp">If you are contacting us about a new gig please at least let us know the where, who, when and, how much. Any other information gratefully received also.</div>
+        </li>
+        <li class="item">
+          <button type="submit">Send us your form.</button>
+        </li>
+      </ul>
+    </form>
+  </div>
+  <div style="padding: 15px 0px; clear: both;">
+    <div class="infoPanel contactDisclaimer">
+      Please be aware that we record your IP address when you submit this form. This is purely for the purposes of spam protection for ourselves. We will
+      never make any use of any of your information for any reason beyond the communication started from this form. We are happy at any time to remove
+      all records of communications from our systems, please just contact us and we'll be happy to oblige.
+    </div>
+  </div>
+</content>
+<content name="rightPanel">
+  <script type="text/javascript">
+    <!--
+google_ad_client = "pub-4956915789383422";
+/* generic skyscraper */
+google_ad_slot = "2688921142";
+google_ad_width = 120;
+google_ad_height = 600;
+//-->
+  </script>
+  <script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+  </script>
+</content>

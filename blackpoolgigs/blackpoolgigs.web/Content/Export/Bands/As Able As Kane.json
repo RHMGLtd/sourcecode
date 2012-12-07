@@ -1,0 +1,25 @@
+{
+  "BandName": {
+    "Value": "As Able As Kane"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/71682",
+      "BandNames": [
+        {
+          "Value": "As Able As Kane"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1311289200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307974279000+0100)\/",
+      "Edited": "\/Date(1307974279000+0100)\/"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "BandName": {
+    "Value": "Johnny Meerkat"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/18448",
+      "BandNames": [
+        {
+          "Value": "Johnny Meerkat"
+        }
+      ],
+      "Venue": "Station Tavern",
+      "Date": "\/Date(1306537200000+0100)\/",
+      "StartTime": "19.30",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": true,
+      "Created": "\/Date(1304204400000+0100)\/",
+      "Edited": "\/Date(1306833577000+0100)\/"
+    },
+    {
+      "Id": "gig/30721",
+      "BandNames": [
+        {
+          "Value": "Johnny Meerkat"
+        }
+      ],
+      "Venue": "The King Edward",
+      "Date": "\/Date(1307142000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1305475277000+0100)\/",
+      "Edited": "\/Date(1305475277000+0100)\/"
+    },
+    {
+      "Id": "gig/30723",
+      "BandNames": [
+        {
+          "Value": "Johnny Meerkat"
+        }
+      ],
+      "Venue": "Station Tavern",
+      "Date": "\/Date(1308351600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1305475367000+0100)\/",
+      "Edited": "\/Date(1305475367000+0100)\/"
+    },
+    {
+      "Id": "gig/30722",
+      "BandNames": [
+        {
+          "Value": "Johnny Meerkat"
+        }
+      ],
+      "Venue": "The Old Bank Inn",
+      "Date": "\/Date(1315004400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1305475327000+0100)\/",
+      "Edited": "\/Date(1305475327000+0100)\/"
+    }
+  ]
+}

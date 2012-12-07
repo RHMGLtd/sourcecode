@@ -1,0 +1,52 @@
+{
+  "BandName": {
+    "Value": "Crushing Blows"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/23",
+      "BandNames": [
+        {
+          "Value": "Jambon Jam Band"
+        },
+        {
+          "Value": "Kickstart Kitty"
+        },
+        {
+          "Value": "The Sanity Clause"
+        },
+        {
+          "Value": "Skeleton Keys"
+        },
+        {
+          "Value": "Crushing Blows"
+        },
+        {
+          "Value": "Hexed Hands"
+        },
+        {
+          "Value": "Mean Poppa Lean (tbc)"
+        },
+        {
+          "Value": "Major Major"
+        },
+        {
+          "Value": "The Templebys"
+        },
+        {
+          "Value": "Veasey"
+        }
+      ],
+      "Venue": "The Blue Room",
+      "Date": "\/Date(1306450800000+0100)\/",
+      "StartTime": "19.30",
+      "Price": "£2",
+      "MoreInfo": "Later At The Blue Room \r\n\r\nwww.facebook.com/theblueroomblackpool\r\nyou can follow us on twitter at www.twitter.com/blueroombpl",
+      "GigTitle": "Later At The Blue Room",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303513200000+0100)\/",
+      "Edited": "\/Date(1303513200000+0100)\/"
+    }
+  ]
+}

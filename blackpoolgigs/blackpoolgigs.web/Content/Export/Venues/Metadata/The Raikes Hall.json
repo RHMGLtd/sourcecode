@@ -1,0 +1,22 @@
+{
+  "Id": "metadata/2064",
+  "VenueName": "The Raikes Hall",
+  "MainImageName": "The Raikes Hall.jpg",
+  "BarAndClubReviewsUrl": "http://www.bar-and-club-reviews.com/bars/68746-The-Raikes-Hall-Hotel-Blackpool",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 757971",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "16 Liverpool Road",
+      "Blackpool"
+    ],
+    "Website": "",
+    "EmailAddress": null,
+    "PostCode": "FY1 4HE",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.817315",
+    "Long": "-3.044141"
+  }
+}

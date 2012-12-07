@@ -1,0 +1,14 @@
+﻿.venueMap
+{
+    float: right;
+}
+.venueContactDetails
+{
+    float: left;
+    width: 310px;
+    padding-right: 10px;
+}
+.metadataClear
+{
+    clear: both
+}

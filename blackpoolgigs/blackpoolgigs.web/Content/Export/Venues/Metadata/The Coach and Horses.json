@@ -1,0 +1,22 @@
+{
+  "Id": "metadata/11266",
+  "VenueName": "The Coach and Horses",
+  "MainImageName": "The Coach and Horses.jpg",
+  "BarAndClubReviewsUrl": "",
+  "ContactDetail": {
+    "MainPhoneNumber": "01772 632284",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "4 Preson Old Road",
+      "Preson"
+    ],
+    "Website": "",
+    "EmailAddress": null,
+    "PostCode": "PR4 1PD",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.766775",
+    "Long": "-2.815161"
+  }
+}

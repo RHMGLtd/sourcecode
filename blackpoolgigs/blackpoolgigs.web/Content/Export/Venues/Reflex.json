@@ -1,0 +1,25 @@
+{
+  "IsNull": false,
+  "Venue": "Reflex",
+  "Gigs": [
+    {
+      "Id": "gig/71681",
+      "BandNames": [
+        {
+          "Value": "Chesney Hawkes"
+        }
+      ],
+      "Venue": "Reflex",
+      "Date": "\/Date(1309388400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "unknown",
+      "MoreInfo": "Why not start your weekend early and come and see 80's legend CHESNEY HAWKES live on stage at REFLEX BLACKPOOL!!\r\n\r\nIt's all happening on Thursday 30th June - an amazing night with cheap drinks plus \"THE ONE & ONLY\" CHESNEY HAWKES!!!\r\n\r\nOpen all day, party starts at 8pm, Chesney live from 10pm!!!\r\n\r\nReflex Blackpool is located at the Foxhall - almost opposite Central Pier. It's going to be an amazing night!\r\n\r\nHope you can join us",
+      "GigTitle": "Chesney Hawkes - Live at REFLEX BLACKPOOL!!!",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307973613000+0100)\/",
+      "Edited": "\/Date(1307973614000+0100)\/"
+    }
+  ],
+  "Future": []
+}

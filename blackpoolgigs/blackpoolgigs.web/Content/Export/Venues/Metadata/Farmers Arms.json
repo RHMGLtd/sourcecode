@@ -1,0 +1,22 @@
+{
+  "Id": "metadata/11272",
+  "VenueName": "Farmers Arms",
+  "MainImageName": "Farmers Arms.jpg",
+  "BarAndClubReviewsUrl": "",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 407215",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "Lytham Road",
+      "Blackpool"
+    ],
+    "Website": "",
+    "EmailAddress": null,
+    "PostCode": "FY4 1RF",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.785212",
+    "Long": "-3.047183"
+  }
+}

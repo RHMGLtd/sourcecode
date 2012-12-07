@@ -1,0 +1,79 @@
+{
+  "BandName": {
+    "Value": "Mikey Ts Rockin Boogie Band"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/18451",
+      "BandNames": [
+        {
+          "Value": "Mikey Ts Rockin Boogie Band"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1305068400000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1304118000000+0100)\/",
+      "Edited": "\/Date(1304118000000+0100)\/"
+    },
+    {
+      "Id": "gig/18452",
+      "BandNames": [
+        {
+          "Value": "Mikey Ts Rockin Boogie Band"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1305673200000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303513200000+0100)\/",
+      "Edited": "\/Date(1303513200000+0100)\/"
+    },
+    {
+      "Id": "gig/18453",
+      "BandNames": [
+        {
+          "Value": "Mikey Ts Rockin Boogie Band"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1306278000000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303858800000+0100)\/",
+      "Edited": "\/Date(1303858800000+0100)\/"
+    },
+    {
+      "Id": "gig/18454",
+      "BandNames": [
+        {
+          "Value": "Mikey Ts Rockin Boogie Band"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1306882800000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303858800000+0100)\/",
+      "Edited": "\/Date(1303858800000+0100)\/"
+    }
+  ]
+}

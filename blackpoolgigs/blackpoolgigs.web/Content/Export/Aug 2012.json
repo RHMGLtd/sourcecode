@@ -1,0 +1,301 @@
+{
+  "FirstDayOfMonth": "\/Date(1343775600000+0100)\/",
+  "Lines": [
+    {
+      "Entries": [
+        {
+          "Date": "\/Date(1343775600000+0100)\/",
+          "Gigs": []
+        },
+        {
+          "Date": "\/Date(1343862000000+0100)\/",
+          "Gigs": []
+        },
+        {
+          "Date": "\/Date(1343948400000+0100)\/",
+          "Gigs": [
+            {
+              "Id": "gig/134152",
+              "BandNames": [
+                {
+                  "Value": "The Kommitments"
+                }
+              ],
+              "Venue": "The Sands",
+              "Date": "\/Date(1343948400000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "unknown",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1326568788000+0000)\/",
+              "Edited": "\/Date(1326568788000+0000)\/"
+            }
+          ]
+        },
+        {
+          "Date": "\/Date(1344034800000+0100)\/",
+          "Gigs": [
+            {
+              "Id": "gig/133168",
+              "BandNames": [
+                {
+                  "Value": "The Blue Pig Orchestra"
+                }
+              ],
+              "Venue": "The Strawberry Gardens",
+              "Date": "\/Date(1344034800000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": "Original and Acoustic",
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1326562122000+0000)\/",
+              "Edited": "\/Date(1326562122000+0000)\/"
+            }
+          ]
+        },
+        {
+          "Date": "\/Date(1344121200000+0100)\/",
+          "Gigs": []
+        }
+      ]
+    },
+    {
+      "Entries": [
+        {
+          "Date": "\/Date(1344207600000+0100)\/",
+          "Gigs": []
+        },
+        {
+          "Date": "\/Date(1344294000000+0100)\/",
+          "Gigs": []
+        },
+        {
+          "Date": "\/Date(1344380400000+0100)\/",
+          "Gigs": []
+        },
+        {
+          "Date": "\/Date(1344466800000+0100)\/",
+          "Gigs": []
+        },
+        {
+          "Date": "\/Date(1344553200000+0100)\/",
+          "Gigs": []
+        },
+        {
+          "Date": "\/Date(1344639600000+0100)\/",
+          "Gigs": [
+            {
+              "Id": "gig/133193",
+              "BandNames": [
+                {
+                  "Value": "Ska Face"
+                }
+              ],
+              "Venue": "Belle View",
+              "Date": "\/Date(1344639600000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1326563109000+0000)\/",
+              "Edited": "\/Date(1326563109000+0000)\/"
+            }
+          ]
+        },
+        {
+          "Date": "\/Date(1344726000000+0100)\/",
+          "Gigs": []
+        }
+      ]
+    },
+    {
+      "Entries": [
+        {
+          "Date": "\/Date(1344812400000+0100)\/",
+          "Gigs": []
+        },
+        {
+          "Date": "\/Date(1344898800000+0100)\/",
+          "Gigs": []
+        },
+        {
+          "Date": "\/Date(1344985200000+0100)\/",
+          "Gigs": []
+        },
+        {
+          "Date": "\/Date(1345071600000+0100)\/",
+          "Gigs": []
+        },
+        {
+          "Date": "\/Date(1345158000000+0100)\/",
+          "Gigs": [
+            {
+              "Id": "gig/133169",
+              "BandNames": [
+                {
+                  "Value": "The Blue Pig Orchestra"
+                }
+              ],
+              "Venue": "The Venue",
+              "Date": "\/Date(1345158000000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1326562155000+0000)\/",
+              "Edited": "\/Date(1326562155000+0000)\/"
+            }
+          ]
+        },
+        {
+          "Date": "\/Date(1345244400000+0100)\/",
+          "Gigs": []
+        },
+        {
+          "Date": "\/Date(1345330800000+0100)\/",
+          "Gigs": []
+        }
+      ]
+    },
+    {
+      "Entries": [
+        {
+          "Date": "\/Date(1345417200000+0100)\/",
+          "Gigs": []
+        },
+        {
+          "Date": "\/Date(1345503600000+0100)\/",
+          "Gigs": []
+        },
+        {
+          "Date": "\/Date(1345590000000+0100)\/",
+          "Gigs": []
+        },
+        {
+          "Date": "\/Date(1345676400000+0100)\/",
+          "Gigs": []
+        },
+        {
+          "Date": "\/Date(1345762800000+0100)\/",
+          "Gigs": [
+            {
+              "Id": "gig/133194",
+              "BandNames": [
+                {
+                  "Value": "Ska Face"
+                }
+              ],
+              "Venue": "The Venue",
+              "Date": "\/Date(1345762800000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1326563134000+0000)\/",
+              "Edited": "\/Date(1326563134000+0000)\/"
+            }
+          ]
+        },
+        {
+          "Date": "\/Date(1345849200000+0100)\/",
+          "Gigs": [
+            {
+              "Id": "gig/138251",
+              "BandNames": [
+                {
+                  "Value": "Stiff"
+                }
+              ],
+              "Venue": "The Victoria",
+              "Date": "\/Date(1345849200000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1327745482000+0000)\/",
+              "Edited": "\/Date(1327745482000+0000)\/"
+            }
+          ]
+        },
+        {
+          "Date": "\/Date(1345935600000+0100)\/",
+          "Gigs": [
+            {
+              "Id": "gig/133206",
+              "BandNames": [
+                {
+                  "Value": "Thistle"
+                }
+              ],
+              "Venue": "The Golden Ball",
+              "Date": "\/Date(1345935600000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1326564394000+0000)\/",
+              "Edited": "\/Date(1326564394000+0000)\/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Entries": [
+        {
+          "Date": "\/Date(1346022000000+0100)\/",
+          "Gigs": []
+        },
+        {
+          "Date": "\/Date(1346108400000+0100)\/",
+          "Gigs": []
+        },
+        {
+          "Date": "\/Date(1346194800000+0100)\/",
+          "Gigs": []
+        },
+        {
+          "Date": "\/Date(1346281200000+0100)\/",
+          "Gigs": []
+        },
+        {
+          "Date": "\/Date(1346367600000+0100)\/",
+          "Gigs": [
+            {
+              "Id": "gig/137222",
+              "BandNames": [
+                {
+                  "Value": "Backwater"
+                }
+              ],
+              "Venue": "Marton Institute",
+              "Date": "\/Date(1346367600000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1327313566000+0000)\/",
+              "Edited": "\/Date(1327313566000+0000)\/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

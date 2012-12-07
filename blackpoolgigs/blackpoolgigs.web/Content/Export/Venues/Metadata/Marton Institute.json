@@ -1,0 +1,21 @@
+{
+  "Id": "metadata/2075",
+  "VenueName": "Marton Institute",
+  "MainImageName": null,
+  "BarAndClubReviewsUrl": "http://www.bar-and-club-reviews.com/bars/77448-marton-institute",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 762856",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "Oxford Square"
+    ],
+    "Website": "",
+    "EmailAddress": null,
+    "PostCode": "FY4 4DR",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.802992",
+    "Long": "-3.026642"
+  }
+}

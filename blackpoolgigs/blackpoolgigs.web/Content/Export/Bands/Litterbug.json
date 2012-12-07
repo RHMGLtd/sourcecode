@@ -1,0 +1,130 @@
+{
+  "BandName": {
+    "Value": "Litterbug"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/4",
+      "BandNames": [
+        {
+          "Value": "Veasey"
+        },
+        {
+          "Value": "Voo"
+        },
+        {
+          "Value": "Don't Start Fires"
+        },
+        {
+          "Value": "Rain Bailiff"
+        },
+        {
+          "Value": "Container Drivers"
+        },
+        {
+          "Value": "Hammer No More The fingers"
+        },
+        {
+          "Value": "Juno and the Mook"
+        },
+        {
+          "Value": "Switchboard Spectacular"
+        },
+        {
+          "Value": "Escape Artist"
+        },
+        {
+          "Value": "Litterbug"
+        }
+      ],
+      "Venue": "The Blue Room",
+      "Date": "\/Date(1303599600000+0100)\/",
+      "StartTime": "19.30",
+      "Price": "£2",
+      "MoreInfo": "Later At The Blue Room is an mini indoor festival that runs over both the consecutive bank holiday weekends at the end of April at the Blue Room pub in Blackpool from Thursday 21st April to Sunday 24th April and Thursday 28th April to Sunday 1st May.\r\n\r\nThere will be 80 bands performing over both weekends with 10 acts performing each night, there will be performances from Goonies Never Say Die, The Senton Bombs, Escape Artist, Ides Of March, My Preserver, Idol Minds, Makers Of Venice, Northern Structure, Hammer No More The Fingers, The Colours, Metonia, Bill Orrick, The Drop-Out Wives and many more\r\n\r\nThe format of the event is set up in the same way the 'Later with Jools Holland' programme works, there are 2 stages set up in the venue, as soon as one band finishes at one end of the pub the next band starts at the other end, they even have a 'fake Jools' to compere the night.\r\n\r\nIt runs from 7pm until late every night and is only £2 to get in\r\nits all happening at The Blue Room, Church Street, Blackpool\r\nupdated listings can be found at www.facebook.com/theblueroomblackpool\r\nyou can follow us on twitter at www.twitter.com/blueroombpl",
+      "GigTitle": "Later At The Blue Room",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303599600000+0100)\/",
+      "Edited": "\/Date(1303599600000+0100)\/"
+    },
+    {
+      "Id": "gig/33794",
+      "BandNames": [
+        {
+          "Value": "All Eyes West"
+        },
+        {
+          "Value": "Jimmy Islip"
+        },
+        {
+          "Value": "Litterbug"
+        }
+      ],
+      "Venue": "Gillespies Bar",
+      "Date": "\/Date(1308610800000+0100)\/",
+      "StartTime": "19:30",
+      "Price": "Free",
+      "MoreInfo": "This is a free gig with donations on the door.\r\n\r\nJimmy Islip of The Magnificent",
+      "GigTitle": "An Interesting Gig in Blackpool",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1305628305000+0100)\/",
+      "Edited": "\/Date(1306925710000+0100)\/"
+    },
+    {
+      "Id": "gig/2054",
+      "BandNames": [
+        {
+          "Value": "UFX"
+        },
+        {
+          "Value": "Cyanide Pills"
+        },
+        {
+          "Value": "Litterbug"
+        },
+        {
+          "Value": "Tight Finks"
+        }
+      ],
+      "Venue": "Beat",
+      "Date": "\/Date(1312412400000+0100)\/",
+      "StartTime": "22:00",
+      "Price": "unknown",
+      "MoreInfo": null,
+      "GigTitle": "Rebellion Festival After Show Party",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1304290800000+0100)\/",
+      "Edited": "\/Date(1304290800000+0100)\/"
+    },
+    {
+      "Id": "gig/97282",
+      "BandNames": [
+        {
+          "Value": "The Senton Bombs"
+        },
+        {
+          "Value": "Dinosaurs Are Shit Dragons"
+        },
+        {
+          "Value": "Cowards"
+        },
+        {
+          "Value": "Litterbug"
+        }
+      ],
+      "Venue": "The Blue Room",
+      "Date": "\/Date(1312498800000+0100)\/",
+      "StartTime": "20:30",
+      "Price": "£1.00",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311511123000+0100)\/",
+      "Edited": "\/Date(1311511123000+0100)\/"
+    }
+  ]
+}

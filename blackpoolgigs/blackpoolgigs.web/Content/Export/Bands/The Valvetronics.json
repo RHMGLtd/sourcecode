@@ -1,0 +1,142 @@
+{
+  "BandName": {
+    "Value": "The Valvetronics"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/45057",
+      "BandNames": [
+        {
+          "Value": "The Valvetronics"
+        }
+      ],
+      "Venue": "Burlington",
+      "Date": "\/Date(1306450800000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306419708000+0100)\/",
+      "Edited": "\/Date(1306419710000+0100)\/"
+    },
+    {
+      "Id": "gig/25",
+      "BandNames": [
+        {
+          "Value": "Dysphonia"
+        },
+        {
+          "Value": "Dirty Hearts Club"
+        },
+        {
+          "Value": "Cowards"
+        },
+        {
+          "Value": "The 10 of Spades"
+        },
+        {
+          "Value": "Matchstick Men"
+        },
+        {
+          "Value": "Marionette"
+        },
+        {
+          "Value": "The Lemontops"
+        },
+        {
+          "Value": "The Retrospective"
+        },
+        {
+          "Value": "Every Effort Made"
+        },
+        {
+          "Value": "The Valvetronics"
+        }
+      ],
+      "Venue": "The Blue Room",
+      "Date": "\/Date(1306623600000+0100)\/",
+      "StartTime": "19.00",
+      "Price": "£2",
+      "MoreInfo": "Later At The Blue Room \r\n\r\nwww.facebook.com/theblueroomblackpool\r\nyou can follow us on twitter at www.twitter.com/blueroombpl",
+      "GigTitle": "Later At The Blue Room",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303686000000+0100)\/",
+      "Edited": "\/Date(1303686000000+0100)\/"
+    },
+    {
+      "Id": "gig/53249",
+      "BandNames": [
+        {
+          "Value": "Charlie Cartmell"
+        },
+        {
+          "Value": "The TC Allstars"
+        },
+        {
+          "Value": "The Valvetronics"
+        },
+        {
+          "Value": "Alpha State Of Mind"
+        }
+      ],
+      "Venue": "Stanley Park",
+      "Date": "\/Date(1308438000000+0100)\/",
+      "StartTime": "13:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": "Gig at the Band Stand",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306747968000+0100)\/",
+      "Edited": "\/Date(1306747968000+0100)\/"
+    },
+    {
+      "Id": "gig/95234",
+      "BandNames": [
+        {
+          "Value": "Let's Go Eskimo"
+        },
+        {
+          "Value": "The Valvetronics"
+        },
+        {
+          "Value": "Dysphonia"
+        }
+      ],
+      "Venue": "Bierkeller",
+      "Date": "\/Date(1311202800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311234509000+0100)\/",
+      "Edited": "\/Date(1311234509000+0100)\/"
+    },
+    {
+      "Id": "gig/72710",
+      "BandNames": [
+        {
+          "Value": "The Valvetronics"
+        },
+        {
+          "Value": "Various Artists"
+        }
+      ],
+      "Venue": "Stanley Park",
+      "Date": "\/Date(1311375600000+0100)\/",
+      "StartTime": "13.00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": "Sunday Rock on the Bandstand > Valvetronics",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308248194000+0100)\/",
+      "Edited": "\/Date(1308248413000+0100)\/"
+    }
+  ]
+}

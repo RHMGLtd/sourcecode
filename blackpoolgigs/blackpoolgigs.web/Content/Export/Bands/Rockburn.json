@@ -1,0 +1,31 @@
+{
+  "BandName": {
+    "Value": "Rockburn"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/34825",
+      "BandNames": [
+        {
+          "Value": "The Colours"
+        },
+        {
+          "Value": "Mitford Rebel"
+        },
+        {
+          "Value": "Rockburn"
+        }
+      ],
+      "Venue": "The Blue Room",
+      "Date": "\/Date(1312585200000+0100)\/",
+      "StartTime": "20:30",
+      "Price": "£1.00",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1305654752000+0100)\/",
+      "Edited": "\/Date(1305655442000+0100)\/"
+    }
+  ]
+}

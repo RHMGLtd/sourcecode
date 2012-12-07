@@ -1,0 +1,82 @@
+{
+  "BandName": {
+    "Value": "Dan Wilde"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/2052",
+      "BandNames": [
+        {
+          "Value": "Troubadour"
+        },
+        {
+          "Value": "Jon Brindley"
+        },
+        {
+          "Value": "Rae Morris"
+        },
+        {
+          "Value": "Dan Wilde"
+        },
+        {
+          "Value": "Spiral Scouts"
+        },
+        {
+          "Value": "Jily Riley"
+        },
+        {
+          "Value": "Pan"
+        },
+        {
+          "Value": "Ghost Trains"
+        },
+        {
+          "Value": "Andy Stones"
+        },
+        {
+          "Value": "Gaia"
+        },
+        {
+          "Value": "The Magdalenas"
+        },
+        {
+          "Value": "3 Daft Monkeys"
+        },
+        {
+          "Value": "Emily Barker & the Red Clay Halo"
+        }
+      ],
+      "Venue": "Victorian Sunlounge",
+      "Date": "\/Date(1306537200000+0100)\/",
+      "StartTime": "11:30",
+      "Price": "£15.00",
+      "MoreInfo": "TICKETS NOW ON SALE!\r\nPlease follow Ticketweb link\r\nhttp://www.ticketweb.co.uk/user/?region=xxx&query=schedule&promoter=barefootbabylon&interface=barefootbabylon\r\n\r\nor pop into Winter Gardens Box Officeto buy Adult Tickets for discount advance price of only £15.",
+      "GigTitle": "Barefoot in Babylon Festival",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303686000000+0100)\/",
+      "Edited": "\/Date(1303686000000+0100)\/"
+    },
+    {
+      "Id": "gig/68616",
+      "BandNames": [
+        {
+          "Value": "Martin Taylor"
+        },
+        {
+          "Value": "Dan Wilde"
+        }
+      ],
+      "Venue": "Marine Hall",
+      "Date": "\/Date(1317942000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "unknown",
+      "MoreInfo": "Multi award winning guitarist and composer MARTIN TAYLOR has established a unique musical career as an internationally acclaimed musician, and his inimitable style has seen him recognized as the world’s foremost exponent of solo jazz guitar playing. In 2002 he was awarded an MBE for services to Jazz music. Supported by excellent singer/songwriter Dan Wilde. Tickets £14 from 01253 887693 or http://www.marinehall.co.uk.\r\n\r\nhttp://www.towerblues.co.uk",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307891766000+0100)\/",
+      "Edited": "\/Date(1316591740000+0100)\/"
+    }
+  ]
+}

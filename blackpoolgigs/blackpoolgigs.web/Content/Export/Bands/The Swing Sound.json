@@ -1,0 +1,28 @@
+{
+  "BandName": {
+    "Value": "The Swing Sound"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/100353",
+      "BandNames": [
+        {
+          "Value": "The Swing Sound"
+        },
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1312239600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": "Guest musicians welcome to join the band. We have poached Mr JOHN ELLIS (Jazz Piano) from Manchester join us in Blackpool TOP GUY!!",
+      "GigTitle": "A BIG MUSIC TRIBUTE NIGHT TO ERIC DELANEY",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311715097000+0100)\/",
+      "Edited": "\/Date(1311715098000+0100)\/"
+    }
+  ]
+}

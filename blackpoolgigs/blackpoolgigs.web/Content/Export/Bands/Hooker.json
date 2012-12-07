@@ -1,0 +1,550 @@
+{
+  "BandName": {
+    "Value": "Hooker"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/37901",
+      "BandNames": [
+        {
+          "Value": "Hooker"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1306537200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306150572000+0100)\/",
+      "Edited": "\/Date(1306150572000+0100)\/"
+    },
+    {
+      "Id": "gig/52225",
+      "BandNames": [
+        {
+          "Value": "James Luke"
+        },
+        {
+          "Value": "Hooker"
+        }
+      ],
+      "Venue": "The Royal Oak",
+      "Date": "\/Date(1307142000000+0100)\/",
+      "StartTime": "17:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306695607000+0100)\/",
+      "Edited": "\/Date(1307102849000+0100)\/"
+    },
+    {
+      "Id": "gig/61459",
+      "BandNames": [
+        {
+          "Value": "Hooker"
+        }
+      ],
+      "Venue": "The Gas Workers",
+      "Date": "\/Date(1308351600000+0100)\/",
+      "StartTime": "20:30",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307103782000+0100)\/",
+      "Edited": "\/Date(1307103782000+0100)\/"
+    },
+    {
+      "Id": "gig/64518",
+      "BandNames": [
+        {
+          "Value": "Hooker"
+        },
+        {
+          "Value": "Triple Threat"
+        }
+      ],
+      "Venue": "The Tank",
+      "Date": "\/Date(1308351600000+0100)\/",
+      "StartTime": "20:30",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307536834000+0100)\/",
+      "Edited": "\/Date(1307536834000+0100)\/"
+    },
+    {
+      "Id": "gig/61460",
+      "BandNames": [
+        {
+          "Value": "Hooker"
+        }
+      ],
+      "Venue": "The Gas Workers",
+      "Date": "\/Date(1308438000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307103815000+0100)\/",
+      "Edited": "\/Date(1307103815000+0100)\/"
+    },
+    {
+      "Id": "gig/61461",
+      "BandNames": [
+        {
+          "Value": "Hooker"
+        }
+      ],
+      "Venue": "Blackpool Rugby Club",
+      "Date": "\/Date(1308956400000+0100)\/",
+      "StartTime": "20:30",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307103833000+0100)\/",
+      "Edited": "\/Date(1307103833000+0100)\/"
+    },
+    {
+      "Id": "gig/78883",
+      "BandNames": [
+        {
+          "Value": "Hooker"
+        }
+      ],
+      "Venue": "The Queens, Fleetwood",
+      "Date": "\/Date(1310079600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308917622000+0100)\/",
+      "Edited": "\/Date(1308917680000+0100)\/"
+    },
+    {
+      "Id": "gig/78884",
+      "BandNames": [
+        {
+          "Value": "Hooker"
+        }
+      ],
+      "Venue": "The Tank",
+      "Date": "\/Date(1310166000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308917700000+0100)\/",
+      "Edited": "\/Date(1308917700000+0100)\/"
+    },
+    {
+      "Id": "gig/92161",
+      "BandNames": [
+        {
+          "Value": "Triple Threat"
+        },
+        {
+          "Value": "Escape Artist"
+        },
+        {
+          "Value": "The Invaders"
+        },
+        {
+          "Value": "Elvis Knievel"
+        },
+        {
+          "Value": "Hooker"
+        }
+      ],
+      "Venue": "The Tank",
+      "Date": "\/Date(1310857200000+0100)\/",
+      "StartTime": "14:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": "TRAM SUNDAY BAND FEST",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1310456016000+0100)\/",
+      "Edited": "\/Date(1310456017000+0100)\/"
+    },
+    {
+      "Id": "gig/78885",
+      "BandNames": [
+        {
+          "Value": "Hooker"
+        }
+      ],
+      "Venue": "Uncle Toms Cabin",
+      "Date": "\/Date(1311289200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308917724000+0100)\/",
+      "Edited": "\/Date(1308917724000+0100)\/"
+    },
+    {
+      "Id": "gig/78860",
+      "BandNames": [
+        {
+          "Value": "Hooker"
+        }
+      ],
+      "Venue": "The Royal Oak",
+      "Date": "\/Date(1311894000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "£1.00",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308916234000+0100)\/",
+      "Edited": "\/Date(1308916234000+0100)\/"
+    },
+    {
+      "Id": "gig/78886",
+      "BandNames": [
+        {
+          "Value": "Hooker"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1311980400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308917742000+0100)\/",
+      "Edited": "\/Date(1308917742000+0100)\/"
+    },
+    {
+      "Id": "gig/103451",
+      "BandNames": [
+        {
+          "Value": "Hooker"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1314399600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311948004000+0100)\/",
+      "Edited": "\/Date(1311948004000+0100)\/"
+    },
+    {
+      "Id": "gig/120834",
+      "BandNames": [
+        {
+          "Value": "Lune Deep"
+        },
+        {
+          "Value": "Hooker"
+        },
+        {
+          "Value": "The Corsairs"
+        }
+      ],
+      "Venue": "The Tank",
+      "Date": "\/Date(1315522800000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "\"2",
+      "MoreInfo": "LUNE DEEP, HOOKER, corsairs to name but a few bands.\r\nBut the young talent of LUNE DEEP, and the imfamous experience of HOOKER on the same BILL.. absolutely buzzzzzin!\r\n\r\nFriday 9th September\r\n9PM Start\r\n\r\n£2 on the door for Baggy's family's charity/ Cancer research!\r\n\r\nR.I.P Graham\r\nGonna be a night to remember! ♥",
+      "GigTitle": "Charity Night",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315377515000+0100)\/",
+      "Edited": "\/Date(1315377515000+0100)\/"
+    },
+    {
+      "Id": "gig/116743",
+      "BandNames": [
+        {
+          "Value": "Hooker"
+        }
+      ],
+      "Venue": "Uncle Toms Cabin",
+      "Date": "\/Date(1316127600000+0100)\/",
+      "StartTime": "20:30",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315138426000+0100)\/",
+      "Edited": "\/Date(1315138426000+0100)\/"
+    },
+    {
+      "Id": "gig/116744",
+      "BandNames": [
+        {
+          "Value": "Hooker"
+        }
+      ],
+      "Venue": "The Gas Workers",
+      "Date": "\/Date(1316214000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315138448000+0100)\/",
+      "Edited": "\/Date(1315138448000+0100)\/"
+    },
+    {
+      "Id": "gig/116745",
+      "BandNames": [
+        {
+          "Value": "Hooker"
+        }
+      ],
+      "Venue": "The Royal Oak",
+      "Date": "\/Date(1316732400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315138487000+0100)\/",
+      "Edited": "\/Date(1315138487000+0100)\/"
+    },
+    {
+      "Id": "gig/116746",
+      "BandNames": [
+        {
+          "Value": "Hooker"
+        },
+        {
+          "Value": "Derty Sekret"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1316818800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315138506000+0100)\/",
+      "Edited": "\/Date(1316863764000+0100)\/"
+    },
+    {
+      "Id": "gig/122883",
+      "BandNames": [
+        {
+          "Value": "The Nimmo Brothers"
+        },
+        {
+          "Value": "Hooker"
+        }
+      ],
+      "Venue": "Marine Hall",
+      "Date": "\/Date(1317250800000+0100)\/",
+      "StartTime": "20",
+      "Price": "£10-£12",
+      "MoreInfo": "Pile-driving blues rock from this fine band from Scotland, fronted by the twin guitar/vocals of Stevie and Alan Nimmo. The best in UK blues/rock, guaranteed to raise the roof.\r\nSupport band is Fleetwoods favourite rockers Hooker\r\nTickets £10 (adv) £12 (on door) from 01253 887693 or www.marinehall.co.uk.\r\n\r\nTwo bands with brothers in them on one night, what could possibly go wrong!!!!!!!!\r\n\r\nCheck out www.towerblues.co.uk for more gigs",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315752988000+0100)\/",
+      "Edited": "\/Date(1315752988000+0100)\/"
+    },
+    {
+      "Id": "gig/116747",
+      "BandNames": [
+        {
+          "Value": "Hooker"
+        }
+      ],
+      "Venue": "The King Edward",
+      "Date": "\/Date(1318028400000+0100)\/",
+      "StartTime": "20:30",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315138523000+0100)\/",
+      "Edited": "\/Date(1315138523000+0100)\/"
+    },
+    {
+      "Id": "gig/116748",
+      "BandNames": [
+        {
+          "Value": "Hooker"
+        }
+      ],
+      "Venue": "The Gas Workers",
+      "Date": "\/Date(1319238000000+0100)\/",
+      "StartTime": "20:30",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315138626000+0100)\/",
+      "Edited": "\/Date(1315138626000+0100)\/"
+    },
+    {
+      "Id": "gig/116749",
+      "BandNames": [
+        {
+          "Value": "Hooker"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1319842800000+0100)\/",
+      "StartTime": "20:30",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315138657000+0100)\/",
+      "Edited": "\/Date(1315138657000+0100)\/"
+    },
+    {
+      "Id": "gig/133123",
+      "BandNames": [
+        {
+          "Value": "Jekyll"
+        },
+        {
+          "Value": "Hooker"
+        },
+        {
+          "Value": "Lune Deep"
+        },
+        {
+          "Value": "Triple Threat"
+        }
+      ],
+      "Venue": "The Tank",
+      "Date": "\/Date(1319929200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": "Halloween Band Fest",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326558106000+0000)\/",
+      "Edited": "\/Date(1326558106000+0000)\/"
+    },
+    {
+      "Id": "gig/116750",
+      "BandNames": [
+        {
+          "Value": "Hooker"
+        }
+      ],
+      "Venue": "The Gas Workers",
+      "Date": "\/Date(1321056000000+0000)\/",
+      "StartTime": "20:30",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315138682000+0100)\/",
+      "Edited": "\/Date(1315138682000+0100)\/"
+    },
+    {
+      "Id": "gig/116751",
+      "BandNames": [
+        {
+          "Value": "Hooker"
+        }
+      ],
+      "Venue": "The Royal Oak",
+      "Date": "\/Date(1322179200000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315138700000+0100)\/",
+      "Edited": "\/Date(1315138700000+0100)\/"
+    },
+    {
+      "Id": "gig/116752",
+      "BandNames": [
+        {
+          "Value": "Hooker"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1322265600000+0000)\/",
+      "StartTime": "20:30",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315138720000+0100)\/",
+      "Edited": "\/Date(1315138720000+0100)\/"
+    },
+    {
+      "Id": "gig/134176",
+      "BandNames": [
+        {
+          "Value": "Hooker"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1327708800000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326569790000+0000)\/",
+      "Edited": "\/Date(1326569790000+0000)\/"
+    },
+    {
+      "Id": "gig/133195",
+      "BandNames": [
+        {
+          "Value": "Hooker"
+        }
+      ],
+      "Venue": "The Rossall Tavern",
+      "Date": "\/Date(1328313600000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326564001000+0000)\/",
+      "Edited": "\/Date(1326564001000+0000)\/"
+    }
+  ]
+}

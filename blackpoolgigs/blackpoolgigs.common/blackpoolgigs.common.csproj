@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6F03BB72-0E24-4AAD-980C-59E1AB04FECA}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>blackpoolgigs.common</RootNamespace>
+    <AssemblyName>blackpoolgigs.common</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=3.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\lib\raven\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="nVentive.Umbrella">
+      <HintPath>..\..\lib\umbrella\nVentive.Umbrella.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenFileSystem">
+      <HintPath>..\..\lib\openfilesystem\OpenFileSystem.dll</HintPath>
+    </Reference>
+    <Reference Include="Raven.Abstractions">
+      <HintPath>..\..\lib\raven\Raven.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Raven.Database">
+      <HintPath>..\..\lib\raven\Raven.Database.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Contracts\VenueName.cs" />
+    <Compile Include="Extensions\BusinessLogicExtensions.cs" />
+    <Compile Include="Interfaces\IAccessTheFileSystem.cs" />
+    <Compile Include="Interfaces\IDealInStolenGear.cs" />
+    <Compile Include="Interfaces\IDealWithRavenAttachments.cs" />
+    <Compile Include="Interfaces\IDoOtherThingsWithGigs.cs" />
+    <Compile Include="Interfaces\IExport.cs" />
+    <Compile Include="Interfaces\IGiveYouGigs.cs" />
+    <Compile Include="Interfaces\IGiveYouVenues.cs" />
+    <Compile Include="Interfaces\IJustDoCounts.cs" />
+    <Compile Include="Interfaces\IOneOffAdminStuff.cs" />
+    <Compile Include="Interfaces\IProcessStolenGear.cs" />
+    <Compile Include="Interfaces\ISaveBackups.cs" />
+    <Compile Include="Interfaces\ISaveBands.cs" />
+    <Compile Include="Interfaces\ISaveImages.cs" />
+    <Compile Include="Interfaces\IStoreGigs.cs" />
+    <Compile Include="Interfaces\IStoreMetadata.cs" />
+    <Compile Include="Interfaces\IHandleRepeatingGigs.cs" />
+    <Compile Include="Interfaces\ISuggestThings.cs" />
+    <Compile Include="Interfaces\ISummariseBands.cs" />
+    <Compile Include="Interfaces\ISummariseGigs.cs" />
+    <Compile Include="Interfaces\ISummariseStolenGear.cs" />
+    <Compile Include="Interfaces\ISummariseVenues.cs" />
+    <Compile Include="Interfaces\IWillProvideBands.cs" />
+    <Compile Include="Models\BandDiary.cs" />
+    <Compile Include="Models\BandMetadata.cs" />
+    <Compile Include="Models\BandUrls.cs" />
+    <Compile Include="Models\Diary.cs" />
+    <Compile Include="Models\DiaryEntry.cs" />
+    <Compile Include="Models\DiaryLine.cs" />
+    <Compile Include="Models\Gig.cs" />
+    <Compile Include="Models\CountCollection.cs" />
+    <Compile Include="Models\Counts.cs" />
+    <Compile Include="Models\MonthCount.cs" />
+    <Compile Include="Models\MonthlyGigCounts.cs" />
+    <Compile Include="Models\RepeatingGig.cs" />
+    <Compile Include="Models\SmartMatch.cs" />
+    <Compile Include="Models\StolenGear.cs" />
+    <Compile Include="Models\VenueDiary.cs" />
+    <Compile Include="Models\VenueDiaryPlusMetaData.cs" />
+    <Compile Include="Models\VenueMetadata.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ViewModels\StolenGearListViewModel.cs" />
+    <Compile Include="ViewModels\StolenGearViewModel.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\coolbunny\coolbunny.common\coolbunny.common.csproj">
+      <Project>{E9309763-E4F0-448D-85CD-F8ABD7A53FAF}</Project>
+      <Name>coolbunny.common</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,34 @@
+{
+  "BandName": {
+    "Value": "Billy Liar"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/2055",
+      "BandNames": [
+        {
+          "Value": "The Dead Class"
+        },
+        {
+          "Value": "Population"
+        },
+        {
+          "Value": "Radio Dead Ones"
+        },
+        {
+          "Value": "Billy Liar"
+        }
+      ],
+      "Venue": "Beat",
+      "Date": "\/Date(1312498800000+0100)\/",
+      "StartTime": "22:00",
+      "Price": "unknown",
+      "MoreInfo": null,
+      "GigTitle": "Rebellion Festival After Show Party",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303772400000+0100)\/",
+      "Edited": "\/Date(1303772400000+0100)\/"
+    }
+  ]
+}

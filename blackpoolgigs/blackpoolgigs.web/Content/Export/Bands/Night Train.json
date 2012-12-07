@@ -1,0 +1,43 @@
+{
+  "BandName": {
+    "Value": "Night Train"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/78851",
+      "BandNames": [
+        {
+          "Value": "Night Train"
+        }
+      ],
+      "Venue": "Station Tavern",
+      "Date": "\/Date(1309561200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308915470000+0100)\/",
+      "Edited": "\/Date(1308915470000+0100)\/"
+    },
+    {
+      "Id": "gig/116825",
+      "BandNames": [
+        {
+          "Value": "Night Train"
+        }
+      ],
+      "Venue": "Station Tavern",
+      "Date": "\/Date(1316214000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315142381000+0100)\/",
+      "Edited": "\/Date(1315142381000+0100)\/"
+    }
+  ]
+}

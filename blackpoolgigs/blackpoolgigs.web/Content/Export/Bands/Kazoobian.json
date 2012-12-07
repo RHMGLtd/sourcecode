@@ -1,0 +1,115 @@
+{
+  "BandName": {
+    "Value": "Kazoobian"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/19479",
+      "BandNames": [
+        {
+          "Value": "Kazoobian"
+        }
+      ],
+      "Venue": "The Hansom Cab",
+      "Date": "\/Date(1305241200000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1304031600000+0100)\/",
+      "Edited": "\/Date(1305198583000+0100)\/"
+    },
+    {
+      "Id": "gig/24577",
+      "BandNames": [
+        {
+          "Value": "Kazoobian"
+        }
+      ],
+      "Venue": "The Hop Inn",
+      "Date": "\/Date(1305846000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "Free",
+      "MoreInfo": "best described as a random pop/rock band playing things like Greenday, Ten Pole Tudor, Rhiana, Eurythmics , Subways and Muse to mention a few",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1305198393000+0100)\/",
+      "Edited": "\/Date(1305198393000+0100)\/"
+    },
+    {
+      "Id": "gig/24578",
+      "BandNames": [
+        {
+          "Value": "Kazoobian"
+        }
+      ],
+      "Venue": "The Queens, Fleetwood",
+      "Date": "\/Date(1306450800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "Free",
+      "MoreInfo": "Best described as a random pop/rock band playing things like Greenday, Ten Pole Tudor, Rhiana, Eurythmics , Subways and Muse to mention a few",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1305198484000+0100)\/",
+      "Edited": "\/Date(1305207074000+0100)\/"
+    },
+    {
+      "Id": "gig/61496",
+      "BandNames": [
+        {
+          "Value": "Kazoobian"
+        }
+      ],
+      "Venue": "The Layton Institute",
+      "Date": "\/Date(1308956400000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307105183000+0100)\/",
+      "Edited": "\/Date(1307105183000+0100)\/"
+    },
+    {
+      "Id": "gig/99424",
+      "BandNames": [
+        {
+          "Value": "Kazoobian"
+        }
+      ],
+      "Venue": "Old Town Hall",
+      "Date": "\/Date(1314313200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311710146000+0100)\/",
+      "Edited": "\/Date(1311710146000+0100)\/"
+    },
+    {
+      "Id": "gig/134181",
+      "BandNames": [
+        {
+          "Value": "Kazoobian"
+        }
+      ],
+      "Venue": "Stanley Ward Conservative Club",
+      "Date": "\/Date(1327708800000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326569989000+0000)\/",
+      "Edited": "\/Date(1326569989000+0000)\/"
+    }
+  ]
+}

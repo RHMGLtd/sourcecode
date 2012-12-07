@@ -1,0 +1,22 @@
+{
+  "Id": "metadata/2076",
+  "VenueName": "Blackpool Opera House",
+  "MainImageName": null,
+  "BarAndClubReviewsUrl": "",
+  "ContactDetail": {
+    "MainPhoneNumber": null,
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "97 Church Street ",
+      "Blackpool"
+    ],
+    "Website": "http://www.blackpoollive.co.uk/",
+    "EmailAddress": null,
+    "PostCode": "FY1 1HL",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.817914",
+    "Long": "-3.050417"
+  }
+}

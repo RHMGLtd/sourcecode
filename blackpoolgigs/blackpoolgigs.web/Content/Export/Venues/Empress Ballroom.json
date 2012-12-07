@@ -1,0 +1,28 @@
+{
+  "IsNull": false,
+  "Venue": "Empress Ballroom",
+  "Gigs": [
+    {
+      "Id": "gig/2062",
+      "BandNames": [
+        {
+          "Value": "Adele"
+        },
+        {
+          "Value": "Amos Lee"
+        }
+      ],
+      "Venue": "Empress Ballroom",
+      "Date": "\/Date(1312844400000+0100)\/",
+      "StartTime": "19:00",
+      "Price": "unknown",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1304204400000+0100)\/",
+      "Edited": "\/Date(1304204400000+0100)\/"
+    }
+  ],
+  "Future": []
+}

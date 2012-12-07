@@ -1,0 +1,4932 @@
+{
+  "Counts": [
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1557,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1303340400000+0100)\/",
+      "AsOfString": "21 Apr 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1554,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1303426800000+0100)\/",
+      "AsOfString": "22 Apr 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1550,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1303513200000+0100)\/",
+      "AsOfString": "23 Apr 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1543,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1303599600000+0100)\/",
+      "AsOfString": "24 Apr 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1539,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1303686000000+0100)\/",
+      "AsOfString": "25 Apr 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1539,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1303772400000+0100)\/",
+      "AsOfString": "26 Apr 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1539,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1303858800000+0100)\/",
+      "AsOfString": "27 Apr 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1539,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1303945200000+0100)\/",
+      "AsOfString": "28 Apr 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1534,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1304031600000+0100)\/",
+      "AsOfString": "29 Apr 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1531,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1304118000000+0100)\/",
+      "AsOfString": "30 Apr 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1529,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1304204400000+0100)\/",
+      "AsOfString": "01 May 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1528,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1304290800000+0100)\/",
+      "AsOfString": "02 May 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1528,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1304377200000+0100)\/",
+      "AsOfString": "03 May 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1528,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1304463600000+0100)\/",
+      "AsOfString": "04 May 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1527,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1304550000000+0100)\/",
+      "AsOfString": "05 May 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1526,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1304636400000+0100)\/",
+      "AsOfString": "06 May 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1523,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1304722800000+0100)\/",
+      "AsOfString": "07 May 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1519,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1304809200000+0100)\/",
+      "AsOfString": "08 May 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1518,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1304895600000+0100)\/",
+      "AsOfString": "09 May 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1517,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1304982000000+0100)\/",
+      "AsOfString": "10 May 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1515,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1305068400000+0100)\/",
+      "AsOfString": "11 May 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1513,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1305154800000+0100)\/",
+      "AsOfString": "12 May 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1510,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1305241200000+0100)\/",
+      "AsOfString": "13 May 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1499,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1305327600000+0100)\/",
+      "AsOfString": "14 May 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1485,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1305414000000+0100)\/",
+      "AsOfString": "15 May 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1482,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1305500400000+0100)\/",
+      "AsOfString": "16 May 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1481,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1305586800000+0100)\/",
+      "AsOfString": "17 May 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1479,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1305673200000+0100)\/",
+      "AsOfString": "18 May 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1477,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1305759600000+0100)\/",
+      "AsOfString": "19 May 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1472,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1305846000000+0100)\/",
+      "AsOfString": "20 May 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1463,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1305932400000+0100)\/",
+      "AsOfString": "21 May 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1447,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1306018800000+0100)\/",
+      "AsOfString": "22 May 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1443,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1306105200000+0100)\/",
+      "AsOfString": "23 May 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1442,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1306191600000+0100)\/",
+      "AsOfString": "24 May 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1440,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1306278000000+0100)\/",
+      "AsOfString": "25 May 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1439,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1306364400000+0100)\/",
+      "AsOfString": "26 May 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1435,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1306450800000+0100)\/",
+      "AsOfString": "27 May 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1422,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1306537200000+0100)\/",
+      "AsOfString": "28 May 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1411,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1306623600000+0100)\/",
+      "AsOfString": "29 May 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1398,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1306710000000+0100)\/",
+      "AsOfString": "30 May 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1394,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1306796400000+0100)\/",
+      "AsOfString": "31 May 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1391,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1306882800000+0100)\/",
+      "AsOfString": "01 Jun 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1389,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1306969200000+0100)\/",
+      "AsOfString": "02 Jun 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1385,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1307055600000+0100)\/",
+      "AsOfString": "03 Jun 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1379,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1307142000000+0100)\/",
+      "AsOfString": "04 Jun 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1372,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1307228400000+0100)\/",
+      "AsOfString": "05 Jun 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1371,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1307314800000+0100)\/",
+      "AsOfString": "06 Jun 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1370,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1307401200000+0100)\/",
+      "AsOfString": "07 Jun 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1368,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1307487600000+0100)\/",
+      "AsOfString": "08 Jun 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1368,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1307574000000+0100)\/",
+      "AsOfString": "09 Jun 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1363,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1307660400000+0100)\/",
+      "AsOfString": "10 Jun 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1353,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1307746800000+0100)\/",
+      "AsOfString": "11 Jun 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1336,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1307833200000+0100)\/",
+      "AsOfString": "12 Jun 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1333,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1307919600000+0100)\/",
+      "AsOfString": "13 Jun 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1331,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1308006000000+0100)\/",
+      "AsOfString": "14 Jun 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1329,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1308092400000+0100)\/",
+      "AsOfString": "15 Jun 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1329,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1308178800000+0100)\/",
+      "AsOfString": "16 Jun 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1326,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1308265200000+0100)\/",
+      "AsOfString": "17 Jun 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1322,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1308351600000+0100)\/",
+      "AsOfString": "18 Jun 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1306,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1308438000000+0100)\/",
+      "AsOfString": "19 Jun 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1303,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1308524400000+0100)\/",
+      "AsOfString": "20 Jun 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1302,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1308610800000+0100)\/",
+      "AsOfString": "21 Jun 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1299,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1308697200000+0100)\/",
+      "AsOfString": "22 Jun 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1298,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1308783600000+0100)\/",
+      "AsOfString": "23 Jun 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1294,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1308870000000+0100)\/",
+      "AsOfString": "24 Jun 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1279,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1308956400000+0100)\/",
+      "AsOfString": "25 Jun 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1265,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1309042800000+0100)\/",
+      "AsOfString": "26 Jun 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1258,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1309129200000+0100)\/",
+      "AsOfString": "27 Jun 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1257,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1309215600000+0100)\/",
+      "AsOfString": "28 Jun 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1255,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1309302000000+0100)\/",
+      "AsOfString": "29 Jun 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1254,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1309388400000+0100)\/",
+      "AsOfString": "30 Jun 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1251,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1309474800000+0100)\/",
+      "AsOfString": "01 Jul 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1240,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1309561200000+0100)\/",
+      "AsOfString": "02 Jul 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1226,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1309647600000+0100)\/",
+      "AsOfString": "03 Jul 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1223,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1309734000000+0100)\/",
+      "AsOfString": "04 Jul 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1222,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1309820400000+0100)\/",
+      "AsOfString": "05 Jul 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1220,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1309906800000+0100)\/",
+      "AsOfString": "06 Jul 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1218,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1309993200000+0100)\/",
+      "AsOfString": "07 Jul 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1212,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1310079600000+0100)\/",
+      "AsOfString": "08 Jul 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1201,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1310166000000+0100)\/",
+      "AsOfString": "09 Jul 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1187,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1310252400000+0100)\/",
+      "AsOfString": "10 Jul 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1184,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1310338800000+0100)\/",
+      "AsOfString": "11 Jul 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1181,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1310425200000+0100)\/",
+      "AsOfString": "12 Jul 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1179,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1310511600000+0100)\/",
+      "AsOfString": "13 Jul 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1177,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1310598000000+0100)\/",
+      "AsOfString": "14 Jul 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1174,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1310684400000+0100)\/",
+      "AsOfString": "15 Jul 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1163,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1310770800000+0100)\/",
+      "AsOfString": "16 Jul 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1150,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1310857200000+0100)\/",
+      "AsOfString": "17 Jul 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1145,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1310943600000+0100)\/",
+      "AsOfString": "18 Jul 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1144,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1311030000000+0100)\/",
+      "AsOfString": "19 Jul 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1142,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1311116400000+0100)\/",
+      "AsOfString": "20 Jul 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1140,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1311202800000+0100)\/",
+      "AsOfString": "21 Jul 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1135,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1311289200000+0100)\/",
+      "AsOfString": "22 Jul 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1127,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1311375600000+0100)\/",
+      "AsOfString": "23 Jul 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1113,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1311462000000+0100)\/",
+      "AsOfString": "24 Jul 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1107,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1311548400000+0100)\/",
+      "AsOfString": "25 Jul 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1105,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1311634800000+0100)\/",
+      "AsOfString": "26 Jul 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1103,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1311721200000+0100)\/",
+      "AsOfString": "27 Jul 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1100,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1311807600000+0100)\/",
+      "AsOfString": "28 Jul 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1096,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1311894000000+0100)\/",
+      "AsOfString": "29 Jul 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1084,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1311980400000+0100)\/",
+      "AsOfString": "30 Jul 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1068,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1312066800000+0100)\/",
+      "AsOfString": "31 Jul 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1064,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1312153200000+0100)\/",
+      "AsOfString": "01 Aug 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1062,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1312239600000+0100)\/",
+      "AsOfString": "02 Aug 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1059,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1312326000000+0100)\/",
+      "AsOfString": "03 Aug 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1056,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1312412400000+0100)\/",
+      "AsOfString": "04 Aug 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1048,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1312498800000+0100)\/",
+      "AsOfString": "05 Aug 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1030,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1312585200000+0100)\/",
+      "AsOfString": "06 Aug 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1008,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1312671600000+0100)\/",
+      "AsOfString": "07 Aug 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 998,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1312758000000+0100)\/",
+      "AsOfString": "08 Aug 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 996,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1312844400000+0100)\/",
+      "AsOfString": "09 Aug 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 992,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1312930800000+0100)\/",
+      "AsOfString": "10 Aug 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 990,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1313017200000+0100)\/",
+      "AsOfString": "11 Aug 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 985,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1313103600000+0100)\/",
+      "AsOfString": "12 Aug 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 970,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1313190000000+0100)\/",
+      "AsOfString": "13 Aug 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 952,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1313276400000+0100)\/",
+      "AsOfString": "14 Aug 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 947,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1313362800000+0100)\/",
+      "AsOfString": "15 Aug 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 945,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1313449200000+0100)\/",
+      "AsOfString": "16 Aug 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 942,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1313535600000+0100)\/",
+      "AsOfString": "17 Aug 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 941,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1313622000000+0100)\/",
+      "AsOfString": "18 Aug 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 934,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1313708400000+0100)\/",
+      "AsOfString": "19 Aug 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 921,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1313794800000+0100)\/",
+      "AsOfString": "20 Aug 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 906,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1313881200000+0100)\/",
+      "AsOfString": "21 Aug 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 901,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1313967600000+0100)\/",
+      "AsOfString": "22 Aug 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 898,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1314054000000+0100)\/",
+      "AsOfString": "23 Aug 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 896,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1314140400000+0100)\/",
+      "AsOfString": "24 Aug 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 895,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1314226800000+0100)\/",
+      "AsOfString": "25 Aug 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 890,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1314313200000+0100)\/",
+      "AsOfString": "26 Aug 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 873,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1314399600000+0100)\/",
+      "AsOfString": "27 Aug 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 857,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1314486000000+0100)\/",
+      "AsOfString": "28 Aug 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 848,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1314572400000+0100)\/",
+      "AsOfString": "29 Aug 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 845,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1314658800000+0100)\/",
+      "AsOfString": "30 Aug 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 842,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1314745200000+0100)\/",
+      "AsOfString": "31 Aug 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 841,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1314831600000+0100)\/",
+      "AsOfString": "01 Sep 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 840,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1314918000000+0100)\/",
+      "AsOfString": "02 Sep 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 834,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1315004400000+0100)\/",
+      "AsOfString": "03 Sep 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 822,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1315090800000+0100)\/",
+      "AsOfString": "04 Sep 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 817,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1315177200000+0100)\/",
+      "AsOfString": "05 Sep 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 815,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1315263600000+0100)\/",
+      "AsOfString": "06 Sep 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 812,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1315350000000+0100)\/",
+      "AsOfString": "07 Sep 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 810,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1315436400000+0100)\/",
+      "AsOfString": "08 Sep 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 804,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1315522800000+0100)\/",
+      "AsOfString": "09 Sep 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 788,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1315609200000+0100)\/",
+      "AsOfString": "10 Sep 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 772,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1315695600000+0100)\/",
+      "AsOfString": "11 Sep 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 766,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1315782000000+0100)\/",
+      "AsOfString": "12 Sep 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 764,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1315868400000+0100)\/",
+      "AsOfString": "13 Sep 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 762,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1315954800000+0100)\/",
+      "AsOfString": "14 Sep 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 761,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1316041200000+0100)\/",
+      "AsOfString": "15 Sep 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 754,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1316127600000+0100)\/",
+      "AsOfString": "16 Sep 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 743,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1316214000000+0100)\/",
+      "AsOfString": "17 Sep 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 727,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1316300400000+0100)\/",
+      "AsOfString": "18 Sep 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 722,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1316386800000+0100)\/",
+      "AsOfString": "19 Sep 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 720,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1316473200000+0100)\/",
+      "AsOfString": "20 Sep 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 718,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1316559600000+0100)\/",
+      "AsOfString": "21 Sep 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 716,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1316646000000+0100)\/",
+      "AsOfString": "22 Sep 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 709,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1316732400000+0100)\/",
+      "AsOfString": "23 Sep 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 698,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1316818800000+0100)\/",
+      "AsOfString": "24 Sep 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 682,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1316905200000+0100)\/",
+      "AsOfString": "25 Sep 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 678,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1316991600000+0100)\/",
+      "AsOfString": "26 Sep 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 675,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1317078000000+0100)\/",
+      "AsOfString": "27 Sep 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 673,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1317164400000+0100)\/",
+      "AsOfString": "28 Sep 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 670,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1317250800000+0100)\/",
+      "AsOfString": "29 Sep 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 662,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1317337200000+0100)\/",
+      "AsOfString": "30 Sep 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 645,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1317423600000+0100)\/",
+      "AsOfString": "01 Oct 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 634,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1317510000000+0100)\/",
+      "AsOfString": "02 Oct 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 633,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1317596400000+0100)\/",
+      "AsOfString": "03 Oct 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 631,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1317682800000+0100)\/",
+      "AsOfString": "04 Oct 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 629,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1317769200000+0100)\/",
+      "AsOfString": "05 Oct 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 628,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1317855600000+0100)\/",
+      "AsOfString": "06 Oct 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 626,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1317942000000+0100)\/",
+      "AsOfString": "07 Oct 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 624,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1318028400000+0100)\/",
+      "AsOfString": "08 Oct 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 617,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1318114800000+0100)\/",
+      "AsOfString": "09 Oct 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 615,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1318201200000+0100)\/",
+      "AsOfString": "10 Oct 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 614,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1318287600000+0100)\/",
+      "AsOfString": "11 Oct 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 612,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1318374000000+0100)\/",
+      "AsOfString": "12 Oct 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 611,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1318460400000+0100)\/",
+      "AsOfString": "13 Oct 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 609,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1318546800000+0100)\/",
+      "AsOfString": "14 Oct 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 606,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1318633200000+0100)\/",
+      "AsOfString": "15 Oct 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 602,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1318719600000+0100)\/",
+      "AsOfString": "16 Oct 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 601,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1318806000000+0100)\/",
+      "AsOfString": "17 Oct 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 599,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1318892400000+0100)\/",
+      "AsOfString": "18 Oct 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 597,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1318978800000+0100)\/",
+      "AsOfString": "19 Oct 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 596,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1319065200000+0100)\/",
+      "AsOfString": "20 Oct 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 593,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1319151600000+0100)\/",
+      "AsOfString": "21 Oct 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 591,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1319238000000+0100)\/",
+      "AsOfString": "22 Oct 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 583,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1319324400000+0100)\/",
+      "AsOfString": "23 Oct 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 582,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1319410800000+0100)\/",
+      "AsOfString": "24 Oct 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 581,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1319497200000+0100)\/",
+      "AsOfString": "25 Oct 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 579,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1319583600000+0100)\/",
+      "AsOfString": "26 Oct 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 578,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1319670000000+0100)\/",
+      "AsOfString": "27 Oct 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 576,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1319756400000+0100)\/",
+      "AsOfString": "28 Oct 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 573,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1319842800000+0100)\/",
+      "AsOfString": "29 Oct 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 568,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1319929200000+0100)\/",
+      "AsOfString": "30 Oct 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 566,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1320019200000+0000)\/",
+      "AsOfString": "31 Oct 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 564,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1320105600000+0000)\/",
+      "AsOfString": "01 Nov 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 562,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1320192000000+0000)\/",
+      "AsOfString": "02 Nov 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 561,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1320278400000+0000)\/",
+      "AsOfString": "03 Nov 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 560,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1320364800000+0000)\/",
+      "AsOfString": "04 Nov 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 555,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1320451200000+0000)\/",
+      "AsOfString": "05 Nov 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 548,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1320537600000+0000)\/",
+      "AsOfString": "06 Nov 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 546,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1320624000000+0000)\/",
+      "AsOfString": "07 Nov 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 544,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1320710400000+0000)\/",
+      "AsOfString": "08 Nov 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 542,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1320796800000+0000)\/",
+      "AsOfString": "09 Nov 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 541,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1320883200000+0000)\/",
+      "AsOfString": "10 Nov 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 540,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1320969600000+0000)\/",
+      "AsOfString": "11 Nov 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 535,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1321056000000+0000)\/",
+      "AsOfString": "12 Nov 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 527,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1321142400000+0000)\/",
+      "AsOfString": "13 Nov 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 526,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1321228800000+0000)\/",
+      "AsOfString": "14 Nov 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 525,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1321315200000+0000)\/",
+      "AsOfString": "15 Nov 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 523,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1321401600000+0000)\/",
+      "AsOfString": "16 Nov 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 522,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1321488000000+0000)\/",
+      "AsOfString": "17 Nov 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 521,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1321574400000+0000)\/",
+      "AsOfString": "18 Nov 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 518,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1321660800000+0000)\/",
+      "AsOfString": "19 Nov 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 514,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1321747200000+0000)\/",
+      "AsOfString": "20 Nov 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 512,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1321833600000+0000)\/",
+      "AsOfString": "21 Nov 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 510,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1321920000000+0000)\/",
+      "AsOfString": "22 Nov 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 508,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1322006400000+0000)\/",
+      "AsOfString": "23 Nov 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 507,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1322092800000+0000)\/",
+      "AsOfString": "24 Nov 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 505,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1322179200000+0000)\/",
+      "AsOfString": "25 Nov 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 501,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1322265600000+0000)\/",
+      "AsOfString": "26 Nov 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 497,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1322352000000+0000)\/",
+      "AsOfString": "27 Nov 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 496,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1322438400000+0000)\/",
+      "AsOfString": "28 Nov 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 495,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1322524800000+0000)\/",
+      "AsOfString": "29 Nov 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 493,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1322611200000+0000)\/",
+      "AsOfString": "30 Nov 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 492,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1322697600000+0000)\/",
+      "AsOfString": "01 Dec 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 490,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1322784000000+0000)\/",
+      "AsOfString": "02 Dec 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 483,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1322870400000+0000)\/",
+      "AsOfString": "03 Dec 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 479,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1322956800000+0000)\/",
+      "AsOfString": "04 Dec 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 478,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1323043200000+0000)\/",
+      "AsOfString": "05 Dec 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 476,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1323129600000+0000)\/",
+      "AsOfString": "06 Dec 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 474,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1323216000000+0000)\/",
+      "AsOfString": "07 Dec 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 473,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1323302400000+0000)\/",
+      "AsOfString": "08 Dec 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 472,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1323388800000+0000)\/",
+      "AsOfString": "09 Dec 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 469,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1323475200000+0000)\/",
+      "AsOfString": "10 Dec 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 465,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1323561600000+0000)\/",
+      "AsOfString": "11 Dec 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 464,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1323648000000+0000)\/",
+      "AsOfString": "12 Dec 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 463,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1323734400000+0000)\/",
+      "AsOfString": "13 Dec 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 461,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1323820800000+0000)\/",
+      "AsOfString": "14 Dec 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 460,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1323907200000+0000)\/",
+      "AsOfString": "15 Dec 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 459,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1323993600000+0000)\/",
+      "AsOfString": "16 Dec 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 457,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1324080000000+0000)\/",
+      "AsOfString": "17 Dec 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 455,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1324166400000+0000)\/",
+      "AsOfString": "18 Dec 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 454,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1324252800000+0000)\/",
+      "AsOfString": "19 Dec 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 452,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1324339200000+0000)\/",
+      "AsOfString": "20 Dec 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 450,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1324425600000+0000)\/",
+      "AsOfString": "21 Dec 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 449,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1324512000000+0000)\/",
+      "AsOfString": "22 Dec 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 447,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1324598400000+0000)\/",
+      "AsOfString": "23 Dec 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 446,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1324684800000+0000)\/",
+      "AsOfString": "24 Dec 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 443,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1324771200000+0000)\/",
+      "AsOfString": "25 Dec 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 442,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1324857600000+0000)\/",
+      "AsOfString": "26 Dec 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 440,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1324944000000+0000)\/",
+      "AsOfString": "27 Dec 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 438,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1325030400000+0000)\/",
+      "AsOfString": "28 Dec 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 437,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1325116800000+0000)\/",
+      "AsOfString": "29 Dec 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 436,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1325203200000+0000)\/",
+      "AsOfString": "30 Dec 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 435,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1325289600000+0000)\/",
+      "AsOfString": "31 Dec 2011"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 429,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1325376000000+0000)\/",
+      "AsOfString": "01 Jan 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 428,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1325462400000+0000)\/",
+      "AsOfString": "02 Jan 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 427,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1325548800000+0000)\/",
+      "AsOfString": "03 Jan 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 425,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1325635200000+0000)\/",
+      "AsOfString": "04 Jan 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 424,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1325721600000+0000)\/",
+      "AsOfString": "05 Jan 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 423,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1325808000000+0000)\/",
+      "AsOfString": "06 Jan 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 422,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1325894400000+0000)\/",
+      "AsOfString": "07 Jan 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 421,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1325980800000+0000)\/",
+      "AsOfString": "08 Jan 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 420,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1326067200000+0000)\/",
+      "AsOfString": "09 Jan 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 419,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1326153600000+0000)\/",
+      "AsOfString": "10 Jan 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 417,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1326240000000+0000)\/",
+      "AsOfString": "11 Jan 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 416,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1326326400000+0000)\/",
+      "AsOfString": "12 Jan 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 414,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1326412800000+0000)\/",
+      "AsOfString": "13 Jan 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 407,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1326499200000+0000)\/",
+      "AsOfString": "14 Jan 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 399,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1326585600000+0000)\/",
+      "AsOfString": "15 Jan 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 397,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1326672000000+0000)\/",
+      "AsOfString": "16 Jan 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 396,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1326758400000+0000)\/",
+      "AsOfString": "17 Jan 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 393,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1326844800000+0000)\/",
+      "AsOfString": "18 Jan 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 392,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1326931200000+0000)\/",
+      "AsOfString": "19 Jan 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 391,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1327017600000+0000)\/",
+      "AsOfString": "20 Jan 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 385,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1327104000000+0000)\/",
+      "AsOfString": "21 Jan 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 373,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1327190400000+0000)\/",
+      "AsOfString": "22 Jan 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 370,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1327276800000+0000)\/",
+      "AsOfString": "23 Jan 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 369,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1327363200000+0000)\/",
+      "AsOfString": "24 Jan 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 366,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1327449600000+0000)\/",
+      "AsOfString": "25 Jan 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 365,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1327536000000+0000)\/",
+      "AsOfString": "26 Jan 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 364,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1327622400000+0000)\/",
+      "AsOfString": "27 Jan 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 356,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1327708800000+0000)\/",
+      "AsOfString": "28 Jan 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 341,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1327795200000+0000)\/",
+      "AsOfString": "29 Jan 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 339,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1327881600000+0000)\/",
+      "AsOfString": "30 Jan 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 338,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1327968000000+0000)\/",
+      "AsOfString": "31 Jan 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 335,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1328054400000+0000)\/",
+      "AsOfString": "01 Feb 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 334,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1328140800000+0000)\/",
+      "AsOfString": "02 Feb 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 333,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1328227200000+0000)\/",
+      "AsOfString": "03 Feb 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 331,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1328313600000+0000)\/",
+      "AsOfString": "04 Feb 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 326,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1328400000000+0000)\/",
+      "AsOfString": "05 Feb 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 325,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1328486400000+0000)\/",
+      "AsOfString": "06 Feb 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 324,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1328572800000+0000)\/",
+      "AsOfString": "07 Feb 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 321,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1328659200000+0000)\/",
+      "AsOfString": "08 Feb 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 320,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1328745600000+0000)\/",
+      "AsOfString": "09 Feb 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 319,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1328832000000+0000)\/",
+      "AsOfString": "10 Feb 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 317,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1328918400000+0000)\/",
+      "AsOfString": "11 Feb 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 312,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1329004800000+0000)\/",
+      "AsOfString": "12 Feb 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 311,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1329091200000+0000)\/",
+      "AsOfString": "13 Feb 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 310,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1329177600000+0000)\/",
+      "AsOfString": "14 Feb 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 307,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1329264000000+0000)\/",
+      "AsOfString": "15 Feb 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 306,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1329350400000+0000)\/",
+      "AsOfString": "16 Feb 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 304,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1329436800000+0000)\/",
+      "AsOfString": "17 Feb 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 302,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1329523200000+0000)\/",
+      "AsOfString": "18 Feb 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 299,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1329609600000+0000)\/",
+      "AsOfString": "19 Feb 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 298,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1329696000000+0000)\/",
+      "AsOfString": "20 Feb 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 297,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1329782400000+0000)\/",
+      "AsOfString": "21 Feb 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 294,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1329868800000+0000)\/",
+      "AsOfString": "22 Feb 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 293,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1329955200000+0000)\/",
+      "AsOfString": "23 Feb 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 292,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1330041600000+0000)\/",
+      "AsOfString": "24 Feb 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 290,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1330128000000+0000)\/",
+      "AsOfString": "25 Feb 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 286,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1330214400000+0000)\/",
+      "AsOfString": "26 Feb 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 285,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1330300800000+0000)\/",
+      "AsOfString": "27 Feb 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 284,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1330387200000+0000)\/",
+      "AsOfString": "28 Feb 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 281,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1330473600000+0000)\/",
+      "AsOfString": "29 Feb 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 280,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1330560000000+0000)\/",
+      "AsOfString": "01 Mar 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 279,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1330646400000+0000)\/",
+      "AsOfString": "02 Mar 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 277,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1330732800000+0000)\/",
+      "AsOfString": "03 Mar 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 275,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1330819200000+0000)\/",
+      "AsOfString": "04 Mar 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 274,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1330905600000+0000)\/",
+      "AsOfString": "05 Mar 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 273,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1330992000000+0000)\/",
+      "AsOfString": "06 Mar 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 270,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1331078400000+0000)\/",
+      "AsOfString": "07 Mar 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 269,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1331164800000+0000)\/",
+      "AsOfString": "08 Mar 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 268,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1331251200000+0000)\/",
+      "AsOfString": "09 Mar 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 263,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1331337600000+0000)\/",
+      "AsOfString": "10 Mar 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 259,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1331424000000+0000)\/",
+      "AsOfString": "11 Mar 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 257,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1331510400000+0000)\/",
+      "AsOfString": "12 Mar 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 256,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1331596800000+0000)\/",
+      "AsOfString": "13 Mar 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 253,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1331683200000+0000)\/",
+      "AsOfString": "14 Mar 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 252,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1331769600000+0000)\/",
+      "AsOfString": "15 Mar 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 250,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1331856000000+0000)\/",
+      "AsOfString": "16 Mar 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 248,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1331942400000+0000)\/",
+      "AsOfString": "17 Mar 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 245,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1332028800000+0000)\/",
+      "AsOfString": "18 Mar 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 244,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1332115200000+0000)\/",
+      "AsOfString": "19 Mar 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 243,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1332201600000+0000)\/",
+      "AsOfString": "20 Mar 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 240,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1332288000000+0000)\/",
+      "AsOfString": "21 Mar 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 239,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1332374400000+0000)\/",
+      "AsOfString": "22 Mar 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 237,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1332460800000+0000)\/",
+      "AsOfString": "23 Mar 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 236,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1332547200000+0000)\/",
+      "AsOfString": "24 Mar 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 234,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1332633600000+0000)\/",
+      "AsOfString": "25 Mar 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 233,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1332716400000+0100)\/",
+      "AsOfString": "26 Mar 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 232,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1332802800000+0100)\/",
+      "AsOfString": "27 Mar 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 229,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1332889200000+0100)\/",
+      "AsOfString": "28 Mar 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 228,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1332975600000+0100)\/",
+      "AsOfString": "29 Mar 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 226,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1333062000000+0100)\/",
+      "AsOfString": "30 Mar 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 225,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1333148400000+0100)\/",
+      "AsOfString": "31 Mar 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 221,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1333234800000+0100)\/",
+      "AsOfString": "01 Apr 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 220,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1333321200000+0100)\/",
+      "AsOfString": "02 Apr 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 219,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1333407600000+0100)\/",
+      "AsOfString": "03 Apr 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 216,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1333494000000+0100)\/",
+      "AsOfString": "04 Apr 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 215,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1333580400000+0100)\/",
+      "AsOfString": "05 Apr 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 214,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1333666800000+0100)\/",
+      "AsOfString": "06 Apr 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 211,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1333753200000+0100)\/",
+      "AsOfString": "07 Apr 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 209,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1333839600000+0100)\/",
+      "AsOfString": "08 Apr 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 206,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1333926000000+0100)\/",
+      "AsOfString": "09 Apr 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 205,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1334012400000+0100)\/",
+      "AsOfString": "10 Apr 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 202,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1334098800000+0100)\/",
+      "AsOfString": "11 Apr 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 201,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1334185200000+0100)\/",
+      "AsOfString": "12 Apr 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 200,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1334271600000+0100)\/",
+      "AsOfString": "13 Apr 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 199,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1334358000000+0100)\/",
+      "AsOfString": "14 Apr 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 196,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1334444400000+0100)\/",
+      "AsOfString": "15 Apr 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 195,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1334530800000+0100)\/",
+      "AsOfString": "16 Apr 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 194,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1334617200000+0100)\/",
+      "AsOfString": "17 Apr 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 191,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1334703600000+0100)\/",
+      "AsOfString": "18 Apr 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 190,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1334790000000+0100)\/",
+      "AsOfString": "19 Apr 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 189,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1334876400000+0100)\/",
+      "AsOfString": "20 Apr 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 188,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1334962800000+0100)\/",
+      "AsOfString": "21 Apr 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 186,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1335049200000+0100)\/",
+      "AsOfString": "22 Apr 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 185,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1335135600000+0100)\/",
+      "AsOfString": "23 Apr 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 184,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1335222000000+0100)\/",
+      "AsOfString": "24 Apr 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 181,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1335308400000+0100)\/",
+      "AsOfString": "25 Apr 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 180,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1335394800000+0100)\/",
+      "AsOfString": "26 Apr 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 179,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1335481200000+0100)\/",
+      "AsOfString": "27 Apr 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 178,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1335567600000+0100)\/",
+      "AsOfString": "28 Apr 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 176,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1335654000000+0100)\/",
+      "AsOfString": "29 Apr 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 175,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1335740400000+0100)\/",
+      "AsOfString": "30 Apr 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 174,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1335826800000+0100)\/",
+      "AsOfString": "01 May 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 171,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1335913200000+0100)\/",
+      "AsOfString": "02 May 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 170,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1335999600000+0100)\/",
+      "AsOfString": "03 May 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 169,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1336086000000+0100)\/",
+      "AsOfString": "04 May 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 167,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1336172400000+0100)\/",
+      "AsOfString": "05 May 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 164,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1336258800000+0100)\/",
+      "AsOfString": "06 May 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 160,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1336345200000+0100)\/",
+      "AsOfString": "07 May 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 159,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1336431600000+0100)\/",
+      "AsOfString": "08 May 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 156,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1336518000000+0100)\/",
+      "AsOfString": "09 May 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 155,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1336604400000+0100)\/",
+      "AsOfString": "10 May 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 154,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1336690800000+0100)\/",
+      "AsOfString": "11 May 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 152,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1336777200000+0100)\/",
+      "AsOfString": "12 May 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 150,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1336863600000+0100)\/",
+      "AsOfString": "13 May 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 149,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1336950000000+0100)\/",
+      "AsOfString": "14 May 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 148,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1337036400000+0100)\/",
+      "AsOfString": "15 May 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 145,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1337122800000+0100)\/",
+      "AsOfString": "16 May 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 144,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1337209200000+0100)\/",
+      "AsOfString": "17 May 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 143,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1337295600000+0100)\/",
+      "AsOfString": "18 May 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 142,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1337382000000+0100)\/",
+      "AsOfString": "19 May 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 139,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1337468400000+0100)\/",
+      "AsOfString": "20 May 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 138,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1337554800000+0100)\/",
+      "AsOfString": "21 May 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 137,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1337641200000+0100)\/",
+      "AsOfString": "22 May 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 134,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1337727600000+0100)\/",
+      "AsOfString": "23 May 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 133,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1337814000000+0100)\/",
+      "AsOfString": "24 May 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 132,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1337900400000+0100)\/",
+      "AsOfString": "25 May 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 130,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1337986800000+0100)\/",
+      "AsOfString": "26 May 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 127,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1338073200000+0100)\/",
+      "AsOfString": "27 May 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 126,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1338159600000+0100)\/",
+      "AsOfString": "28 May 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 125,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1338246000000+0100)\/",
+      "AsOfString": "29 May 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 122,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1338332400000+0100)\/",
+      "AsOfString": "30 May 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 121,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1338418800000+0100)\/",
+      "AsOfString": "31 May 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 120,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1338505200000+0100)\/",
+      "AsOfString": "01 Jun 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 118,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1338591600000+0100)\/",
+      "AsOfString": "02 Jun 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 117,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1338678000000+0100)\/",
+      "AsOfString": "03 Jun 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 115,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1338764400000+0100)\/",
+      "AsOfString": "04 Jun 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 114,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1338850800000+0100)\/",
+      "AsOfString": "05 Jun 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 111,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1338937200000+0100)\/",
+      "AsOfString": "06 Jun 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 110,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1339023600000+0100)\/",
+      "AsOfString": "07 Jun 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 109,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1339110000000+0100)\/",
+      "AsOfString": "08 Jun 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 108,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1339196400000+0100)\/",
+      "AsOfString": "09 Jun 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 105,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1339282800000+0100)\/",
+      "AsOfString": "10 Jun 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 104,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1339369200000+0100)\/",
+      "AsOfString": "11 Jun 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 103,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1339455600000+0100)\/",
+      "AsOfString": "12 Jun 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 100,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1339542000000+0100)\/",
+      "AsOfString": "13 Jun 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 99,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1339628400000+0100)\/",
+      "AsOfString": "14 Jun 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 98,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1339714800000+0100)\/",
+      "AsOfString": "15 Jun 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 95,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1339801200000+0100)\/",
+      "AsOfString": "16 Jun 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 94,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1339887600000+0100)\/",
+      "AsOfString": "17 Jun 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 93,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1339974000000+0100)\/",
+      "AsOfString": "18 Jun 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 92,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1340060400000+0100)\/",
+      "AsOfString": "19 Jun 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 89,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1340146800000+0100)\/",
+      "AsOfString": "20 Jun 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 88,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1340233200000+0100)\/",
+      "AsOfString": "21 Jun 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 87,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1340319600000+0100)\/",
+      "AsOfString": "22 Jun 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 86,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1340406000000+0100)\/",
+      "AsOfString": "23 Jun 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 83,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1340492400000+0100)\/",
+      "AsOfString": "24 Jun 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 82,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1340578800000+0100)\/",
+      "AsOfString": "25 Jun 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 81,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1340665200000+0100)\/",
+      "AsOfString": "26 Jun 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 78,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1340751600000+0100)\/",
+      "AsOfString": "27 Jun 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 77,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1340838000000+0100)\/",
+      "AsOfString": "28 Jun 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 75,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1340924400000+0100)\/",
+      "AsOfString": "29 Jun 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 73,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1341010800000+0100)\/",
+      "AsOfString": "30 Jun 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 68,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1341097200000+0100)\/",
+      "AsOfString": "01 Jul 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 67,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1341183600000+0100)\/",
+      "AsOfString": "02 Jul 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 66,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1341270000000+0100)\/",
+      "AsOfString": "03 Jul 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 63,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1341356400000+0100)\/",
+      "AsOfString": "04 Jul 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 62,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1341442800000+0100)\/",
+      "AsOfString": "05 Jul 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 61,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1341529200000+0100)\/",
+      "AsOfString": "06 Jul 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 60,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1341615600000+0100)\/",
+      "AsOfString": "07 Jul 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 58,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1341702000000+0100)\/",
+      "AsOfString": "08 Jul 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 57,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1341788400000+0100)\/",
+      "AsOfString": "09 Jul 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 56,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1341874800000+0100)\/",
+      "AsOfString": "10 Jul 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 53,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1341961200000+0100)\/",
+      "AsOfString": "11 Jul 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 52,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1342047600000+0100)\/",
+      "AsOfString": "12 Jul 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 51,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1342134000000+0100)\/",
+      "AsOfString": "13 Jul 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 49,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1342220400000+0100)\/",
+      "AsOfString": "14 Jul 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 44,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1342306800000+0100)\/",
+      "AsOfString": "15 Jul 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 43,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1342393200000+0100)\/",
+      "AsOfString": "16 Jul 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 42,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1342479600000+0100)\/",
+      "AsOfString": "17 Jul 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 39,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1342566000000+0100)\/",
+      "AsOfString": "18 Jul 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 38,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1342652400000+0100)\/",
+      "AsOfString": "19 Jul 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 37,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1342738800000+0100)\/",
+      "AsOfString": "20 Jul 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 36,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1342825200000+0100)\/",
+      "AsOfString": "21 Jul 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 34,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1342911600000+0100)\/",
+      "AsOfString": "22 Jul 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 33,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1342998000000+0100)\/",
+      "AsOfString": "23 Jul 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 32,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1343084400000+0100)\/",
+      "AsOfString": "24 Jul 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 29,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1343170800000+0100)\/",
+      "AsOfString": "25 Jul 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 28,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1343257200000+0100)\/",
+      "AsOfString": "26 Jul 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 27,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1343343600000+0100)\/",
+      "AsOfString": "27 Jul 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 26,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1343430000000+0100)\/",
+      "AsOfString": "28 Jul 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 23,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1343516400000+0100)\/",
+      "AsOfString": "29 Jul 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 23,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1343602800000+0100)\/",
+      "AsOfString": "30 Jul 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 23,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1343689200000+0100)\/",
+      "AsOfString": "31 Jul 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 23,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1343775600000+0100)\/",
+      "AsOfString": "01 Aug 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 23,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1343862000000+0100)\/",
+      "AsOfString": "02 Aug 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 23,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1343948400000+0100)\/",
+      "AsOfString": "03 Aug 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 22,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1344034800000+0100)\/",
+      "AsOfString": "04 Aug 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 21,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1344121200000+0100)\/",
+      "AsOfString": "05 Aug 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 21,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1344207600000+0100)\/",
+      "AsOfString": "06 Aug 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 21,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1344294000000+0100)\/",
+      "AsOfString": "07 Aug 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 21,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1344380400000+0100)\/",
+      "AsOfString": "08 Aug 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 21,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1344466800000+0100)\/",
+      "AsOfString": "09 Aug 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 21,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1344553200000+0100)\/",
+      "AsOfString": "10 Aug 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 21,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1344639600000+0100)\/",
+      "AsOfString": "11 Aug 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 20,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1344726000000+0100)\/",
+      "AsOfString": "12 Aug 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 20,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1344812400000+0100)\/",
+      "AsOfString": "13 Aug 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 20,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1344898800000+0100)\/",
+      "AsOfString": "14 Aug 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 20,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1344985200000+0100)\/",
+      "AsOfString": "15 Aug 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 20,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1345071600000+0100)\/",
+      "AsOfString": "16 Aug 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 20,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1345158000000+0100)\/",
+      "AsOfString": "17 Aug 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 19,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1345244400000+0100)\/",
+      "AsOfString": "18 Aug 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 19,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1345330800000+0100)\/",
+      "AsOfString": "19 Aug 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 19,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1345417200000+0100)\/",
+      "AsOfString": "20 Aug 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 19,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1345503600000+0100)\/",
+      "AsOfString": "21 Aug 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 19,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1345590000000+0100)\/",
+      "AsOfString": "22 Aug 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 19,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1345676400000+0100)\/",
+      "AsOfString": "23 Aug 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 19,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1345762800000+0100)\/",
+      "AsOfString": "24 Aug 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 18,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1345849200000+0100)\/",
+      "AsOfString": "25 Aug 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 17,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1345935600000+0100)\/",
+      "AsOfString": "26 Aug 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 16,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1346022000000+0100)\/",
+      "AsOfString": "27 Aug 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 16,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1346108400000+0100)\/",
+      "AsOfString": "28 Aug 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 16,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1346194800000+0100)\/",
+      "AsOfString": "29 Aug 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 16,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1346281200000+0100)\/",
+      "AsOfString": "30 Aug 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 16,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1346367600000+0100)\/",
+      "AsOfString": "31 Aug 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 15,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1346454000000+0100)\/",
+      "AsOfString": "01 Sep 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 14,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1346540400000+0100)\/",
+      "AsOfString": "02 Sep 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 13,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1346626800000+0100)\/",
+      "AsOfString": "03 Sep 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 13,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1346713200000+0100)\/",
+      "AsOfString": "04 Sep 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 13,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1346799600000+0100)\/",
+      "AsOfString": "05 Sep 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 13,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1346886000000+0100)\/",
+      "AsOfString": "06 Sep 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 13,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1346972400000+0100)\/",
+      "AsOfString": "07 Sep 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 13,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1347058800000+0100)\/",
+      "AsOfString": "08 Sep 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 12,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1347145200000+0100)\/",
+      "AsOfString": "09 Sep 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 12,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1347231600000+0100)\/",
+      "AsOfString": "10 Sep 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 12,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1347318000000+0100)\/",
+      "AsOfString": "11 Sep 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 12,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1347404400000+0100)\/",
+      "AsOfString": "12 Sep 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 12,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1347490800000+0100)\/",
+      "AsOfString": "13 Sep 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 12,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1347577200000+0100)\/",
+      "AsOfString": "14 Sep 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 12,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1347663600000+0100)\/",
+      "AsOfString": "15 Sep 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 12,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1347750000000+0100)\/",
+      "AsOfString": "16 Sep 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 12,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1347836400000+0100)\/",
+      "AsOfString": "17 Sep 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 12,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1347922800000+0100)\/",
+      "AsOfString": "18 Sep 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 12,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1348009200000+0100)\/",
+      "AsOfString": "19 Sep 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 12,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1348095600000+0100)\/",
+      "AsOfString": "20 Sep 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 12,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1348182000000+0100)\/",
+      "AsOfString": "21 Sep 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 12,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1348268400000+0100)\/",
+      "AsOfString": "22 Sep 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 12,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1348354800000+0100)\/",
+      "AsOfString": "23 Sep 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 12,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1348441200000+0100)\/",
+      "AsOfString": "24 Sep 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 12,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1348527600000+0100)\/",
+      "AsOfString": "25 Sep 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 12,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1348614000000+0100)\/",
+      "AsOfString": "26 Sep 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 12,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1348700400000+0100)\/",
+      "AsOfString": "27 Sep 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 12,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1348786800000+0100)\/",
+      "AsOfString": "28 Sep 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 12,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1348873200000+0100)\/",
+      "AsOfString": "29 Sep 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 11,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1348959600000+0100)\/",
+      "AsOfString": "30 Sep 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 11,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1349046000000+0100)\/",
+      "AsOfString": "01 Oct 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 11,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1349132400000+0100)\/",
+      "AsOfString": "02 Oct 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 11,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1349218800000+0100)\/",
+      "AsOfString": "03 Oct 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 11,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1349305200000+0100)\/",
+      "AsOfString": "04 Oct 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 11,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1349391600000+0100)\/",
+      "AsOfString": "05 Oct 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 11,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1349478000000+0100)\/",
+      "AsOfString": "06 Oct 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 10,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1349564400000+0100)\/",
+      "AsOfString": "07 Oct 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 10,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1349650800000+0100)\/",
+      "AsOfString": "08 Oct 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 10,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1349737200000+0100)\/",
+      "AsOfString": "09 Oct 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 10,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1349823600000+0100)\/",
+      "AsOfString": "10 Oct 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 10,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1349910000000+0100)\/",
+      "AsOfString": "11 Oct 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 10,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1349996400000+0100)\/",
+      "AsOfString": "12 Oct 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 9,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1350082800000+0100)\/",
+      "AsOfString": "13 Oct 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 9,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1350169200000+0100)\/",
+      "AsOfString": "14 Oct 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 9,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1350255600000+0100)\/",
+      "AsOfString": "15 Oct 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 9,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1350342000000+0100)\/",
+      "AsOfString": "16 Oct 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 9,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1350428400000+0100)\/",
+      "AsOfString": "17 Oct 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 9,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1350514800000+0100)\/",
+      "AsOfString": "18 Oct 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 9,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1350601200000+0100)\/",
+      "AsOfString": "19 Oct 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 9,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1350687600000+0100)\/",
+      "AsOfString": "20 Oct 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 8,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1350774000000+0100)\/",
+      "AsOfString": "21 Oct 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 8,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1350860400000+0100)\/",
+      "AsOfString": "22 Oct 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 8,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1350946800000+0100)\/",
+      "AsOfString": "23 Oct 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 8,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1351033200000+0100)\/",
+      "AsOfString": "24 Oct 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 8,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1351119600000+0100)\/",
+      "AsOfString": "25 Oct 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 8,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1351206000000+0100)\/",
+      "AsOfString": "26 Oct 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 8,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1351292400000+0100)\/",
+      "AsOfString": "27 Oct 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 6,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1351378800000+0100)\/",
+      "AsOfString": "28 Oct 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 6,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1351468800000+0000)\/",
+      "AsOfString": "29 Oct 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 6,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1351555200000+0000)\/",
+      "AsOfString": "30 Oct 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 6,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1351641600000+0000)\/",
+      "AsOfString": "31 Oct 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 6,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1351728000000+0000)\/",
+      "AsOfString": "01 Nov 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 6,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1351814400000+0000)\/",
+      "AsOfString": "02 Nov 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 6,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1351900800000+0000)\/",
+      "AsOfString": "03 Nov 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 6,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1351987200000+0000)\/",
+      "AsOfString": "04 Nov 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 6,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1352073600000+0000)\/",
+      "AsOfString": "05 Nov 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 6,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1352160000000+0000)\/",
+      "AsOfString": "06 Nov 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 6,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1352246400000+0000)\/",
+      "AsOfString": "07 Nov 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 6,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1352332800000+0000)\/",
+      "AsOfString": "08 Nov 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 6,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1352419200000+0000)\/",
+      "AsOfString": "09 Nov 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 6,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1352505600000+0000)\/",
+      "AsOfString": "10 Nov 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 6,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1352592000000+0000)\/",
+      "AsOfString": "11 Nov 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 6,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1352678400000+0000)\/",
+      "AsOfString": "12 Nov 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 6,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1352764800000+0000)\/",
+      "AsOfString": "13 Nov 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 6,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1352851200000+0000)\/",
+      "AsOfString": "14 Nov 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 6,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1352937600000+0000)\/",
+      "AsOfString": "15 Nov 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 6,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1353024000000+0000)\/",
+      "AsOfString": "16 Nov 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 6,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1353110400000+0000)\/",
+      "AsOfString": "17 Nov 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 5,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1353196800000+0000)\/",
+      "AsOfString": "18 Nov 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 5,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1353283200000+0000)\/",
+      "AsOfString": "19 Nov 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 5,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1353369600000+0000)\/",
+      "AsOfString": "20 Nov 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 5,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1353456000000+0000)\/",
+      "AsOfString": "21 Nov 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 5,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1353542400000+0000)\/",
+      "AsOfString": "22 Nov 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 5,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1353628800000+0000)\/",
+      "AsOfString": "23 Nov 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 5,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1353715200000+0000)\/",
+      "AsOfString": "24 Nov 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 4,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1353801600000+0000)\/",
+      "AsOfString": "25 Nov 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 4,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1353888000000+0000)\/",
+      "AsOfString": "26 Nov 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 4,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1353974400000+0000)\/",
+      "AsOfString": "27 Nov 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 4,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1354060800000+0000)\/",
+      "AsOfString": "28 Nov 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 4,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1354147200000+0000)\/",
+      "AsOfString": "29 Nov 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 4,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1354233600000+0000)\/",
+      "AsOfString": "30 Nov 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 4,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1354320000000+0000)\/",
+      "AsOfString": "01 Dec 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 3,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1354406400000+0000)\/",
+      "AsOfString": "02 Dec 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 3,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1354492800000+0000)\/",
+      "AsOfString": "03 Dec 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 3,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1354579200000+0000)\/",
+      "AsOfString": "04 Dec 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 3,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1354665600000+0000)\/",
+      "AsOfString": "05 Dec 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 3,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1354752000000+0000)\/",
+      "AsOfString": "06 Dec 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 3,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1354838400000+0000)\/",
+      "AsOfString": "07 Dec 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 3,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1354924800000+0000)\/",
+      "AsOfString": "08 Dec 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 2,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1355011200000+0000)\/",
+      "AsOfString": "09 Dec 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 2,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1355097600000+0000)\/",
+      "AsOfString": "10 Dec 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 2,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1355184000000+0000)\/",
+      "AsOfString": "11 Dec 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 2,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1355270400000+0000)\/",
+      "AsOfString": "12 Dec 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 2,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1355356800000+0000)\/",
+      "AsOfString": "13 Dec 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 2,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1355443200000+0000)\/",
+      "AsOfString": "14 Dec 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 2,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1355529600000+0000)\/",
+      "AsOfString": "15 Dec 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 2,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1355616000000+0000)\/",
+      "AsOfString": "16 Dec 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 2,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1355702400000+0000)\/",
+      "AsOfString": "17 Dec 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 2,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1355788800000+0000)\/",
+      "AsOfString": "18 Dec 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 2,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1355875200000+0000)\/",
+      "AsOfString": "19 Dec 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 2,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1355961600000+0000)\/",
+      "AsOfString": "20 Dec 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 2,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1356048000000+0000)\/",
+      "AsOfString": "21 Dec 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1356134400000+0000)\/",
+      "AsOfString": "22 Dec 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1356220800000+0000)\/",
+      "AsOfString": "23 Dec 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1356307200000+0000)\/",
+      "AsOfString": "24 Dec 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1356393600000+0000)\/",
+      "AsOfString": "25 Dec 2012"
+    },
+    {
+      "TotalGigs": 1557,
+      "FutureGigs": 1,
+      "Bands": 474,
+      "Venues": 120,
+      "AsOf": "\/Date(1356480000000+0000)\/",
+      "AsOfString": "26 Dec 2012"
+    }
+  ]
+}

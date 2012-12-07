@@ -1,0 +1,91 @@
+{
+  "BandName": {
+    "Value": "Charlie Cartmell"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/51201",
+      "BandNames": [
+        {
+          "Value": "Megson"
+        },
+        {
+          "Value": "Stuart Angus"
+        },
+        {
+          "Value": "Vic and Andy"
+        },
+        {
+          "Value": "Neal Thompson"
+        },
+        {
+          "Value": "Anne-Marie Scott"
+        },
+        {
+          "Value": "Jay Thackery"
+        },
+        {
+          "Value": "Charlie Cartmell"
+        }
+      ],
+      "Venue": "Stanley Park",
+      "Date": "\/Date(1306710000000+0100)\/",
+      "StartTime": "13:00",
+      "Price": "free",
+      "MoreInfo": "FREE gig (though donations are welcome) at the bandstand featuring some of the area's finest acoustic solo/duo acts. Stanley Park is a designated alcolhol-free area - this included the bandstand!!",
+      "GigTitle": "Acoustic day at the bandstand",
+      "Source": "manually input by rhmg",
+      "Cancelled": true,
+      "Created": "\/Date(1306675357000+0100)\/",
+      "Edited": "\/Date(1306832299000+0100)\/"
+    },
+    {
+      "Id": "gig/53249",
+      "BandNames": [
+        {
+          "Value": "Charlie Cartmell"
+        },
+        {
+          "Value": "The TC Allstars"
+        },
+        {
+          "Value": "The Valvetronics"
+        },
+        {
+          "Value": "Alpha State Of Mind"
+        }
+      ],
+      "Venue": "Stanley Park",
+      "Date": "\/Date(1308438000000+0100)\/",
+      "StartTime": "13:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": "Gig at the Band Stand",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306747968000+0100)\/",
+      "Edited": "\/Date(1306747968000+0100)\/"
+    },
+    {
+      "Id": "gig/80897",
+      "BandNames": [
+        {
+          "Value": "Callighan & Wolski"
+        },
+        {
+          "Value": "Charlie Cartmell"
+        }
+      ],
+      "Venue": "K2",
+      "Date": "\/Date(1309042800000+0100)\/",
+      "StartTime": "18:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1309006448000+0100)\/",
+      "Edited": "\/Date(1309006449000+0100)\/"
+    }
+  ]
+}

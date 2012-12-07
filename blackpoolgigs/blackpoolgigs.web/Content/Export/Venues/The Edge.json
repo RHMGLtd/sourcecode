@@ -1,0 +1,607 @@
+{
+  "IsNull": false,
+  "Venue": "The Edge",
+  "Gigs": [
+    {
+      "Id": "gig/29697",
+      "BandNames": [
+        {
+          "Value": "Jimi Hendrix Tribute Band"
+        }
+      ],
+      "Venue": "The Edge",
+      "Date": "\/Date(1303340400000+0100)\/",
+      "StartTime": "19.30",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1305466630000+0100)\/",
+      "Edited": "\/Date(1305466631000+0100)\/"
+    },
+    {
+      "Id": "gig/7",
+      "BandNames": [
+        {
+          "Value": "Jimi Hendrix Tribute Band"
+        }
+      ],
+      "Venue": "The Edge",
+      "Date": "\/Date(1303340400000+0100)\/",
+      "StartTime": "19:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303945200000+0100)\/",
+      "Edited": "\/Date(1303945200000+0100)\/"
+    },
+    {
+      "Id": "gig/7169",
+      "BandNames": [
+        {
+          "Value": "The Keytars"
+        }
+      ],
+      "Venue": "The Edge",
+      "Date": "\/Date(1304809200000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": "The Keytars & Friends",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303858800000+0100)\/",
+      "Edited": "\/Date(1303858800000+0100)\/"
+    },
+    {
+      "Id": "gig/16386",
+      "BandNames": [
+        {
+          "Value": "The Good Machine"
+        }
+      ],
+      "Venue": "The Edge",
+      "Date": "\/Date(1305154800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303686000000+0100)\/",
+      "Edited": "\/Date(1303686000000+0100)\/"
+    },
+    {
+      "Id": "gig/18438",
+      "BandNames": [
+        {
+          "Value": "The Deadbeats"
+        }
+      ],
+      "Venue": "The Edge",
+      "Date": "\/Date(1305414000000+0100)\/",
+      "StartTime": "19.30",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1304290800000+0100)\/",
+      "Edited": "\/Date(1304290800000+0100)\/"
+    },
+    {
+      "Id": "gig/27649",
+      "BandNames": [
+        {
+          "Value": "Big Door Open"
+        }
+      ],
+      "Venue": "The Edge",
+      "Date": "\/Date(1305414000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1305456902000+0100)\/",
+      "Edited": "\/Date(1305456902000+0100)\/"
+    },
+    {
+      "Id": "gig/18439",
+      "BandNames": [
+        {
+          "Value": "The Deadbeats (Acoustic)"
+        }
+      ],
+      "Venue": "The Edge",
+      "Date": "\/Date(1305759600000+0100)\/",
+      "StartTime": "19.30",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1304118000000+0100)\/",
+      "Edited": "\/Date(1304118000000+0100)\/"
+    },
+    {
+      "Id": "gig/18440",
+      "BandNames": [
+        {
+          "Value": "The Keytars"
+        }
+      ],
+      "Venue": "The Edge",
+      "Date": "\/Date(1306018800000+0100)\/",
+      "StartTime": "19.30",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1304118000000+0100)\/",
+      "Edited": "\/Date(1304118000000+0100)\/"
+    },
+    {
+      "Id": "gig/16385",
+      "BandNames": [
+        {
+          "Value": "US 4 U 2"
+        }
+      ],
+      "Venue": "The Edge",
+      "Date": "\/Date(1306364400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "£5.00",
+      "MoreInfo": "Not to be misses only £5.00 ent fee......",
+      "GigTitle": "U2 TRIBUTE BAND",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1304290800000+0100)\/",
+      "Edited": "\/Date(1304290800000+0100)\/"
+    },
+    {
+      "Id": "gig/46081",
+      "BandNames": [
+        {
+          "Value": "The Keytars"
+        }
+      ],
+      "Venue": "The Edge",
+      "Date": "\/Date(1306969200000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306483792000+0100)\/",
+      "Edited": "\/Date(1306483793000+0100)\/"
+    },
+    {
+      "Id": "gig/16387",
+      "BandNames": [
+        {
+          "Value": "The Bon Jovi Experience"
+        }
+      ],
+      "Venue": "The Edge",
+      "Date": "\/Date(1307574000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "£5.00",
+      "MoreInfo": null,
+      "GigTitle": "The Bon Jovi Experience ",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1304118000000+0100)\/",
+      "Edited": "\/Date(1304118000000+0100)\/"
+    },
+    {
+      "Id": "gig/63490",
+      "BandNames": [
+        {
+          "Value": "The Keytars"
+        }
+      ],
+      "Venue": "The Edge",
+      "Date": "\/Date(1307833200000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307371361000+0100)\/",
+      "Edited": "\/Date(1307371361000+0100)\/"
+    },
+    {
+      "Id": "gig/31772",
+      "BandNames": [
+        {
+          "Value": "The Fuse"
+        }
+      ],
+      "Venue": "The Edge",
+      "Date": "\/Date(1308783600000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1305538594000+0100)\/",
+      "Edited": "\/Date(1305538594000+0100)\/"
+    },
+    {
+      "Id": "gig/77832",
+      "BandNames": [
+        {
+          "Value": "Flip"
+        }
+      ],
+      "Venue": "The Edge",
+      "Date": "\/Date(1309042800000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308851324000+0100)\/",
+      "Edited": "\/Date(1308851324000+0100)\/"
+    },
+    {
+      "Id": "gig/78849",
+      "BandNames": [
+        {
+          "Value": "The Keytars"
+        },
+        {
+          "Value": "Callighan & Wolski"
+        },
+        {
+          "Value": "Magic Trees"
+        }
+      ],
+      "Venue": "The Edge",
+      "Date": "\/Date(1309647600000+0100)\/",
+      "StartTime": "20:30",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308914967000+0100)\/",
+      "Edited": "\/Date(1308914968000+0100)\/"
+    },
+    {
+      "Id": "gig/80898",
+      "BandNames": [
+        {
+          "Value": "Happy Daize"
+        }
+      ],
+      "Venue": "The Edge",
+      "Date": "\/Date(1309993200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1309006643000+0100)\/",
+      "Edited": "\/Date(1309006643000+0100)\/"
+    },
+    {
+      "Id": "gig/80899",
+      "BandNames": [
+        {
+          "Value": "Flip"
+        }
+      ],
+      "Venue": "The Edge",
+      "Date": "\/Date(1310252400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1309006821000+0100)\/",
+      "Edited": "\/Date(1309006821000+0100)\/"
+    },
+    {
+      "Id": "gig/87041",
+      "BandNames": [
+        {
+          "Value": "The Kings of Lyon"
+        }
+      ],
+      "Venue": "The Edge",
+      "Date": "\/Date(1310598000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "£5.00",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1309690100000+0100)\/",
+      "Edited": "\/Date(1309690100000+0100)\/"
+    },
+    {
+      "Id": "gig/87042",
+      "BandNames": [
+        {
+          "Value": "The Hookers"
+        }
+      ],
+      "Venue": "The Edge",
+      "Date": "\/Date(1311202800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1309691646000+0100)\/",
+      "Edited": "\/Date(1309691646000+0100)\/"
+    },
+    {
+      "Id": "gig/80900",
+      "BandNames": [
+        {
+          "Value": "Flip"
+        }
+      ],
+      "Venue": "The Edge",
+      "Date": "\/Date(1311462000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1309007051000+0100)\/",
+      "Edited": "\/Date(1309007051000+0100)\/"
+    },
+    {
+      "Id": "gig/78866",
+      "BandNames": [
+        {
+          "Value": "Twisted Romance"
+        }
+      ],
+      "Venue": "The Edge",
+      "Date": "\/Date(1311807600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308916776000+0100)\/",
+      "Edited": "\/Date(1308916776000+0100)\/"
+    },
+    {
+      "Id": "gig/78864",
+      "BandNames": [
+        {
+          "Value": "The Deadbeats (Acoustic)"
+        }
+      ],
+      "Venue": "The Edge",
+      "Date": "\/Date(1312066800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308916652000+0100)\/",
+      "Edited": "\/Date(1312125784000+0100)\/"
+    },
+    {
+      "Id": "gig/99391",
+      "BandNames": [
+        {
+          "Value": "The Keytars"
+        }
+      ],
+      "Venue": "The Edge",
+      "Date": "\/Date(1312412400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311708856000+0100)\/",
+      "Edited": "\/Date(1311708856000+0100)\/"
+    },
+    {
+      "Id": "gig/99388",
+      "BandNames": [
+        {
+          "Value": "Flip"
+        }
+      ],
+      "Venue": "The Edge",
+      "Date": "\/Date(1312671600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311708785000+0100)\/",
+      "Edited": "\/Date(1311708785000+0100)\/"
+    },
+    {
+      "Id": "gig/99394",
+      "BandNames": [
+        {
+          "Value": "The Keytars"
+        }
+      ],
+      "Venue": "The Edge",
+      "Date": "\/Date(1313276400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": "The Keytars are Acoustic for this gig",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311708925000+0100)\/",
+      "Edited": "\/Date(1311708925000+0100)\/"
+    },
+    {
+      "Id": "gig/103428",
+      "BandNames": [
+        {
+          "Value": "Souled Out"
+        }
+      ],
+      "Venue": "The Edge",
+      "Date": "\/Date(1313622000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311946565000+0100)\/",
+      "Edited": "\/Date(1311946565000+0100)\/"
+    },
+    {
+      "Id": "gig/99389",
+      "BandNames": [
+        {
+          "Value": "Flip"
+        }
+      ],
+      "Venue": "The Edge",
+      "Date": "\/Date(1313881200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311708799000+0100)\/",
+      "Edited": "\/Date(1311708799000+0100)\/"
+    },
+    {
+      "Id": "gig/116842",
+      "BandNames": [
+        {
+          "Value": "Are You Experienced"
+        }
+      ],
+      "Venue": "The Edge",
+      "Date": "\/Date(1315436400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "£5.00",
+      "MoreInfo": null,
+      "GigTitle": "The Jimi Hendrix Experience",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315142812000+0100)\/",
+      "Edited": "\/Date(1315142812000+0100)\/"
+    },
+    {
+      "Id": "gig/116843",
+      "BandNames": [
+        {
+          "Value": "The Deadbeats (Acoustic)"
+        }
+      ],
+      "Venue": "The Edge",
+      "Date": "\/Date(1315695600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315142856000+0100)\/",
+      "Edited": "\/Date(1315142856000+0100)\/"
+    },
+    {
+      "Id": "gig/116844",
+      "BandNames": [
+        {
+          "Value": "Indigo Sands"
+        }
+      ],
+      "Venue": "The Edge",
+      "Date": "\/Date(1316041200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315142892000+0100)\/",
+      "Edited": "\/Date(1315142892000+0100)\/"
+    },
+    {
+      "Id": "gig/116845",
+      "BandNames": [
+        {
+          "Value": "Flip"
+        }
+      ],
+      "Venue": "The Edge",
+      "Date": "\/Date(1316300400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315142909000+0100)\/",
+      "Edited": "\/Date(1315142909000+0100)\/"
+    },
+    {
+      "Id": "gig/16395",
+      "BandNames": [
+        {
+          "Value": "The Versions"
+        }
+      ],
+      "Venue": "The Edge",
+      "Date": "\/Date(1316646000000+0100)\/",
+      "StartTime": "20:30",
+      "Price": "Free",
+      "MoreInfo": "Our first time back since January, and we can't wait to unleash hits by Steely Dan, Fleetwood Mac, The Rolling Stones, The Eagles, The Who, Talking Heads, Roxy Music, Blondie, Adele, and more on the residents of Poulton!\r\n\r\nJoin us!\r\n\r\nwww.the-versions.co.uk",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1304031600000+0100)\/",
+      "Edited": "\/Date(1315377412000+0100)\/"
+    },
+    {
+      "Id": "gig/116791",
+      "BandNames": [
+        {
+          "Value": "The Keytars"
+        }
+      ],
+      "Venue": "The Edge",
+      "Date": "\/Date(1317250800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315141110000+0100)\/",
+      "Edited": "\/Date(1315141110000+0100)\/"
+    }
+  ],
+  "Future": []
+}

@@ -1,0 +1,23 @@
+{
+  "Id": "metadata/2",
+  "VenueName": "The Layton Institute",
+  "MainImageName": "The Layton Institute.jpg",
+  "BarAndClubReviewsUrl": "http://www.bar-and-club-reviews.com/bars/77447-layton-institute",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 391 774",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "Layton",
+      "Blackpool",
+      "Lancashire"
+    ],
+    "Website": "http://layton-institute.co.uk/default.aspx",
+    "EmailAddress": "peter.wadeson@btconnect.com",
+    "PostCode": "FY3 7HG",
+    "ContactName": "Peter"
+  },
+  "MapCoords": {
+    "Lat": "53.829586",
+    "Long": "-3.030853"
+  }
+}

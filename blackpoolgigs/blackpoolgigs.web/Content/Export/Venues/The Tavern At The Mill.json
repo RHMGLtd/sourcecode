@@ -1,0 +1,25 @@
+{
+  "IsNull": false,
+  "Venue": "The Tavern At The Mill",
+  "Gigs": [
+    {
+      "Id": "gig/37904",
+      "BandNames": [
+        {
+          "Value": "Glynn Bailey"
+        }
+      ],
+      "Venue": "The Tavern At The Mill",
+      "Date": "\/Date(1310857200000+0100)\/",
+      "StartTime": "11:00",
+      "Price": "Free",
+      "MoreInfo": "Stuff going on all day.... including us, playing live, in one guise or another.\r\n\r\nMore information to follow. Keep your eyes peeled at www.GlynBailey.com and www.facebook.com/GlynBaileyMusic",
+      "GigTitle": "Open Air LIVE at Marsh Mill",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306150981000+0100)\/",
+      "Edited": "\/Date(1309079212000+0100)\/"
+    }
+  ],
+  "Future": []
+}

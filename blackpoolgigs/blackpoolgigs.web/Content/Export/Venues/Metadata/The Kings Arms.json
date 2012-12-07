@@ -1,0 +1,22 @@
+{
+  "Id": "metadata/17410",
+  "VenueName": "The Kings Arms",
+  "MainImageName": "The Kings Arms.jpg",
+  "BarAndClubReviewsUrl": "",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 874837",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "105 Lord St",
+      "Fleetwood"
+    ],
+    "Website": "",
+    "EmailAddress": null,
+    "PostCode": "FY7 6LB",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.9216",
+    "Long": "-3.013746"
+  }
+}

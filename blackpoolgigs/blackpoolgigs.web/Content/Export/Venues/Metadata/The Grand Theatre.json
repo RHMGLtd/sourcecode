@@ -1,0 +1,22 @@
+{
+  "Id": "metadata/2053",
+  "VenueName": "The Grand Theatre",
+  "MainImageName": null,
+  "BarAndClubReviewsUrl": "",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 290111",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "33 Church Street",
+      "Blackpool"
+    ],
+    "Website": "http://www.blackpoolgrand.co.uk/",
+    "EmailAddress": "boxoffice@blackpoolgrand.co.uk",
+    "PostCode": "FY1 1HT",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.817331",
+    "Long": "-3.053738"
+  }
+}

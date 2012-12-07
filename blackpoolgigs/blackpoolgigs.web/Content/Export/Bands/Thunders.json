@@ -1,0 +1,25 @@
+{
+  "BandName": {
+    "Value": "Thunders"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/32787",
+      "BandNames": [
+        {
+          "Value": "Thunders"
+        }
+      ],
+      "Venue": "The North Euston",
+      "Date": "\/Date(1320451200000+0000)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1305544635000+0100)\/",
+      "Edited": "\/Date(1305544635000+0100)\/"
+    }
+  ]
+}

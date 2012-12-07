@@ -1,0 +1,25 @@
+{
+  "BandName": {
+    "Value": "Junction 21"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/75778",
+      "BandNames": [
+        {
+          "Value": "Junction 21"
+        }
+      ],
+      "Venue": "The Hansom Cab",
+      "Date": "\/Date(1308351600000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308480428000+0100)\/",
+      "Edited": "\/Date(1308480428000+0100)\/"
+    }
+  ]
+}

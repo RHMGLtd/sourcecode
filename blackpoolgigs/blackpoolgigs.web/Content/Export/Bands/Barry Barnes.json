@@ -1,0 +1,25 @@
+{
+  "BandName": {
+    "Value": "Barry Barnes"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/66563",
+      "BandNames": [
+        {
+          "Value": "Barry Barnes"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1307660400000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307646296000+0100)\/",
+      "Edited": "\/Date(1307646296000+0100)\/"
+    }
+  ]
+}

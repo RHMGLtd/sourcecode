@@ -1,0 +1,28 @@
+{
+  "BandName": {
+    "Value": "The Locals"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/110593",
+      "BandNames": [
+        {
+          "Value": "The Locals"
+        },
+        {
+          "Value": "The Pretty Thunder"
+        }
+      ],
+      "Venue": "The Blue Room",
+      "Date": "\/Date(1314226800000+0100)\/",
+      "StartTime": "20:30",
+      "Price": "£1.00",
+      "MoreInfo": "THE LOCALS\r\nPunky-Indie from Blackpool\r\nhttp://www.facebook.com/thelocalsblackpool\r\n\r\nTHE PRETTY THUNDER\r\nIndie from Blackpool\r\nhttp://www.facebook.com/pages/The-Pretty-Thunder/198191879729\r\n\r\n+ another band tba",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1313933070000+0100)\/",
+      "Edited": "\/Date(1313933070000+0100)\/"
+    }
+  ]
+}

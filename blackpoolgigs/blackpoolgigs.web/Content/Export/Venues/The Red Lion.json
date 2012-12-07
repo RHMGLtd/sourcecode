@@ -1,0 +1,61 @@
+{
+  "IsNull": false,
+  "Venue": "The Red Lion",
+  "Gigs": [
+    {
+      "Id": "gig/15361",
+      "BandNames": [
+        {
+          "Value": "The Versions"
+        }
+      ],
+      "Venue": "The Red Lion",
+      "Date": "\/Date(1305241200000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": "Two extended sets in another new venue for us, so if you want some decent food and beer and an extended set from The Versions, come on down!!!\r\n\r\nwww.the-versions.co.uk\r\nwww.facebook.com/theversions.band",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303686000000+0100)\/",
+      "Edited": "\/Date(1303686000000+0100)\/"
+    },
+    {
+      "Id": "gig/61455",
+      "BandNames": [
+        {
+          "Value": "The Versions"
+        }
+      ],
+      "Venue": "The Red Lion",
+      "Date": "\/Date(1317423600000+0100)\/",
+      "StartTime": "20:30",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307103449000+0100)\/",
+      "Edited": "\/Date(1307103449000+0100)\/"
+    },
+    {
+      "Id": "gig/16399",
+      "BandNames": [
+        {
+          "Value": "The Versions"
+        }
+      ],
+      "Venue": "The Red Lion",
+      "Date": "\/Date(1325289600000+0000)\/",
+      "StartTime": "20:30",
+      "Price": "Unknown",
+      "MoreInfo": null,
+      "GigTitle": "New Years Eve Gig",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1304118000000+0100)\/",
+      "Edited": "\/Date(1304118000000+0100)\/"
+    }
+  ],
+  "Future": []
+}

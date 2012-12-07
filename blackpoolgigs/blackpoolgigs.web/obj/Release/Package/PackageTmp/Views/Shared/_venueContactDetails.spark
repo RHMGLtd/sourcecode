@@ -1,0 +1,35 @@
+<div if="!Model.Metadata.ContactDetail.IsEmpty()" class="venueContactDetails">
+  <div if="!string.IsNullOrEmpty(Model.Metadata.BarAndClubReviewsUrl)">
+    <img src="~/content/images/icons/little-tick.png" alt="review !{Model.Metadata.VenueName}" title="review !{Model.Metadata.VenueName}" />
+    <a href="!{Model.Metadata.BarAndClubReviewsUrl}" target="_bcr" alt="click to visit Bar and Club Reviews and review !{Model.Metadata.VenueName}" title="click to visit Bar and Club Reviews and review !{Model.Metadata.VenueName}">
+    review this venue at <img src="~/content/images/icons/bar-and-club-reviews.png"></img>
+  </a>
+  </div>
+  <div if="!string.IsNullOrEmpty(Model.Metadata.ContactDetail.ContactName)">
+    <img src="~/content/images/icons/little-contact-person.png" alt="the contact person at !{Model.Metadata.VenueName}" title="the contact person at !{Model.Metadata.VenueName}" />
+    <span>!{Model.Metadata.ContactDetail.ContactName}</span>
+  </div>
+  <div if="(Model.Metadata.ContactDetail.AddressLines.Any() || !string.IsNullOrEmpty(Model.Metadata.ContactDetail.PostCode))">
+    <img src="~/content/images/icons/little-house.png" alt="the address for !{Model.Metadata.VenueName}" title="the address for !{Model.Metadata.VenueName}" />
+    <span each="var line in Model.Metadata.ContactDetail.AddressLines" class="addressLine">
+      !{line},
+    </span>
+    <span class="postCodeLine">!{Model.Metadata.ContactDetail.PostCode}</span>
+  </div>
+  <div if="!string.IsNullOrEmpty(Model.Metadata.ContactDetail.MainPhoneNumber)" class="phoneNumberLine">
+    <img src="~/content/images/icons/little-phone.png" alt="the telephone number for !{Model.Metadata.VenueName}" title="the telephone for !{Model.Metadata.VenueName}" />
+    <span>!{Model.Metadata.ContactDetail.MainPhoneNumber}</span>
+  </div>
+  <div each="var line in Model.Metadata.ContactDetail.SecondaryPhoneNumbers" class="phoneNumberLine">
+    <img src="~/content/images/icons/little-phone.png" alt="a secondary telephone number for !{Model.Metadata.VenueName}" title="a secondary telephone for !{Model.Metadata.VenueName}" />
+    <span>!{line} </span>
+  </div>
+  <div if="!string.IsNullOrEmpty(Model.Metadata.ContactDetail.Website)" class="website">
+    <img src="~/content/images/icons/little-www.png" alt="website for !{Model.Metadata.VenueName}" title="website for !{Model.Metadata.VenueName}" />
+    <a href="!{Model.Metadata.ContactDetail.Website.EnsureHttp()}" target="_new" alt="click to visit the external website for !{Model.Metadata.VenueName}" title="click to visit the external website for !{Model.Metadata.VenueName}">!{Model.Metadata.ContactDetail.Website}</a>
+  </div>
+  <div if="!string.IsNullOrEmpty(Model.Metadata.ContactDetail.EmailAddress)" class="email">
+    <img src="~/content/images/icons/little-email.png" alt="email !{Model.Metadata.VenueName}" title="email !{Model.Metadata.VenueName}" />
+    <a href="mailto:!{Model.Metadata.ContactDetail.EmailAddress}">!{Model.Metadata.ContactDetail.EmailAddress}</a>
+  </div>
+</div>

@@ -1,0 +1,25 @@
+{
+  "BandName": {
+    "Value": "Revolution"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/134187",
+      "BandNames": [
+        {
+          "Value": "Revolution"
+        }
+      ],
+      "Venue": "The Royal Oak",
+      "Date": "\/Date(1327190400000+0000)\/",
+      "StartTime": "17:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326570316000+0000)\/",
+      "Edited": "\/Date(1326570316000+0000)\/"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "BandName": {
+    "Value": "The Selector"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/116737",
+      "BandNames": [
+        {
+          "Value": "Ska Face"
+        },
+        {
+          "Value": "The Selector"
+        }
+      ],
+      "Venue": "The Layton Institute",
+      "Date": "\/Date(1321056000000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": "First Original Tunes Gig",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315137743000+0100)\/",
+      "Edited": "\/Date(1315137743000+0100)\/"
+    }
+  ]
+}

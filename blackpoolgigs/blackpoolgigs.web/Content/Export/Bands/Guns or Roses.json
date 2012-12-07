@@ -1,0 +1,61 @@
+{
+  "BandName": {
+    "Value": "Guns or Roses"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/20483",
+      "BandNames": [
+        {
+          "Value": "Guns or Roses"
+        }
+      ],
+      "Venue": "Belle View",
+      "Date": "\/Date(1305327600000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": true,
+      "Created": "\/Date(1303513200000+0100)\/",
+      "Edited": "\/Date(1306833751000+0100)\/"
+    },
+    {
+      "Id": "gig/83970",
+      "BandNames": [
+        {
+          "Value": "Guns or Roses"
+        }
+      ],
+      "Venue": "Uncle Toms Cabin",
+      "Date": "\/Date(1310684400000+0100)\/",
+      "StartTime": "19:00",
+      "Price": "free",
+      "MoreInfo": "Guns Or Roses play the quaint, sunny seaside town of Blackpool. We're looking forward to this one as this'll be our first time playing there! Oooooh Blackpool, you don't know what you're letting yourselves in for ;p",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1309338513000+0100)\/",
+      "Edited": "\/Date(1309338514000+0100)\/"
+    },
+    {
+      "Id": "gig/99340",
+      "BandNames": [
+        {
+          "Value": "Guns or Roses"
+        }
+      ],
+      "Venue": "Belle View",
+      "Date": "\/Date(1314399600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311707539000+0100)\/",
+      "Edited": "\/Date(1311707539000+0100)\/"
+    }
+  ]
+}

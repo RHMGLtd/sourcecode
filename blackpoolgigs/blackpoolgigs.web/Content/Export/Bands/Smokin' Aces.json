@@ -1,0 +1,97 @@
+{
+  "BandName": {
+    "Value": "Smokin' Aces"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/13313",
+      "BandNames": [
+        {
+          "Value": "Smokin' Aces"
+        }
+      ],
+      "Venue": "Old Town Hall",
+      "Date": "\/Date(1304722800000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": "The Smokin Aces Rock Cover Band",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303513200000+0100)\/",
+      "Edited": "\/Date(1303513200000+0100)\/"
+    },
+    {
+      "Id": "gig/64514",
+      "BandNames": [
+        {
+          "Value": "Smokin' Aces"
+        }
+      ],
+      "Venue": "The North Euston",
+      "Date": "\/Date(1307746800000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307536635000+0100)\/",
+      "Edited": "\/Date(1307536635000+0100)\/"
+    },
+    {
+      "Id": "gig/64515",
+      "BandNames": [
+        {
+          "Value": "Smokin' Aces"
+        }
+      ],
+      "Venue": "The Venue",
+      "Date": "\/Date(1308351600000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307536706000+0100)\/",
+      "Edited": "\/Date(1307536706000+0100)\/"
+    },
+    {
+      "Id": "gig/99371",
+      "BandNames": [
+        {
+          "Value": "Smokin' Aces"
+        }
+      ],
+      "Venue": "The Venue",
+      "Date": "\/Date(1313103600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311708325000+0100)\/",
+      "Edited": "\/Date(1311708325000+0100)\/"
+    },
+    {
+      "Id": "gig/32789",
+      "BandNames": [
+        {
+          "Value": "Smokin' Aces"
+        }
+      ],
+      "Venue": "The North Euston",
+      "Date": "\/Date(1321660800000+0000)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1305544693000+0100)\/",
+      "Edited": "\/Date(1305544693000+0100)\/"
+    }
+  ]
+}

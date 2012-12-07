@@ -1,0 +1,31 @@
+{
+  "BandName": {
+    "Value": "Glam Doctors"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/77829",
+      "BandNames": [
+        {
+          "Value": "Orin"
+        },
+        {
+          "Value": "Glam Doctors"
+        },
+        {
+          "Value": "Smokin Monkey"
+        }
+      ],
+      "Venue": "Stanley Park",
+      "Date": "\/Date(1310252400000+0100)\/",
+      "StartTime": "12:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": "Monkeyfest 4 + Motorbike show",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308851186000+0100)\/",
+      "Edited": "\/Date(1308917142000+0100)\/"
+    }
+  ]
+}

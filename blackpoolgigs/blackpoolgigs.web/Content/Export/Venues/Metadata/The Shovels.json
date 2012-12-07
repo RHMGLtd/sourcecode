@@ -1,0 +1,23 @@
+{
+  "Id": "metadata/2079",
+  "VenueName": "The Shovels",
+  "MainImageName": "The Shovels.jpg",
+  "BarAndClubReviewsUrl": "http://www.bar-and-club-reviews.com/bars/71023-The-Shovels-Blackpool",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 762702",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "260 Common Edge Road",
+      "Marton Moss",
+      "Blackpool"
+    ],
+    "Website": "",
+    "EmailAddress": null,
+    "PostCode": "FY4 5DH",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.779735",
+    "Long": "-3.01815"
+  }
+}

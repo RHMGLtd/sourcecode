@@ -1,0 +1,24 @@
+{
+  "Id": "metadata/16386",
+  "VenueName": "Fylde Rugby Club",
+  "MainImageName": null,
+  "BarAndClubReviewsUrl": "",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 734733",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "Woodlands Memorial Ground",
+      "Blackpool Road",
+      "Ansdell",
+      "Lytham St. Annes"
+    ],
+    "Website": "http://www.fylderugby.co.uk/",
+    "EmailAddress": null,
+    "PostCode": "FY8 4EL",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.744358",
+    "Long": "-2.987487"
+  }
+}

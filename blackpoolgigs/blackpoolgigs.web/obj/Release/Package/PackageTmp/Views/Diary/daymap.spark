@@ -1,0 +1,72 @@
+<viewdata model="DayMapViewModel" />
+
+<content name="title">
+  Blackpool Gigs - Live Music and Events in Blackpool :: Map for gigs taking place on !{Model.ForDate.ToString("dd MMM yyyy")}
+</content>
+<content name="scripts">
+  <script type="text/javascript">
+
+    function loadScript() {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src = "http://maps.google.com/maps/api/js?sensor=false&callback=initialize";
+    document.body.appendChild(script);
+    }
+
+    window.onload = loadScript;
+
+    function initialize() {
+    var myOptions = {
+    zoom: 11,
+    center: new google.maps.LatLng(53.834296,-2.93335),
+    mapTypeId: google.maps.MapTypeId.ROADMAP
+    };
+    var map = new google.maps.Map(document.getElementById("map_canvas"),myOptions);
+    <for each="var gig in Model.Gigs">
+      <if condition="!gig.MapCoords.IsEmpty()">
+        var latlng = new google.maps.LatLng(!{gig.MapCoords.Lat}, !{gig.MapCoords.Long});
+        var marker = new google.maps.Marker({
+        position: latlng,
+        map: map,
+        title:"!{gig.Bands}"
+        });
+      </if>
+    </for>
+    }
+  </script>
+</content>
+<content name="css">
+  <link href="~/content/diary.css" rel="stylesheet" type="text/css" />
+</content>
+<content name="body">
+  <pageTitle />
+  <div class="infoPanel">
+    <img src="~/Content/images/A month of events from Blackpool Gigs - live events and gigs in blackpool lancashire.png" alt="Blackpoolgigs.co.uk logo :: the month of !{Model.Month}"></img>
+    Below is a map of all the gigs that are taking place in Blackpool on the !{Model.DateAsInt().Dateify()} day in !{Model.Month}. If you are aware of any gigs that we are not listing, or
+    have spotted anything you think we should change, please <contactLink />
+    and we will be very happy to update our listings.       If you are in one of the bands listed and would like to add more information about your band
+    please <contactLink /> to discuss how we can work with you to improve your listings.
+  </div>
+  <monthLinks />
+  <div class="actions">
+    <dayMapNavLinks />
+    <div>
+      <a href="!{new DayUrl(Model.ForDate)}">click here to see this day as a list.</a>
+    </div>
+  </div>
+  <div id="map_canvas" style="width: 740px; height: 500px;"></div>
+</content>
+<content name="rightPanel">
+  <script type="text/javascript">
+    <!--
+google_ad_client = "pub-4956915789383422";
+/* diary_skyscraper */
+google_ad_slot = "4422198803";
+google_ad_width = 120;
+google_ad_height = 600;
+//-->
+  </script>
+  <script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+  </script>
+</content>

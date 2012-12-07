@@ -1,0 +1,71 @@
+{
+  "IsNull": false,
+  "Venue": "Scruffy Murphys",
+  "Gigs": [
+    {
+      "Id": "gig/36872",
+      "BandNames": [],
+      "Venue": "Scruffy Murphys",
+      "Date": "\/Date(1305932400000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1305983950000+0100)\/",
+      "Edited": "\/Date(1305999002000+0100)\/"
+    },
+    {
+      "Id": "gig/69633",
+      "BandNames": [
+        {
+          "Value": "Orin"
+        }
+      ],
+      "Venue": "Scruffy Murphys",
+      "Date": "\/Date(1308351600000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307964087000+0100)\/",
+      "Edited": "\/Date(1308917128000+0100)\/"
+    },
+    {
+      "Id": "gig/103430",
+      "BandNames": [],
+      "Venue": "Scruffy Murphys",
+      "Date": "\/Date(1312585200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311947178000+0100)\/",
+      "Edited": "\/Date(1311947178000+0100)\/"
+    },
+    {
+      "Id": "gig/116774",
+      "BandNames": [
+        {
+          "Value": "Orin"
+        }
+      ],
+      "Venue": "Scruffy Murphys",
+      "Date": "\/Date(1317337200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315140503000+0100)\/",
+      "Edited": "\/Date(1315140503000+0100)\/"
+    }
+  ],
+  "Future": []
+}

@@ -1,0 +1,349 @@
+{
+  "IsNull": false,
+  "Venue": "The King Edward",
+  "Gigs": [
+    {
+      "Id": "gig/18442",
+      "BandNames": [
+        {
+          "Value": "The Monster Squad"
+        }
+      ],
+      "Venue": "The King Edward",
+      "Date": "\/Date(1305327600000+0100)\/",
+      "StartTime": "19.30",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1304290800000+0100)\/",
+      "Edited": "\/Date(1304290800000+0100)\/"
+    },
+    {
+      "Id": "gig/47105",
+      "BandNames": [
+        {
+          "Value": "The Heat"
+        }
+      ],
+      "Venue": "The King Edward",
+      "Date": "\/Date(1306450800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306488043000+0100)\/",
+      "Edited": "\/Date(1306488043000+0100)\/"
+    },
+    {
+      "Id": "gig/37899",
+      "BandNames": [
+        {
+          "Value": "The Heat"
+        }
+      ],
+      "Venue": "The King Edward",
+      "Date": "\/Date(1306537200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306150444000+0100)\/",
+      "Edited": "\/Date(1306150444000+0100)\/"
+    },
+    {
+      "Id": "gig/30721",
+      "BandNames": [
+        {
+          "Value": "Johnny Meerkat"
+        }
+      ],
+      "Venue": "The King Edward",
+      "Date": "\/Date(1307142000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1305475277000+0100)\/",
+      "Edited": "\/Date(1305475277000+0100)\/"
+    },
+    {
+      "Id": "gig/61444",
+      "BandNames": [
+        {
+          "Value": "Dakota"
+        }
+      ],
+      "Venue": "The King Edward",
+      "Date": "\/Date(1307746800000+0100)\/",
+      "StartTime": "21:30",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307102723000+0100)\/",
+      "Edited": "\/Date(1307102723000+0100)\/"
+    },
+    {
+      "Id": "gig/61490",
+      "BandNames": [
+        {
+          "Value": "5th Element"
+        }
+      ],
+      "Venue": "The King Edward",
+      "Date": "\/Date(1308351600000+0100)\/",
+      "StartTime": "21:30",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307104916000+0100)\/",
+      "Edited": "\/Date(1307104916000+0100)\/"
+    },
+    {
+      "Id": "gig/77841",
+      "BandNames": [
+        {
+          "Value": "The Stories"
+        }
+      ],
+      "Venue": "The King Edward",
+      "Date": "\/Date(1308870000000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308852082000+0100)\/",
+      "Edited": "\/Date(1308852082000+0100)\/"
+    },
+    {
+      "Id": "gig/77838",
+      "BandNames": [
+        {
+          "Value": "Acquiesce"
+        }
+      ],
+      "Venue": "The King Edward",
+      "Date": "\/Date(1308956400000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308851633000+0100)\/",
+      "Edited": "\/Date(1308851633000+0100)\/"
+    },
+    {
+      "Id": "gig/77851",
+      "BandNames": [
+        {
+          "Value": "Rattle n Hum"
+        }
+      ],
+      "Venue": "The King Edward",
+      "Date": "\/Date(1311375600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308852940000+0100)\/",
+      "Edited": "\/Date(1308852940000+0100)\/"
+    },
+    {
+      "Id": "gig/93188",
+      "BandNames": [
+        {
+          "Value": "Marauder"
+        }
+      ],
+      "Venue": "The King Edward",
+      "Date": "\/Date(1311980400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1310494710000+0100)\/",
+      "Edited": "\/Date(1310494710000+0100)\/"
+    },
+    {
+      "Id": "gig/99366",
+      "BandNames": [
+        {
+          "Value": "Catdog"
+        }
+      ],
+      "Venue": "The King Edward",
+      "Date": "\/Date(1313103600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311708221000+0100)\/",
+      "Edited": "\/Date(1311708221000+0100)\/"
+    },
+    {
+      "Id": "gig/99367",
+      "BandNames": [
+        {
+          "Value": "The Heat"
+        }
+      ],
+      "Venue": "The King Edward",
+      "Date": "\/Date(1313190000000+0100)\/",
+      "StartTime": "20",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311708241000+0100)\/",
+      "Edited": "\/Date(1311708241000+0100)\/"
+    },
+    {
+      "Id": "gig/99368",
+      "BandNames": [
+        {
+          "Value": "The Horn"
+        }
+      ],
+      "Venue": "The King Edward",
+      "Date": "\/Date(1313794800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311708264000+0100)\/",
+      "Edited": "\/Date(1311708264000+0100)\/"
+    },
+    {
+      "Id": "gig/116798",
+      "BandNames": [
+        {
+          "Value": "The Heat"
+        }
+      ],
+      "Venue": "The King Edward",
+      "Date": "\/Date(1315522800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315141274000+0100)\/",
+      "Edited": "\/Date(1315141274000+0100)\/"
+    },
+    {
+      "Id": "gig/116800",
+      "BandNames": [
+        {
+          "Value": "The Heat"
+        }
+      ],
+      "Venue": "The King Edward",
+      "Date": "\/Date(1316818800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315141314000+0100)\/",
+      "Edited": "\/Date(1315141314000+0100)\/"
+    },
+    {
+      "Id": "gig/116747",
+      "BandNames": [
+        {
+          "Value": "Hooker"
+        }
+      ],
+      "Venue": "The King Edward",
+      "Date": "\/Date(1318028400000+0100)\/",
+      "StartTime": "20:30",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315138523000+0100)\/",
+      "Edited": "\/Date(1315138523000+0100)\/"
+    },
+    {
+      "Id": "gig/68614",
+      "BandNames": [
+        {
+          "Value": "Dakota"
+        }
+      ],
+      "Venue": "The King Edward",
+      "Date": "\/Date(1319238000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307891464000+0100)\/",
+      "Edited": "\/Date(1307891464000+0100)\/"
+    },
+    {
+      "Id": "gig/133129",
+      "BandNames": [
+        {
+          "Value": "The Horn"
+        }
+      ],
+      "Venue": "The King Edward",
+      "Date": "\/Date(1321660800000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326558578000+0000)\/",
+      "Edited": "\/Date(1326558578000+0000)\/"
+    },
+    {
+      "Id": "gig/68615",
+      "BandNames": [
+        {
+          "Value": "Dakota"
+        }
+      ],
+      "Venue": "The King Edward",
+      "Date": "\/Date(1323475200000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307891498000+0100)\/",
+      "Edited": "\/Date(1307891498000+0100)\/"
+    }
+  ],
+  "Future": []
+}

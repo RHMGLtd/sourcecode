@@ -1,0 +1,25 @@
+{
+  "BandName": {
+    "Value": "Mothers Ruin"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/99360",
+      "BandNames": [
+        {
+          "Value": "Mothers Ruin"
+        }
+      ],
+      "Venue": "Station Tavern",
+      "Date": "\/Date(1313103600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311708069000+0100)\/",
+      "Edited": "\/Date(1311708069000+0100)\/"
+    }
+  ]
+}

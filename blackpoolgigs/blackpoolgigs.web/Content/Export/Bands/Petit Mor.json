@@ -1,0 +1,25 @@
+{
+  "BandName": {
+    "Value": "Petit Mor"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/34821",
+      "BandNames": [
+        {
+          "Value": "Petit Mor"
+        }
+      ],
+      "Venue": "The Blue Room",
+      "Date": "\/Date(1309561200000+0100)\/",
+      "StartTime": "20:30",
+      "Price": "£1.00",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1305654601000+0100)\/",
+      "Edited": "\/Date(1305655383000+0100)\/"
+    }
+  ]
+}

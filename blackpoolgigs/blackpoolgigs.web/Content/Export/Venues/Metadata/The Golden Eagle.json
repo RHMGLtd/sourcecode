@@ -1,0 +1,22 @@
+{
+  "Id": "metadata/12289",
+  "VenueName": "The Golden Eagle",
+  "MainImageName": "The Golden Eagle.jpg",
+  "BarAndClubReviewsUrl": "",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 863043",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "Warren Drive",
+      "Thornton-Cleveleys"
+    ],
+    "Website": "",
+    "EmailAddress": null,
+    "PostCode": "FY5 3TG",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.86589",
+    "Long": "-3.035123"
+  }
+}

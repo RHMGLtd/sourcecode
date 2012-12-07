@@ -1,0 +1,21 @@
+{
+  "Id": "metadata/6155",
+  "VenueName": "The Hop Inn",
+  "MainImageName": "The Hop Inn.jpg",
+  "BarAndClubReviewsUrl": "http://www.bar-and-club-reviews.com/bars/77458-the-hop-inn",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 628573",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "4 King Street"
+    ],
+    "Website": "",
+    "EmailAddress": null,
+    "PostCode": "FY1 3EJ",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.819622",
+    "Long": "-3.048881"
+  }
+}

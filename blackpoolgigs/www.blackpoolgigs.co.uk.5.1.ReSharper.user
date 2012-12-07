@@ -1,0 +1,1067 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Urls/f:ThanksUrl.cs" caret="115" fromTop="5" />
+      <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Controllers/f:ContactController.cs" caret="1043" fromTop="31" />
+      <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Services/f:Blobs.cs" caret="0" fromTop="0" />
+      <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Services/d:Interfaces/f:ISayThanks.cs" caret="169" fromTop="8" />
+      <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Models/f:ThanksImageInfo.cs" caret="71" fromTop="3" />
+      <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Services/f:SayThanks.cs" caret="219" fromTop="8" />
+      <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Models/d:ViewModels/f:ThanksViewModel.cs" caret="48" fromTop="1" />
+      <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Views/d:Contact/f:thanks.spark" caret="1657" fromTop="34" />
+      <File id="6696C82E-D0BD-4CD0-B144-D1B51B6A6A1E/f:BandViewModelSpec.cs" caret="0" fromTop="0" />
+      <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/f:installer.cs" caret="927" fromTop="24" />
+      <File id="6696C82E-D0BD-4CD0-B144-D1B51B6A6A1E/f:BandRoutingSpecs.cs" caret="1003" fromTop="23" />
+      <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/f:Web.config" caret="1071" fromTop="26" />
+      <File id="E9309763-E4F0-448D-85CD-F8ABD7A53FAF/d:Interfaces/f:IWindsorApplication.cs" caret="65" fromTop="3" />
+      <File id="7CEE7A03-0060-4506-A86F-CF32063A2102/f:WindsorControllerFactory.cs" caret="1683" fromTop="45" />
+      <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/f:Global.asax.cs" caret="1504" fromTop="20" />
+      <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/f:RouteRegistration.cs" caret="853" fromTop="21" />
+      <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Views/d:Band/f:claimband.spark" caret="720" fromTop="13" />
+      <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Controllers/f:BandController.cs" caret="2632" fromTop="45" />
+      <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Views/d:Venue/f:venue.spark" caret="0" fromTop="0" />
+      <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Content/f:diary.css" caret="0" fromTop="0" />
+      <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Models/d:ViewModels/f:BandViewModel.cs" caret="219" fromTop="9" />
+      <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Views/d:Shared/f:_venueMetaData.spark" caret="478" fromTop="7" />
+      <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Content/f:metadata.css" caret="0" fromTop="0" />
+      <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Content/f:venue.css" caret="0" fromTop="0" />
+      <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Views/d:Shared/f:_venueContactDetails.spark" caret="2151" fromTop="25" />
+      <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Models/d:ViewModels/f:VenueViewModel.cs" caret="358" fromTop="14" />
+      <File id="6F03BB72-0E24-4AAD-980C-59E1AB04FECA/d:Models/f:VenueMetadata.cs" caret="0" fromTop="0" />
+      <File id="6F03BB72-0E24-4AAD-980C-59E1AB04FECA/d:Models/f:BandMetadata.cs" caret="1658" fromTop="41" />
+      <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Content/f:bands.css" caret="438" fromTop="33" />
+      <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Views/d:Band/f:band.spark" caret="1893" fromTop="24" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="6E90B152-151B-4DC7-9A05-6F0BC0436FB1/f:ExtendingStrings.cs" caret="1163" fromTop="8" />
+      <File id="6E90B152-151B-4DC7-9A05-6F0BC0436FB1/f:ExtendingStrings.cs" caret="1362" fromTop="12" />
+      <File id="E9309763-E4F0-448D-85CD-F8ABD7A53FAF/d:Extensions/f:stringExtensions.cs" caret="3358" fromTop="26" />
+      <File id="E9309763-E4F0-448D-85CD-F8ABD7A53FAF/d:Extensions/f:stringExtensions.cs" caret="3193" fromTop="30" />
+      <File id="6E90B152-151B-4DC7-9A05-6F0BC0436FB1/f:ExtendingStrings.cs" caret="2380" fromTop="36" />
+      <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Views/d:Shared/f:_gigSummary.spark" caret="464" fromTop="4" />
+      <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Views/d:Venue/d:shared/f:_gigDetail.spark" caret="462" fromTop="5" />
+      <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Views/d:Venue/d:shared/f:_gigSummary.spark" caret="586" fromTop="6" />
+      <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Views/d:Diary/d:shared/f:_gigSummary.spark" caret="594" fromTop="6" />
+      <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Views/d:Band/d:Shared/f:_gigSummary.spark" caret="578" fromTop="6" />
+      <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Views/d:Venue/d:shared/f:_gigDetail.spark" caret="1520" fromTop="37" />
+      <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Views/d:Venue/f:gig.spark" caret="1667" fromTop="37" />
+      <File id="E9309763-E4F0-448D-85CD-F8ABD7A53FAF/d:Extensions/f:stringExtensions.cs" caret="3318" fromTop="24" />
+      <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Services/f:SayThanks.cs" caret="176" fromTop="5" />
+      <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/f:Global.asax.cs" caret="340" fromTop="5" />
+      <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Views/d:Band/f:band.spark" caret="4991" fromTop="15" />
+      <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Views/d:Band/f:band.spark" caret="297" fromTop="7" />
+      <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Content/f:bands.css" caret="325" fromTop="26" />
+      <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Content/f:bands.css" caret="438" fromTop="33" />
+      <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Views/d:Band/f:band.spark" caret="4991" fromTop="40" />
+      <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Views/d:Band/f:band.spark" caret="2849" fromTop="35" />
+      <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Views/d:Band/f:band.spark" caret="3330" fromTop="39" />
+      <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Views/d:Band/f:band.spark" caret="4266" fromTop="47" />
+      <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Views/d:Band/f:band.spark" caret="3817" fromTop="42" />
+      <File id="6F03BB72-0E24-4AAD-980C-59E1AB04FECA/d:Models/f:BandMetadata.cs" caret="1763" fromTop="40" />
+      <File id="6F03BB72-0E24-4AAD-980C-59E1AB04FECA/d:Models/f:BandMetadata.cs" caret="1258" fromTop="34" />
+      <File id="6F03BB72-0E24-4AAD-980C-59E1AB04FECA/d:Models/f:BandMetadata.cs" caret="1658" fromTop="41" />
+      <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Views/d:Band/f:band.spark" caret="2071" fromTop="24" />
+      <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Views/d:Band/f:band.spark" caret="1062" fromTop="12" />
+      <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Views/d:Band/f:band.spark" caret="4398" fromTop="43" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="RouteRegistration`0" priority="0" />
+      <Item value="public" priority="260" />
+      <Item value="ResourceResult`0" priority="23" />
+      <Item value="return" priority="181" />
+      <Item value="OK`0" priority="15" />
+      <Item value="new" priority="160" />
+      <Item value="routes" priority="15" />
+      <Item value="LoadPrecompiledViews`0" priority="0" />
+      <Item value="SparkViewFactory" priority="0" />
+      <Item value="var" priority="57" />
+      <Item value="factory" priority="1" />
+      <Item value="SparkViewFactory`0" priority="1" />
+      <Item value="ViewEngines`0" priority="0" />
+      <Item value="Settings" priority="0" />
+      <Item value="SparkSettings" priority="0" />
+      <Item value="ViewEngineCollection`0" priority="0" />
+      <Item value="engines" priority="0" />
+      <Item value="ConfigureSpark`0" priority="0" />
+      <Item value="It`0" priority="59" />
+      <Item value="true" priority="6" />
+      <Item value="where" priority="5" />
+      <Item value="TService`0" priority="2" />
+      <Item value="static" priority="31" />
+      <Item value="with_controller" priority="31" />
+      <Item value="class" priority="96" />
+      <Item value="Snooze" priority="0" />
+      <Item value="Because`0" priority="32" />
+      <Item value="GET`0" priority="17" />
+      <Item value="Behaves_like" priority="18" />
+      <Item value="TController`0" priority="1" />
+      <Item value="DiaryUrl`0" priority="1" />
+      <Item value="container" priority="2" />
+      <Item value="WindsorContainer" priority="0" />
+      <Item value="Service" priority="6" />
+      <Item value="result" priority="46" />
+      <Item value="int" priority="44" />
+      <Item value="MonthView" priority="3" />
+      <Item value="ctor" priority="43" />
+      <Item value="Month" priority="8" />
+      <Item value="DateTime`0" priority="54" />
+      <Item value="HomeController`0" priority="0" />
+      <Item value="StartDate" priority="0" />
+      <Item value="Establish`0" priority="4" />
+      <Item value="Moq" priority="9" />
+      <Item value="autoMocker" priority="0" />
+      <Item value="protected" priority="25" />
+      <Item value="readonly" priority="21" />
+      <Item value="diariser" priority="1" />
+      <Item value="Resource" priority="8" />
+      <Item value="string" priority="137" />
+      <Item value="short" priority="0" />
+      <Item value="IProvideGigs`0" priority="2" />
+      <Item value="Gigs_ByDate`0" priority="1" />
+      <Item value="using" priority="1" />
+      <Item value="blackpoolgigs" priority="1" />
+      <Item value="ravendal" priority="0" />
+      <Item value="gigs" priority="18" />
+      <Item value="if" priority="55" />
+      <Item value="null" priority="6" />
+      <Item value="with_raven_integration" priority="2" />
+      <Item value="session" priority="6" />
+      <Item value="BandNames" priority="4" />
+      <Item value="StartTime" priority="1" />
+      <Item value="Time" priority="0" />
+      <Item value="Hour" priority="0" />
+      <Item value="hour" priority="1" />
+      <Item value="Minute" priority="1" />
+      <Item value="minute" priority="1" />
+      <Item value="throw" priority="5" />
+      <Item value="ArgumentOutOfRangeException" priority="3" />
+      <Item value="bool" priority="18" />
+      <Item value="this" priority="18" />
+      <Item value="input" priority="29" />
+      <Item value="upper" priority="0" />
+      <Item value="lower" priority="0" />
+      <Item value="Venue" priority="13" />
+      <Item value="reading_index`1" priority="0" />
+      <Item value="Gig`0" priority="10" />
+      <Item value="with_raven_client_index" priority="0" />
+      <Item value="AbstractIndexCreationTask`0" priority="0" />
+      <Item value="override" priority="0" />
+      <Item value="IndexDefinition" priority="0" />
+      <Item value="ReduceResult`0" priority="0" />
+      <Item value="Map" priority="0" />
+      <Item value="DocumentStoreFactory`0" priority="0" />
+      <Item value="from" priority="2" />
+      <Item value="docs" priority="0" />
+      <Item value="select" priority="0" />
+      <Item value="BandName" priority="20" />
+      <Item value="Value" priority="13" />
+      <Item value="portNumber" priority="0" />
+      <Item value="abstract" priority="2" />
+      <Item value="const" priority="0" />
+      <Item value="PORT_NUMBER" priority="0" />
+      <Item value="setting" priority="1" />
+      <Item value="config" priority="1" />
+      <Item value="BaseConfig`0" priority="0" />
+      <Item value="TotalGigs" priority="0" />
+      <Item value="FutureGigs" priority="0" />
+      <Item value="GigProvider`0" priority="0" />
+      <Item value="Date" priority="16" />
+      <Item value="count" priority="1" />
+      <Item value="for" priority="5" />
+      <Item value="Url`0" priority="9" />
+      <Item value="ContactUrl`0" priority="2" />
+      <Item value="DiaryLine`0" priority="3" />
+      <Item value="IEnumerable" priority="6" />
+      <Item value="DiaryEntry`0" priority="6" />
+      <Item value="Entries" priority="2" />
+      <Item value="e" priority="0" />
+      <Item value="Monday" priority="1" />
+      <Item value="Diary`0" priority="10" />
+      <Item value="Diary" priority="12" />
+      <Item value="gig" priority="14" />
+      <Item value="date" priority="33" />
+      <Item value="Lines" priority="7" />
+      <Item value="foreach" priority="18" />
+      <Item value="while" priority="4" />
+      <Item value="currentMonth" priority="1" />
+      <Item value="refDate" priority="2" />
+      <Item value="dates" priority="0" />
+      <Item value="diary" priority="16" />
+      <Item value="DateTime" priority="11" />
+      <Item value="private" priority="6" />
+      <Item value="void" priority="5" />
+      <Item value="BuildDiary`0" priority="0" />
+      <Item value="target" priority="4" />
+      <Item value="NotImplementedException" priority="0" />
+      <Item value="FirstDayOfMonth" priority="1" />
+      <Item value="DayOfWeek`0" priority="0" />
+      <Item value="line" priority="7" />
+      <Item value="Sunday" priority="0" />
+      <Item value="DiaryLine" priority="1" />
+      <Item value="List&lt;DiaryEntry&gt;" priority="0" />
+      <Item value="List&lt;DiaryLine&gt;" priority="1" />
+      <Item value="Year" priority="11" />
+      <Item value="Price" priority="0" />
+      <Item value="List" priority="10" />
+      <Item value="Count`1" priority="0" />
+      <Item value="g" priority="0" />
+      <Item value="diaryEntry" priority="2" />
+      <Item value="check" priority="0" />
+      <Item value="Gigs" priority="20" />
+      <Item value="List&lt;Gig&gt;" priority="5" />
+      <Item value="found" priority="2" />
+      <Item value="continue" priority="1" />
+      <Item value="break" priority="0" />
+      <Item value="applicationMessage" priority="0" />
+      <Item value="else" priority="2" />
+      <Item value="band" priority="0" />
+      <Item value="DiaryController`0" priority="11" />
+      <Item value="UrlRoutingHandler" priority="1" />
+      <Item value="u" priority="10" />
+      <Item value="DayUrl`0" priority="2" />
+      <Item value="DiaryViewModel`0" priority="1" />
+      <Item value="MonthUrl`0" priority="1" />
+      <Item value="url" priority="41" />
+      <Item value="switch" priority="1" />
+      <Item value="case" priority="24" />
+      <Item value="default" priority="1" />
+      <Item value="path" priority="0" />
+      <Item value="GigCounts`0" priority="7" />
+      <Item value="GigCounts" priority="1" />
+      <Item value="counts" priority="6" />
+      <Item value="reader" priority="0" />
+      <Item value="read" priority="3" />
+      <Item value="ReadOut`1" priority="4" />
+      <Item value="fileName" priority="1" />
+      <Item value="Behaviors" priority="0" />
+      <Item value="Redirect`0" priority="2" />
+      <Item value="System" priority="2" />
+      <Item value="Collections" priority="0" />
+      <Item value="Concurrent" priority="0" />
+      <Item value="ConcurrentDictionary" priority="2" />
+      <Item value="object" priority="0" />
+      <Item value="ICacheStuff`0" priority="2" />
+      <Item value="HostingEnvironment`0" priority="0" />
+      <Item value="cache" priority="18" />
+      <Item value="_diaryCache" priority="1" />
+      <Item value="ConcurrentDictionary&lt;string,Diary&gt;" priority="0" />
+      <Item value="d" priority="4" />
+      <Item value="cacheRefresh" priority="2" />
+      <Item value="DiaryCache" priority="2" />
+      <Item value="CacheExpired`0" priority="0" />
+      <Item value="CountsCache" priority="1" />
+      <Item value="CacheExpiry`0" priority="1" />
+      <Item value="redirect`0" priority="0" />
+      <Item value="SeeOther`0" priority="1" />
+      <Item value="see_other`0" priority="3" />
+      <Item value="Entry" priority="0" />
+      <Item value="DiaryEntry" priority="1" />
+      <Item value="entry" priority="5" />
+      <Item value="Dateify`0" priority="0" />
+      <Item value="diaryentry`0" priority="0" />
+      <Item value="Gig" priority="5" />
+      <Item value="UriTypeConverter`0" priority="0" />
+      <Item value="YearUrl`0" priority="0" />
+      <Item value="MonthlyCounts" priority="0" />
+      <Item value="MonthlyGigCounts`0" priority="0" />
+      <Item value="MonthCount`0" priority="1" />
+      <Item value="list" priority="1" />
+      <Item value="Get`0" priority="3" />
+      <Item value="year" priority="5" />
+      <Item value="MonthlyGigCounts" priority="1" />
+      <Item value="Counts" priority="0" />
+      <Item value="JsonIgnore" priority="0" />
+      <Item value="with_service" priority="1" />
+      <Item value="Diariser`0" priority="0" />
+      <Item value="FileShare`0" priority="0" />
+      <Item value="files" priority="3" />
+      <Item value="IFile`0" priority="2" />
+      <Item value="Component`0" priority="0" />
+      <Item value="GigProviderCache`0" priority="0" />
+      <Item value="with_file_system`0" priority="0" />
+      <Item value="Ignore" priority="0" />
+      <Item value="ContactViewModel`0" priority="2" />
+      <Item value="ContactController`0" priority="1" />
+      <Item value="POST`0" priority="1" />
+      <Item value="model" priority="9" />
+      <Item value="BadRequest`0" priority="1" />
+      <Item value="Route" priority="1" />
+      <Item value="whatAbout" priority="0" />
+      <Item value="yourEmail" priority="0" />
+      <Item value="yourName" priority="0" />
+      <Item value="ThanksUrl`0" priority="2" />
+      <Item value="contact" priority="7" />
+      <Item value="Request" priority="1" />
+      <Item value="ImageId" priority="0" />
+      <Item value="email" priority="1" />
+      <Item value="ResourceController`0" priority="2" />
+      <Item value="VenueUrl`0" priority="2" />
+      <Item value="VenueController`0" priority="6" />
+      <Item value="ThanksViewModel`0" priority="0" />
+      <Item value="VenueName" priority="10" />
+      <Item value="VenueDiary" priority="0" />
+      <Item value="VenueDiaryCache" priority="1" />
+      <Item value="ConcurrentDictionary&lt;string,VenueDiary&gt;" priority="0" />
+      <Item value="ContactDetail`0" priority="0" />
+      <Item value="GoogleMapCoords`0" priority="2" />
+      <Item value="IGiveYouVenues`0" priority="5" />
+      <Item value="venues" priority="8" />
+      <Item value="VenueMetadata`0" priority="6" />
+      <Item value="Metadata" priority="2" />
+      <Item value="venueName" priority="10" />
+      <Item value="VenueMetadataCache" priority="1" />
+      <Item value="ConcurrentDictionary&lt;string,VenueMetadata&gt;" priority="0" />
+      <Item value="IAmNullable`0" priority="1" />
+      <Item value="VenueDiary`0" priority="20" />
+      <Item value="false" priority="3" />
+      <Item value="NotFound`0" priority="4" />
+      <Item value="virtual" priority="1" />
+      <Item value="VenueName`0" priority="5" />
+      <Item value="not_found`0" priority="13" />
+      <Item value="IsNull" priority="0" />
+      <Item value="XmlFormatter`0" priority="1" />
+      <Item value="b" priority="0" />
+      <Item value="NewsStyleUriParser`0" priority="2" />
+      <Item value="MonthCount" priority="1" />
+      <Item value="Count" priority="0" />
+      <Item value="FourOhFourReason`0" priority="5" />
+      <Item value="Reason" priority="5" />
+      <Item value="gigList" priority="2" />
+      <Item value="diaryLine" priority="1" />
+      <Item value="DiaryNotFoundViewModel`0" priority="12" />
+      <Item value="now" priority="0" />
+      <Item value="Blob`0" priority="3" />
+      <Item value="blobs" priority="7" />
+      <Item value="List&lt;Blob&gt;" priority="0" />
+      <Item value="Blob" priority="0" />
+      <Item value="Chat" priority="0" />
+      <Item value="Path" priority="1" />
+      <Item value="Name" priority="2" />
+      <Item value="TooFarInTheFuture" priority="0" />
+      <Item value="DiaryNotFoundUrl`0" priority="1" />
+      <Item value="ErrorController`0" priority="1" />
+      <Item value="blob" priority="0" />
+      <Item value="badRequest`0" priority="0" />
+      <Item value="DateNotValid" priority="0" />
+      <Item value="try" priority="0" />
+      <Item value="AsDate`0" priority="0" />
+      <Item value="ErrorUrl`0" priority="0" />
+      <Item value="Int32`0" priority="1" />
+      <Item value="VenueNotFoundViewModel`0" priority="0" />
+      <Item value="YearBefore`0" priority="0" />
+      <Item value="NextYear`0" priority="0" />
+      <Item value="month" priority="0" />
+      <Item value="GigUrl`0" priority="1" />
+      <Item value="NoGigOnThisDate" priority="0" />
+      <Item value="venue" priority="3" />
+      <Item value="SubUrl" priority="0" />
+      <Item value="Parent" priority="0" />
+      <Item value="GigViewModel`0" priority="1" />
+      <Item value="FourOhFourViewModel`0" priority="0" />
+      <Item value="DayViewModel`0" priority="0" />
+      <Item value="TodayUrl`0" priority="0" />
+      <Item value="Stub`1" priority="4" />
+      <Item value="MonthlyCountsCache" priority="0" />
+      <Item value="VenueViewModel`0" priority="0" />
+      <Item value="VenueMapUrl`0" priority="1" />
+      <Item value="coords" priority="1" />
+      <Item value="MainImageName" priority="0" />
+      <Item value="GoogleMapCoords" priority="0" />
+      <Item value="Lat" priority="0" />
+      <Item value="Long" priority="0" />
+      <Item value="NotFoundViewModel`0" priority="2" />
+      <Item value="base" priority="0" />
+      <Item value="InvalidRouteRequested" priority="0" />
+      <Item value="ReasonString`0" priority="0" />
+      <Item value="NoMapForThisVenue" priority="1" />
+      <Item value="reason" priority="0" />
+      <Item value="routing_to_a_gig`0" priority="0" />
+      <Item value="VenuesViewModel`0" priority="0" />
+      <Item value="VenueProvider`0" priority="0" />
+      <Item value="fileSystemExtensions`0" priority="0" />
+      <Item value="dir" priority="3" />
+      <Item value="search1" priority="2" />
+      <Item value="search" priority="5" />
+      <Item value="ReadAndClose`0" priority="0" />
+      <Item value="TextReader`0" priority="2" />
+      <Item value="as" priority="0" />
+      <Item value="T`0" priority="4" />
+      <Item value="Results" priority="5" />
+      <Item value="SmartMatch" priority="3" />
+      <Item value="ReadAndClose`1" priority="2" />
+      <Item value="IList" priority="0" />
+      <Item value="options" priority="3" />
+      <Item value="file" priority="3" />
+      <Item value="SmartMatchFor`1" priority="0" />
+      <Item value="IDirectory`0" priority="1" />
+      <Item value="Double`0" priority="0" />
+      <Item value="Void`0" priority="0" />
+      <Item value="VenueMetadata" priority="1" />
+      <Item value="EmptyVenueDiary`0" priority="0" />
+      <Item value="PagingParams" priority="8" />
+      <Item value="PagingParams`0" priority="2" />
+      <Item value="Params" priority="3" />
+      <Item value="paging" priority="1" />
+      <Item value="GetDiary`0" priority="0" />
+      <Item value="AboutUrl`0" priority="2" />
+      <Item value="x" priority="1" />
+      <Item value="DayMapUrl`0" priority="0" />
+      <Item value="GigSummaryForMap`0" priority="0" />
+      <Item value="GigSummaryForMap" priority="0" />
+      <Item value="Bands" priority="1" />
+      <Item value="MapCoords" priority="0" />
+      <Item value="s" priority="4" />
+      <Item value="ForDate" priority="0" />
+      <Item value="ContentController`0" priority="1" />
+      <Item value="BandLookingForAGigUrl`0" priority="1" />
+      <Item value="BandLookingForAGigViewModel`0" priority="0" />
+      <Item value="DayUrl" priority="0" />
+      <Item value="MonthUrl" priority="0" />
+      <Item value="StolenGearUrl`0" priority="3" />
+      <Item value="stolenGearFiles" priority="0" />
+      <Item value="IListenerChannelCallback`0" priority="1" />
+      <Item value="StolenGear`0" priority="1" />
+      <Item value="stolenGear" priority="0" />
+      <Item value="filtered" priority="0" />
+      <Item value="id" priority="1" />
+      <Item value="Paging" priority="0" />
+      <Item value="stolen" priority="2" />
+      <Item value="PageOfResults" priority="1" />
+      <Item value="Id" priority="0" />
+      <Item value="Items" priority="0" />
+      <Item value="Image`0" priority="4" />
+      <Item value="img" priority="2" />
+      <Item value="width" priority="1" />
+      <Item value="changeRatio" priority="0" />
+      <Item value="Resize`0" priority="0" />
+      <Item value="extrapolatedHeight" priority="2" />
+      <Item value="origin" priority="1" />
+      <Item value="decimal" priority="1" />
+      <Item value="VenuesMapUrl`0" priority="0" />
+      <Item value="Venues" priority="0" />
+      <Item value="metadata" priority="1" />
+      <Item value="File`0" priority="0" />
+      <Item value="cartoons" priority="0" />
+      <Item value="ThanksImageInfo" priority="1" />
+      <Item value="selected" priority="1" />
+      <Item value="Alt" priority="0" />
+      <Item value="Title" priority="0" />
+      <Item value="ISayThanks`0" priority="0" />
+      <Item value="ImageAlt" priority="0" />
+      <Item value="thanks" priority="0" />
+      <Item value="ImagePath" priority="0" />
+      <Item value="ImageTitle" priority="0" />
+      <Item value="ThisWeek" priority="0" />
+      <Item value="GetEntry`0" priority="0" />
+      <Item value="RecentlyUpdated" priority="0" />
+      <Item value="Edited" priority="0" />
+      <Item value="GigTitle" priority="1" />
+      <Item value="Summary" priority="0" />
+      <Item value="summary" priority="0" />
+      <Item value="DaysSinceChange" priority="0" />
+      <Item value="changeDate" priority="2" />
+      <Item value="RecentlyChangedInfo" priority="1" />
+      <Item value="formatDate`0" priority="0" />
+      <Item value="IDoOtherThingsWithGigs`0" priority="1" />
+      <Item value="otherGigs" priority="0" />
+      <Item value="RecentlyChangedInfo`0" priority="0" />
+      <Item value="V`0" priority="0" />
+      <Item value="BandCount" priority="1" />
+      <Item value="VenueCount" priority="0" />
+      <Item value="Live" priority="0" />
+      <Item value="JsonConverter`0" priority="0" />
+      <Item value="response" priority="0" />
+      <Item value="ThanksImageInfo`0" priority="0" />
+      <Item value="BandsUrl`0" priority="0" />
+      <Item value="params" priority="3" />
+      <Item value="errorReturn" priority="1" />
+      <Item value="Any`1" priority="2" />
+      <Item value="t" priority="0" />
+      <Item value="IAccessTheFileSystem`0" priority="0" />
+      <Item value="fs" priority="1" />
+      <Item value="BandName`0" priority="7" />
+      <Item value="bands" priority="4" />
+      <Item value="alphaPick" priority="4" />
+      <Item value="filter" priority="0" />
+      <Item value="AlphaPick" priority="2" />
+      <Item value="FakeFile`0" priority="1" />
+      <Item value="name" priority="2" />
+      <Item value="NameWithoutExtension" priority="0" />
+      <Item value="ISummariseBands`0" priority="1" />
+      <Item value="BandNames`0" priority="0" />
+      <Item value="TotalNumberOfBands" priority="0" />
+      <Item value="bandSummary" priority="0" />
+      <Item value="bandName" priority="2" />
+      <Item value="BandController`0" priority="3" />
+      <Item value="BandUrl`0" priority="0" />
+      <Item value="IGiveYouGigs`0" priority="0" />
+      <Item value="BandDiary`0" priority="1" />
+      <Item value="vm" priority="3" />
+      <Item value="BandViewModel" priority="0" />
+      <Item value="BandDiary" priority="1" />
+      <Item value="future" priority="1" />
+      <Item value="past" priority="0" />
+      <Item value="ClaimBandUrl`0" priority="1" />
+      <Item value="ClaimBandViewModel`0" priority="2" />
+      <Item value="ipAddress" priority="1" />
+      <Item value="claim" priority="2" />
+      <Item value="MainContactName" priority="2" />
+      <Item value="OtherContacts" priority="2" />
+      <Item value="ContactEmail" priority="1" />
+      <Item value="AverageAge" priority="1" />
+      <Item value="Bio" priority="0" />
+      <Item value="Style" priority="1" />
+      <Item value="ClaimThanksViewModel`0" priority="0" />
+      <Item value="ClaimThanksUrl`0" priority="0" />
+      <Item value="BandMetadata`0" priority="0" />
+      <Item value="NullReferenceException`0" priority="0" />
+      <Item value="data" priority="0" />
+      <Item value="MySpaceLink" priority="0" />
+      <Item value="FacebookLink" priority="0" />
+      <Item value="NumberOfBandMembers" priority="0" />
+      <Item value="HomeTown" priority="0" />
+      <Item value="OtherLinks" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Routing.RouteCollection">
+      <Item value="Map`1" priority="17" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Snooze.ResourceResult">
+      <Item value="AsHtml`0" priority="18" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Spark.Web.Mvc.Install.DescribeBatchEventArgs">
+      <Item value="Batch" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Spark.SparkBatchDescriptor">
+      <Item value="For`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Web.Mvc.ViewEngines">
+      <Item value="Engines" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.ViewEngineCollection">
+      <Item value="Add`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Boolean">
+      <Item value="ShouldEqual`1" priority="0" />
+      <Item value="ShouldBeTrue`0" priority="5" />
+      <Item value="ShouldBeFalse`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="37" />
+      <Item value="TryParse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="Month" priority="20" />
+      <Item value="Date" priority="17" />
+      <Item value="Second" priority="0" />
+      <Item value="ShouldEqual`1" priority="1" />
+      <Item value="AddDays`0" priority="9" />
+      <Item value="DayOfWeek" priority="3" />
+      <Item value="Year" priority="22" />
+      <Item value="Day" priority="5" />
+      <Item value="AddMinutes`0" priority="1" />
+      <Item value="AddYears`0" priority="5" />
+      <Item value="ToString`0" priority="0" />
+      <Item value="YearTooFarInFuture`0" priority="0" />
+      <Item value="YearIsArchived`0" priority="0" />
+      <Item value="GetSundayOfWeek`0" priority="0" />
+      <Item value="Subtract`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:www.blackpoolgigs.co.uk.Models.MonthView">
+      <Item value="StartDate" priority="1" />
+      <Item value="ShouldNotBeNull`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:www.blackpoolgigs.co.uk.Services.Interfaces.IDiarise">
+      <Item value="Future`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Moq.Language.Flow.ISetup`2">
+      <Item value="Returns`16" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:www.blackpoolgigs.co.uk.Models.ViewModels.DiaryViewModel">
+      <Item value="Diary" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:blackpoolgigs.common.Models.MonthView">
+      <Item value="CoreDate" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Raven.Client.IDocumentSession">
+      <Item value="Store`0" priority="1" />
+      <Item value="SaveChanges`0" priority="1" />
+      <Item value="Advanced" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ShouldEqual`1" priority="16" />
+      <Item value="ToString`0" priority="19" />
+      <Item value="ShouldBe`0" priority="0" />
+      <Item value="Dateify`0" priority="3" />
+      <Item value="Between`0" priority="3" />
+      <Item value="RandomFromZeroTo`0" priority="0" />
+      <Item value="YearTooFarInFuture`0" priority="1" />
+      <Item value="YearIsArchived`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Raven.Client.ISyncAdvancedSessionOperation">
+      <Item value="LuceneQuery`1" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Raven.Client.IDocumentQuery`1">
+      <Item value="WaitForNonStaleResults`0" priority="2" />
+      <Item value="QueryResult" priority="1" />
+      <Item value="WhereGreaterThan`0" priority="0" />
+      <Item value="WhereEquals`0" priority="1" />
+      <Item value="AndAlso`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Raven.Client.Indexes.IndexDefinition`2">
+      <Item value="ToIndexDefinition`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:blackpoolgigs.common.Models.Gig">
+      <Item value="BandNames" priority="0" />
+      <Item value="Venue" priority="3" />
+      <Item value="StartTime" priority="1" />
+      <Item value="Month" priority="0" />
+      <Item value="Date" priority="13" />
+      <Item value="Year" priority="0" />
+      <Item value="Summary" priority="2" />
+      <Item value="Edited" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="IsNullOrEmpty`0" priority="9" />
+      <Item value="Empty" priority="4" />
+      <Item value="Format`0" priority="5" />
+      <Item value="IsNullOrWhiteSpace`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="Parse`0" priority="7" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Castle.Windsor.IWindsorContainer">
+      <Item value="Register`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:coolbunny.common.Interfaces.IEnvironmentConfiguration">
+      <Item value="PortNumber" priority="0" />
+      <Item value="Environment" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@coolbunny.common.EnvironmentConfigurationHelper">
+      <Item value="GetPortNumber`0" priority="0" />
+      <Item value="GetEmailUserName`0" priority="0" />
+      <Item value="GetEmailPassword`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@coolbunny.common.ApplicationEnvironment">
+      <Item value="Local" priority="0" />
+      <Item value="Development" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:blackpoolgigs.ravendal.Providers.GigProvider">
+      <Item value="TotalCount`0" priority="0" />
+      <Item value="FutureCount`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Raven.Database.Data.QueryResult">
+      <Item value="TotalResults" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:blackpoolgigs.web.Models.ViewModels.Diary+DiaryLine+DiaryEntry">
+      <Item value="Date" priority="0" />
+      <Item value="Gigs" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="FirstOrDefault`1" priority="3" />
+      <Item value="ToList`1" priority="1" />
+      <Item value="Any`1" priority="0" />
+      <Item value="First`1" priority="2" />
+      <Item value="Count`1" priority="4" />
+      <Item value="Where`1" priority="3" />
+      <Item value="OrderBy`2" priority="2" />
+      <Item value="Skip`1" priority="0" />
+      <Item value="ElementAt`1" priority="1" />
+      <Item value="Select`2" priority="1" />
+      <Item value="ToString`0" priority="0" />
+      <Item value="OrderByDescending`2" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DayOfWeek">
+      <Item value="Tuesday" priority="0" />
+      <Item value="Wednesday" priority="0" />
+      <Item value="Thursday" priority="0" />
+      <Item value="Friday" priority="0" />
+      <Item value="Saturday" priority="0" />
+      <Item value="Sunday" priority="1" />
+      <Item value="Monday" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:blackpoolgigs.web.Services.Interfaces.IDiarise">
+      <Item value="GetHashCode`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@blackpoolgigs.common.Models.Diary">
+      <Item value="DiaryLine`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="8" />
+      <Item value="OrderBy`2" priority="1" />
+      <Item value="Count" priority="9" />
+      <Item value="Any`1" priority="5" />
+      <Item value="ToArray`0" priority="0" />
+      <Item value="Where`1" priority="0" />
+      <Item value="Sort`0" priority="0" />
+      <Item value="Select`2" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:blackpoolgigs.common.Models.Diary">
+      <Item value="Lines" priority="5" />
+      <Item value="FirstDayOfMonth" priority="1" />
+      <Item value="AddGigs`0" priority="1" />
+      <Item value="GetEntry`0" priority="1" />
+      <Item value="HasGigs`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:blackpoolgigs.common.Models.DiaryLine">
+      <Item value="Entries" priority="6" />
+      <Item value="Friday" priority="1" />
+      <Item value="ForDate`0" priority="2" />
+      <Item value="Saturday" priority="0" />
+      <Item value="HasGigs`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:blackpoolgigs.common.Models.DiaryEntry">
+      <Item value="Gigs" priority="3" />
+      <Item value="Date" priority="1" />
+      <Item value="ShouldNotBeNull`0" priority="1" />
+      <Item value="Summary" priority="0" />
+      <Item value="HasGigs`0" priority="0" />
+      <Item value="Sort`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IOrderedEnumerable`1">
+      <Item value="ToList`1" priority="2" />
+      <Item value="Select`2" priority="0" />
+      <Item value="Take`1" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:blackpoolgigs.common.Models.BandName">
+      <Item value="Value" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="TrimStart`0" priority="0" />
+      <Item value="AsMonth`0" priority="2" />
+      <Item value="ToLower`0" priority="4" />
+      <Item value="EndsWith`0" priority="2" />
+      <Item value="ShouldEqual`1" priority="10" />
+      <Item value="ShouldEachConformTo`1" priority="0" />
+      <Item value="Substring`0" priority="2" />
+      <Item value="Length" priority="0" />
+      <Item value="Contains`0" priority="0" />
+      <Item value="Replace`0" priority="5" />
+      <Item value="Linkify`0" priority="3" />
+      <Item value="CatchAll`1" priority="1" />
+      <Item value="ToString`0" priority="0" />
+      <Item value="StartsWith`0" priority="2" />
+      <Item value="EnsureStartsWith`0" priority="0" />
+      <Item value="RemoveStartsWith`0" priority="0" />
+      <Item value="Split`0" priority="0" />
+      <Item value="ToUpper`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:blackpoolgigs.web.Urls.MonthUrl">
+      <Item value="Month" priority="0" />
+      <Item value="AsDate`0" priority="3" />
+      <Item value="Year" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:blackpoolgigs.ravendal.IProvideGigs">
+      <Item value="Get`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:blackpoolgigs.common.Models.GigCounts">
+      <Item value="TotalGigs" priority="0" />
+      <Item value="FutureGigs" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.FileStream">
+      <Item value="Close`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpServerUtilityBase">
+      <Item value="MapPath`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:blackpoolgigs.common.Interfaces.IGiveYouGigs">
+      <Item value="Get`0" priority="4" />
+      <Item value="Counts`0" priority="0" />
+      <Item value="MonthlyCounts`0" priority="1" />
+      <Item value="GetEntry`0" priority="0" />
+      <Item value="Week`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Moq.It">
+      <Item value="IsAny`1" priority="7" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Web.Hosting.HostingEnvironment">
+      <Item value="MapPath`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:blackpoolgigs.common.Interfaces.ICacheStuff">
+      <Item value="CountsCache" priority="2" />
+      <Item value="DiaryCache" priority="2" />
+      <Item value="GetDiary`0" priority="4" />
+      <Item value="GetCounts`0" priority="0" />
+      <Item value="GetMetadata`0" priority="0" />
+      <Item value="Get`0" priority="0" />
+      <Item value="GetStolenGear`0" priority="1" />
+      <Item value="Venues`0" priority="0" />
+      <Item value="RecentlyUpdated`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Concurrent.ConcurrentDictionary`2">
+      <Item value="ContainsKey`0" priority="0" />
+      <Item value="AddOrUpdate`0" priority="0" />
+      <Item value="TryAdd`0" priority="1" />
+      <Item value="TryGetValue`0" priority="0" />
+      <Item value="Clear`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:blackpoolgigs.web.Urls.DayUrl">
+      <Item value="AsDate`0" priority="1" />
+      <Item value="Month" priority="0" />
+      <Item value="Date" priority="0" />
+      <Item value="IsValid`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:blackpoolgigs.web.Urls.YearUrl">
+      <Item value="Year" priority="7" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:blackpoolgigs.common.Models.MonthlyGigCounts">
+      <Item value="ForYear`0" priority="0" />
+      <Item value="Counts" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:blackpoolgigs.web.Services.Diariser">
+      <Item value="Get`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:blackpoolgigs.filedal.Providers.GigProviderCache">
+      <Item value="GetDiary`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:OpenFileSystem.IO.IFileSystem">
+      <Item value="GetFile`0" priority="0" />
+      <Item value="Files`0" priority="0" />
+      <Item value="GetDirectory`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:OpenFileSystem.IO.IFile">
+      <Item value="OpenRead`0" priority="3" />
+      <Item value="Name" priority="3" />
+      <Item value="NameWithoutExtension" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Castle.MicroKernel.Registration.ComponentRegistration`1">
+      <Item value="ImplementedBy`0" priority="0" />
+      <Item value="LifeStyle" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Castle.MicroKernel.Registration.Lifestyle.LifestyleGroup`1">
+      <Item value="HybridPerWebRequestTransient`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:blackpoolgigs.web.Models.ViewModels.ContactViewModel">
+      <Item value="yourName" priority="1" />
+      <Item value="whatAbout" priority="2" />
+      <Item value="yourEmail" priority="2" />
+      <Item value="IPAddress" priority="1" />
+      <Item value="InValid`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:blackpoolgigs.web.Urls.ThanksUrl">
+      <Item value="contact" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpRequestBase">
+      <Item value="Headers" priority="0" />
+      <Item value="Form" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:blackpoolgigs.web.Services.Interfaces.IEmail">
+      <Item value="Send`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:blackpoolgigs.web.Urls.VenueUrl">
+      <Item value="Venue" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:blackpoolgigs.common.Interfaces.IGiveYouVenues">
+      <Item value="GetMetadata`0" priority="4" />
+      <Item value="Get`0" priority="0" />
+      <Item value="Venues`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:blackpoolgigs.common.Models.VenueMetadata">
+      <Item value="VenueName" priority="0" />
+      <Item value="MapCoords" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:blackpoolgigs.common.Models.VenueDiary">
+      <Item value="IsNull" priority="1" />
+      <Item value="ForDate`0" priority="0" />
+      <Item value="Gigs" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:blackpoolgigs.common.Models.MonthCount">
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@blackpoolgigs.web.Models.FourOhFourReason">
+      <Item value="TooFarInTheFuture" priority="1" />
+      <Item value="HistoricalNoGigs" priority="1" />
+      <Item value="DateNotValid" priority="4" />
+      <Item value="InvalidRouteRequested" priority="0" />
+      <Item value="NoGigOnThisDate" priority="0" />
+      <Item value="NoMapForThisVenue" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:blackpoolgigs.web.Models.ViewModels.DiaryNotFoundViewModel">
+      <Item value="Reason" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:blackpoolgigs.web.Models.FourOhFourReason">
+      <Item value="ShouldEqual`1" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:blackpoolgigs.web.Services.Interfaces.IProvideBlobs">
+      <Item value="GiveMeOne`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:blackpoolgigs.web.Urls.DiaryNotFoundUrl">
+      <Item value="Reason" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:blackpoolgigs.web.Models.ViewModels.FourOhFourViewModel">
+      <Item value="Reason" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:blackpoolgigs.web.Urls.ErrorUrl">
+      <Item value="CatchAll`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:blackpoolgigs.web.Urls.GigUrl">
+      <Item value="AsDate`0" priority="0" />
+      <Item value="Venue" priority="1" />
+      <Item value="Parent" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:blackpoolgigs.web.Models.ViewModels.GigViewModel">
+      <Item value="Gig" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:blackpoolgigs.filedal.Providers.VenueProvider">
+      <Item value="Get`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:blackpoolgigs.common.Contracts.VenueName">
+      <Item value="Tidy`0" priority="0" />
+      <Item value="Value" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:blackpoolgigs.common.Models.GoogleMapCoords">
+      <Item value="IsEmpty`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:blackpoolgigs.web.Urls.VenueMapUrl">
+      <Item value="Venue" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:blackpoolgigs.web.Models.ViewModels.NotFoundViewModel">
+      <Item value="ReasonString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:blackpoolgigs.web.Models.ViewModels.VenueMapNotFoundViewModel">
+      <Item value="Reason" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:OpenFileSystem.IO.IDirectory">
+      <Item value="Files`0" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.Stream">
+      <Item value="ReadFully`0" priority="0" />
+      <Item value="Close`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:blackpoolgigs.common.Models.SmartMatch`1">
+      <Item value="Results" priority="6" />
+      <Item value="ExactMatchFound" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IList`1">
+      <Item value="Add`0" priority="1" />
+      <Item value="First`1" priority="0" />
+      <Item value="OrderBy`2" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Moq.Mock`1">
+      <Item value="Setup`1" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:blackpoolgigs.web.Urls.DayMapUrl">
+      <Item value="AsDate`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:blackpoolgigs.common.Models.StolenGear">
+      <Item value="Edited" priority="0" />
+      <Item value="Id" priority="0" />
+      <Item value="Archived" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:blackpoolgigs.common.Interfaces.IDealInStolenGear">
+      <Item value="Get`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:blackpoolgigs.web.Urls.StolenGearUrl">
+      <Item value="Id" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Image">
+      <Item value="Width" priority="1" />
+      <Item value="Height" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Image">
+      <Item value="FromFile`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Math">
+      <Item value="Ceiling`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:blackpoolgigs.web.Services.Interfaces.ISayThanks">
+      <Item value="GetHashCode`0" priority="0" />
+      <Item value="Gimme`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:blackpoolgigs.web.Models.ThanksImageInfo">
+      <Item value="Alt" priority="0" />
+      <Item value="Path" priority="0" />
+      <Item value="Title" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.TimeSpan">
+      <Item value="Days" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:blackpoolgigs.common.Interfaces.IDoOtherThingsWithGigs">
+      <Item value="RecentlyUpdated`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:blackpoolgigs.common.Models.Counts">
+      <Item value="Bands" priority="0" />
+      <Item value="Venues" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.WebResponse">
+      <Item value="GetResponseStream`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:blackpoolgigs.common.Interfaces.IAccessTheFileSystem">
+      <Item value="Equals`0" priority="0" />
+      <Item value="ReadOut`1" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:blackpoolgigs.common.Interfaces.IWillProvideBands">
+      <Item value="GetBands`0" priority="0" />
+      <Item value="Get`0" priority="0" />
+      <Item value="GetMetadata`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Globalization.CultureInfo">
+      <Item value="CurrentCulture" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:blackpoolgigs.web.Urls.BandsUrl">
+      <Item value="AlphaPick" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:blackpoolgigs.filedal.Providers.BandProvider">
+      <Item value="GetBands`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:coolbunny.common.Helpers.PageOfResults`1">
+      <Item value="TotalNumberOfRecords" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:blackpoolgigs.common.Interfaces.ISummariseBands">
+      <Item value="NumberOfBands`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:blackpoolgigs.web.Urls.BandUrl">
+      <Item value="BandName" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:blackpoolgigs.common.Models.BandDiary">
+      <Item value="Gigs" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:blackpoolgigs.web.Models.ViewModels.BandViewModel">
+      <Item value="Diary" priority="0" />
+      <Item value="FutureGigs" priority="0" />
+      <Item value="HistoricGigs" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:blackpoolgigs.web.Urls.ClaimBandUrl">
+      <Item value="BandName" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:blackpoolgigs.web.Models.ViewModels.ClaimBandViewModel">
+      <Item value="ContactEmail" priority="0" />
+      <Item value="BandName" priority="0" />
+      <Item value="OtherContacts" priority="0" />
+      <Item value="MainContactName" priority="0" />
+      <Item value="AverageAge" priority="0" />
+      <Item value="CoverPercentage" priority="0" />
+      <Item value="OriginalPercentage" priority="0" />
+      <Item value="MySpaceLink" priority="0" />
+      <Item value="FacebookLink" priority="0" />
+      <Item value="OtherLinks" priority="0" />
+      <Item value="NumberOfBandMembers" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:blackpoolgigs.web.Urls.ClaimThanksUrl">
+      <Item value="BandName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:blackpoolgigs.common.Models.BandMetadata">
+      <Item value="NumberOfBandMembers" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

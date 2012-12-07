@@ -1,0 +1,82 @@
+{
+  "IsNull": false,
+  "Venue": "Victorian Sunlounge",
+  "Gigs": [
+    {
+      "Id": "gig/2052",
+      "BandNames": [
+        {
+          "Value": "Troubadour"
+        },
+        {
+          "Value": "Jon Brindley"
+        },
+        {
+          "Value": "Rae Morris"
+        },
+        {
+          "Value": "Dan Wilde"
+        },
+        {
+          "Value": "Spiral Scouts"
+        },
+        {
+          "Value": "Jily Riley"
+        },
+        {
+          "Value": "Pan"
+        },
+        {
+          "Value": "Ghost Trains"
+        },
+        {
+          "Value": "Andy Stones"
+        },
+        {
+          "Value": "Gaia"
+        },
+        {
+          "Value": "The Magdalenas"
+        },
+        {
+          "Value": "3 Daft Monkeys"
+        },
+        {
+          "Value": "Emily Barker & the Red Clay Halo"
+        }
+      ],
+      "Venue": "Victorian Sunlounge",
+      "Date": "\/Date(1306537200000+0100)\/",
+      "StartTime": "11:30",
+      "Price": "£15.00",
+      "MoreInfo": "TICKETS NOW ON SALE!\r\nPlease follow Ticketweb link\r\nhttp://www.ticketweb.co.uk/user/?region=xxx&query=schedule&promoter=barefootbabylon&interface=barefootbabylon\r\n\r\nor pop into Winter Gardens Box Officeto buy Adult Tickets for discount advance price of only £15.",
+      "GigTitle": "Barefoot in Babylon Festival",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303686000000+0100)\/",
+      "Edited": "\/Date(1303686000000+0100)\/"
+    },
+    {
+      "Id": "gig/78878",
+      "BandNames": [
+        {
+          "Value": "The Monster Squad"
+        },
+        {
+          "Value": "Chameleon Jazz Band"
+        }
+      ],
+      "Venue": "Victorian Sunlounge",
+      "Date": "\/Date(1310166000000+0100)\/",
+      "StartTime": "19:00",
+      "Price": "£10.00",
+      "MoreInfo": "Yes people, it's that time of year again! Ladies get your frocks at the ready and gents dust off your tuxedos 'cause Blackpool LIFE are holding yet another extravigant SUMMER BALL!!!\r\n\r\nIf you attended last year's Enchantment Over the Sea Dance then you'll know just what to expect. A classy evening compered by the dazzling ANNE NOLAN with live music from the Chameleon Jazz Band and the amazing MONSTER SQUAD!!\r\n\r\nSet in the stunning, beautifully lit Victorian Sunlounge on the end of the north pier, this sophisticated evening promises to be filled with wonder and surprise as guests dance the night away in truly enchanting surroundings.\r\n\r\nDelicious canapes will be served throughout the evening and the champagne will flow like wine!!\r\n\r\nThe shuttle bus will carry guests in true style from one end of the pier to the next where the red carpet will be rolled out!\r\n\r\nAll this for just £10 a ticket!!\r\n\r\nFor reservations either contact Laura on 07790280065 or go to The North Pier Box office.",
+      "GigTitle": "The Enchantment Over the Sea Dance",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308917288000+0100)\/",
+      "Edited": "\/Date(1308917288000+0100)\/"
+    }
+  ],
+  "Future": []
+}

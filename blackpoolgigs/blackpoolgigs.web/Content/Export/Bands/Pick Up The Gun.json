@@ -1,0 +1,31 @@
+{
+  "BandName": {
+    "Value": "Pick Up The Gun"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/72705",
+      "BandNames": [
+        {
+          "Value": "The Pretty Thunder"
+        },
+        {
+          "Value": "Dinosaurs Are Shit Dragons"
+        },
+        {
+          "Value": "Pick Up The Gun"
+        }
+      ],
+      "Venue": "The Blue Room",
+      "Date": "\/Date(1308351600000+0100)\/",
+      "StartTime": "20:30",
+      "Price": "£1.00",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308247857000+0100)\/",
+      "Edited": "\/Date(1308247857000+0100)\/"
+    }
+  ]
+}

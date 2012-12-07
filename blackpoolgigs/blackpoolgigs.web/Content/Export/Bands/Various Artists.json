@@ -1,0 +1,46 @@
+{
+  "BandName": {
+    "Value": "Various Artists"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/6145",
+      "BandNames": [
+        {
+          "Value": "Various Artists"
+        }
+      ],
+      "Venue": "The Breck Club",
+      "Date": "\/Date(1304463600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "Free",
+      "MoreInfo": "Get your bot bots down for some real good acoustic fun. Come and Play or just listen, everyone is welcome.",
+      "GigTitle": "Acoustic Jam Night",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1304031600000+0100)\/",
+      "Edited": "\/Date(1304031600000+0100)\/"
+    },
+    {
+      "Id": "gig/72710",
+      "BandNames": [
+        {
+          "Value": "The Valvetronics"
+        },
+        {
+          "Value": "Various Artists"
+        }
+      ],
+      "Venue": "Stanley Park",
+      "Date": "\/Date(1311375600000+0100)\/",
+      "StartTime": "13.00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": "Sunday Rock on the Bandstand > Valvetronics",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308248194000+0100)\/",
+      "Edited": "\/Date(1308248413000+0100)\/"
+    }
+  ]
+}

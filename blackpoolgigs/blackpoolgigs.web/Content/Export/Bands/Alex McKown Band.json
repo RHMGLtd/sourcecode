@@ -1,0 +1,25 @@
+{
+  "BandName": {
+    "Value": "Alex McKown Band"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/106498",
+      "BandNames": [
+        {
+          "Value": "Alex McKown Band"
+        }
+      ],
+      "Venue": "Marine Hall",
+      "Date": "\/Date(1313622000000+0100)\/",
+      "StartTime": "20:30",
+      "Price": "unknown",
+      "MoreInfo": "Alex McKown is a young artist recently name checked by Paul Jones on Radio 2 as a \"blues prodigy\" and nominated for a British Blues Award 2011.\r\nAlex McKown Guitarist and Vocalist has just released his debut album \"Crossing Boundaries\" which is receiving great reviews. The band will have just returned from playing the Zinc Blues Festival in France - the start of a busy year on the blues circuit for this exciting trio.Alex was first brought to prominence when he guested with Hamilton Loomis from Texas on his 2009 and 2010 tours. In his short career Alex has already played the British Stage at Colne and performed on the main stages at Newark and Prestatyn Blues Festivals. The band fetaures Lee Buckle on Bass and Andy Williams on drums who have shared the stage with the likes of Walter Trout and Joe Bonamassa.",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1313045396000+0100)\/",
+      "Edited": "\/Date(1313045396000+0100)\/"
+    }
+  ]
+}

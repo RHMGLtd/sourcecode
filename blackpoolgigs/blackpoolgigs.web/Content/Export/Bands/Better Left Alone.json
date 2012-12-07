@@ -1,0 +1,31 @@
+{
+  "BandName": {
+    "Value": "Better Left Alone"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/110594",
+      "BandNames": [
+        {
+          "Value": "Hope.Break.Legend"
+        },
+        {
+          "Value": "Promise Me Tomorrow"
+        },
+        {
+          "Value": "Better Left Alone"
+        }
+      ],
+      "Venue": "The Blue Room",
+      "Date": "\/Date(1316041200000+0100)\/",
+      "StartTime": "20:30",
+      "Price": "£1.00",
+      "MoreInfo": "HOPE.BREAK.LEGEND\r\nPop Punk / Power Pop from Preston\r\nhttp://www.facebook.com/hopebreaklegend\r\n\r\nPROMISE ME TOMORROW\r\nPowerpunk/Pop from Kent\r\nhttp://www.facebook.com/promisemetomorrowuk\r\n\r\nBETTER LEFT ALONE\r\nPop Punk from Preston\r\nhttp://www.facebook.com/blarockuk",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1313933381000+0100)\/",
+      "Edited": "\/Date(1313933381000+0100)\/"
+    }
+  ]
+}

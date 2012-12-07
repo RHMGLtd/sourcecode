@@ -1,0 +1,45 @@
+<viewdata model="DayViewModel" />
+
+<content name="title">
+  Blackpool Gigs - Live Music and Events in Blackpool :: !{Model.Entry.Date.ToString("dd MMM yyyy")}
+</content>
+<content name="css">
+  <link href="~/content/diary.css" rel="stylesheet" type="text/css" />
+</content>
+<content name="body">
+  <pageTitle />
+  <div class="infoPanel">
+    <img src="~/Content/images/A month of events from Blackpool Gigs - live events and gigs in blackpool lancashire.png" alt="Blackpoolgigs.co.uk logo :: the month of !{Model.Month}"></img>
+    Below are gigs that are taking place in Blackpool on the !{Model.DateAsInt().Dateify()} day in !{Model.Month}. If you are aware of any gigs that we are not listing, or
+    have spotted anything you think we should change, please <contactLink /> and we will be very happy to update our listings.
+    If you are in one of the bands listed and would like to add more information about your band
+    please <contactLink /> to discuss how we can work with you to improve your listings.
+  </div>
+  <monthLinks />
+  <div class="actions">
+    <dayNavLinks />
+    <div>
+      <a href="!{new DayMapUrl(Model.Entry.Date)}">click here to see this day on a map.</a>
+    </div>
+  </div>
+  <div class="items">
+    <div each="var dayEntry in Model.Entry.Gigs">
+      <gigSummary gig="dayEntry" index="dayEntryIndex" />
+    </div>
+  </div>
+</content>
+
+<content name="rightPanel">
+  <script type="text/javascript">
+    <!--
+google_ad_client = "pub-4956915789383422";
+/* diary_skyscraper */
+google_ad_slot = "4422198803";
+google_ad_width = 120;
+google_ad_height = 600;
+//-->
+  </script>
+  <script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+  </script>
+</content>

@@ -1,0 +1,25 @@
+{
+  "IsNull": false,
+  "Venue": "The Wheatsheaf",
+  "Gigs": [
+    {
+      "Id": "gig/19480",
+      "BandNames": [
+        {
+          "Value": "The Keytars"
+        }
+      ],
+      "Venue": "The Wheatsheaf",
+      "Date": "\/Date(1305241200000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303945200000+0100)\/",
+      "Edited": "\/Date(1303945200000+0100)\/"
+    }
+  ],
+  "Future": []
+}

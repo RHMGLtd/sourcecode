@@ -1,0 +1,24 @@
+{
+  "Id": "metadata/6147",
+  "VenueName": "Stanley Ward Conservative Club",
+  "MainImageName": null,
+  "BarAndClubReviewsUrl": "http://www.bar-and-club-reviews.com/bars/77450-stanley-ward-conservative-club",
+  "ContactDetail": {
+    "MainPhoneNumber": "07707 594533",
+    "SecondaryPhoneNumbers": [
+      "01253 312302"
+    ],
+    "AddressLines": [
+      "92-94 Common Edge Rd",
+      "Blackpool"
+    ],
+    "Website": "",
+    "EmailAddress": "grahamjbaker@aol.com",
+    "PostCode": "FY4 5AZ",
+    "ContactName": "Karen Griffiths"
+  },
+  "MapCoords": {
+    "Lat": "53.786066",
+    "Long": "-3.023218"
+  }
+}

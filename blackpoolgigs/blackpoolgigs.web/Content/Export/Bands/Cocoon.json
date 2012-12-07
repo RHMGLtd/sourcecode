@@ -1,0 +1,28 @@
+{
+  "BandName": {
+    "Value": "Cocoon"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/103444",
+      "BandNames": [
+        {
+          "Value": "Jon Brindley"
+        },
+        {
+          "Value": "Cocoon"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1313449200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311947764000+0100)\/",
+      "Edited": "\/Date(1311947764000+0100)\/"
+    }
+  ]
+}

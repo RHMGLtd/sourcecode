@@ -1,0 +1,34 @@
+<viewdata model="DiaryNotFoundViewModel" />
+<content name="title">
+  Blackpool Gigs - Live Music and Events in Blackpool :: Sorry, we have not found what you are looking for.
+</content>
+<content name="css">
+  <link href="~/content/FourOhFour.css" rel="stylesheet" type="text/css" />
+</content>
+<content name="body">
+  <pageTitle />
+  <monthLinks />
+  <img class="picture" src="~/Content/images/404 images/!{Model.Blob.Path}" alt="!{Model.Blob.Chat}" title="!{Model.Blob.Chat}" />
+  <div class="quote">
+    !{Model.Blob.Name} says <span class="chat">"!{Model.Blob.Chat}"</span>
+    This is because !{Model.ReasonString()}
+  </div>
+  <div class="disclaimer">
+    ps many thanks to <a href="http://www.marktoon.co.uk/blobs.htm" target="_cartoon">marktoon</a> for the excellent illustrations. Please click through,
+    appreciate his artwork, tell him you love him, or whatever you want to do. These images are definately not my copyright, gotta respect the man cos they rock
+  </div>
+</content>
+<content name="rightPanel">
+  <script type="text/javascript">
+    <!--
+google_ad_client = "pub-4956915789383422";
+/* generic skyscraper */
+google_ad_slot = "2688921142";
+google_ad_width = 120;
+google_ad_height = 600;
+//-->
+  </script>
+  <script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+  </script>
+</content>

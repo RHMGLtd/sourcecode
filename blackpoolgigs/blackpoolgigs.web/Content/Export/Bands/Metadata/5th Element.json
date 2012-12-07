@@ -1,0 +1,23 @@
+{
+  "Id": "band/1027",
+  "BandName": "5th Element",
+  "MainContactName": "Neil",
+  "OtherContacts": [
+    "Dave"
+  ],
+  "ContactEmail": "info@5thelementrocks.co.uk",
+  "AverageAge": null,
+  "Bio": "5th Element are a 5 piece classic rock covers band gigging in venues across the North-West and Wales. Our set lists include tracks by all the greats, including AC/DC, The Cult, Muse, Bon Jovi, Nirvana, Whitesnake, The Darkness, Ozzy Osbourne, and many more. \r\n\r\nWe are a high quality, high energy, experienced classic rock band who work hard and play hard to get the audience going and to make sure each gig is a pro performance. Whether we’re playing for a crowd of one or one thousand, we always give 110% to keep you shakin’ all night long!",
+  "Style": "Classic Rock",
+  "CoverPercentage": 0,
+  "OriginalPercentage": 100,
+  "MySpaceLink": "http://www.myspace.com/5thelementrocks",
+  "FacebookLink": "https://www.facebook.com/5thelementrocks",
+  "OtherLinks": [
+    "http://www.5thelementrocks.co.uk/",
+    "http://nwb.co/5thelement",
+    "http://www.youtube.com/user/5thelementrock"
+  ],
+  "NumberOfBandMembers": "5",
+  "HomeTown": null
+}

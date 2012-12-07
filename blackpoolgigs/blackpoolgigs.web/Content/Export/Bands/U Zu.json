@@ -1,0 +1,25 @@
+{
+  "BandName": {
+    "Value": "U-Zu"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/59393",
+      "BandNames": [
+        {
+          "Value": "U-Zu"
+        }
+      ],
+      "Venue": "Belle View",
+      "Date": "\/Date(1307746800000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": "A tribute to U2, farewell gig",
+      "GigTitle": "Farewell Gig!",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307042181000+0100)\/",
+      "Edited": "\/Date(1307042181000+0100)\/"
+    }
+  ]
+}

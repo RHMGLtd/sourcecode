@@ -1,0 +1,25 @@
+{
+  "BandName": {
+    "Value": "The Blackwood Tribe"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/26626",
+      "BandNames": [
+        {
+          "Value": "The Blackwood Tribe"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1305586800000+0100)\/",
+      "StartTime": "22:00",
+      "Price": "Free",
+      "MoreInfo": "Blackwood Tribe Playing Acoustic Marley Ft. Abs on the Violin ",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1305308891000+0100)\/",
+      "Edited": "\/Date(1305308891000+0100)\/"
+    }
+  ]
+}

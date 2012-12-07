@@ -1,0 +1,66 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Views/d:Contact/f:thanks.spark" caret="1657" fromTop="34" />
+    <File id="6696C82E-D0BD-4CD0-B144-D1B51B6A6A1E/f:BandViewModelSpec.cs" caret="0" fromTop="0" />
+    <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/f:installer.cs" caret="927" fromTop="24" />
+    <File id="6696C82E-D0BD-4CD0-B144-D1B51B6A6A1E/f:BandRoutingSpecs.cs" caret="1003" fromTop="23" />
+    <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/f:Web.config" caret="1071" fromTop="26" />
+    <File id="E9309763-E4F0-448D-85CD-F8ABD7A53FAF/d:Interfaces/f:IWindsorApplication.cs" caret="65" fromTop="3" />
+    <File id="7CEE7A03-0060-4506-A86F-CF32063A2102/f:WindsorControllerFactory.cs" caret="1683" fromTop="45" />
+    <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/f:Global.asax.cs" caret="1504" fromTop="20" />
+    <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/f:RouteRegistration.cs" caret="853" fromTop="21" />
+    <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Views/d:Band/f:claimband.spark" caret="720" fromTop="13" />
+    <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Controllers/f:BandController.cs" caret="2632" fromTop="45" />
+    <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Views/d:Venue/f:venue.spark" caret="0" fromTop="0" />
+    <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Content/f:diary.css" caret="0" fromTop="0" />
+    <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Models/d:ViewModels/f:BandViewModel.cs" caret="219" fromTop="9" />
+    <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Views/d:Shared/f:_venueMetaData.spark" caret="478" fromTop="7" />
+    <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Content/f:metadata.css" caret="0" fromTop="0" />
+    <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Content/f:venue.css" caret="0" fromTop="0" />
+    <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Views/d:Shared/f:_venueContactDetails.spark" caret="2151" fromTop="25" />
+    <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Models/d:ViewModels/f:VenueViewModel.cs" caret="358" fromTop="14" />
+    <File id="6F03BB72-0E24-4AAD-980C-59E1AB04FECA/d:Models/f:VenueMetadata.cs" caret="0" fromTop="0" />
+    <File id="6F03BB72-0E24-4AAD-980C-59E1AB04FECA/d:Models/f:BandMetadata.cs" caret="1658" fromTop="41" />
+    <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Content/f:bands.css" caret="438" fromTop="33" />
+    <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Views/d:Band/f:band.spark" caret="1893" fromTop="24" />
+    <File id="6E90B152-151B-4DC7-9A05-6F0BC0436FB1/d:contexts/f:with_auto_mocking.cs" caret="1935" fromTop="53" />
+    <File id="6E90B152-151B-4DC7-9A05-6F0BC0436FB1/d:contexts/f:with_service.cs" caret="81" fromTop="5" />
+    <File id="6E90B152-151B-4DC7-9A05-6F0BC0436FB1/d:Fakes/f:FakeFile.cs" caret="167" fromTop="7" />
+    <File id="42A895D9-DA47-41DA-9D8C-F7CA92BFE188/d:Providers/f:BandProvider.cs" caret="524" fromTop="14" />
+    <File id="E9309763-E4F0-448D-85CD-F8ABD7A53FAF/d:Extensions/f:streamExtensions.cs" caret="66" fromTop="4" />
+    <File id="063D11C7-CED2-4BEA-BC88-C971A1EA8D6B/f:BandsSpecs.cs" caret="689" fromTop="12" />
+    <File id="42A895D9-DA47-41DA-9D8C-F7CA92BFE188/d:Providers/f:FileSystemCache.cs" caret="1406" fromTop="27" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="6E90B152-151B-4DC7-9A05-6F0BC0436FB1/f:ExtendingStrings.cs" caret="1163" fromTop="8" />
+    <File id="6E90B152-151B-4DC7-9A05-6F0BC0436FB1/f:ExtendingStrings.cs" caret="1362" fromTop="12" />
+    <File id="E9309763-E4F0-448D-85CD-F8ABD7A53FAF/d:Extensions/f:stringExtensions.cs" caret="3358" fromTop="26" />
+    <File id="E9309763-E4F0-448D-85CD-F8ABD7A53FAF/d:Extensions/f:stringExtensions.cs" caret="3193" fromTop="30" />
+    <File id="6E90B152-151B-4DC7-9A05-6F0BC0436FB1/f:ExtendingStrings.cs" caret="2380" fromTop="36" />
+    <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Views/d:Shared/f:_gigSummary.spark" caret="464" fromTop="4" />
+    <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Views/d:Venue/d:shared/f:_gigDetail.spark" caret="462" fromTop="5" />
+    <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Views/d:Venue/d:shared/f:_gigSummary.spark" caret="586" fromTop="6" />
+    <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Views/d:Diary/d:shared/f:_gigSummary.spark" caret="594" fromTop="6" />
+    <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Views/d:Band/d:Shared/f:_gigSummary.spark" caret="578" fromTop="6" />
+    <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Views/d:Venue/d:shared/f:_gigDetail.spark" caret="1520" fromTop="37" />
+    <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Views/d:Venue/f:gig.spark" caret="1667" fromTop="37" />
+    <File id="E9309763-E4F0-448D-85CD-F8ABD7A53FAF/d:Extensions/f:stringExtensions.cs" caret="3318" fromTop="24" />
+    <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Services/f:SayThanks.cs" caret="176" fromTop="5" />
+    <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/f:Global.asax.cs" caret="340" fromTop="5" />
+    <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Views/d:Band/f:band.spark" caret="4991" fromTop="15" />
+    <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Views/d:Band/f:band.spark" caret="297" fromTop="7" />
+    <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Content/f:bands.css" caret="325" fromTop="26" />
+    <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Content/f:bands.css" caret="438" fromTop="33" />
+    <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Views/d:Band/f:band.spark" caret="4991" fromTop="40" />
+    <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Views/d:Band/f:band.spark" caret="2849" fromTop="35" />
+    <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Views/d:Band/f:band.spark" caret="3330" fromTop="39" />
+    <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Views/d:Band/f:band.spark" caret="4266" fromTop="47" />
+    <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Views/d:Band/f:band.spark" caret="3817" fromTop="42" />
+    <File id="6F03BB72-0E24-4AAD-980C-59E1AB04FECA/d:Models/f:BandMetadata.cs" caret="1763" fromTop="40" />
+    <File id="6F03BB72-0E24-4AAD-980C-59E1AB04FECA/d:Models/f:BandMetadata.cs" caret="1258" fromTop="34" />
+    <File id="6F03BB72-0E24-4AAD-980C-59E1AB04FECA/d:Models/f:BandMetadata.cs" caret="1658" fromTop="41" />
+    <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Views/d:Band/f:band.spark" caret="2071" fromTop="24" />
+    <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Views/d:Band/f:band.spark" caret="1062" fromTop="12" />
+    <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Views/d:Band/f:band.spark" caret="4398" fromTop="43" />
+  </RecentEdits>
+</RecentFiles>

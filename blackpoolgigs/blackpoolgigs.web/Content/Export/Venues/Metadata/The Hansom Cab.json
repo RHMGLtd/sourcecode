@@ -1,0 +1,23 @@
+{
+  "Id": "metadata/2062",
+  "VenueName": "The Hansom Cab",
+  "MainImageName": null,
+  "BarAndClubReviewsUrl": "http://www.bar-and-club-reviews.com/bars/62293-The-Hansom-Cab-Lytham-St-Annes",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 795403",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "Station Road",
+      "Lytham",
+      "Lytham St Annes"
+    ],
+    "Website": "",
+    "EmailAddress": null,
+    "PostCode": "FY8 5DH",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.738111",
+    "Long": "-2.957178"
+  }
+}

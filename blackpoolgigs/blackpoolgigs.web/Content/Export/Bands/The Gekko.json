@@ -1,0 +1,34 @@
+{
+  "BandName": {
+    "Value": "The Gekko"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/94211",
+      "BandNames": [
+        {
+          "Value": "Dirty Daggers"
+        },
+        {
+          "Value": "The Gekko"
+        },
+        {
+          "Value": "Veasey"
+        },
+        {
+          "Value": "Matchstick Men"
+        }
+      ],
+      "Venue": "The Blue Room",
+      "Date": "\/Date(1315004400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "£1.00",
+      "MoreInfo": "THE DIRTY DAGGERS\r\nRock from Blackpool\r\nhttp://www.facebook.com/pages/The-Dirty-Daggers/77379020190\r\n\r\nTHE GEKKO\r\nHard Rock from Chorley\r\nhttp://www.facebook.com/pages/The-Gekko/185008254854111\r\n\r\nVEASEY\r\nIndie Rock N Roll from Blackpool\r\nhttp://www.facebook.com/pages/VEASEY/29324796184\r\n\r\nMatchstickmen\r\nAlternative Rock from Liverpool\r\nhttp://www.facebook.com/Matchstickmen.band",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311140239000+0100)\/",
+      "Edited": "\/Date(1313933225000+0100)\/"
+    }
+  ]
+}

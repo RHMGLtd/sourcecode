@@ -1,0 +1,25 @@
+{
+  "IsNull": false,
+  "Venue": "Silantro",
+  "Gigs": [
+    {
+      "Id": "gig/97283",
+      "BandNames": [
+        {
+          "Value": "Spiral Scouts"
+        }
+      ],
+      "Venue": "Silantro",
+      "Date": "\/Date(1311462000000+0100)\/",
+      "StartTime": "16:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": "St Annes Music Festival",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311511186000+0100)\/",
+      "Edited": "\/Date(1311511186000+0100)\/"
+    }
+  ],
+  "Future": []
+}

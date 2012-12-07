@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6696C82E-D0BD-4CD0-B144-D1B51B6A6A1E}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>blackpoolgigs.tests</RootNamespace>
+    <AssemblyName>blackpoolgigs.tests</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DotNetOpenId">
+      <HintPath>..\..\lib\snooze\DotNetOpenId.dll</HintPath>
+    </Reference>
+    <Reference Include="log4net">
+      <HintPath>..\..\lib\snooze\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="Machine.Specifications">
+      <HintPath>..\..\lib\mspec\Machine.Specifications.dll</HintPath>
+    </Reference>
+    <Reference Include="Moq">
+      <HintPath>..\..\lib\Moq\Moq.dll</HintPath>
+    </Reference>
+    <Reference Include="MvcContrib.TestHelper">
+      <HintPath>..\..\lib\mvccontrib\MvcContrib.TestHelper.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=4.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\lib\raven\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="nVentive.Umbrella">
+      <HintPath>..\..\lib\umbrella\nVentive.Umbrella.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenFileSystem">
+      <HintPath>..\..\lib\openfilesystem\OpenFileSystem.dll</HintPath>
+    </Reference>
+    <Reference Include="Raven.Abstractions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=37f41c7f99471593, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\lib\raven\Raven.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Raven.Client.Embedded, Version=1.0.0.0, Culture=neutral, PublicKeyToken=37f41c7f99471593, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\lib\raven\Raven.Client.Embedded.dll</HintPath>
+    </Reference>
+    <Reference Include="Raven.Client.Lightweight, Version=1.0.0.0, Culture=neutral, PublicKeyToken=37f41c7f99471593, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\lib\raven\Raven.Client.Lightweight.dll</HintPath>
+    </Reference>
+    <Reference Include="Raven.Database, Version=1.0.0.0, Culture=neutral, PublicKeyToken=37f41c7f99471593, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\lib\raven\Raven.Database.dll</HintPath>
+    </Reference>
+    <Reference Include="Raven.Http, Version=1.0.0.0, Culture=neutral, PublicKeyToken=37f41c7f99471593, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\lib\raven\Raven.Http.dll</HintPath>
+    </Reference>
+    <Reference Include="Rhino.Mocks">
+      <HintPath>..\..\lib\mvccontrib\Rhino.Mocks.dll</HintPath>
+    </Reference>
+    <Reference Include="Snooze">
+      <HintPath>..\..\lib\snooze\Snooze.dll</HintPath>
+    </Reference>
+    <Reference Include="StructureMap">
+      <HintPath>..\..\lib\structuremap\StructureMap.dll</HintPath>
+    </Reference>
+    <Reference Include="StructureMap.AutoMocking">
+      <HintPath>..\..\lib\structuremap\StructureMap.AutoMocking.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Abstractions" />
+    <Reference Include="System.Web.Mvc, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="System.Web.Routing" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BandViewModelSpec.cs" />
+    <Compile Include="DayRoutingSpecs.cs" />
+    <Compile Include="filedalSpecs.cs" />
+    <Compile Include="BandRoutingSpecs.cs" />
+    <Compile Include="MonthRoutingSpecs.cs" />
+    <Compile Include="RoutingSpecs.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="VenueRoutingSpecs.cs" />
+    <Compile Include="YearRoutingSpecs.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\AdministrateBlackpoolGigs\blackpoolgigs.filedal\blackpoolgigs.filedal.csproj">
+      <Project>{42A895D9-DA47-41DA-9D8C-F7CA92BFE188}</Project>
+      <Name>blackpoolgigs.filedal</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\coolbunny\coolbunny.common\coolbunny.common.csproj">
+      <Project>{E9309763-E4F0-448D-85CD-F8ABD7A53FAF}</Project>
+      <Name>coolbunny.common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\coolbunny\coolbunny.tests.common\coolbunny.tests.common.csproj">
+      <Project>{6E90B152-151B-4DC7-9A05-6F0BC0436FB1}</Project>
+      <Name>coolbunny.tests.common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\blackpoolgigs.common\blackpoolgigs.common.csproj">
+      <Project>{6F03BB72-0E24-4AAD-980C-59E1AB04FECA}</Project>
+      <Name>blackpoolgigs.common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\blackpoolgigs.web\blackpoolgigs.web.csproj">
+      <Project>{166A65C9-04B3-4628-9293-FE3D03D4A99D}</Project>
+      <Name>blackpoolgigs.web</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

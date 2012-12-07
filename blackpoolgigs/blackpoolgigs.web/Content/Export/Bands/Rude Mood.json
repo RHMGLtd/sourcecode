@@ -1,0 +1,43 @@
+{
+  "BandName": {
+    "Value": "Rude Mood"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/61489",
+      "BandNames": [
+        {
+          "Value": "Rude Mood"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1307746800000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307104890000+0100)\/",
+      "Edited": "\/Date(1307104890000+0100)\/"
+    },
+    {
+      "Id": "gig/61495",
+      "BandNames": [
+        {
+          "Value": "Rude Mood"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1315609200000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307105143000+0100)\/",
+      "Edited": "\/Date(1307105143000+0100)\/"
+    }
+  ]
+}

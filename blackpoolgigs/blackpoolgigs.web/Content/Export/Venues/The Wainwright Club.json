@@ -1,0 +1,25 @@
+{
+  "IsNull": false,
+  "Venue": "The Wainwright Club",
+  "Gigs": [
+    {
+      "Id": "gig/106501",
+      "BandNames": [
+        {
+          "Value": "OneFourThree"
+        }
+      ],
+      "Venue": "The Wainwright Club",
+      "Date": "\/Date(1316214000000+0100)\/",
+      "StartTime": "19:00",
+      "Price": "£4.00",
+      "MoreInfo": "Entry £4 Child/OAP £3.00",
+      "GigTitle": "Big One Productions Summer Spectacular",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1313045946000+0100)\/",
+      "Edited": "\/Date(1313045946000+0100)\/"
+    }
+  ],
+  "Future": []
+}

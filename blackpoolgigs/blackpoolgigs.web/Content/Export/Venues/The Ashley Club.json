@@ -1,0 +1,44 @@
+{
+  "IsNull": false,
+  "Venue": "The Ashley Club",
+  "Gigs": [
+    {
+      "Id": "gig/133187",
+      "BandNames": [
+        {
+          "Value": "Ska Face"
+        }
+      ],
+      "Venue": "The Ashley Club",
+      "Date": "\/Date(1336690800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326562920000+0000)\/",
+      "Edited": "\/Date(1326562920000+0000)\/"
+    }
+  ],
+  "Future": [
+    {
+      "Id": "gig/133187",
+      "BandNames": [
+        {
+          "Value": "Ska Face"
+        }
+      ],
+      "Venue": "The Ashley Club",
+      "Date": "\/Date(1336690800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326562920000+0000)\/",
+      "Edited": "\/Date(1326562920000+0000)\/"
+    }
+  ]
+}

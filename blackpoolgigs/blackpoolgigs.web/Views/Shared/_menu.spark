@@ -1,0 +1,10 @@
+
+<div class="menuContainer">
+  <a href="!{new AboutUrl()}" alt="click to read about blackpoolgigs and the people who run it" title="click to read about blackpoolgigs and the people who run it">About</a> ::
+  <a href="!{new ContactUrl()}" alt="click to contact us at blackpoolgigs about gigs, mistakes or anything at all" title="click to contact us at blackpoolgigs about gigs, mistakes or anything at all">Contact</a> ::
+  <a href="!{new TodayUrl()}" alt="click to see what is going on TODAY in Blackpool, Lancashire" title="click to see what is going on TODAY in Blackpool, Lancashire">Today</a> ::
+  <a href="!{new VenuesUrl()}" alt="click here to view a list of venues, bands get gig booking information" title="click here to view a list of venues, bands get gig booking information">All Venues</a> ::
+  <a href="!{new BandsUrl()}" alt="a list of all the bands that we have on blackpoolgigs.co.uk who have gigs listed on the site" title="a list of all the bands that we have on blackpoolgigs.co.uk who have gigs listed on the site">Bands</a> ::
+  <a href="!{new BandLookingForAGigUrl()}" alt="a blog to help bands and solo artists get a gig in Blackpool, Lancashire" title="a blog to help bands and solo artists get a gig in Blackpool, Lancashire">Blog</a> ::
+  <a href="!{new StolenGearListUrl()}" alt="a list of stolen gear that YOU can help find" title="a list of stolen gear that YOU can help find">Stolen Gear</a>
+</div>

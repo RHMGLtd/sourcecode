@@ -1,0 +1,97 @@
+{
+  "BandName": {
+    "Value": "Glynn Bailey"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/37903",
+      "BandNames": [
+        {
+          "Value": "Glynn Bailey"
+        }
+      ],
+      "Venue": "The North Euston",
+      "Date": "\/Date(1306537200000+0100)\/",
+      "StartTime": "14:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306150845000+0100)\/",
+      "Edited": "\/Date(1306150845000+0100)\/"
+    },
+    {
+      "Id": "gig/37904",
+      "BandNames": [
+        {
+          "Value": "Glynn Bailey"
+        }
+      ],
+      "Venue": "The Tavern At The Mill",
+      "Date": "\/Date(1310857200000+0100)\/",
+      "StartTime": "11:00",
+      "Price": "Free",
+      "MoreInfo": "Stuff going on all day.... including us, playing live, in one guise or another.\r\n\r\nMore information to follow. Keep your eyes peeled at www.GlynBailey.com and www.facebook.com/GlynBaileyMusic",
+      "GigTitle": "Open Air LIVE at Marsh Mill",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306150981000+0100)\/",
+      "Edited": "\/Date(1309079212000+0100)\/"
+    },
+    {
+      "Id": "gig/37905",
+      "BandNames": [
+        {
+          "Value": "Glynn Bailey"
+        }
+      ],
+      "Venue": "Marine Hall",
+      "Date": "\/Date(1320364800000+0000)\/",
+      "StartTime": "Unknown",
+      "Price": "Unknown",
+      "MoreInfo": "Fleetwoodstock 175 Music Festival Appearing each evening to perform our song 'Fleetwood Man', with a full set on Friday. Tickets from website http://www.fleetwoodstock.co.uk More info about us from the website http://www.glynbailey.com",
+      "GigTitle": "Fleetwoodstock 175 Music Festival",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306151053000+0100)\/",
+      "Edited": "\/Date(1306151053000+0100)\/"
+    },
+    {
+      "Id": "gig/37906",
+      "BandNames": [
+        {
+          "Value": "Glynn Bailey"
+        }
+      ],
+      "Venue": "Marine Hall",
+      "Date": "\/Date(1320451200000+0000)\/",
+      "StartTime": "Unknown",
+      "Price": "Unknown",
+      "MoreInfo": "Fleetwoodstock 175 Music Festival Appearing each evening to perform our song 'Fleetwood Man', with a full set on Friday. Tickets from website http://www.fleetwoodstock.co.uk More info about us from the website http://www.glynbailey.com",
+      "GigTitle": "Fleetwoodstock 175 Music Festival",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306151368000+0100)\/",
+      "Edited": "\/Date(1306151368000+0100)\/"
+    },
+    {
+      "Id": "gig/37907",
+      "BandNames": [
+        {
+          "Value": "Glynn Bailey"
+        }
+      ],
+      "Venue": "Marine Hall",
+      "Date": "\/Date(1320537600000+0000)\/",
+      "StartTime": "Unknown",
+      "Price": "Unknown",
+      "MoreInfo": "Fleetwoodstock 175 Music Festival Appearing each evening to perform our song 'Fleetwood Man', with a full set on Friday. Tickets from website http://www.fleetwoodstock.co.uk More info about us from the website http://www.glynbailey.com",
+      "GigTitle": "Fleetwoodstock 175 Music Festival",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306151490000+0100)\/",
+      "Edited": "\/Date(1306151490000+0100)\/"
+    }
+  ]
+}

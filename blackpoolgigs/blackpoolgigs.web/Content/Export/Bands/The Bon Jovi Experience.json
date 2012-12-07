@@ -1,0 +1,25 @@
+{
+  "BandName": {
+    "Value": "The Bon Jovi Experience"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/16387",
+      "BandNames": [
+        {
+          "Value": "The Bon Jovi Experience"
+        }
+      ],
+      "Venue": "The Edge",
+      "Date": "\/Date(1307574000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "£5.00",
+      "MoreInfo": null,
+      "GigTitle": "The Bon Jovi Experience ",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1304118000000+0100)\/",
+      "Edited": "\/Date(1304118000000+0100)\/"
+    }
+  ]
+}

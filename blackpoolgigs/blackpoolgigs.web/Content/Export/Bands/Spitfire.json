@@ -1,0 +1,175 @@
+{
+  "BandName": {
+    "Value": "Spitfire"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/18443",
+      "BandNames": [
+        {
+          "Value": "Spitfire"
+        }
+      ],
+      "Venue": "Station Tavern",
+      "Date": "\/Date(1305241200000+0100)\/",
+      "StartTime": "19.30",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1304290800000+0100)\/",
+      "Edited": "\/Date(1304290800000+0100)\/"
+    },
+    {
+      "Id": "gig/31747",
+      "BandNames": [
+        {
+          "Value": "Spitfire"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1305759600000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1305536844000+0100)\/",
+      "Edited": "\/Date(1305536844000+0100)\/"
+    },
+    {
+      "Id": "gig/77848",
+      "BandNames": [
+        {
+          "Value": "Spitfire"
+        }
+      ],
+      "Venue": "Dutton Arms",
+      "Date": "\/Date(1309474800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "£5.00",
+      "MoreInfo": "We are holding a charity night on Frifay 1st July in aid of Christies featuring local band Spitfire. Tickets are £5 including a champagne reception and canapes. All ticket proceeds are going directly to The Christie Charity. Starts at 8pm.",
+      "GigTitle": "Charity Night in aid of Christies",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308852416000+0100)\/",
+      "Edited": "\/Date(1308852416000+0100)\/"
+    },
+    {
+      "Id": "gig/45058",
+      "BandNames": [
+        {
+          "Value": "Lime"
+        },
+        {
+          "Value": "Wal Street Blues Band"
+        },
+        {
+          "Value": "Spitfire"
+        }
+      ],
+      "Venue": "The Rossall Tavern",
+      "Date": "\/Date(1310166000000+0100)\/",
+      "StartTime": "19:00",
+      "Price": "unknown",
+      "MoreInfo": null,
+      "GigTitle": "Only Fools & Hero's Charity Gig",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306419749000+0100)\/",
+      "Edited": "\/Date(1306419749000+0100)\/"
+    },
+    {
+      "Id": "gig/92163",
+      "BandNames": [
+        {
+          "Value": "Spitfire"
+        }
+      ],
+      "Venue": "Yates",
+      "Date": "\/Date(1310684400000+0100)\/",
+      "StartTime": "19:30",
+      "Price": "free",
+      "MoreInfo": "We are couple 3 in Rock FM's Bride Wars - John & Nicola and WE NEED YOUR SUPPORT. Please join us for a great night!!!\r\n\r\nGet yourselves down to Yates, Southshore in Blackpool and help us raise as much money as we can for ROCK FM's Cash for Kids!!!\r\n\r\nIt will be a brilliant night with a local band Spitfire Live performing between 7.30pm - 9.30pm followed by Yates' Karaoke Competition. NOT TO BE MISSED!!\r\n\r\nPlease donate generously as this is for a great charity that supports sick and disadvantaged children across Lancashire.\r\n\r\nListen out for the event being publicised on Rock FM and drum up some support. Come down with your friends for a great night and be sure to join in the Karaoke and have a great laugh!!!",
+      "GigTitle": "Spitfire Live followed by Karaoke Competition",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1310456643000+0100)\/",
+      "Edited": "\/Date(1310456643000+0100)\/"
+    },
+    {
+      "Id": "gig/103446",
+      "BandNames": [
+        {
+          "Value": "Spitfire"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1313622000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311947802000+0100)\/",
+      "Edited": "\/Date(1311947802000+0100)\/"
+    },
+    {
+      "Id": "gig/114689",
+      "BandNames": [
+        {
+          "Value": "Spitfire"
+        }
+      ],
+      "Venue": "Lucys",
+      "Date": "\/Date(1315609200000+0100)\/",
+      "StartTime": "16:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1314858209000+0100)\/",
+      "Edited": "\/Date(1314858210000+0100)\/"
+    },
+    {
+      "Id": "gig/119810",
+      "BandNames": [
+        {
+          "Value": "Spitfire"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1316127600000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315290839000+0100)\/",
+      "Edited": "\/Date(1315290839000+0100)\/"
+    },
+    {
+      "Id": "gig/135171",
+      "BandNames": [
+        {
+          "Value": "Spitfire"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1327104000000+0000)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326587800000+0000)\/",
+      "Edited": "\/Date(1326587800000+0000)\/"
+    }
+  ]
+}

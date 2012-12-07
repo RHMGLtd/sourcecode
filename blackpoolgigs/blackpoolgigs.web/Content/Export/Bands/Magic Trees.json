@@ -1,0 +1,559 @@
+{
+  "BandName": {
+    "Value": "Magic Trees"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/16",
+      "BandNames": [
+        {
+          "Value": "Magic Trees"
+        }
+      ],
+      "Venue": "The Town House",
+      "Date": "\/Date(1303513200000+0100)\/",
+      "StartTime": "19:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303858800000+0100)\/",
+      "Edited": "\/Date(1303858800000+0100)\/"
+    },
+    {
+      "Id": "gig/18444",
+      "BandNames": [
+        {
+          "Value": "Magic Trees"
+        }
+      ],
+      "Venue": "Station Tavern",
+      "Date": "\/Date(1305327600000+0100)\/",
+      "StartTime": "19.30",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303772400000+0100)\/",
+      "Edited": "\/Date(1303772400000+0100)\/"
+    },
+    {
+      "Id": "gig/37893",
+      "BandNames": [
+        {
+          "Value": "Magic Trees"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1306191600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": "The Magic Trees Live",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306150006000+0100)\/",
+      "Edited": "\/Date(1307096777000+0100)\/"
+    },
+    {
+      "Id": "gig/64520",
+      "BandNames": [
+        {
+          "Value": "Magic Trees"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1308351600000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307536959000+0100)\/",
+      "Edited": "\/Date(1307536959000+0100)\/"
+    },
+    {
+      "Id": "gig/65537",
+      "BandNames": [
+        {
+          "Value": "Magic Trees"
+        }
+      ],
+      "Venue": "The Victoria",
+      "Date": "\/Date(1308870000000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": "Looking forward to another fantastic night at our local pub! Canadians, music and lots and lots of beer!",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307538611000+0100)\/",
+      "Edited": "\/Date(1308856465000+0100)\/"
+    },
+    {
+      "Id": "gig/60417",
+      "BandNames": [
+        {
+          "Value": "Magic Trees"
+        },
+        {
+          "Value": "Dysphonia"
+        },
+        {
+          "Value": "The Drop-Out Wives"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1308956400000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": "Underground Rock 'n' Roll... Real Raw Sounds",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307096693000+0100)\/",
+      "Edited": "\/Date(1307096694000+0100)\/"
+    },
+    {
+      "Id": "gig/81921",
+      "BandNames": [
+        {
+          "Value": "Magic Trees"
+        }
+      ],
+      "Venue": "The Cube",
+      "Date": "\/Date(1309474800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": "Come celebrate Canada Day on July 1st with your favourite Canadians at the Cube in Poulton! (FY6 7AA)",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1309189054000+0100)\/",
+      "Edited": "\/Date(1309189056000+0100)\/"
+    },
+    {
+      "Id": "gig/78889",
+      "BandNames": [
+        {
+          "Value": "Magic Trees"
+        }
+      ],
+      "Venue": "The Burn Naze",
+      "Date": "\/Date(1309561200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308917862000+0100)\/",
+      "Edited": "\/Date(1308917862000+0100)\/"
+    },
+    {
+      "Id": "gig/78849",
+      "BandNames": [
+        {
+          "Value": "The Keytars"
+        },
+        {
+          "Value": "Callighan & Wolski"
+        },
+        {
+          "Value": "Magic Trees"
+        }
+      ],
+      "Venue": "The Edge",
+      "Date": "\/Date(1309647600000+0100)\/",
+      "StartTime": "20:30",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308914967000+0100)\/",
+      "Edited": "\/Date(1308914968000+0100)\/"
+    },
+    {
+      "Id": "gig/78890",
+      "BandNames": [
+        {
+          "Value": "Magic Trees"
+        }
+      ],
+      "Venue": "Uncle Toms Cabin",
+      "Date": "\/Date(1310079600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308917888000+0100)\/",
+      "Edited": "\/Date(1308917888000+0100)\/"
+    },
+    {
+      "Id": "gig/78891",
+      "BandNames": [
+        {
+          "Value": "Magic Trees"
+        }
+      ],
+      "Venue": "The Victoria",
+      "Date": "\/Date(1310166000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308917913000+0100)\/",
+      "Edited": "\/Date(1308917913000+0100)\/"
+    },
+    {
+      "Id": "gig/78865",
+      "BandNames": [
+        {
+          "Value": "Twisted Romance"
+        },
+        {
+          "Value": "Magic Trees"
+        }
+      ],
+      "Venue": "The Hansom Cab",
+      "Date": "\/Date(1311375600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308916727000+0100)\/",
+      "Edited": "\/Date(1308917953000+0100)\/"
+    },
+    {
+      "Id": "gig/78875",
+      "BandNames": [
+        {
+          "Value": "Orin"
+        },
+        {
+          "Value": "Magic Trees"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1311894000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308917058000+0100)\/",
+      "Edited": "\/Date(1308918001000+0100)\/"
+    },
+    {
+      "Id": "gig/78892",
+      "BandNames": [
+        {
+          "Value": "Magic Trees"
+        }
+      ],
+      "Venue": "The Kings Arms",
+      "Date": "\/Date(1311980400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308917936000+0100)\/",
+      "Edited": "\/Date(1308917936000+0100)\/"
+    },
+    {
+      "Id": "gig/99349",
+      "BandNames": [
+        {
+          "Value": "Magic Trees"
+        }
+      ],
+      "Venue": "The Raikes Hall",
+      "Date": "\/Date(1312498800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311707804000+0100)\/",
+      "Edited": "\/Date(1311707804000+0100)\/"
+    },
+    {
+      "Id": "gig/99418",
+      "BandNames": [
+        {
+          "Value": "Magic Trees"
+        }
+      ],
+      "Venue": "The Town House",
+      "Date": "\/Date(1312585200000+0100)\/",
+      "StartTime": "22:00",
+      "Price": "£3.00",
+      "MoreInfo": "After Hours Party. Tickets are £3 and must be purchased in advance.",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311709894000+0100)\/",
+      "Edited": "\/Date(1311709894000+0100)\/"
+    },
+    {
+      "Id": "gig/94228",
+      "BandNames": [
+        {
+          "Value": "Magic Trees"
+        },
+        {
+          "Value": "Pangaea"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1313103600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311141657000+0100)\/",
+      "Edited": "\/Date(1311947649000+0100)\/"
+    },
+    {
+      "Id": "gig/99419",
+      "BandNames": [
+        {
+          "Value": "Magic Trees"
+        }
+      ],
+      "Venue": "The Victoria",
+      "Date": "\/Date(1313190000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": "Vicstock",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311709948000+0100)\/",
+      "Edited": "\/Date(1311709948000+0100)\/"
+    },
+    {
+      "Id": "gig/105474",
+      "BandNames": [
+        {
+          "Value": "Six10repeater"
+        },
+        {
+          "Value": "Blind Kings"
+        },
+        {
+          "Value": "Magic Trees"
+        },
+        {
+          "Value": "Spiral Scouts"
+        },
+        {
+          "Value": "Idol Minds"
+        },
+        {
+          "Value": "The TC Allstars"
+        },
+        {
+          "Value": "Alpha State Of Mind"
+        },
+        {
+          "Value": "The Keytars"
+        },
+        {
+          "Value": "Flip"
+        }
+      ],
+      "Venue": "The Victoria",
+      "Date": "\/Date(1313190000000+0100)\/",
+      "StartTime": "10:00",
+      "Price": "free",
+      "MoreInfo": "Open from 10am. First band from 12pm. This event on the anniversary of Woodstock is in aid of Teenage Cancer and RNLI (Lifeboats) your support would be much appreciated by attending for such a good cause.",
+      "GigTitle": "Vic-Stock",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1312439791000+0100)\/",
+      "Edited": "\/Date(1312439791000+0100)\/"
+    },
+    {
+      "Id": "gig/106503",
+      "BandNames": [
+        {
+          "Value": "Magic Trees"
+        }
+      ],
+      "Venue": "The Victoria",
+      "Date": "\/Date(1313190000000+0100)\/",
+      "StartTime": "19:00",
+      "Price": "unknown",
+      "MoreInfo": null,
+      "GigTitle": "Vicfest",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1313046314000+0100)\/",
+      "Edited": "\/Date(1313046314000+0100)\/"
+    },
+    {
+      "Id": "gig/106504",
+      "BandNames": [
+        {
+          "Value": "Magic Trees"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1313449200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1313046416000+0100)\/",
+      "Edited": "\/Date(1313046416000+0100)\/"
+    },
+    {
+      "Id": "gig/99346",
+      "BandNames": [
+        {
+          "Value": "Magic Trees"
+        }
+      ],
+      "Venue": "The Hansom Cab",
+      "Date": "\/Date(1313708400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311707745000+0100)\/",
+      "Edited": "\/Date(1311707745000+0100)\/"
+    },
+    {
+      "Id": "gig/106505",
+      "BandNames": [
+        {
+          "Value": "Magic Trees"
+        }
+      ],
+      "Venue": "The Hop Inn",
+      "Date": "\/Date(1313881200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1313046433000+0100)\/",
+      "Edited": "\/Date(1313046433000+0100)\/"
+    },
+    {
+      "Id": "gig/99420",
+      "BandNames": [
+        {
+          "Value": "Magic Trees"
+        }
+      ],
+      "Venue": "The Victoria",
+      "Date": "\/Date(1314399600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311709986000+0100)\/",
+      "Edited": "\/Date(1311709986000+0100)\/"
+    },
+    {
+      "Id": "gig/106506",
+      "BandNames": [
+        {
+          "Value": "Magic Trees"
+        }
+      ],
+      "Venue": "The Victoria",
+      "Date": "\/Date(1314399600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1313046521000+0100)\/",
+      "Edited": "\/Date(1313046521000+0100)\/"
+    },
+    {
+      "Id": "gig/61447",
+      "BandNames": [
+        {
+          "Value": "Veasey"
+        },
+        {
+          "Value": "Magic Trees"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1314572400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307102983000+0100)\/",
+      "Edited": "\/Date(1311141738000+0100)\/"
+    },
+    {
+      "Id": "gig/106507",
+      "BandNames": [
+        {
+          "Value": "Magic Trees"
+        }
+      ],
+      "Venue": "The Kings Arms",
+      "Date": "\/Date(1315004400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1313046545000+0100)\/",
+      "Edited": "\/Date(1313046545000+0100)\/"
+    },
+    {
+      "Id": "gig/94229",
+      "BandNames": [
+        {
+          "Value": "Magic Trees"
+        }
+      ],
+      "Venue": "Tommy Ducks",
+      "Date": "\/Date(1315090800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311141774000+0100)\/",
+      "Edited": "\/Date(1311141774000+0100)\/"
+    }
+  ]
+}

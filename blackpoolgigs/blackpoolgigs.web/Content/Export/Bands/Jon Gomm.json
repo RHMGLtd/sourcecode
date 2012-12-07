@@ -1,0 +1,25 @@
+{
+  "BandName": {
+    "Value": "Jon Gomm"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/129025",
+      "BandNames": [
+        {
+          "Value": "Jon Gomm"
+        }
+      ],
+      "Venue": "The Prince Arthur",
+      "Date": "\/Date(1316732400000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1316773585000+0100)\/",
+      "Edited": "\/Date(1316773586000+0100)\/"
+    }
+  ]
+}

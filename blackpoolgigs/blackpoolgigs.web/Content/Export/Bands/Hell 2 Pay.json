@@ -1,0 +1,31 @@
+{
+  "BandName": {
+    "Value": "Hell 2 Pay"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/134182",
+      "BandNames": [
+        {
+          "Value": "Sack Sabbath"
+        },
+        {
+          "Value": "Hell 2 Pay"
+        },
+        {
+          "Value": "A'Priori"
+        }
+      ],
+      "Venue": "Uncle Toms Cabin",
+      "Date": "\/Date(1327708800000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "£5.00 / £8.00",
+      "MoreInfo": null,
+      "GigTitle": "Satan's Slayers Winter 2012 Rock Night",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326570041000+0000)\/",
+      "Edited": "\/Date(1326570041000+0000)\/"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+﻿body {
+}
+.bandList
+{
+    font-size: 1.5em;
+    line-height: 1.5em;
+}
+
+.claim
+{
+    font-size: 1.8em;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.claim a
+{
+    color: Black;
+    text-decoration: none;
+}
+.claim a:hover
+{
+    color: RGB(246, 132,31);
+}
+.cover
+{
+    border: 1px solid black;
+    background-color:Green;
+    float: left;
+    height: 25px;
+}
+.original
+{
+    border: 1px solid black;
+    background-color:Red;
+    float: left;
+    height: 25px;
+}

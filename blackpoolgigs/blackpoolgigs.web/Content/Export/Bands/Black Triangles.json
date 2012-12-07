@@ -1,0 +1,25 @@
+{
+  "BandName": {
+    "Value": "Black Triangles"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/122882",
+      "BandNames": [
+        {
+          "Value": "Black Triangles"
+        }
+      ],
+      "Venue": "The Victoria",
+      "Date": "\/Date(1317164400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": "debut gig!",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315752804000+0100)\/",
+      "Edited": "\/Date(1315752804000+0100)\/"
+    }
+  ]
+}

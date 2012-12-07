@@ -1,0 +1,34 @@
+{
+  "BandName": {
+    "Value": "Killshot"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/1025",
+      "BandNames": [
+        {
+          "Value": "A'Priori"
+        },
+        {
+          "Value": "Ashes of Humanity"
+        },
+        {
+          "Value": "Killshot"
+        },
+        {
+          "Value": "Pangaea"
+        }
+      ],
+      "Venue": "The Layton Institute",
+      "Date": "\/Date(1303599600000+0100)\/",
+      "StartTime": "18.00",
+      "Price": "£3",
+      "MoreInfo": "Layton Institute is set to rock on Easter Sunday when the Westcliffe Drive venue features its first heavy rock concert for some time.",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303513200000+0100)\/",
+      "Edited": "\/Date(1306834979000+0100)\/"
+    }
+  ]
+}

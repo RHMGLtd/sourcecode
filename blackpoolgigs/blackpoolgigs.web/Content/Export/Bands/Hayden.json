@@ -1,0 +1,25 @@
+{
+  "BandName": {
+    "Value": "Hayden"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/19474",
+      "BandNames": [
+        {
+          "Value": "Hayden"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1304982000000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1304118000000+0100)\/",
+      "Edited": "\/Date(1304118000000+0100)\/"
+    }
+  ]
+}

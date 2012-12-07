@@ -1,0 +1,28 @@
+{
+  "BandName": {
+    "Value": "Smaquehead"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/112641",
+      "BandNames": [
+        {
+          "Value": "Sounds Like Superstring"
+        },
+        {
+          "Value": "Smaquehead"
+        }
+      ],
+      "Venue": "Gillespies Bar",
+      "Date": "\/Date(1315522800000+0100)\/",
+      "StartTime": "21:30",
+      "Price": "free",
+      "MoreInfo": "The greatest \"The Sound of Superstring\" tribute act will be performing on FRIDAY 9TH SEPT 9.30pm at GILLESPIES on TOPPING ST, BLACKPOOL.\r\n\"SOUNDS LIKE SUPERSTRING\" are an acoustic duo, made up of two members, Oz (me and The Boys) and The Bean Machine (Shaun Mind Reader). Join them, plus special guests \"SMAQUEHEAD\" for one night only of annoying, but well written novelty songs with amazing melodies and some \"not as good as they used to be\" falsetto harmonies. Plus FREE WISDOM for everyone.",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1314282152000+0100)\/",
+      "Edited": "\/Date(1314282155000+0100)\/"
+    }
+  ]
+}

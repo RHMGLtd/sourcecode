@@ -1,0 +1,61 @@
+{
+  "BandName": {
+    "Value": "Megson"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/51201",
+      "BandNames": [
+        {
+          "Value": "Megson"
+        },
+        {
+          "Value": "Stuart Angus"
+        },
+        {
+          "Value": "Vic and Andy"
+        },
+        {
+          "Value": "Neal Thompson"
+        },
+        {
+          "Value": "Anne-Marie Scott"
+        },
+        {
+          "Value": "Jay Thackery"
+        },
+        {
+          "Value": "Charlie Cartmell"
+        }
+      ],
+      "Venue": "Stanley Park",
+      "Date": "\/Date(1306710000000+0100)\/",
+      "StartTime": "13:00",
+      "Price": "free",
+      "MoreInfo": "FREE gig (though donations are welcome) at the bandstand featuring some of the area's finest acoustic solo/duo acts. Stanley Park is a designated alcolhol-free area - this included the bandstand!!",
+      "GigTitle": "Acoustic day at the bandstand",
+      "Source": "manually input by rhmg",
+      "Cancelled": true,
+      "Created": "\/Date(1306675357000+0100)\/",
+      "Edited": "\/Date(1306832299000+0100)\/"
+    },
+    {
+      "Id": "gig/103441",
+      "BandNames": [
+        {
+          "Value": "Megson"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1312844400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311947623000+0100)\/",
+      "Edited": "\/Date(1311947623000+0100)\/"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "BandName": {
+    "Value": "Wrecked"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/78858",
+      "BandNames": [
+        {
+          "Value": "Wrecked"
+        }
+      ],
+      "Venue": "The Royal Oak",
+      "Date": "\/Date(1310079600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "£1.00",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308916126000+0100)\/",
+      "Edited": "\/Date(1308916126000+0100)\/"
+    },
+    {
+      "Id": "gig/78900",
+      "BandNames": [
+        {
+          "Value": "Wrecked"
+        }
+      ],
+      "Venue": "Station Tavern",
+      "Date": "\/Date(1311894000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308918401000+0100)\/",
+      "Edited": "\/Date(1308918401000+0100)\/"
+    },
+    {
+      "Id": "gig/115713",
+      "BandNames": [
+        {
+          "Value": "Wrecked"
+        }
+      ],
+      "Venue": "The Royal Oak",
+      "Date": "\/Date(1315004400000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315040312000+0100)\/",
+      "Edited": "\/Date(1315040313000+0100)\/"
+    }
+  ]
+}

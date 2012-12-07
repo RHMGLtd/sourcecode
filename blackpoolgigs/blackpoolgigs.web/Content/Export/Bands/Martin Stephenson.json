@@ -1,0 +1,28 @@
+{
+  "BandName": {
+    "Value": "Martin Stephenson"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/52227",
+      "BandNames": [
+        {
+          "Value": "Martin Stephenson"
+        },
+        {
+          "Value": "Troubadour"
+        }
+      ],
+      "Venue": "Marine Hall",
+      "Date": "\/Date(1322784000000+0000)\/",
+      "StartTime": "19:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306695945000+0100)\/",
+      "Edited": "\/Date(1306695945000+0100)\/"
+    }
+  ]
+}

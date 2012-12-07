@@ -1,0 +1,25 @@
+{
+  "BandName": {
+    "Value": "Rattle n Hum"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/77851",
+      "BandNames": [
+        {
+          "Value": "Rattle n Hum"
+        }
+      ],
+      "Venue": "The King Edward",
+      "Date": "\/Date(1311375600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308852940000+0100)\/",
+      "Edited": "\/Date(1308852940000+0100)\/"
+    }
+  ]
+}

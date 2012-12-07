@@ -1,0 +1,61 @@
+<viewdata model="VenueMapViewModel" />
+<content name="title">
+  Blackpool Gigs - Live Music and Events in Blackpool :: map for !{Model.VenueName}
+</content>
+<content name="scripts">
+  <script type="text/javascript">
+
+    function loadScript() {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src = "http://maps.google.com/maps/api/js?sensor=false&callback=initialize";
+    document.body.appendChild(script);
+    }
+
+    window.onload = loadScript;
+
+    function initialize() {
+    var latlng = new google.maps.LatLng(!{Model.MapCoords.Lat}, !{Model.MapCoords.Long});
+    var myOptions = {
+    zoom: 15,
+    center: latlng,
+    mapTypeId: google.maps.MapTypeId.ROADMAP
+    };
+    var map = new google.maps.Map(document.getElementById("map_canvas"),myOptions);
+    var marker = new google.maps.Marker({
+    position: latlng,
+    map: map,
+    title:"!{Model.VenueName}"
+    });
+    }
+  </script>
+</content>
+<content name="css">
+  <link href="~/content/venue.css" rel="stylesheet" type="text/css" />
+</content>
+<content name="body">
+  <pageTitle />
+  <div class="infoPanel">
+    <img src="~/Content/images/A month of events from Blackpool Gigs - live events and gigs in blackpool lancashire.png" alt="Blackpoolgigs.co.uk logo :: gigs and events in blackpool for the month of !{Model.Month}" title="Blackpoolgigs.co.uk logo :: gigs and events in blackpool for the month of !{Model.Month}"></img>
+    Below are is a map showing how to get to <a href="!{new VenueUrl(Model.VenueName)}" alt="click to see all future gigs at !{Model.VenueName}" title="click to see all future gigs at !{Model.VenueName}">!{Model.VenueName}</a>. We hope you enjoy your time visiting this excellent venue in Blackpool.
+  </div>
+  <monthLinks />
+  <div class="actions">
+    <span class="link highlight">Map for !{Model.VenueName}</span>
+  </div>
+  <div id="map_canvas" style="width: 740px; height: 500px;"></div>
+</content>
+<content name="rightPanel">
+  <script type="text/javascript">
+    <!--
+google_ad_client = "pub-4956915789383422";
+/* venue page skyscraper */
+google_ad_slot = "5995508034";
+google_ad_width = 120;
+google_ad_height = 600;
+//-->
+  </script>
+  <script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+  </script>
+</content>

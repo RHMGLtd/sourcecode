@@ -1,0 +1,43 @@
+{
+  "BandName": {
+    "Value": "BBGM"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/31755",
+      "BandNames": [
+        {
+          "Value": "BBGM"
+        }
+      ],
+      "Venue": "The Old Bank Inn",
+      "Date": "\/Date(1305932400000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1305537273000+0100)\/",
+      "Edited": "\/Date(1305537273000+0100)\/"
+    },
+    {
+      "Id": "gig/78898",
+      "BandNames": [
+        {
+          "Value": "BBGM"
+        }
+      ],
+      "Venue": "Station Tavern",
+      "Date": "\/Date(1310684400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308918336000+0100)\/",
+      "Edited": "\/Date(1308918336000+0100)\/"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "BandName": {
+    "Value": "US 4 U 2"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/16385",
+      "BandNames": [
+        {
+          "Value": "US 4 U 2"
+        }
+      ],
+      "Venue": "The Edge",
+      "Date": "\/Date(1306364400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "£5.00",
+      "MoreInfo": "Not to be misses only £5.00 ent fee......",
+      "GigTitle": "U2 TRIBUTE BAND",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1304290800000+0100)\/",
+      "Edited": "\/Date(1304290800000+0100)\/"
+    }
+  ]
+}

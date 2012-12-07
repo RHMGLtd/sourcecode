@@ -1,0 +1,37 @@
+{
+  "BandName": {
+    "Value": "Alex Hulme"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/106500",
+      "BandNames": [
+        {
+          "Value": "George Weaver"
+        },
+        {
+          "Value": "Stephanie Fraser"
+        },
+        {
+          "Value": "Alex Hulme"
+        },
+        {
+          "Value": "Payload"
+        },
+        {
+          "Value": "OneFourThree"
+        }
+      ],
+      "Venue": "Stanley Park",
+      "Date": "\/Date(1313622000000+0100)\/",
+      "StartTime": "12:30",
+      "Price": "free",
+      "MoreInfo": "At the Bandstand, 12:30-6:30.",
+      "GigTitle": "CHARITY FESTIVAL - MACMILLAN CANCER CARE",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1313045740000+0100)\/",
+      "Edited": "\/Date(1313045740000+0100)\/"
+    }
+  ]
+}

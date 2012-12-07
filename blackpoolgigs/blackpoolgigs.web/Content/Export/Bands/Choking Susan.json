@@ -1,0 +1,31 @@
+{
+  "BandName": {
+    "Value": "Choking Susan"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/2058",
+      "BandNames": [
+        {
+          "Value": "Crackshot"
+        },
+        {
+          "Value": "Choking Susan"
+        },
+        {
+          "Value": "Ceramic Hobs"
+        }
+      ],
+      "Venue": "West Coast Rock Cafe",
+      "Date": "\/Date(1312671600000+0100)\/",
+      "StartTime": "23:00",
+      "Price": "unknown",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303945200000+0100)\/",
+      "Edited": "\/Date(1303945200000+0100)\/"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+<viewdata model="ThanksViewModel" />
+
+<content name="title">
+  Blackpool Gigs - Live Music and Events in Blackpool :: Thanks for contacting us
+</content>
+<content name="css">
+  <link href="~/content/contact.css" rel="stylesheet" type="text/css" />
+</content>
+<content name="body">
+  <pageTitle />
+  <div class="infoPanel">
+    At blackpoolgigs.co.uk we are always happy to hear from you, so thank you very much for your contact. Please be sure that we will be in touch
+    by return at the email address given as swiftly as is practicable.  In the mean time, please enjoy the cartoon below,
+    or <a href="!{new HomeUrl()}">click here to return to the front page</a> and continue looking for gigs in Blackpool.
+  </div>
+  <h3>Image taken from Wasted World !{Model.ImageTitle}</h3>
+  <div class="cartoonContainer">
+    <img src="${Model.ImagePath}" alt="!{Model.ImageAlt}" title="!{Model.ImageAlt}"></img>
+  </div>
+  <div class="infoPanel contactDisclaimer">
+    Please be aware that we recorded your IP address when you submited the form. This was purely for the purposes of spam protection for ourselves. We will
+    never make any use of any of your information for any reason beyond the communication started from this form. We are happy at any time to remove
+    all records of communications from our systems, please just contact us and we'll be happy to oblige.
+  </div>
+</content>
+<content name="rightPanel">
+  <script type="text/javascript">
+    <!--
+google_ad_client = "pub-4956915789383422";
+/* generic skyscraper */
+google_ad_slot = "2688921142";
+google_ad_width = 120;
+google_ad_height = 600;
+//-->
+  </script>
+  <script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+  </script>
+</content>

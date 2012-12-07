@@ -1,0 +1,208 @@
+{
+  "BandName": {
+    "Value": "Happy Daize"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/16388",
+      "BandNames": [
+        {
+          "Value": "Happy Daize"
+        }
+      ],
+      "Venue": "The Royal Oak",
+      "Date": "\/Date(1305846000000+0100)\/",
+      "StartTime": "21:30",
+      "Price": "Free",
+      "MoreInfo": "The Happiest Hippies on the palnet playing the hippiest hits from the 60's and 70's. On stage from 9:30. Fun, Frolics and super tunes in a cosmic abundance",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1304204400000+0100)\/",
+      "Edited": "\/Date(1304204400000+0100)\/"
+    },
+    {
+      "Id": "gig/23553",
+      "BandNames": [
+        {
+          "Value": "Happy Daize"
+        }
+      ],
+      "Venue": "Old Town Hall",
+      "Date": "\/Date(1306537200000+0100)\/",
+      "StartTime": "21:30",
+      "Price": "Free",
+      "MoreInfo": "The Hippy Happy band will be taking you on a cosmic journey back to the 60's and 70's with some of the songs that made those times exciting and memorable. Songs not often played but instantly remembered. Fun,Frolics and damn fine music.",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303599600000+0100)\/",
+      "Edited": "\/Date(1303599600000+0100)\/"
+    },
+    {
+      "Id": "gig/77828",
+      "BandNames": [
+        {
+          "Value": "The Blue Pig Orchestra"
+        },
+        {
+          "Value": "Happy Daize"
+        }
+      ],
+      "Venue": "Jean Stansfield Park",
+      "Date": "\/Date(1308956400000+0100)\/",
+      "StartTime": "14:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": "Picnic in the Park",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308851125000+0100)\/",
+      "Edited": "\/Date(1308851520000+0100)\/"
+    },
+    {
+      "Id": "gig/80898",
+      "BandNames": [
+        {
+          "Value": "Happy Daize"
+        }
+      ],
+      "Venue": "The Edge",
+      "Date": "\/Date(1309993200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1309006643000+0100)\/",
+      "Edited": "\/Date(1309006643000+0100)\/"
+    },
+    {
+      "Id": "gig/40964",
+      "BandNames": [
+        {
+          "Value": "The Blue Pig Orchestra"
+        },
+        {
+          "Value": "Ska Face"
+        },
+        {
+          "Value": "Happy Daize"
+        },
+        {
+          "Value": "The Jeps"
+        },
+        {
+          "Value": "Rupert Fabulous"
+        },
+        {
+          "Value": "The Versions"
+        },
+        {
+          "Value": "Tony Mitchell"
+        },
+        {
+          "Value": "Triple Threat"
+        },
+        {
+          "Value": "Brother Rabbit"
+        },
+        {
+          "Value": "3rd Step"
+        },
+        {
+          "Value": "Fleetwood High School"
+        },
+        {
+          "Value": "Stephanie Fraser"
+        },
+        {
+          "Value": "Penny Black"
+        },
+        {
+          "Value": "Paul Huson & Ayshea Manning"
+        },
+        {
+          "Value": "The Colours"
+        },
+        {
+          "Value": "Poison Apple"
+        },
+        {
+          "Value": "Gatorville"
+        },
+        {
+          "Value": "Roxyrama"
+        },
+        {
+          "Value": "Hot Vestry"
+        },
+        {
+          "Value": "Framed at the Crime Scene"
+        },
+        {
+          "Value": "He Who Dares"
+        },
+        {
+          "Value": "The Underachievers"
+        },
+        {
+          "Value": "Forever Autumn"
+        },
+        {
+          "Value": "Junk Box DJs"
+        },
+        {
+          "Value": "Elysium"
+        },
+        {
+          "Value": "Fatt Tuesday"
+        },
+        {
+          "Value": "Unresolved"
+        },
+        {
+          "Value": "Paige Howard"
+        },
+        {
+          "Value": "Remember Hillards"
+        },
+        {
+          "Value": "Ashes of Humanity"
+        },
+        {
+          "Value": "Shakers Blues Band"
+        }
+      ],
+      "Venue": "Marine Hall",
+      "Date": "\/Date(1310166000000+0100)\/",
+      "StartTime": "12:00",
+      "Price": "£5",
+      "MoreInfo": "Raising money for Yuto Rice.\r\n\r\nFor more info please visit www.charityconcert.co.uk\r\n\r\nEntry wrist bands will be sold on the day £5 each",
+      "GigTitle": "Yuto Fest",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306392515000+0100)\/",
+      "Edited": "\/Date(1306392515000+0100)\/"
+    },
+    {
+      "Id": "gig/78901",
+      "BandNames": [
+        {
+          "Value": "Happy Daize"
+        }
+      ],
+      "Venue": "Station Tavern",
+      "Date": "\/Date(1311980400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308918420000+0100)\/",
+      "Edited": "\/Date(1308918420000+0100)\/"
+    }
+  ]
+}

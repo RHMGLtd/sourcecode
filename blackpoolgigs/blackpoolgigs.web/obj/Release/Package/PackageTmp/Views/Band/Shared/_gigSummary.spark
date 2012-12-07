@@ -1,0 +1,48 @@
+<div class="item cancelled?{gig.Cancelled}">
+  <div class="container">
+    <div class="image">
+      <img src="~/Content/images/An event from Blackpool Gigs - live events and gigs in blackpool lancashire.png" alt="a gig or event taking place at !{gig.Venue} in blackpool on !{gig.Date.ToString('dd MMM yyyy')}" title="a gig or event taking place at !{gig.Venue} in blackpool on !{gig.Date.ToString('dd MMM yyyy')}"></img>
+    </div>
+    <span if="!string.IsNullOrEmpty(gig.GigTitle)" class="title">!{gig.GigTitle}</span>
+    <span class="source">!{gig.Source.makeRHMGalink()}</span>
+  </div>
+  <div class="container">
+    <div class="describe">bands</div>
+    <span each="var band in gig.BandNames" class="bandName"><bandLink bandName="band.Value"/> :: </span>
+  </div>
+  <div class="container">
+    <div class="describe">venue</div>
+    <span class="venue">
+      <venueLink venue="gig.Venue" />
+    </span>
+  </div>
+  <div class="details_plus">
+    <div class="container plusContainer">
+      <div class="describe">date</div>
+      <span class="date">
+        <dayLink date="gig.Date" />
+      </span>
+    </div>
+    <div class="detailsContainer">
+      <span class="describe">details</span>
+      <span class="price">!{gig.Price} entry</span> :: <span class="time">starts at !{gig.StartTime}</span>
+    </div>
+  </div>
+  <div class="container moreinfo">
+    <moreInfoLink date="gig.Date" venue="gig.Venue" />
+  </div>
+</div>
+<div if="((index+1) %5 == 0)">
+  <script type="text/javascript">
+    <!--
+google_ad_client = "pub-4956915789383422";
+/* gig listing page */
+google_ad_slot = "3476631862";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+  </script>
+  <script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+  </script>
+</div>

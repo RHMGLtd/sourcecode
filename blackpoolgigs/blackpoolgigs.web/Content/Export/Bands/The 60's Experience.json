@@ -1,0 +1,25 @@
+{
+  "BandName": {
+    "Value": "The 60's Experience"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/8",
+      "BandNames": [
+        {
+          "Value": "The 60's Experience"
+        }
+      ],
+      "Venue": "The Sands",
+      "Date": "\/Date(1303945200000+0100)\/",
+      "StartTime": "18.30",
+      "Price": "unknown",
+      "MoreInfo": "This outstanding live band play tribute to the music of the 1960s! Taking you on magical mystery tour from Merseybeat to The Rolling Stones Hyde Park concert of 1969, incorporating The Summer of Love and Flower Power along the way.\r\n\r\nWith costume changes and fantastic impersonations this really is a FUN FILLED NIGHT!!! Get in the PARTY mood...\r\n\r\nArtistes portrayed, both musically and visually, include\r\n\r\n* The Beatles\r\n* The Rolling Stone\r\n* The Monkees\r\n* Cliff and The Shadows\r\n* Roy Orbison\r\n* and many more",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1304290800000+0100)\/",
+      "Edited": "\/Date(1304290800000+0100)\/"
+    }
+  ]
+}

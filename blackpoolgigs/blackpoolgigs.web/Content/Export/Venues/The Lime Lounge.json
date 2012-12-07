@@ -1,0 +1,196 @@
+{
+  "IsNull": false,
+  "Venue": "The Lime Lounge",
+  "Gigs": [
+    {
+      "Id": "gig/31748",
+      "BandNames": [
+        {
+          "Value": "Chris Clancy"
+        }
+      ],
+      "Venue": "The Lime Lounge",
+      "Date": "\/Date(1305759600000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1305536865000+0100)\/",
+      "Edited": "\/Date(1305536865000+0100)\/"
+    },
+    {
+      "Id": "gig/56322",
+      "BandNames": [
+        {
+          "Value": "Chris Clancy"
+        }
+      ],
+      "Venue": "The Lime Lounge",
+      "Date": "\/Date(1308178800000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306849381000+0100)\/",
+      "Edited": "\/Date(1306849381000+0100)\/"
+    },
+    {
+      "Id": "gig/62465",
+      "BandNames": [
+        {
+          "Value": "OneFourThree"
+        },
+        {
+          "Value": "Triple Threat"
+        },
+        {
+          "Value": "Solvent Free"
+        },
+        {
+          "Value": "Jekyll"
+        }
+      ],
+      "Venue": "The Lime Lounge",
+      "Date": "\/Date(1309042800000+0100)\/",
+      "StartTime": "18.30",
+      "Price": "£2.50",
+      "MoreInfo": "The bands are hoping to raise funds for local boy, Yuto Rice, who has a life threatening disorder.\r\n\r\nEntry £2.50 on the door.",
+      "GigTitle": "Raising money for Yuto Rice",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307268123000+0100)\/",
+      "Edited": "\/Date(1307268319000+0100)\/"
+    },
+    {
+      "Id": "gig/77827",
+      "BandNames": [
+        {
+          "Value": "The Keytars"
+        }
+      ],
+      "Venue": "The Lime Lounge",
+      "Date": "\/Date(1309042800000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308851097000+0100)\/",
+      "Edited": "\/Date(1308851097000+0100)\/"
+    },
+    {
+      "Id": "gig/56321",
+      "BandNames": [
+        {
+          "Value": "Chris Clancy"
+        }
+      ],
+      "Venue": "The Lime Lounge",
+      "Date": "\/Date(1309993200000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306849346000+0100)\/",
+      "Edited": "\/Date(1306849346000+0100)\/"
+    },
+    {
+      "Id": "gig/103426",
+      "BandNames": [
+        {
+          "Value": "Chris Clancy"
+        }
+      ],
+      "Venue": "The Lime Lounge",
+      "Date": "\/Date(1313017200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311946427000+0100)\/",
+      "Edited": "\/Date(1311946427000+0100)\/"
+    },
+    {
+      "Id": "gig/111620",
+      "BandNames": [
+        {
+          "Value": "Callighan & Wolski"
+        }
+      ],
+      "Venue": "The Lime Lounge",
+      "Date": "\/Date(1314226800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": "Kicking off about 8.30 a good way to start your bank holiday weekend!!",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1314190355000+0100)\/",
+      "Edited": "\/Date(1314190355000+0100)\/"
+    },
+    {
+      "Id": "gig/116811",
+      "BandNames": [
+        {
+          "Value": "Chris Clancy"
+        }
+      ],
+      "Venue": "The Lime Lounge",
+      "Date": "\/Date(1315436400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315141645000+0100)\/",
+      "Edited": "\/Date(1315141645000+0100)\/"
+    },
+    {
+      "Id": "gig/116812",
+      "BandNames": [
+        {
+          "Value": "Chris Clancy"
+        }
+      ],
+      "Venue": "The Lime Lounge",
+      "Date": "\/Date(1315609200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315141665000+0100)\/",
+      "Edited": "\/Date(1315141665000+0100)\/"
+    },
+    {
+      "Id": "gig/116813",
+      "BandNames": [
+        {
+          "Value": "Chris Clancy"
+        }
+      ],
+      "Venue": "The Lime Lounge",
+      "Date": "\/Date(1316646000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315141681000+0100)\/",
+      "Edited": "\/Date(1315141681000+0100)\/"
+    }
+  ],
+  "Future": []
+}

@@ -1,0 +1,22 @@
+{
+  "Id": "metadata/4097",
+  "VenueName": "The Galleon",
+  "MainImageName": "The Galleon.jpg",
+  "BarAndClubReviewsUrl": "http://www.bar-and-club-reviews.com/bars/77455-the-galleon",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 751488",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "68-70 Abingdon Street",
+      "Blackpool"
+    ],
+    "Website": "http://www.galleonblackpool.co.uk",
+    "EmailAddress": "info@galleonblackpool.co.uk",
+    "PostCode": "FY5 1HF",
+    "ContactName": "Jon Bamborough"
+  },
+  "MapCoords": {
+    "Lat": "53.819964",
+    "Long": "-3.052918"
+  }
+}

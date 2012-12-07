@@ -1,0 +1,22 @@
+{
+  "Id": "metadata/7169",
+  "VenueName": "The Steamer",
+  "MainImageName": "The Steamer.jpg",
+  "BarAndClubReviewsUrl": "http://www.bar-and-club-reviews.com/bars/71813-The-Steamer-Fleetwood",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 771756",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "1-2 Queen's Terrace",
+      "Fleetwood"
+    ],
+    "Website": "",
+    "EmailAddress": null,
+    "PostCode": "FY7 6BT",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.925599",
+    "Long": "-3.006288"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "BandName": {
+    "Value": "Acquiesce"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/77838",
+      "BandNames": [
+        {
+          "Value": "Acquiesce"
+        }
+      ],
+      "Venue": "The King Edward",
+      "Date": "\/Date(1308956400000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308851633000+0100)\/",
+      "Edited": "\/Date(1308851633000+0100)\/"
+    },
+    {
+      "Id": "gig/134179",
+      "BandNames": [
+        {
+          "Value": "Acquiesce"
+        }
+      ],
+      "Venue": "Station Tavern",
+      "Date": "\/Date(1327104000000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326569937000+0000)\/",
+      "Edited": "\/Date(1326569937000+0000)\/"
+    },
+    {
+      "Id": "gig/134180",
+      "BandNames": [
+        {
+          "Value": "Acquiesce"
+        }
+      ],
+      "Venue": "The Ship and Royal",
+      "Date": "\/Date(1327708800000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326569965000+0000)\/",
+      "Edited": "\/Date(1326569965000+0000)\/"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "Id": "metadata/6146",
+  "VenueName": "The Gas Workers",
+  "MainImageName": "The Gas Workers.jpg",
+  "BarAndClubReviewsUrl": "http://www.bar-and-club-reviews.com/bars/77456-the-gasworkers",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 858580",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "Preston Street",
+      "Fleetwood"
+    ],
+    "Website": "",
+    "EmailAddress": null,
+    "PostCode": "FY7 6JA",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.921379",
+    "Long": "-3.012124"
+  }
+}

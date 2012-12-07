@@ -1,0 +1,82 @@
+{
+  "BandName": {
+    "Value": "Heavy Rain"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/19476",
+      "BandNames": [
+        {
+          "Value": "Heavy Rain"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1305154800000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1304290800000+0100)\/",
+      "Edited": "\/Date(1304290800000+0100)\/"
+    },
+    {
+      "Id": "gig/35841",
+      "BandNames": [
+        {
+          "Value": "Heavy Rain"
+        },
+        {
+          "Value": "The Organisation"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1314226800000+0100)\/",
+      "StartTime": "20:30",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": "Heavy Rain @ The Cedar Tavern",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1305660421000+0100)\/",
+      "Edited": "\/Date(1311947952000+0100)\/"
+    },
+    {
+      "Id": "gig/113665",
+      "BandNames": [
+        {
+          "Value": "Heavy Rain"
+        }
+      ],
+      "Venue": "The Raikes Hall",
+      "Date": "\/Date(1315004400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1314445505000+0100)\/",
+      "Edited": "\/Date(1314445505000+0100)\/"
+    },
+    {
+      "Id": "gig/113666",
+      "BandNames": [
+        {
+          "Value": "Heavy Rain"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1319670000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1314445538000+0100)\/",
+      "Edited": "\/Date(1314445538000+0100)\/"
+    }
+  ]
+}

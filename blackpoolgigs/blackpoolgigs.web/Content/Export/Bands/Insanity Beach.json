@@ -1,0 +1,25 @@
+{
+  "BandName": {
+    "Value": "Insanity Beach"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/55299",
+      "BandNames": [
+        {
+          "Value": "Insanity Beach"
+        }
+      ],
+      "Venue": "The Royal Oak",
+      "Date": "\/Date(1307746800000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306843971000+0100)\/",
+      "Edited": "\/Date(1306843971000+0100)\/"
+    }
+  ]
+}

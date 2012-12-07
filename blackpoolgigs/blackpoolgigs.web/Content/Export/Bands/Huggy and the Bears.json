@@ -1,0 +1,151 @@
+{
+  "BandName": {
+    "Value": "Huggy and the Bears"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/8194",
+      "BandNames": [
+        {
+          "Value": "Huggy and the Bears"
+        }
+      ],
+      "Venue": "Norcross Social Club",
+      "Date": "\/Date(1304550000000+0100)\/",
+      "StartTime": "19:00",
+      "Price": "Free",
+      "MoreInfo": "Charity night this Thursday at Norcross Social Club in aid of Autistic Kids. Raffle , casino, chippendale style dancers and the band.",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303945200000+0100)\/",
+      "Edited": "\/Date(1306835176000+0100)\/"
+    },
+    {
+      "Id": "gig/8193",
+      "BandNames": [
+        {
+          "Value": "Huggy and the Bears"
+        }
+      ],
+      "Venue": "The Sandhills",
+      "Date": "\/Date(1304722800000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1304118000000+0100)\/",
+      "Edited": "\/Date(1306835189000+0100)\/"
+    },
+    {
+      "Id": "gig/20484",
+      "BandNames": [
+        {
+          "Value": "Huggy and the Bears"
+        }
+      ],
+      "Venue": "Cleveleys WMC",
+      "Date": "\/Date(1305327600000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303858800000+0100)\/",
+      "Edited": "\/Date(1303858800000+0100)\/"
+    },
+    {
+      "Id": "gig/37898",
+      "BandNames": [
+        {
+          "Value": "Huggy and the Bears"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1306450800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306150389000+0100)\/",
+      "Edited": "\/Date(1306150389000+0100)\/"
+    },
+    {
+      "Id": "gig/64516",
+      "BandNames": [
+        {
+          "Value": "Huggy and the Bears"
+        }
+      ],
+      "Venue": "The Rossall Tavern",
+      "Date": "\/Date(1307746800000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307536740000+0100)\/",
+      "Edited": "\/Date(1307536740000+0100)\/"
+    },
+    {
+      "Id": "gig/74753",
+      "BandNames": [
+        {
+          "Value": "Huggy and the Bears"
+        }
+      ],
+      "Venue": "Royal British Legion Club",
+      "Date": "\/Date(1308351600000+0100)\/",
+      "StartTime": "21:30",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308405885000+0100)\/",
+      "Edited": "\/Date(1308405886000+0100)\/"
+    },
+    {
+      "Id": "gig/76801",
+      "BandNames": [
+        {
+          "Value": "Brother Rabbit"
+        },
+        {
+          "Value": "Huggy and the Bears"
+        },
+        {
+          "Value": "The Blue Pig Orchestra"
+        },
+        {
+          "Value": "Triple Threat"
+        },
+        {
+          "Value": "Full Fat Boogie Band"
+        },
+        {
+          "Value": "The Keytars"
+        },
+        {
+          "Value": "OneFourThree"
+        }
+      ],
+      "Venue": "The Bay Horse",
+      "Date": "\/Date(1310770800000+0100)\/",
+      "StartTime": "12:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": "Bay Horse Fun Day Competition",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308497972000+0100)\/",
+      "Edited": "\/Date(1310494059000+0100)\/"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "IsNull": false,
+  "Venue": "The Bull",
+  "Gigs": [
+    {
+      "Id": "gig/4097",
+      "BandNames": [
+        {
+          "Value": "The Keytars"
+        }
+      ],
+      "Venue": "The Bull",
+      "Date": "\/Date(1303945200000+0100)\/",
+      "StartTime": "20.30",
+      "Price": "free",
+      "MoreInfo": "Sit back get the wine in and enjoy. Hope to see you all there :-)X",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1304290800000+0100)\/",
+      "Edited": "\/Date(1306836321000+0100)\/"
+    },
+    {
+      "Id": "gig/43009",
+      "BandNames": [
+        {
+          "Value": "Orin"
+        }
+      ],
+      "Venue": "The Bull",
+      "Date": "\/Date(1306364400000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": "Neal and Jake are gonna be rocking out acoustic style @ The Bull in Poulton got some new songs so come on down and bring your friends.",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306404405000+0100)\/",
+      "Edited": "\/Date(1308917100000+0100)\/"
+    },
+    {
+      "Id": "gig/57345",
+      "BandNames": [
+        {
+          "Value": "The Deadbeats (Acoustic)"
+        }
+      ],
+      "Venue": "The Bull",
+      "Date": "\/Date(1306969200000+0100)\/",
+      "StartTime": "21:30",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306852135000+0100)\/",
+      "Edited": "\/Date(1306852136000+0100)\/"
+    }
+  ],
+  "Future": []
+}

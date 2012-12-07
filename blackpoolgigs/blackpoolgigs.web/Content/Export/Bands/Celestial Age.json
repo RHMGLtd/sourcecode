@@ -1,0 +1,34 @@
+{
+  "BandName": {
+    "Value": "Celestial Age"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/137219",
+      "BandNames": [
+        {
+          "Value": "Celestial Age"
+        },
+        {
+          "Value": "Kobra"
+        },
+        {
+          "Value": "The Madding Crowd"
+        },
+        {
+          "Value": "Fire In The Empire"
+        }
+      ],
+      "Venue": "The Tache",
+      "Date": "\/Date(1331251200000+0000)\/",
+      "StartTime": "22:00",
+      "Price": "£3.00",
+      "MoreInfo": "ring 07922466405 for tickets at £3.00 each",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327312978000+0000)\/",
+      "Edited": "\/Date(1327739621000+0000)\/"
+    }
+  ]
+}

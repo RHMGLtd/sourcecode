@@ -1,0 +1,25 @@
+{
+  "BandName": {
+    "Value": "The Hookers"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/87042",
+      "BandNames": [
+        {
+          "Value": "The Hookers"
+        }
+      ],
+      "Venue": "The Edge",
+      "Date": "\/Date(1311202800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1309691646000+0100)\/",
+      "Edited": "\/Date(1309691646000+0100)\/"
+    }
+  ]
+}

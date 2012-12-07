@@ -1,0 +1,22 @@
+{
+  "Id": "metadata/2068",
+  "VenueName": "West Coast Rock Cafe",
+  "MainImageName": "West Coast Rock Cafe.jpg",
+  "BarAndClubReviewsUrl": "http://www.bar-and-club-reviews.com/bars/77474-west-coast-rock-cafe",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 751283",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "5-7 Abingdon St",
+      "Blackpool"
+    ],
+    "Website": "http://www.westcoastrock.co.uk/",
+    "EmailAddress": "westcoastrock@blueyonder.co.uk",
+    "PostCode": "FY1 1DG",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.818085",
+    "Long": "-3.051656"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "IsNull": false,
+  "Venue": "Jean Stansfield Park",
+  "Gigs": [
+    {
+      "Id": "gig/77828",
+      "BandNames": [
+        {
+          "Value": "The Blue Pig Orchestra"
+        },
+        {
+          "Value": "Happy Daize"
+        }
+      ],
+      "Venue": "Jean Stansfield Park",
+      "Date": "\/Date(1308956400000+0100)\/",
+      "StartTime": "14:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": "Picnic in the Park",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308851125000+0100)\/",
+      "Edited": "\/Date(1308851520000+0100)\/"
+    }
+  ],
+  "Future": []
+}

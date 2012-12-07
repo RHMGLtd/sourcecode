@@ -1,0 +1,25 @@
+{
+  "BandName": {
+    "Value": "AC/BC"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/89089",
+      "BandNames": [
+        {
+          "Value": "AC/BC"
+        }
+      ],
+      "Venue": "Stanley Park",
+      "Date": "\/Date(1311462000000+0100)\/",
+      "StartTime": "12:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": "AC/BC - Poundin' the Park !",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1309868636000+0100)\/",
+      "Edited": "\/Date(1309868637000+0100)\/"
+    }
+  ]
+}

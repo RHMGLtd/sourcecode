@@ -1,0 +1,22 @@
+{
+  "Id": "metadata/20482",
+  "VenueName": "Bierkeller",
+  "MainImageName": "Bierkeller.jpg",
+  "BarAndClubReviewsUrl": "",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 572671",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "93 Promenade",
+      "Blackpool"
+    ],
+    "Website": "http://www.thebierkeller.com",
+    "EmailAddress": "info@thebierkeller.com",
+    "PostCode": "FY1 5AA",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.811934",
+    "Long": "-3.055277"
+  }
+}

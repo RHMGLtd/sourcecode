@@ -1,0 +1,31 @@
+{
+  "BandName": {
+    "Value": "Monsters Build Mean Robots"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/34827",
+      "BandNames": [
+        {
+          "Value": "Goonies Never Say Die"
+        },
+        {
+          "Value": "Monsters Build Mean Robots"
+        },
+        {
+          "Value": "Friend?"
+        }
+      ],
+      "Venue": "The Blue Room",
+      "Date": "\/Date(1313794800000+0100)\/",
+      "StartTime": "20:30",
+      "Price": "£1.00",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1305654829000+0100)\/",
+      "Edited": "\/Date(1305655468000+0100)\/"
+    }
+  ]
+}

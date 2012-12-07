@@ -1,0 +1,91 @@
+{
+  "IsNull": false,
+  "Venue": "The Merrie England",
+  "Gigs": [
+    {
+      "Id": "gig/9",
+      "BandNames": [
+        {
+          "Value": "Ska Face"
+        },
+        {
+          "Value": "Pink Torpedoes"
+        }
+      ],
+      "Venue": "The Merrie England",
+      "Date": "\/Date(1303426800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303772400000+0100)\/",
+      "Edited": "\/Date(1303772400000+0100)\/"
+    },
+    {
+      "Id": "gig/37894",
+      "BandNames": [
+        {
+          "Value": "Sex Pistols Experience"
+        },
+        {
+          "Value": "Ska Face"
+        }
+      ],
+      "Venue": "The Merrie England",
+      "Date": "\/Date(1306450800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "Unknown",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306150109000+0100)\/",
+      "Edited": "\/Date(1306392480000+0100)\/"
+    },
+    {
+      "Id": "gig/63496",
+      "BandNames": [
+        {
+          "Value": "Ska Face"
+        },
+        {
+          "Value": "Bob On"
+        }
+      ],
+      "Venue": "The Merrie England",
+      "Date": "\/Date(1309474800000+0100)\/",
+      "StartTime": "20:30",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307371555000+0100)\/",
+      "Edited": "\/Date(1307371555000+0100)\/"
+    },
+    {
+      "Id": "gig/19467",
+      "BandNames": [
+        {
+          "Value": "Ska Face"
+        },
+        {
+          "Value": "On Parole"
+        }
+      ],
+      "Venue": "The Merrie England",
+      "Date": "\/Date(1314313200000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "£5.00",
+      "MoreInfo": "ANOTHER DOUBLE HEADER with the best Clash Tribute in the land - sort of makes sense really... £5 in, tickets from North Pier or on the door.",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303772400000+0100)\/",
+      "Edited": "\/Date(1313132395000+0100)\/"
+    }
+  ],
+  "Future": []
+}

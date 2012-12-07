@@ -1,0 +1,22 @@
+{
+  "Id": "metadata/13315",
+  "VenueName": "Royal British Legion Club",
+  "MainImageName": null,
+  "BarAndClubReviewsUrl": "",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 724420",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "Mayfield Road",
+      "Lytham St Annes"
+    ],
+    "Website": "",
+    "EmailAddress": null,
+    "PostCode": "FY8 2DR",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.759038",
+    "Long": "-3.02712"
+  }
+}

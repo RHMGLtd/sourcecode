@@ -1,0 +1,419 @@
+{
+  "IsNull": false,
+  "Venue": "Marine Hall",
+  "Gigs": [
+    {
+      "Id": "gig/37889",
+      "BandNames": [
+        {
+          "Value": "Martin Simpson"
+        }
+      ],
+      "Venue": "Marine Hall",
+      "Date": "\/Date(1307574000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "£12",
+      "MoreInfo": "There is no doubt that after 35 years as a professional musician Martin is, right now, better than ever. Widely acknowledged as one of the finest acoustic and slide guitar players in the world, his interpretations of traditional songs are masterpieces of storytelling. His solo shows are intense, eclectic, spellbinding and deeply moving.\r\n\r\nMartin has been nominated an astounding 23 times in the eleven years of the BBC Radio 2 Folk Awards - more than any other performer - with 9 consecutive years as nominee for Musician of The Year, which he has won twice. 2008 saw an incredible 5 nominations for \"Prodigal Son' and 2 wins, whilst in 2010 he had an unprecedented 6 nominations for his CD, \"True Stories\" and a win for Best Traditional Track, \"Sir Patrick Spens\". \r\n\r\nWhether playing American old-time music, blues, a Dylan song or his own material, Martin Simpson is unpredictable, individual and a guitarist of immense subtlety. \r\n\r\nTickets £12 from 01253 887693 or www.marinehall.co.uk",
+      "GigTitle": "Martin Simpson",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306149168000+0100)\/",
+      "Edited": "\/Date(1306149168000+0100)\/"
+    },
+    {
+      "Id": "gig/40964",
+      "BandNames": [
+        {
+          "Value": "The Blue Pig Orchestra"
+        },
+        {
+          "Value": "Ska Face"
+        },
+        {
+          "Value": "Happy Daize"
+        },
+        {
+          "Value": "The Jeps"
+        },
+        {
+          "Value": "Rupert Fabulous"
+        },
+        {
+          "Value": "The Versions"
+        },
+        {
+          "Value": "Tony Mitchell"
+        },
+        {
+          "Value": "Triple Threat"
+        },
+        {
+          "Value": "Brother Rabbit"
+        },
+        {
+          "Value": "3rd Step"
+        },
+        {
+          "Value": "Fleetwood High School"
+        },
+        {
+          "Value": "Stephanie Fraser"
+        },
+        {
+          "Value": "Penny Black"
+        },
+        {
+          "Value": "Paul Huson & Ayshea Manning"
+        },
+        {
+          "Value": "The Colours"
+        },
+        {
+          "Value": "Poison Apple"
+        },
+        {
+          "Value": "Gatorville"
+        },
+        {
+          "Value": "Roxyrama"
+        },
+        {
+          "Value": "Hot Vestry"
+        },
+        {
+          "Value": "Framed at the Crime Scene"
+        },
+        {
+          "Value": "He Who Dares"
+        },
+        {
+          "Value": "The Underachievers"
+        },
+        {
+          "Value": "Forever Autumn"
+        },
+        {
+          "Value": "Junk Box DJs"
+        },
+        {
+          "Value": "Elysium"
+        },
+        {
+          "Value": "Fatt Tuesday"
+        },
+        {
+          "Value": "Unresolved"
+        },
+        {
+          "Value": "Paige Howard"
+        },
+        {
+          "Value": "Remember Hillards"
+        },
+        {
+          "Value": "Ashes of Humanity"
+        },
+        {
+          "Value": "Shakers Blues Band"
+        }
+      ],
+      "Venue": "Marine Hall",
+      "Date": "\/Date(1310166000000+0100)\/",
+      "StartTime": "12:00",
+      "Price": "£5",
+      "MoreInfo": "Raising money for Yuto Rice.\r\n\r\nFor more info please visit www.charityconcert.co.uk\r\n\r\nEntry wrist bands will be sold on the day £5 each",
+      "GigTitle": "Yuto Fest",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306392515000+0100)\/",
+      "Edited": "\/Date(1306392515000+0100)\/"
+    },
+    {
+      "Id": "gig/83969",
+      "BandNames": [
+        {
+          "Value": "Chantel McGregor"
+        },
+        {
+          "Value": "Callighan & Wolski"
+        }
+      ],
+      "Venue": "Marine Hall",
+      "Date": "\/Date(1310598000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "£8 (adv) £10 (door)",
+      "MoreInfo": "Imagine the technique and tone of Robin Trower, the feel of Bonnie Raitt, the inspiration of Hendrix, the influence of SRV, the energy of Bonamassa and the intensity of Trout all rolled into one. \r\n\r\nChantel Mcgregor is one of the most exciting rock blues guitarists in the country.This is rock blues for the new age, played by a musician born with an effortless virtuosity, peppered by flights of incendiary guitar and flanked by moments of poise, grace and fluidity...\r\nChantel's debut album; Like No Other, showcases this, along with her genuine talent as a singer and songwriter.\r\n\r\nSupport from Callighan & Wolski.\r\n\r\nTickets £8 (adv) £10 (door) Tel 01253 887693",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1309329113000+0100)\/",
+      "Edited": "\/Date(1309329113000+0100)\/"
+    },
+    {
+      "Id": "gig/96257",
+      "BandNames": [
+        {
+          "Value": "Liam Bland"
+        },
+        {
+          "Value": "The Colours"
+        },
+        {
+          "Value": "Jekyll"
+        },
+        {
+          "Value": "Last Breath"
+        },
+        {
+          "Value": "The Original Zip"
+        },
+        {
+          "Value": "The Underachievers"
+        },
+        {
+          "Value": "DJ Moyma"
+        }
+      ],
+      "Venue": "Marine Hall",
+      "Date": "\/Date(1311375600000+0100)\/",
+      "StartTime": "19:00",
+      "Price": "£6.00",
+      "MoreInfo": null,
+      "GigTitle": "Battle of the Bands",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311271475000+0100)\/",
+      "Edited": "\/Date(1311272282000+0100)\/"
+    },
+    {
+      "Id": "gig/106498",
+      "BandNames": [
+        {
+          "Value": "Alex McKown Band"
+        }
+      ],
+      "Venue": "Marine Hall",
+      "Date": "\/Date(1313622000000+0100)\/",
+      "StartTime": "20:30",
+      "Price": "unknown",
+      "MoreInfo": "Alex McKown is a young artist recently name checked by Paul Jones on Radio 2 as a \"blues prodigy\" and nominated for a British Blues Award 2011.\r\nAlex McKown Guitarist and Vocalist has just released his debut album \"Crossing Boundaries\" which is receiving great reviews. The band will have just returned from playing the Zinc Blues Festival in France - the start of a busy year on the blues circuit for this exciting trio.Alex was first brought to prominence when he guested with Hamilton Loomis from Texas on his 2009 and 2010 tours. In his short career Alex has already played the British Stage at Colne and performed on the main stages at Newark and Prestatyn Blues Festivals. The band fetaures Lee Buckle on Bass and Andy Williams on drums who have shared the stage with the likes of Walter Trout and Joe Bonamassa.",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1313045396000+0100)\/",
+      "Edited": "\/Date(1313045396000+0100)\/"
+    },
+    {
+      "Id": "gig/99402",
+      "BandNames": [
+        {
+          "Value": "Sherman Robertson"
+        },
+        {
+          "Value": "The Monster Squad"
+        }
+      ],
+      "Venue": "Marine Hall",
+      "Date": "\/Date(1314226800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "unknown",
+      "MoreInfo": "Blues/Soul Legend Sherman Robertson brings his Texas blues back to the U.K.Described as one part zydeco,one part swamp blues,one part electric blues and one part rhythm and blues Sherman Robertson is a class act in the blues/soul arena and a true showman.\r\n\r\nSupport comes from The Monster Squad.Fast getting the nickname The \"Mighty\" Monster Squad this local band of funk toting misfits will no doubt be coming out all guns blazing to give this very special occasion the kick start it deserves",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311709294000+0100)\/",
+      "Edited": "\/Date(1311835768000+0100)\/"
+    },
+    {
+      "Id": "gig/122883",
+      "BandNames": [
+        {
+          "Value": "The Nimmo Brothers"
+        },
+        {
+          "Value": "Hooker"
+        }
+      ],
+      "Venue": "Marine Hall",
+      "Date": "\/Date(1317250800000+0100)\/",
+      "StartTime": "20",
+      "Price": "£10-£12",
+      "MoreInfo": "Pile-driving blues rock from this fine band from Scotland, fronted by the twin guitar/vocals of Stevie and Alan Nimmo. The best in UK blues/rock, guaranteed to raise the roof.\r\nSupport band is Fleetwoods favourite rockers Hooker\r\nTickets £10 (adv) £12 (on door) from 01253 887693 or www.marinehall.co.uk.\r\n\r\nTwo bands with brothers in them on one night, what could possibly go wrong!!!!!!!!\r\n\r\nCheck out www.towerblues.co.uk for more gigs",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315752988000+0100)\/",
+      "Edited": "\/Date(1315752988000+0100)\/"
+    },
+    {
+      "Id": "gig/68616",
+      "BandNames": [
+        {
+          "Value": "Martin Taylor"
+        },
+        {
+          "Value": "Dan Wilde"
+        }
+      ],
+      "Venue": "Marine Hall",
+      "Date": "\/Date(1317942000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "unknown",
+      "MoreInfo": "Multi award winning guitarist and composer MARTIN TAYLOR has established a unique musical career as an internationally acclaimed musician, and his inimitable style has seen him recognized as the world’s foremost exponent of solo jazz guitar playing. In 2002 he was awarded an MBE for services to Jazz music. Supported by excellent singer/songwriter Dan Wilde. Tickets £14 from 01253 887693 or http://www.marinehall.co.uk.\r\n\r\nhttp://www.towerblues.co.uk",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307891766000+0100)\/",
+      "Edited": "\/Date(1316591740000+0100)\/"
+    },
+    {
+      "Id": "gig/37905",
+      "BandNames": [
+        {
+          "Value": "Glynn Bailey"
+        }
+      ],
+      "Venue": "Marine Hall",
+      "Date": "\/Date(1320364800000+0000)\/",
+      "StartTime": "Unknown",
+      "Price": "Unknown",
+      "MoreInfo": "Fleetwoodstock 175 Music Festival Appearing each evening to perform our song 'Fleetwood Man', with a full set on Friday. Tickets from website http://www.fleetwoodstock.co.uk More info about us from the website http://www.glynbailey.com",
+      "GigTitle": "Fleetwoodstock 175 Music Festival",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306151053000+0100)\/",
+      "Edited": "\/Date(1306151053000+0100)\/"
+    },
+    {
+      "Id": "gig/37906",
+      "BandNames": [
+        {
+          "Value": "Glynn Bailey"
+        }
+      ],
+      "Venue": "Marine Hall",
+      "Date": "\/Date(1320451200000+0000)\/",
+      "StartTime": "Unknown",
+      "Price": "Unknown",
+      "MoreInfo": "Fleetwoodstock 175 Music Festival Appearing each evening to perform our song 'Fleetwood Man', with a full set on Friday. Tickets from website http://www.fleetwoodstock.co.uk More info about us from the website http://www.glynbailey.com",
+      "GigTitle": "Fleetwoodstock 175 Music Festival",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306151368000+0100)\/",
+      "Edited": "\/Date(1306151368000+0100)\/"
+    },
+    {
+      "Id": "gig/37907",
+      "BandNames": [
+        {
+          "Value": "Glynn Bailey"
+        }
+      ],
+      "Venue": "Marine Hall",
+      "Date": "\/Date(1320537600000+0000)\/",
+      "StartTime": "Unknown",
+      "Price": "Unknown",
+      "MoreInfo": "Fleetwoodstock 175 Music Festival Appearing each evening to perform our song 'Fleetwood Man', with a full set on Friday. Tickets from website http://www.fleetwoodstock.co.uk More info about us from the website http://www.glynbailey.com",
+      "GigTitle": "Fleetwoodstock 175 Music Festival",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306151490000+0100)\/",
+      "Edited": "\/Date(1306151490000+0100)\/"
+    },
+    {
+      "Id": "gig/52227",
+      "BandNames": [
+        {
+          "Value": "Martin Stephenson"
+        },
+        {
+          "Value": "Troubadour"
+        }
+      ],
+      "Venue": "Marine Hall",
+      "Date": "\/Date(1322784000000+0000)\/",
+      "StartTime": "19:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306695945000+0100)\/",
+      "Edited": "\/Date(1306695945000+0100)\/"
+    },
+    {
+      "Id": "gig/133170",
+      "BandNames": [
+        {
+          "Value": "The Blue Pig Orchestra"
+        }
+      ],
+      "Venue": "Marine Hall",
+      "Date": "\/Date(1346454000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "unknown",
+      "MoreInfo": null,
+      "GigTitle": "Fylde Folk Festival",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326562191000+0000)\/",
+      "Edited": "\/Date(1326562191000+0000)\/"
+    },
+    {
+      "Id": "gig/133171",
+      "BandNames": [
+        {
+          "Value": "The Blue Pig Orchestra"
+        }
+      ],
+      "Venue": "Marine Hall",
+      "Date": "\/Date(1346540400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "unknown",
+      "MoreInfo": null,
+      "GigTitle": "Fylde Folk Festival",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326562232000+0000)\/",
+      "Edited": "\/Date(1326562232000+0000)\/"
+    }
+  ],
+  "Future": [
+    {
+      "Id": "gig/133170",
+      "BandNames": [
+        {
+          "Value": "The Blue Pig Orchestra"
+        }
+      ],
+      "Venue": "Marine Hall",
+      "Date": "\/Date(1346454000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "unknown",
+      "MoreInfo": null,
+      "GigTitle": "Fylde Folk Festival",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326562191000+0000)\/",
+      "Edited": "\/Date(1326562191000+0000)\/"
+    },
+    {
+      "Id": "gig/133171",
+      "BandNames": [
+        {
+          "Value": "The Blue Pig Orchestra"
+        }
+      ],
+      "Venue": "Marine Hall",
+      "Date": "\/Date(1346540400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "unknown",
+      "MoreInfo": null,
+      "GigTitle": "Fylde Folk Festival",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326562232000+0000)\/",
+      "Edited": "\/Date(1326562232000+0000)\/"
+    }
+  ]
+}

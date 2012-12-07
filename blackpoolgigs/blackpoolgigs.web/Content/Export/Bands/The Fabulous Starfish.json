@@ -1,0 +1,25 @@
+{
+  "BandName": {
+    "Value": "The Fabulous Starfish"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/14337",
+      "BandNames": [
+        {
+          "Value": "The Fabulous Starfish"
+        }
+      ],
+      "Venue": "Station Tavern",
+      "Date": "\/Date(1304722800000+0100)\/",
+      "StartTime": "21:30",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": "Starfish | Live and Unplugged",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303513200000+0100)\/",
+      "Edited": "\/Date(1303513200000+0100)\/"
+    }
+  ]
+}

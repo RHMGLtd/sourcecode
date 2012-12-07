@@ -1,0 +1,9 @@
+﻿body {
+    background-image: url("images/backgrounds/venue-view.png");
+    background-repeat: repeat;
+}
+.venue
+{
+    font-size: 1.5em;
+    line-height: 1.5em;
+}

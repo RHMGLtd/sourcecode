@@ -1,0 +1,25 @@
+{
+  "IsNull": false,
+  "Venue": "Lowther Pavillion",
+  "Gigs": [
+    {
+      "Id": "gig/115714",
+      "BandNames": [
+        {
+          "Value": "The Versions"
+        }
+      ],
+      "Venue": "Lowther Pavillion",
+      "Date": "\/Date(1316214000000+0100)\/",
+      "StartTime": "12:00",
+      "Price": "£3.00 / £1.00 / free",
+      "MoreInfo": "What more could you want?! An obscene amount of beers & ciders, to be enjoyed with lashings of Steely Dan, Fleetwood Mac, The Who, The Stones, Roxy Music and more, courtesy of us!\r\n\r\n£3 ON THE DOOR, £1 WITH NUS, FREE FOR CAMRA MEMBERS\r\n12PM-11PM, SET TIME TBC\r\n\r\nwww.the-versions.co.uk\r\nhttp://www.blackpoolcamra.org.uk/index.php?id=157&sid",
+      "GigTitle": "Lytham Beer Festival",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315040379000+0100)\/",
+      "Edited": "\/Date(1315138220000+0100)\/"
+    }
+  ],
+  "Future": []
+}

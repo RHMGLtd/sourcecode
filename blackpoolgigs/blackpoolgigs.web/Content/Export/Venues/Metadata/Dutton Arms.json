@@ -1,0 +1,22 @@
+{
+  "Id": "metadata/14337",
+  "VenueName": "Dutton Arms",
+  "MainImageName": "Dutton Arms.jpg",
+  "BarAndClubReviewsUrl": "",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 405428 ",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "South Promenade",
+      "Blackpool"
+    ],
+    "Website": "",
+    "EmailAddress": "duttonsarms.blackpool@townandcity-group.com  ",
+    "PostCode": "FY4 1AR",
+    "ContactName": "Kat McFadyen"
+  },
+  "MapCoords": {
+    "Lat": "53.783412",
+    "Long": "-3.057289"
+  }
+}

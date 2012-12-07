@@ -1,0 +1,28 @@
+{
+  "BandName": {
+    "Value": "Girl Peculiar"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/71684",
+      "BandNames": [
+        {
+          "Value": "Girl Peculiar"
+        },
+        {
+          "Value": "Nova Six"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1312930800000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": "“One of the best records of 2010” Marc Riley\r\n\r\n“Girl Peculiar delivers a masterclass” Manchester Evening News\r\n\r\n“Absolutely bloody marvellous… Great Lyrics, Great Voice” Mark E Smith\r\n\r\n“Fu***ng top” Liam Gallager\r\n\r\nGirl Peculiar will be supported by up and coming local band Nova Six\r\n\r\nFREE ENTRY CHEAP DRINKS Strictly over 18's",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307974368000+0100)\/",
+      "Edited": "\/Date(1312873348000+0100)\/"
+    }
+  ]
+}

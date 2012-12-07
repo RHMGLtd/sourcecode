@@ -1,0 +1,28 @@
+{
+  "BandName": {
+    "Value": "Martin Taylor"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/68616",
+      "BandNames": [
+        {
+          "Value": "Martin Taylor"
+        },
+        {
+          "Value": "Dan Wilde"
+        }
+      ],
+      "Venue": "Marine Hall",
+      "Date": "\/Date(1317942000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "unknown",
+      "MoreInfo": "Multi award winning guitarist and composer MARTIN TAYLOR has established a unique musical career as an internationally acclaimed musician, and his inimitable style has seen him recognized as the world’s foremost exponent of solo jazz guitar playing. In 2002 he was awarded an MBE for services to Jazz music. Supported by excellent singer/songwriter Dan Wilde. Tickets £14 from 01253 887693 or http://www.marinehall.co.uk.\r\n\r\nhttp://www.towerblues.co.uk",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307891766000+0100)\/",
+      "Edited": "\/Date(1316591740000+0100)\/"
+    }
+  ]
+}

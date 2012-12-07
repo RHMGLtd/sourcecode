@@ -1,0 +1,259 @@
+{
+  "IsNull": false,
+  "Venue": "Burlington",
+  "Gigs": [
+    {
+      "Id": "gig/10",
+      "BandNames": [
+        {
+          "Value": "The Jeps"
+        }
+      ],
+      "Venue": "Burlington",
+      "Date": "\/Date(1303426800000+0100)\/",
+      "StartTime": "19:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303858800000+0100)\/",
+      "Edited": "\/Date(1303858800000+0100)\/"
+    },
+    {
+      "Id": "gig/18450",
+      "BandNames": [
+        {
+          "Value": "The Coustics"
+        }
+      ],
+      "Venue": "Burlington",
+      "Date": "\/Date(1305241200000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1304118000000+0100)\/",
+      "Edited": "\/Date(1304118000000+0100)\/"
+    },
+    {
+      "Id": "gig/45057",
+      "BandNames": [
+        {
+          "Value": "The Valvetronics"
+        }
+      ],
+      "Venue": "Burlington",
+      "Date": "\/Date(1306450800000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306419708000+0100)\/",
+      "Edited": "\/Date(1306419710000+0100)\/"
+    },
+    {
+      "Id": "gig/61441",
+      "BandNames": [
+        {
+          "Value": "Twisted Romance"
+        }
+      ],
+      "Venue": "Burlington",
+      "Date": "\/Date(1307055600000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307102625000+0100)\/",
+      "Edited": "\/Date(1307102625000+0100)\/"
+    },
+    {
+      "Id": "gig/66566",
+      "BandNames": [
+        {
+          "Value": "On The Edge"
+        }
+      ],
+      "Venue": "Burlington",
+      "Date": "\/Date(1307746800000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307646438000+0100)\/",
+      "Edited": "\/Date(1307646438000+0100)\/"
+    },
+    {
+      "Id": "gig/77842",
+      "BandNames": [
+        {
+          "Value": "The Monster Squad"
+        }
+      ],
+      "Venue": "Burlington",
+      "Date": "\/Date(1308870000000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308852101000+0100)\/",
+      "Edited": "\/Date(1308852583000+0100)\/"
+    },
+    {
+      "Id": "gig/78877",
+      "BandNames": [
+        {
+          "Value": "The Monster Squad"
+        }
+      ],
+      "Venue": "Burlington",
+      "Date": "\/Date(1310079600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308917262000+0100)\/",
+      "Edited": "\/Date(1308917262000+0100)\/"
+    },
+    {
+      "Id": "gig/99407",
+      "BandNames": [
+        {
+          "Value": "Twisted Romance"
+        }
+      ],
+      "Venue": "Burlington",
+      "Date": "\/Date(1312498800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311709543000+0100)\/",
+      "Edited": "\/Date(1311709543000+0100)\/"
+    },
+    {
+      "Id": "gig/99421",
+      "BandNames": [
+        {
+          "Value": "The Love Rats"
+        }
+      ],
+      "Venue": "Burlington",
+      "Date": "\/Date(1313103600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311710059000+0100)\/",
+      "Edited": "\/Date(1311710059000+0100)\/"
+    },
+    {
+      "Id": "gig/99400",
+      "BandNames": [
+        {
+          "Value": "The Monster Squad"
+        }
+      ],
+      "Venue": "Burlington",
+      "Date": "\/Date(1313708400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311709093000+0100)\/",
+      "Edited": "\/Date(1311709093000+0100)\/"
+    },
+    {
+      "Id": "gig/99377",
+      "BandNames": [
+        {
+          "Value": "Glitterballs"
+        }
+      ],
+      "Venue": "Burlington",
+      "Date": "\/Date(1314313200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311708430000+0100)\/",
+      "Edited": "\/Date(1311708430000+0100)\/"
+    },
+    {
+      "Id": "gig/117765",
+      "BandNames": [
+        {
+          "Value": "Emma Sophie Wright"
+        }
+      ],
+      "Venue": "Burlington",
+      "Date": "\/Date(1316214000000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315145088000+0100)\/",
+      "Edited": "\/Date(1315145088000+0100)\/"
+    },
+    {
+      "Id": "gig/116776",
+      "BandNames": [
+        {
+          "Value": "The Monster Squad"
+        }
+      ],
+      "Venue": "Burlington",
+      "Date": "\/Date(1317337200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315140555000+0100)\/",
+      "Edited": "\/Date(1315140555000+0100)\/"
+    },
+    {
+      "Id": "gig/61456",
+      "BandNames": [
+        {
+          "Value": "The Versions"
+        }
+      ],
+      "Venue": "Burlington",
+      "Date": "\/Date(1320969600000+0000)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307103482000+0100)\/",
+      "Edited": "\/Date(1307103482000+0100)\/"
+    }
+  ],
+  "Future": []
+}

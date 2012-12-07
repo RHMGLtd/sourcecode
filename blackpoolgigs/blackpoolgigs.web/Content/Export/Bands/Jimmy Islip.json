@@ -1,0 +1,31 @@
+{
+  "BandName": {
+    "Value": "Jimmy Islip"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/33794",
+      "BandNames": [
+        {
+          "Value": "All Eyes West"
+        },
+        {
+          "Value": "Jimmy Islip"
+        },
+        {
+          "Value": "Litterbug"
+        }
+      ],
+      "Venue": "Gillespies Bar",
+      "Date": "\/Date(1308610800000+0100)\/",
+      "StartTime": "19:30",
+      "Price": "Free",
+      "MoreInfo": "This is a free gig with donations on the door.\r\n\r\nJimmy Islip of The Magnificent",
+      "GigTitle": "An Interesting Gig in Blackpool",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1305628305000+0100)\/",
+      "Edited": "\/Date(1306925710000+0100)\/"
+    }
+  ]
+}

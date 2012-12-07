@@ -1,0 +1,24 @@
+{
+  "Id": "metadata/2049",
+  "VenueName": "The Cedar Tavern",
+  "MainImageName": "The Cedar Tavern.jpg",
+  "BarAndClubReviewsUrl": "http://www.bar-and-club-reviews.com/bars/45740-Cedar-Tavern-Blackpool",
+  "ContactDetail": {
+    "MainPhoneNumber": "07505119841",
+    "SecondaryPhoneNumbers": [
+      "07837600291"
+    ],
+    "AddressLines": [
+      "St John's Square",
+      "Blackpool"
+    ],
+    "Website": "http://https://www.facebook.com/pages/The-Cedar-Tavern/147030128646906",
+    "EmailAddress": null,
+    "PostCode": "FY1 1BP",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.818677",
+    "Long": "-3.050294"
+  }
+}

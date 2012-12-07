@@ -1,0 +1,22 @@
+{
+  "Id": "metadata/2074",
+  "VenueName": "The North Euston",
+  "MainImageName": "The North Euston.jpg",
+  "BarAndClubReviewsUrl": "http://www.bar-and-club-reviews.com/bars/77462-the-north-euston",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 876525",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "The Esplanade",
+      "Fleetwood"
+    ],
+    "Website": "http://www.northeustonhotel.com/",
+    "EmailAddress": "neh@nehmail.co.uk",
+    "PostCode": "FY7 6BN",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.928059",
+    "Long": "-3.00762"
+  }
+}

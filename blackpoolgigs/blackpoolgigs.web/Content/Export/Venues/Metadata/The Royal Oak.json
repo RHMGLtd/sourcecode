@@ -1,0 +1,21 @@
+{
+  "Id": "metadata/2072",
+  "VenueName": "The Royal Oak",
+  "MainImageName": "The Royal Oak.jpg",
+  "BarAndClubReviewsUrl": "http://www.bar-and-club-reviews.com/bars/77467-the-royal-oak",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 362921",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "322 Lytham Road"
+    ],
+    "Website": "http://https://www.facebook.com/pages/The-Royal-Oak/281601900688",
+    "EmailAddress": null,
+    "PostCode": "FY1 6EY",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.799054",
+    "Long": "-3.050632"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "BandName": {
+    "Value": "Emma Sophie Wright"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/117765",
+      "BandNames": [
+        {
+          "Value": "Emma Sophie Wright"
+        }
+      ],
+      "Venue": "Burlington",
+      "Date": "\/Date(1316214000000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315145088000+0100)\/",
+      "Edited": "\/Date(1315145088000+0100)\/"
+    }
+  ]
+}

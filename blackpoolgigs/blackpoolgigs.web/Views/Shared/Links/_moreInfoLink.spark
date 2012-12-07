@@ -1,0 +1,1 @@
+<a href="!{new GigUrl(date, venue)}" alt="click here to see more information about this gig at !{venue} on !{date.ToString('dd MMM yyyy')}" title="click here to see more information about this gig at !{venue} on !{date.ToString('dd MMM yyyy')}">see more information about this gig...</a>

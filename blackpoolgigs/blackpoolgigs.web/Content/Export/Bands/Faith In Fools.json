@@ -1,0 +1,34 @@
+{
+  "BandName": {
+    "Value": "Faith In Fools"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/110595",
+      "BandNames": [
+        {
+          "Value": "Taser Puppets"
+        },
+        {
+          "Value": "Faith In Fools"
+        },
+        {
+          "Value": "The Breakdown"
+        },
+        {
+          "Value": "Prototype Angel"
+        }
+      ],
+      "Venue": "The Blue Room",
+      "Date": "\/Date(1316214000000+0100)\/",
+      "StartTime": "20:30",
+      "Price": "£1.00",
+      "MoreInfo": "TASER PUPPETS\r\npost-punk from Chorley\r\nhttp://www.facebook.com/pages/Taser-Puppets/219241828109022?\r\n\r\nFAITH IN FOOLS\r\nSka/Rap/Rock from Manchester\r\nhttp://www.facebook.com/officialfaithinfools\r\n\r\nTHE BREAKDOWN\r\nRock/Grunge from Bolton\r\nhttp://www.myspace.com/thebreakdownpage\r\n\r\nPROTOTYPE ANGEL\r\nAlternative Rock from Wigan\r\nhttp://www.facebook.com/pages/Prototype-Angel/100318233346080",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1313933445000+0100)\/",
+      "Edited": "\/Date(1313933445000+0100)\/"
+    }
+  ]
+}

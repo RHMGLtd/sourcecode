@@ -1,0 +1,22 @@
+{
+  "Id": "metadata/9217",
+  "VenueName": "The Plough",
+  "MainImageName": "The Plough.jpg",
+  "BarAndClubReviewsUrl": "",
+  "ContactDetail": {
+    "MainPhoneNumber": "01772 632345",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "2 Lytham Rd",
+      "Freckleton"
+    ],
+    "Website": "",
+    "EmailAddress": null,
+    "PostCode": "PR4 1XA",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.754065",
+    "Long": "-2.86962"
+  }
+}

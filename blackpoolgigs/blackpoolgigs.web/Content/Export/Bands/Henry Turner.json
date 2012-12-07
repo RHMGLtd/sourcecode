@@ -1,0 +1,43 @@
+{
+  "BandName": {
+    "Value": "Henry Turner"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/64513",
+      "BandNames": [
+        {
+          "Value": "Indigo Sands"
+        },
+        {
+          "Value": "Laura Torkington"
+        },
+        {
+          "Value": "Joe Morgan"
+        },
+        {
+          "Value": "Henry Turner"
+        },
+        {
+          "Value": "Solvent Free"
+        },
+        {
+          "Value": "James Cameron"
+        },
+        {
+          "Value": "Jake Maher"
+        }
+      ],
+      "Venue": "Fleetwood Rugby Club",
+      "Date": "\/Date(1307746800000+0100)\/",
+      "StartTime": "17:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": "Fleetwood Rugby Club Presents... Band Night",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307536432000+0100)\/",
+      "Edited": "\/Date(1307536432000+0100)\/"
+    }
+  ]
+}

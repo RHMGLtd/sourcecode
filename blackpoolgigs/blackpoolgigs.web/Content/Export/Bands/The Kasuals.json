@@ -1,0 +1,25 @@
+{
+  "BandName": {
+    "Value": "The Kasuals"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/58370",
+      "BandNames": [
+        {
+          "Value": "The Kasuals"
+        }
+      ],
+      "Venue": "The Queens",
+      "Date": "\/Date(1307574000000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307038976000+0100)\/",
+      "Edited": "\/Date(1307038976000+0100)\/"
+    }
+  ]
+}

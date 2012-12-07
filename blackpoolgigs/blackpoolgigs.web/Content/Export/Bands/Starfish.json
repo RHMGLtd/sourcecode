@@ -1,0 +1,79 @@
+{
+  "BandName": {
+    "Value": "Starfish"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/37890",
+      "BandNames": [
+        {
+          "Value": "Starfish"
+        }
+      ],
+      "Venue": "The Coach and Horses",
+      "Date": "\/Date(1306623600000+0100)\/",
+      "StartTime": "17:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306149321000+0100)\/",
+      "Edited": "\/Date(1306149321000+0100)\/"
+    },
+    {
+      "Id": "gig/78899",
+      "BandNames": [
+        {
+          "Value": "Starfish"
+        }
+      ],
+      "Venue": "Station Tavern",
+      "Date": "\/Date(1310770800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308918378000+0100)\/",
+      "Edited": "\/Date(1308918378000+0100)\/"
+    },
+    {
+      "Id": "gig/116788",
+      "BandNames": [
+        {
+          "Value": "Starfish"
+        }
+      ],
+      "Venue": "The Royal Oak",
+      "Date": "\/Date(1315609200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315140969000+0100)\/",
+      "Edited": "\/Date(1315140969000+0100)\/"
+    },
+    {
+      "Id": "gig/134177",
+      "BandNames": [
+        {
+          "Value": "Starfish"
+        }
+      ],
+      "Venue": "Station Tavern",
+      "Date": "\/Date(1327708800000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": "Unplugged",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326569814000+0000)\/",
+      "Edited": "\/Date(1326569814000+0000)\/"
+    }
+  ]
+}

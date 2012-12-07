@@ -1,0 +1,22 @@
+{
+  "Id": "metadata/5121",
+  "VenueName": "The Old Bank Inn",
+  "MainImageName": "The Old Bank Inn.jpg",
+  "BarAndClubReviewsUrl": "http://www.bar-and-club-reviews.com/bars/77463-the-old-bank-inn",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 406835",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "46 Bond Street",
+      "Blackpool"
+    ],
+    "Website": "",
+    "EmailAddress": null,
+    "PostCode": "FY4 1BW",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.797765",
+    "Long": "-3.053881"
+  }
+}

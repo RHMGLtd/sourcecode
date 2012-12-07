@@ -1,0 +1,31 @@
+{
+  "BandName": {
+    "Value": "Stephen Chadwick"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/106499",
+      "BandNames": [
+        {
+          "Value": "The Tapestry"
+        },
+        {
+          "Value": "The Pretty Thunder"
+        },
+        {
+          "Value": "Stephen Chadwick"
+        }
+      ],
+      "Venue": "Beat",
+      "Date": "\/Date(1313103600000+0100)\/",
+      "StartTime": "19.30",
+      "Price": "unknown",
+      "MoreInfo": "\"The Tapestry are a new band from Manchester who release their debut single on the 22nd of April.\r\nRode Your Luck (Tapestry records 001) , comes on all Suzy Quattro glam rock drums with impossibly catchy guitars before smashing into a huge boy/girl sing a long, terrace chant of a chorus.\r\nThe band have sold out Night and Day in Manchester , have a front man called Liam, and name Pixies, Pavement, The Clash and Television as influences…got your attention yet ?\r\nThe single is available for download from all the usual places and is available on cd from Piccadilly Records or from the band through their facebook\"\r\n\r\nLouder Than War, 15/04/2011\r\n\r\nThe Pretty Thunder are a raucous new sound emanating from Blackpool on Sea. If you like your rock hard and sweet - these guys will take some lickin!\r\n\r\nStephen Chadwick is a singer/songwriter from Manchester - destined for fame and fortune.\r\n\r\nFollowing the Gig, everyone will have queue jump ticket for Nellie Deans - just 2 mins along the prom where we can PARTY the night away!",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1313045431000+0100)\/",
+      "Edited": "\/Date(1313045431000+0100)\/"
+    }
+  ]
+}

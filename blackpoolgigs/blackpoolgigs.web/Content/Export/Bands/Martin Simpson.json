@@ -1,0 +1,25 @@
+{
+  "BandName": {
+    "Value": "Martin Simpson"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/37889",
+      "BandNames": [
+        {
+          "Value": "Martin Simpson"
+        }
+      ],
+      "Venue": "Marine Hall",
+      "Date": "\/Date(1307574000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "£12",
+      "MoreInfo": "There is no doubt that after 35 years as a professional musician Martin is, right now, better than ever. Widely acknowledged as one of the finest acoustic and slide guitar players in the world, his interpretations of traditional songs are masterpieces of storytelling. His solo shows are intense, eclectic, spellbinding and deeply moving.\r\n\r\nMartin has been nominated an astounding 23 times in the eleven years of the BBC Radio 2 Folk Awards - more than any other performer - with 9 consecutive years as nominee for Musician of The Year, which he has won twice. 2008 saw an incredible 5 nominations for \"Prodigal Son' and 2 wins, whilst in 2010 he had an unprecedented 6 nominations for his CD, \"True Stories\" and a win for Best Traditional Track, \"Sir Patrick Spens\". \r\n\r\nWhether playing American old-time music, blues, a Dylan song or his own material, Martin Simpson is unpredictable, individual and a guitarist of immense subtlety. \r\n\r\nTickets £12 from 01253 887693 or www.marinehall.co.uk",
+      "GigTitle": "Martin Simpson",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306149168000+0100)\/",
+      "Edited": "\/Date(1306149168000+0100)\/"
+    }
+  ]
+}

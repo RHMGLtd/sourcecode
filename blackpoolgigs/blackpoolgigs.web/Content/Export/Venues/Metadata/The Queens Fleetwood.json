@@ -1,0 +1,22 @@
+{
+  "Id": "metadata/6151",
+  "VenueName": "The Queens, Fleetwood",
+  "MainImageName": "The Queens, Fleetwood.JPG",
+  "BarAndClubReviewsUrl": "http://www.bar-and-club-reviews.com/bars/77465-the-queens",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 876740",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "Poulton Road",
+      "Fleetwood"
+    ],
+    "Website": "",
+    "EmailAddress": null,
+    "PostCode": "FY7 8PR",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.918157",
+    "Long": "-3.035084"
+  }
+}

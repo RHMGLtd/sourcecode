@@ -1,0 +1,25 @@
+{
+  "BandName": {
+    "Value": "The Kings of Lyon"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/87041",
+      "BandNames": [
+        {
+          "Value": "The Kings of Lyon"
+        }
+      ],
+      "Venue": "The Edge",
+      "Date": "\/Date(1310598000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "£5.00",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1309690100000+0100)\/",
+      "Edited": "\/Date(1309690100000+0100)\/"
+    }
+  ]
+}

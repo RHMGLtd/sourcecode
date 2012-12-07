@@ -1,0 +1,61 @@
+{
+  "IsNull": false,
+  "Venue": "The Albert",
+  "Gigs": [
+    {
+      "Id": "gig/25601",
+      "BandNames": [
+        {
+          "Value": "Paul Darran"
+        }
+      ],
+      "Venue": "The Albert",
+      "Date": "\/Date(1305327600000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1305200665000+0100)\/",
+      "Edited": "\/Date(1305200666000+0100)\/"
+    },
+    {
+      "Id": "gig/49155",
+      "BandNames": [
+        {
+          "Value": "James Luke"
+        }
+      ],
+      "Venue": "The Albert",
+      "Date": "\/Date(1311894000000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306503843000+0100)\/",
+      "Edited": "\/Date(1306503843000+0100)\/"
+    },
+    {
+      "Id": "gig/116767",
+      "BandNames": [
+        {
+          "Value": "Paul Darran"
+        }
+      ],
+      "Venue": "The Albert",
+      "Date": "\/Date(1315609200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315140243000+0100)\/",
+      "Edited": "\/Date(1315140243000+0100)\/"
+    }
+  ],
+  "Future": []
+}

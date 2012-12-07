@@ -1,0 +1,25 @@
+{
+  "IsNull": false,
+  "Venue": "Birley Arms",
+  "Gigs": [
+    {
+      "Id": "gig/116796",
+      "BandNames": [
+        {
+          "Value": "Twisted Romance"
+        }
+      ],
+      "Venue": "Birley Arms",
+      "Date": "\/Date(1316818800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": "Bikers Convention",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315141215000+0100)\/",
+      "Edited": "\/Date(1315141215000+0100)\/"
+    }
+  ],
+  "Future": []
+}

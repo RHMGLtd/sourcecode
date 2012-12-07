@@ -1,0 +1,925 @@
+{
+  "BandName": {
+    "Value": "Jazz Knights"
+  },
+  "Gigs": [
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "Jazz Knights"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1308697200000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": "Jazz Knights",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308479990000+0100)\/",
+      "Edited": "\/Date(1308479991000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "Jazz Knights"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1309302000000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": "Jazz Knights",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308479990000+0100)\/",
+      "Edited": "\/Date(1308479991000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "Jazz Knights"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1309906800000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": "Jazz Knights",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308479990000+0100)\/",
+      "Edited": "\/Date(1308479991000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "Jazz Knights"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1310511600000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": "Jazz Knights",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308479990000+0100)\/",
+      "Edited": "\/Date(1308479991000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "Jazz Knights"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1311116400000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": "Jazz Knights",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308479990000+0100)\/",
+      "Edited": "\/Date(1308479991000+0100)\/"
+    },
+    {
+      "Id": "gig/103437",
+      "BandNames": [
+        {
+          "Value": "Jazz Knights"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1312326000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311947421000+0100)\/",
+      "Edited": "\/Date(1311947421000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "Jazz Knights"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1312930800000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": "Jazz Knights",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308479990000+0100)\/",
+      "Edited": "\/Date(1308479991000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "Jazz Knights"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1315350000000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": "Jazz Knights",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308479990000+0100)\/",
+      "Edited": "\/Date(1308479991000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "Jazz Knights"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1315954800000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": "Jazz Knights",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308479990000+0100)\/",
+      "Edited": "\/Date(1308479991000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "Jazz Knights"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1316559600000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": "Jazz Knights",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308479990000+0100)\/",
+      "Edited": "\/Date(1308479991000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "Jazz Knights"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1317164400000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": "Jazz Knights",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308479990000+0100)\/",
+      "Edited": "\/Date(1308479991000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "Jazz Knights"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1317769200000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": "Jazz Knights",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308479990000+0100)\/",
+      "Edited": "\/Date(1308479991000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "Jazz Knights"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1318374000000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": "Jazz Knights",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308479990000+0100)\/",
+      "Edited": "\/Date(1308479991000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "Jazz Knights"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1318978800000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": "Jazz Knights",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308479990000+0100)\/",
+      "Edited": "\/Date(1308479991000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "Jazz Knights"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1320192000000+0000)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": "Jazz Knights",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308479990000+0100)\/",
+      "Edited": "\/Date(1308479991000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "Jazz Knights"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1320796800000+0000)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": "Jazz Knights",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308479990000+0100)\/",
+      "Edited": "\/Date(1308479991000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "Jazz Knights"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1321401600000+0000)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": "Jazz Knights",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308479990000+0100)\/",
+      "Edited": "\/Date(1308479991000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "Jazz Knights"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1322006400000+0000)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": "Jazz Knights",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308479990000+0100)\/",
+      "Edited": "\/Date(1308479991000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "Jazz Knights"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1323216000000+0000)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": "Jazz Knights",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308479990000+0100)\/",
+      "Edited": "\/Date(1308479991000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "Jazz Knights"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1323820800000+0000)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": "Jazz Knights",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308479990000+0100)\/",
+      "Edited": "\/Date(1308479991000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "Jazz Knights"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1325030400000+0000)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": "Jazz Knights",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308479990000+0100)\/",
+      "Edited": "\/Date(1308479991000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "Jazz Knights"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1325635200000+0000)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": "Jazz Knights",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308479990000+0100)\/",
+      "Edited": "\/Date(1308479991000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "Jazz Knights"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1326240000000+0000)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": "Jazz Knights",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308479990000+0100)\/",
+      "Edited": "\/Date(1308479991000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "Jazz Knights"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1326844800000+0000)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": "Jazz Knights",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308479990000+0100)\/",
+      "Edited": "\/Date(1308479991000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "Jazz Knights"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1327449600000+0000)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": "Jazz Knights",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308479990000+0100)\/",
+      "Edited": "\/Date(1308479991000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "Jazz Knights"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1328054400000+0000)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": "Jazz Knights",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308479990000+0100)\/",
+      "Edited": "\/Date(1308479991000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "Jazz Knights"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1328659200000+0000)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": "Jazz Knights",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308479990000+0100)\/",
+      "Edited": "\/Date(1308479991000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "Jazz Knights"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1329264000000+0000)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": "Jazz Knights",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308479990000+0100)\/",
+      "Edited": "\/Date(1308479991000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "Jazz Knights"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1329868800000+0000)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": "Jazz Knights",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308479990000+0100)\/",
+      "Edited": "\/Date(1308479991000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "Jazz Knights"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1330473600000+0000)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": "Jazz Knights",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308479990000+0100)\/",
+      "Edited": "\/Date(1308479991000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "Jazz Knights"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1331078400000+0000)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": "Jazz Knights",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308479990000+0100)\/",
+      "Edited": "\/Date(1308479991000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "Jazz Knights"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1331683200000+0000)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": "Jazz Knights",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308479990000+0100)\/",
+      "Edited": "\/Date(1308479991000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "Jazz Knights"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1332288000000+0000)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": "Jazz Knights",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308479990000+0100)\/",
+      "Edited": "\/Date(1308479991000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "Jazz Knights"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1332889200000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": "Jazz Knights",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308479990000+0100)\/",
+      "Edited": "\/Date(1308479991000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "Jazz Knights"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1333494000000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": "Jazz Knights",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308479990000+0100)\/",
+      "Edited": "\/Date(1308479991000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "Jazz Knights"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1334098800000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": "Jazz Knights",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308479990000+0100)\/",
+      "Edited": "\/Date(1308479991000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "Jazz Knights"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1334703600000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": "Jazz Knights",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308479990000+0100)\/",
+      "Edited": "\/Date(1308479991000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "Jazz Knights"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1335308400000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": "Jazz Knights",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308479990000+0100)\/",
+      "Edited": "\/Date(1308479991000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "Jazz Knights"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1335913200000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": "Jazz Knights",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308479990000+0100)\/",
+      "Edited": "\/Date(1308479991000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "Jazz Knights"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1336518000000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": "Jazz Knights",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308479990000+0100)\/",
+      "Edited": "\/Date(1308479991000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "Jazz Knights"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1337122800000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": "Jazz Knights",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308479990000+0100)\/",
+      "Edited": "\/Date(1308479991000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "Jazz Knights"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1337727600000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": "Jazz Knights",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308479990000+0100)\/",
+      "Edited": "\/Date(1308479991000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "Jazz Knights"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1338332400000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": "Jazz Knights",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308479990000+0100)\/",
+      "Edited": "\/Date(1308479991000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "Jazz Knights"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1338937200000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": "Jazz Knights",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308479990000+0100)\/",
+      "Edited": "\/Date(1308479991000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "Jazz Knights"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1339542000000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": "Jazz Knights",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308479990000+0100)\/",
+      "Edited": "\/Date(1308479991000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "Jazz Knights"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1340146800000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": "Jazz Knights",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308479990000+0100)\/",
+      "Edited": "\/Date(1308479991000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "Jazz Knights"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1340751600000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": "Jazz Knights",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308479990000+0100)\/",
+      "Edited": "\/Date(1308479991000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "Jazz Knights"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1341356400000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": "Jazz Knights",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308479990000+0100)\/",
+      "Edited": "\/Date(1308479991000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "Jazz Knights"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1341961200000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": "Jazz Knights",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308479990000+0100)\/",
+      "Edited": "\/Date(1308479991000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "Jazz Knights"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1342566000000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": "Jazz Knights",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308479990000+0100)\/",
+      "Edited": "\/Date(1308479991000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "Jazz Knights"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1343170800000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": "Jazz Knights",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308479990000+0100)\/",
+      "Edited": "\/Date(1308479991000+0100)\/"
+    }
+  ]
+}

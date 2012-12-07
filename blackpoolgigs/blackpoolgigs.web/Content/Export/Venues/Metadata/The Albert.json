@@ -1,0 +1,22 @@
+{
+  "Id": "metadata/6154",
+  "VenueName": "The Albert",
+  "MainImageName": "The Albert.jpg",
+  "BarAndClubReviewsUrl": "http://www.bar-and-club-reviews.com/bars/77451-the-albert",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 292867",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "117 Albert Road",
+      "Blackpool"
+    ],
+    "Website": "http://www.thealberthotelblackpool.co.uk‎",
+    "EmailAddress": null,
+    "PostCode": "FY1 4PW",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.816075",
+    "Long": "-3.048581"
+  }
+}

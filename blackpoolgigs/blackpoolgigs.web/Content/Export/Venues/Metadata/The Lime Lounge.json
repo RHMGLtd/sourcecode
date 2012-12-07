@@ -1,0 +1,22 @@
+{
+  "Id": "metadata/7171",
+  "VenueName": "The Lime Lounge",
+  "MainImageName": "The Lime Lounge.jpg",
+  "BarAndClubReviewsUrl": "http://www.bar-and-club-reviews.com/bars/77460-the-lime-lounge",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 850088",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "6 Bispham Road",
+      "Thornton-Cleveleys"
+    ],
+    "Website": "http://www.limeloungecleveleys.com/",
+    "EmailAddress": null,
+    "PostCode": "FY5 1DG",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.876521",
+    "Long": "-3.043259"
+  }
+}

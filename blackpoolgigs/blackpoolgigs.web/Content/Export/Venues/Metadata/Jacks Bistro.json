@@ -1,0 +1,22 @@
+{
+  "Id": "metadata/20488",
+  "VenueName": "Jacks Bistro",
+  "MainImageName": "Jacks Bistro.jpg",
+  "BarAndClubReviewsUrl": "",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 780990",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "54 Wood Street",
+      "Lytham St. Annes"
+    ],
+    "Website": "http://www.jacksbistro.co.uk/",
+    "EmailAddress": null,
+    "PostCode": "FY8 1QG",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.750205",
+    "Long": "-3.031135"
+  }
+}

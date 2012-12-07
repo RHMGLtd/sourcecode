@@ -1,0 +1,4204 @@
+{
+  "BandName": {
+    "Value": "The Nemesis Sound"
+  },
+  "Gigs": [
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1308265200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1308351600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1308438000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1308783600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1308870000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1308956400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1309042800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1309388400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1309474800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1309561200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1309647600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1309993200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1310079600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1310166000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1310252400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1310598000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1310684400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1310770800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1310857200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1311202800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1311375600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1311462000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1311807600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1311894000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1311980400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1312066800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": "gig/100353",
+      "BandNames": [
+        {
+          "Value": "The Swing Sound"
+        },
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1312239600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": "Guest musicians welcome to join the band. We have poached Mr JOHN ELLIS (Jazz Piano) from Manchester join us in Blackpool TOP GUY!!",
+      "GigTitle": "A BIG MUSIC TRIBUTE NIGHT TO ERIC DELANEY",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311715097000+0100)\/",
+      "Edited": "\/Date(1311715098000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1312498800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1312585200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1312671600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1313017200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1313103600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1313190000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1313276400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1313622000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1313708400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1313794800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1313881200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1314226800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1314313200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1314399600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1314486000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1314831600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1314918000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1315004400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1315090800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1315436400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1315522800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1315609200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1315695600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1316041200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1316127600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1316214000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1316300400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1316646000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1316732400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1316818800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1316905200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1317250800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1317337200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1317423600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1317510000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1317855600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1317942000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1318028400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1318114800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1318460400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1318546800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1318633200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1318719600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1319065200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1319151600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1319238000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1319324400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1319670000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1319756400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1319842800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1319929200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1320278400000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1320364800000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1320451200000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1320537600000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1320883200000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1320969600000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1321056000000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1321142400000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1321488000000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1321574400000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1321660800000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1321747200000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1322092800000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1322179200000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1322265600000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1322352000000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1322697600000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1322784000000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1322870400000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1322956800000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1323302400000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1323388800000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1323475200000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1323561600000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1323907200000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1323993600000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1324080000000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1324166400000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1324512000000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1324598400000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1324684800000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1324771200000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1325116800000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1325203200000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1325289600000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1325376000000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1325721600000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1325808000000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1325894400000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1325980800000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1326326400000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1326412800000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1326499200000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1326585600000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1326931200000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1327017600000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1327104000000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1327190400000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1327536000000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1327622400000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1327708800000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1327795200000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1328140800000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1328227200000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1328313600000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1328400000000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1328745600000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1328832000000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1328918400000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1329004800000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1329350400000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1329436800000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1329523200000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1329609600000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1329955200000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1330041600000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1330128000000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1330214400000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1330560000000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1330646400000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1330732800000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1330819200000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1331164800000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1331251200000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1331337600000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1331424000000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1331769600000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1331856000000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1331942400000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1332028800000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1332374400000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1332460800000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1332547200000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1332633600000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1332975600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1333062000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1333148400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1333234800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1333580400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1333666800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1333753200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1333839600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1334185200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1334271600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1334358000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1334444400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1334790000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1334876400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1334962800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1335049200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1335394800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1335481200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1335567600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1335654000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1335999600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1336086000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1336172400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1336258800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1336604400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1336690800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1336777200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1336863600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1337209200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1337295600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1337382000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1337468400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1337814000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1337900400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1337986800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1338073200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1338418800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1338505200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1338591600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1338678000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1339023600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1339110000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1339196400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1339282800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1339628400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1339714800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1339801200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1339887600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1340233200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1340319600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1340406000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1340492400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1340838000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1340924400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1341010800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1341097200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1341442800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1341529200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1341615600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1341702000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1342047600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1342134000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1342220400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1342306800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1342652400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1342738800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1342825200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1342911600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1343257200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1343343600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    },
+    {
+      "Id": null,
+      "BandNames": [
+        {
+          "Value": "The Nemesis Sound"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1343430000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307877053000+0100)\/",
+      "Edited": "\/Date(1307877053000+0100)\/"
+    }
+  ]
+}

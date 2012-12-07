@@ -1,0 +1,37 @@
+{
+  "BandName": {
+    "Value": "Matt Billington"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/130050",
+      "BandNames": [
+        {
+          "Value": "Veasey"
+        },
+        {
+          "Value": "Callighan & Wolski"
+        },
+        {
+          "Value": "Matt Billington"
+        },
+        {
+          "Value": "Big Door Open"
+        },
+        {
+          "Value": "Last Breath"
+        }
+      ],
+      "Venue": "Rock Hard Studios",
+      "Date": "\/Date(1318028400000+0100)\/",
+      "StartTime": "10:00",
+      "Price": "free",
+      "MoreInfo": "Please note the change of date for this event!\r\n\r\nBlackpool’s very own Rock Hard Studios is opening its doors on Saturday the 8th of October, for a special one off open day. Since opening five years ago Rock Hard Studios has gone from strength to strength recording professional artists and local bands alike. \r\n\r\nThe purpose of the day is to raise funds for Creative Tuition Trust, a local music charity. All money donated will be used to provide free tuition to local children in various musical instruments, ( Guitar, Keyboard, Drums, Singing, Bass, DJ'ing ect ). \r\n\r\nFollow us on:\r\nhttp://www.facebook.com/pages/Creative-Tuition-Trust/201607773192977\r\n\r\nSo come down on October 8th to join in with our free workshops in drumming, guitar playing, D.J.’ing and recording. There will also be a BBQ on site, studio tours, a raffle and live bands playing throughout the day and night.\r\n\r\n!!!!!!!!!!!!!!!!!!!!!!!!!!! A DAY NOT TO BE MISSED !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\r\n\r\nPlaying on the day will be:\r\n\r\nVeasey\r\nCallighan N Wolski\r\nMatt Billington\r\nBig Door Open\r\nLast Breath \r\nAnd More To Come!!!",
+      "GigTitle": "Rock Hard Studios Open Day",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1316864070000+0100)\/",
+      "Edited": "\/Date(1316864070000+0100)\/"
+    }
+  ]
+}

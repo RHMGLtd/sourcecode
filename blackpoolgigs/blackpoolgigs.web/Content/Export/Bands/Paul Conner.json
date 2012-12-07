@@ -1,0 +1,25 @@
+{
+  "BandName": {
+    "Value": "Paul Conner"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/125953",
+      "BandNames": [
+        {
+          "Value": "Paul Conner"
+        }
+      ],
+      "Venue": "Old Town Hall",
+      "Date": "\/Date(1317423600000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": "Paul Conner - Live lead guitar and vocals.....'The' one man band covers The Beatles, Chuck Berry,Rod Stewart,Bryan Adams,Free,Bon Jovi,Wild Cherry,Kenny Loggins,Whitesnake,The Eagles,Blonde,Status Quo,Chesney Hawkes,ACDC,U2,Rainbow,Lynard Skynard,Queen,John Farnham,Black Sabbath,Van Halen,The Proclaimers,Thin Lizzy,Aerosmith,Deep Blue Something,Kaiser Chiefs,Black Crows,The Darkness,Stereophonics,Greenday",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1316500382000+0100)\/",
+      "Edited": "\/Date(1316500383000+0100)\/"
+    }
+  ]
+}

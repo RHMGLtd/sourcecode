@@ -1,0 +1,31 @@
+{
+  "BandName": {
+    "Value": "Dragster"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/61492",
+      "BandNames": [
+        {
+          "Value": "Dragster"
+        },
+        {
+          "Value": "Hotwired Punk Band"
+        },
+        {
+          "Value": "Drongos for Europe"
+        }
+      ],
+      "Venue": "Winter Gardens",
+      "Date": "\/Date(1312412400000+0100)\/",
+      "StartTime": "10:00",
+      "Price": "unknown",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307104991000+0100)\/",
+      "Edited": "\/Date(1307105044000+0100)\/"
+    }
+  ]
+}

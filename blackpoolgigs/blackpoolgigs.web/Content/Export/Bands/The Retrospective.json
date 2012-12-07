@@ -1,0 +1,52 @@
+{
+  "BandName": {
+    "Value": "The Retrospective"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/25",
+      "BandNames": [
+        {
+          "Value": "Dysphonia"
+        },
+        {
+          "Value": "Dirty Hearts Club"
+        },
+        {
+          "Value": "Cowards"
+        },
+        {
+          "Value": "The 10 of Spades"
+        },
+        {
+          "Value": "Matchstick Men"
+        },
+        {
+          "Value": "Marionette"
+        },
+        {
+          "Value": "The Lemontops"
+        },
+        {
+          "Value": "The Retrospective"
+        },
+        {
+          "Value": "Every Effort Made"
+        },
+        {
+          "Value": "The Valvetronics"
+        }
+      ],
+      "Venue": "The Blue Room",
+      "Date": "\/Date(1306623600000+0100)\/",
+      "StartTime": "19.00",
+      "Price": "£2",
+      "MoreInfo": "Later At The Blue Room \r\n\r\nwww.facebook.com/theblueroomblackpool\r\nyou can follow us on twitter at www.twitter.com/blueroombpl",
+      "GigTitle": "Later At The Blue Room",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303686000000+0100)\/",
+      "Edited": "\/Date(1303686000000+0100)\/"
+    }
+  ]
+}

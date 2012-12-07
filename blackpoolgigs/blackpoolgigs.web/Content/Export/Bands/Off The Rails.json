@@ -1,0 +1,25 @@
+{
+  "BandName": {
+    "Value": "Off The Rails"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/134189",
+      "BandNames": [
+        {
+          "Value": "Off The Rails"
+        }
+      ],
+      "Venue": "The Ship and Royal",
+      "Date": "\/Date(1327104000000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326570421000+0000)\/",
+      "Edited": "\/Date(1326570421000+0000)\/"
+    }
+  ]
+}

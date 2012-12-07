@@ -1,0 +1,133 @@
+{
+  "BandName": {
+    "Value": "Charlese"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/39950",
+      "BandNames": [
+        {
+          "Value": "Charlese"
+        }
+      ],
+      "Venue": "Mojito",
+      "Date": "\/Date(1307574000000+0100)\/",
+      "StartTime": "20:30",
+      "Price": "Free",
+      "MoreInfo": "https://www.facebook.com/CharleseMusic?sk=events",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306335342000+0100)\/",
+      "Edited": "\/Date(1306335342000+0100)\/"
+    },
+    {
+      "Id": "gig/39951",
+      "BandNames": [
+        {
+          "Value": "Charlese"
+        }
+      ],
+      "Venue": "Mojito",
+      "Date": "\/Date(1308783600000+0100)\/",
+      "StartTime": "20:30",
+      "Price": "Free",
+      "MoreInfo": "https://www.facebook.com/CharleseMusic?sk=events",
+      "GigTitle": "Charlese Live!",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306335650000+0100)\/",
+      "Edited": "\/Date(1306393745000+0100)\/"
+    },
+    {
+      "Id": "gig/82945",
+      "BandNames": [
+        {
+          "Value": "Charlese"
+        }
+      ],
+      "Venue": "Hand and Dagger",
+      "Date": "\/Date(1309561200000+0100)\/",
+      "StartTime": "19:00",
+      "Price": "free",
+      "MoreInfo": "A night of Acoustic Jazz, Soul, Blues & Funky D.I.S.C.O!! \r\nCharlese singing live accompanied by Matthew Shaw. \r\nCHICKEN CURRY SUPPER for just £5!!\r\nhttp://www.facebook.com/HandAndDagger\r\n\r\nAiming to become one of the best Food Destination Pubs the Hand & Dagger enjoys a pretty rural location by the Lancaster Canal at Treales, nr. Kirkham\r\n\r\nTel: 01772 690306",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1309192863000+0100)\/",
+      "Edited": "\/Date(1309192864000+0100)\/"
+    },
+    {
+      "Id": "gig/39952",
+      "BandNames": [
+        {
+          "Value": "Charlese"
+        }
+      ],
+      "Venue": "Mojito",
+      "Date": "\/Date(1309993200000+0100)\/",
+      "StartTime": "20:30",
+      "Price": "Free",
+      "MoreInfo": "https://www.facebook.com/CharleseMusic?sk=events",
+      "GigTitle": "Charlese Live!",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306335695000+0100)\/",
+      "Edited": "\/Date(1306335695000+0100)\/"
+    },
+    {
+      "Id": "gig/39953",
+      "BandNames": [
+        {
+          "Value": "Charlese"
+        }
+      ],
+      "Venue": "Mojito",
+      "Date": "\/Date(1311202800000+0100)\/",
+      "StartTime": "20:30",
+      "Price": "Free",
+      "MoreInfo": "https://www.facebook.com/CharleseMusic?sk=events",
+      "GigTitle": "Charlese Live!",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306335729000+0100)\/",
+      "Edited": "\/Date(1306335729000+0100)\/"
+    },
+    {
+      "Id": "gig/101381",
+      "BandNames": [
+        {
+          "Value": "Charlese"
+        }
+      ],
+      "Venue": "The Town House",
+      "Date": "\/Date(1311721200000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": "A night of Funk, Soul, Jazz & Blues with \"The Midnight Lamp\", Charlese, Tom Vernon, Chris Hodder, Jonathan Hartley.\r\n\r\nSituated in Lytham St Annes town centre directly opposite the railway station, The Town House, formerly known as the Crescent, is a trouble free, female friendly venue. Known as a lively, vibrant pub, it is part of the local circuit and prominent in the town. This modern style pub is open plan with bright colours and leather sofas where you can relax and enjoy a favourite pint or a value for money bite to eat. The bar, which is alongside the dance floor is a Victorian listed building and has a traditional feel.",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311835838000+0100)\/",
+      "Edited": "\/Date(1311835838000+0100)\/"
+    },
+    {
+      "Id": "gig/119809",
+      "BandNames": [
+        {
+          "Value": "Charlese"
+        }
+      ],
+      "Venue": "Mojito",
+      "Date": "\/Date(1316646000000+0100)\/",
+      "StartTime": "20:30",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": "JEFJAM",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315290784000+0100)\/",
+      "Edited": "\/Date(1315290785000+0100)\/"
+    }
+  ]
+}

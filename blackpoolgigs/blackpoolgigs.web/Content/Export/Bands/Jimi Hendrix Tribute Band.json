@@ -1,0 +1,43 @@
+{
+  "BandName": {
+    "Value": "Jimi Hendrix Tribute Band"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/7",
+      "BandNames": [
+        {
+          "Value": "Jimi Hendrix Tribute Band"
+        }
+      ],
+      "Venue": "The Edge",
+      "Date": "\/Date(1303340400000+0100)\/",
+      "StartTime": "19:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303945200000+0100)\/",
+      "Edited": "\/Date(1303945200000+0100)\/"
+    },
+    {
+      "Id": "gig/29697",
+      "BandNames": [
+        {
+          "Value": "Jimi Hendrix Tribute Band"
+        }
+      ],
+      "Venue": "The Edge",
+      "Date": "\/Date(1303340400000+0100)\/",
+      "StartTime": "19.30",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1305466630000+0100)\/",
+      "Edited": "\/Date(1305466631000+0100)\/"
+    }
+  ]
+}

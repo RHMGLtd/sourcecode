@@ -1,0 +1,22 @@
+{
+  "Id": "metadata/6145",
+  "VenueName": "The Ship Inn",
+  "MainImageName": "The Ship Inn.jpg",
+  "BarAndClubReviewsUrl": "http://www.bar-and-club-reviews.com/bars/77471-the-ship-inn",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 872610",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "24-26 Warren Street",
+      "Fleetwood"
+    ],
+    "Website": "",
+    "EmailAddress": "theshipinn@hotmail.co.uk",
+    "PostCode": "FY7 6",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.922782",
+    "Long": "-3.009742"
+  }
+}

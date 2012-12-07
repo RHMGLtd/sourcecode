@@ -1,0 +1,61 @@
+{
+  "IsNull": false,
+  "Venue": "No 4 Freemasons",
+  "Gigs": [
+    {
+      "Id": "gig/67585",
+      "BandNames": [
+        {
+          "Value": "Orin"
+        }
+      ],
+      "Venue": "No 4 Freemasons",
+      "Date": "\/Date(1307833200000+0100)\/",
+      "StartTime": "19.30",
+      "Price": "free",
+      "MoreInfo": "Neal and jake rocking it out acoustic style on sunday",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307876996000+0100)\/",
+      "Edited": "\/Date(1308917114000+0100)\/"
+    },
+    {
+      "Id": "gig/39939",
+      "BandNames": [
+        {
+          "Value": "The Blue Pig Orchestra"
+        }
+      ],
+      "Venue": "No 4 Freemasons",
+      "Date": "\/Date(1308870000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306334734000+0100)\/",
+      "Edited": "\/Date(1306393914000+0100)\/"
+    },
+    {
+      "Id": "gig/77826",
+      "BandNames": [
+        {
+          "Value": "Orin"
+        }
+      ],
+      "Venue": "No 4 Freemasons",
+      "Date": "\/Date(1309042800000+0100)\/",
+      "StartTime": "19.30",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": "Open Mic Night!",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308851064000+0100)\/",
+      "Edited": "\/Date(1308917135000+0100)\/"
+    }
+  ],
+  "Future": []
+}

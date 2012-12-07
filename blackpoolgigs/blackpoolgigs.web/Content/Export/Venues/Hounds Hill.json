@@ -1,0 +1,25 @@
+{
+  "IsNull": false,
+  "Venue": "Hounds Hill",
+  "Gigs": [
+    {
+      "Id": "gig/40961",
+      "BandNames": [
+        {
+          "Value": "Spiral Scouts"
+        }
+      ],
+      "Venue": "Hounds Hill",
+      "Date": "\/Date(1306450800000+0100)\/",
+      "StartTime": "13:00",
+      "Price": "free",
+      "MoreInfo": "The lucky residents of Blackpool will be given a taster of just one of the talented acts to perform at the BAREFOOT IN BABYLON music festival due to commence at midday on Saturday 28th in the victorian sunlounge on North Pier.\r\n\r\nThe Spiral Scouts will be delivering a one off promotional performance of their very own original material in the heart of Blackpool's oldest shopping centre from 1pm on Friday. So come on down, show your support and help us promote what is set out to be a fantastic day and night of dazzling entertainment in amazing bohemian surroundings.",
+      "GigTitle": "Spiral Scouts play The Hound's Hill!!!",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306392149000+0100)\/",
+      "Edited": "\/Date(1306392149000+0100)\/"
+    }
+  ],
+  "Future": []
+}

@@ -1,0 +1,268 @@
+{
+  "BandName": {
+    "Value": "Callighan & Wolski"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/27651",
+      "BandNames": [
+        {
+          "Value": "Callighan & Wolski"
+        }
+      ],
+      "Venue": "The Layton Institute",
+      "Date": "\/Date(1305932400000+0100)\/",
+      "StartTime": "20:30",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1305458077000+0100)\/",
+      "Edited": "\/Date(1305537374000+0100)\/"
+    },
+    {
+      "Id": "gig/55304",
+      "BandNames": [
+        {
+          "Value": "Callighan & Wolski"
+        }
+      ],
+      "Venue": "The Hop Inn",
+      "Date": "\/Date(1306796400000+0100)\/",
+      "StartTime": "15:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306844966000+0100)\/",
+      "Edited": "\/Date(1306844966000+0100)\/"
+    },
+    {
+      "Id": "gig/80897",
+      "BandNames": [
+        {
+          "Value": "Callighan & Wolski"
+        },
+        {
+          "Value": "Charlie Cartmell"
+        }
+      ],
+      "Venue": "K2",
+      "Date": "\/Date(1309042800000+0100)\/",
+      "StartTime": "18:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1309006448000+0100)\/",
+      "Edited": "\/Date(1309006449000+0100)\/"
+    },
+    {
+      "Id": "gig/78849",
+      "BandNames": [
+        {
+          "Value": "The Keytars"
+        },
+        {
+          "Value": "Callighan & Wolski"
+        },
+        {
+          "Value": "Magic Trees"
+        }
+      ],
+      "Venue": "The Edge",
+      "Date": "\/Date(1309647600000+0100)\/",
+      "StartTime": "20:30",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308914967000+0100)\/",
+      "Edited": "\/Date(1308914968000+0100)\/"
+    },
+    {
+      "Id": "gig/83969",
+      "BandNames": [
+        {
+          "Value": "Chantel McGregor"
+        },
+        {
+          "Value": "Callighan & Wolski"
+        }
+      ],
+      "Venue": "Marine Hall",
+      "Date": "\/Date(1310598000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "£8 (adv) £10 (door)",
+      "MoreInfo": "Imagine the technique and tone of Robin Trower, the feel of Bonnie Raitt, the inspiration of Hendrix, the influence of SRV, the energy of Bonamassa and the intensity of Trout all rolled into one. \r\n\r\nChantel Mcgregor is one of the most exciting rock blues guitarists in the country.This is rock blues for the new age, played by a musician born with an effortless virtuosity, peppered by flights of incendiary guitar and flanked by moments of poise, grace and fluidity...\r\nChantel's debut album; Like No Other, showcases this, along with her genuine talent as a singer and songwriter.\r\n\r\nSupport from Callighan & Wolski.\r\n\r\nTickets £8 (adv) £10 (door) Tel 01253 887693",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1309329113000+0100)\/",
+      "Edited": "\/Date(1309329113000+0100)\/"
+    },
+    {
+      "Id": "gig/101379",
+      "BandNames": [
+        {
+          "Value": "Callighan & Wolski"
+        }
+      ],
+      "Venue": "The Queens, Fleetwood",
+      "Date": "\/Date(1311894000000+0100)\/",
+      "StartTime": "20:30",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311835697000+0100)\/",
+      "Edited": "\/Date(1311835697000+0100)\/"
+    },
+    {
+      "Id": "gig/101380",
+      "BandNames": [
+        {
+          "Value": "Callighan & Wolski"
+        }
+      ],
+      "Venue": "The Hop Inn",
+      "Date": "\/Date(1312066800000+0100)\/",
+      "StartTime": "16:30",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311835730000+0100)\/",
+      "Edited": "\/Date(1311835730000+0100)\/"
+    },
+    {
+      "Id": "gig/111620",
+      "BandNames": [
+        {
+          "Value": "Callighan & Wolski"
+        }
+      ],
+      "Venue": "The Lime Lounge",
+      "Date": "\/Date(1314226800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": "Kicking off about 8.30 a good way to start your bank holiday weekend!!",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1314190355000+0100)\/",
+      "Edited": "\/Date(1314190355000+0100)\/"
+    },
+    {
+      "Id": "gig/115715",
+      "BandNames": [
+        {
+          "Value": "Callighan & Wolski"
+        }
+      ],
+      "Venue": "Gillespies Bar",
+      "Date": "\/Date(1315090800000+0100)\/",
+      "StartTime": "15:30",
+      "Price": "free",
+      "MoreInfo": "Sunday afternoon kickin off about 3.30 not played here for a looooong time will be lovely!",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315040474000+0100)\/",
+      "Edited": "\/Date(1315040474000+0100)\/"
+    },
+    {
+      "Id": "gig/122881",
+      "BandNames": [
+        {
+          "Value": "Callighan & Wolski"
+        }
+      ],
+      "Venue": "Gillespies Bar",
+      "Date": "\/Date(1316127600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315752737000+0100)\/",
+      "Edited": "\/Date(1315752737000+0100)\/"
+    },
+    {
+      "Id": "gig/128002",
+      "BandNames": [
+        {
+          "Value": "Callighan & Wolski"
+        }
+      ],
+      "Venue": "The Golden Eagle",
+      "Date": "\/Date(1316818800000+0100)\/",
+      "StartTime": "20:30",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1316763099000+0100)\/",
+      "Edited": "\/Date(1316763099000+0100)\/"
+    },
+    {
+      "Id": "gig/121857",
+      "BandNames": [
+        {
+          "Value": "Callighan & Wolski"
+        },
+        {
+          "Value": "Dusty Cash"
+        }
+      ],
+      "Venue": "The Hop Inn",
+      "Date": "\/Date(1316905200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315390965000+0100)\/",
+      "Edited": "\/Date(1316763160000+0100)\/"
+    },
+    {
+      "Id": "gig/130050",
+      "BandNames": [
+        {
+          "Value": "Veasey"
+        },
+        {
+          "Value": "Callighan & Wolski"
+        },
+        {
+          "Value": "Matt Billington"
+        },
+        {
+          "Value": "Big Door Open"
+        },
+        {
+          "Value": "Last Breath"
+        }
+      ],
+      "Venue": "Rock Hard Studios",
+      "Date": "\/Date(1318028400000+0100)\/",
+      "StartTime": "10:00",
+      "Price": "free",
+      "MoreInfo": "Please note the change of date for this event!\r\n\r\nBlackpool’s very own Rock Hard Studios is opening its doors on Saturday the 8th of October, for a special one off open day. Since opening five years ago Rock Hard Studios has gone from strength to strength recording professional artists and local bands alike. \r\n\r\nThe purpose of the day is to raise funds for Creative Tuition Trust, a local music charity. All money donated will be used to provide free tuition to local children in various musical instruments, ( Guitar, Keyboard, Drums, Singing, Bass, DJ'ing ect ). \r\n\r\nFollow us on:\r\nhttp://www.facebook.com/pages/Creative-Tuition-Trust/201607773192977\r\n\r\nSo come down on October 8th to join in with our free workshops in drumming, guitar playing, D.J.’ing and recording. There will also be a BBQ on site, studio tours, a raffle and live bands playing throughout the day and night.\r\n\r\n!!!!!!!!!!!!!!!!!!!!!!!!!!! A DAY NOT TO BE MISSED !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\r\n\r\nPlaying on the day will be:\r\n\r\nVeasey\r\nCallighan N Wolski\r\nMatt Billington\r\nBig Door Open\r\nLast Breath \r\nAnd More To Come!!!",
+      "GigTitle": "Rock Hard Studios Open Day",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1316864070000+0100)\/",
+      "Edited": "\/Date(1316864070000+0100)\/"
+    }
+  ]
+}

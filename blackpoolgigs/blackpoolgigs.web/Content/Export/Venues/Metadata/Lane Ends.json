@@ -1,0 +1,23 @@
+{
+  "Id": "metadata/20490",
+  "VenueName": "Lane Ends",
+  "MainImageName": "Lane Ends.jpg",
+  "BarAndClubReviewsUrl": "",
+  "ContactDetail": {
+    "MainPhoneNumber": "01772 671216",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "Weeton Road",
+      "Wesham",
+      "Kirkham"
+    ],
+    "Website": "http://www.laneends.co.uk/",
+    "EmailAddress": "lane_ends@btconnect.com",
+    "PostCode": "PR4 3DH",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.790377",
+    "Long": "-2.888313"
+  }
+}

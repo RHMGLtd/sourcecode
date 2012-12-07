@@ -1,0 +1,8 @@
+<use namespace="blackpoolgigs.web.Models.ViewModels" />
+<use namespace="blackpoolgigs.web.Urls" />
+<use namespace="coolbunny.common.Extensions" />
+<use namespace="blackpoolgigs.common.Extensions" />
+<use namespace="blackpoolgigs.common.ViewModels" />
+
+<use namespace="System" />
+<use namespace="System.Linq"/>

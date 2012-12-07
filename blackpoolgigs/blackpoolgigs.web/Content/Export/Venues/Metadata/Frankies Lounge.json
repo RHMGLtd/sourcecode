@@ -1,0 +1,22 @@
+{
+  "Id": "metadata/20486",
+  "VenueName": "Frankies Lounge",
+  "MainImageName": null,
+  "BarAndClubReviewsUrl": "",
+  "ContactDetail": {
+    "MainPhoneNumber": null,
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "75 Talbot Road",
+      "Blackpool"
+    ],
+    "Website": "http://www.makellys.com/frankieslounge",
+    "EmailAddress": null,
+    "PostCode": "FY1 1NL",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.820175",
+    "Long": "-3.051538"
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "BandName": {
+    "Value": "Dinosaurs Are Shit Dragons"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/24",
+      "BandNames": [
+        {
+          "Value": "Failed Theory"
+        },
+        {
+          "Value": "Pretty Thunder"
+        },
+        {
+          "Value": "Heights"
+        },
+        {
+          "Value": "Death Defying Spying"
+        },
+        {
+          "Value": "Laura Catlow"
+        },
+        {
+          "Value": "Dinosaurs Are Shit Dragons"
+        },
+        {
+          "Value": "Escape Artist"
+        },
+        {
+          "Value": "Goonies Never Say Die"
+        },
+        {
+          "Value": "Mauser"
+        },
+        {
+          "Value": "Makers Of Venice"
+        }
+      ],
+      "Venue": "The Blue Room",
+      "Date": "\/Date(1306537200000+0100)\/",
+      "StartTime": "19.30",
+      "Price": "£2",
+      "MoreInfo": "Later At The Blue Room \r\n\r\nwww.facebook.com/theblueroomblackpool\r\nyou can follow us on twitter at www.twitter.com/blueroomb",
+      "GigTitle": "Later At The Blue Room",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303772400000+0100)\/",
+      "Edited": "\/Date(1307892392000+0100)\/"
+    },
+    {
+      "Id": "gig/72705",
+      "BandNames": [
+        {
+          "Value": "The Pretty Thunder"
+        },
+        {
+          "Value": "Dinosaurs Are Shit Dragons"
+        },
+        {
+          "Value": "Pick Up The Gun"
+        }
+      ],
+      "Venue": "The Blue Room",
+      "Date": "\/Date(1308351600000+0100)\/",
+      "StartTime": "20:30",
+      "Price": "£1.00",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308247857000+0100)\/",
+      "Edited": "\/Date(1308247857000+0100)\/"
+    },
+    {
+      "Id": "gig/90113",
+      "BandNames": [
+        {
+          "Value": "Makers Of Venice"
+        },
+        {
+          "Value": "Uncle Paul"
+        },
+        {
+          "Value": "Dinosaurs Are Shit Dragons"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1310770800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1309872351000+0100)\/",
+      "Edited": "\/Date(1309872352000+0100)\/"
+    },
+    {
+      "Id": "gig/97282",
+      "BandNames": [
+        {
+          "Value": "The Senton Bombs"
+        },
+        {
+          "Value": "Dinosaurs Are Shit Dragons"
+        },
+        {
+          "Value": "Cowards"
+        },
+        {
+          "Value": "Litterbug"
+        }
+      ],
+      "Venue": "The Blue Room",
+      "Date": "\/Date(1312498800000+0100)\/",
+      "StartTime": "20:30",
+      "Price": "£1.00",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311511123000+0100)\/",
+      "Edited": "\/Date(1311511123000+0100)\/"
+    },
+    {
+      "Id": "gig/106497",
+      "BandNames": [
+        {
+          "Value": "Dinosaurs Are Shit Dragons"
+        },
+        {
+          "Value": "Eliminator"
+        },
+        {
+          "Value": "A'Priori"
+        },
+        {
+          "Value": "Bad Sign"
+        }
+      ],
+      "Venue": "The Blue Room",
+      "Date": "\/Date(1315609200000+0100)\/",
+      "StartTime": "20:30",
+      "Price": "£2.00",
+      "MoreInfo": "DINOSAURS ARE SHIT DRAGONS\r\nRefused combined with Duran Duran, Flight Of The Conchords & Tourettes from Blackpool\r\nhttp://www.facebook.com/di​nosaursareshitdragons\r\n\r\nELIMINATOR\r\nFantastic 80s Hair Metal from Lancaster\r\nhttp://www.facebook.com/el​iminatorheavymetal\r\n\r\nA'PRIORI\r\n80s Metal with Modern Progressive Twists from Blackpool\r\nhttp://www.facebook.com/pa​ges/Apriori/10825036253650​2?sk=info\r\n\r\nBAD SIGN\r\nRock from Croydon\r\nhttp://www.facebook.com/Ba​dSignBand?sk=info",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1313045312000+0100)\/",
+      "Edited": "\/Date(1313045313000+0100)\/"
+    }
+  ]
+}

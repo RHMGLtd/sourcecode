@@ -1,0 +1,52 @@
+{
+  "BandName": {
+    "Value": "Failed Theory"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/24",
+      "BandNames": [
+        {
+          "Value": "Failed Theory"
+        },
+        {
+          "Value": "Pretty Thunder"
+        },
+        {
+          "Value": "Heights"
+        },
+        {
+          "Value": "Death Defying Spying"
+        },
+        {
+          "Value": "Laura Catlow"
+        },
+        {
+          "Value": "Dinosaurs Are Shit Dragons"
+        },
+        {
+          "Value": "Escape Artist"
+        },
+        {
+          "Value": "Goonies Never Say Die"
+        },
+        {
+          "Value": "Mauser"
+        },
+        {
+          "Value": "Makers Of Venice"
+        }
+      ],
+      "Venue": "The Blue Room",
+      "Date": "\/Date(1306537200000+0100)\/",
+      "StartTime": "19.30",
+      "Price": "£2",
+      "MoreInfo": "Later At The Blue Room \r\n\r\nwww.facebook.com/theblueroomblackpool\r\nyou can follow us on twitter at www.twitter.com/blueroomb",
+      "GigTitle": "Later At The Blue Room",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303772400000+0100)\/",
+      "Edited": "\/Date(1307892392000+0100)\/"
+    }
+  ]
+}

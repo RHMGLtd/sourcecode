@@ -1,0 +1,25 @@
+{
+  "BandName": {
+    "Value": "Swing Commanders"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/61488",
+      "BandNames": [
+        {
+          "Value": "Swing Commanders"
+        }
+      ],
+      "Venue": "The Sands",
+      "Date": "\/Date(1307055600000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307104861000+0100)\/",
+      "Edited": "\/Date(1307104861000+0100)\/"
+    }
+  ]
+}

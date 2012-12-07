@@ -1,0 +1,31 @@
+{
+  "BandName": {
+    "Value": "Addictive Personality"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/111618",
+      "BandNames": [
+        {
+          "Value": "Addictive Personality"
+        },
+        {
+          "Value": "Dysphonia"
+        },
+        {
+          "Value": "The Senton Bombs"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1315263600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": "ADDICTIVE PHILOSOPHY http://www.addictivephilosophy.biz/\r\n\r\nFantastic Ska/Punk band from Derby on Tour. We play a range of original music from mellow rocksteady to full throttle thrash, but mainly levelling out in the Ska/Punk area - think Rancid, Specials, Inner Terrestrials and Crass, but as far and wide as The Paragons to Discharge. Check our lyrics page out for what we're about - we say what we think and we're not shy about it!!\r\n\r\n**************************************************\r\n\r\nDYSPHONIA http://www.facebook.com/pages/Dysphonia/172102612817880?sk=info\r\n\r\nLocal Post-punk heroes. Influenced by The Cramps, The Dead Kennedys, Bowie, Joy Division, Magazine, Siouxsie and the Banshees.\r\n\r\n**************************************************\r\n\r\nSENTON BOMBS http://www.myspace.com/thesentonbombs\r\n\r\nPunk infected Rock 'n' Roll from Galleon Favourites Senton Bombs. Influences: Aerosmith, AC/DC, Bad Religion, Clash, Dead Kennedys, Megadeth, Misfits, New Bomb Turks, Operation Ivy, NOFX, Ramones, Rancid, Sonics, Springsteen, Supersuckers, Zeke",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1314190239000+0100)\/",
+      "Edited": "\/Date(1314257849000+0100)\/"
+    }
+  ]
+}

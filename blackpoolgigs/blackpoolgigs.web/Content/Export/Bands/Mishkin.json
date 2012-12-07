@@ -1,0 +1,28 @@
+{
+  "BandName": {
+    "Value": "Mishkin"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/31776",
+      "BandNames": [
+        {
+          "Value": "The Youth Anxiety"
+        },
+        {
+          "Value": "Mishkin"
+        }
+      ],
+      "Venue": "The Blue Room",
+      "Date": "\/Date(1306364400000+0100)\/",
+      "StartTime": "20:30",
+      "Price": "£1.00",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": true,
+      "Created": "\/Date(1305540831000+0100)\/",
+      "Edited": "\/Date(1306833668000+0100)\/"
+    }
+  ]
+}

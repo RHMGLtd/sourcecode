@@ -1,0 +1,43 @@
+{
+  "IsNull": false,
+  "Venue": "Blackpool Rugby Club",
+  "Gigs": [
+    {
+      "Id": "gig/61461",
+      "BandNames": [
+        {
+          "Value": "Hooker"
+        }
+      ],
+      "Venue": "Blackpool Rugby Club",
+      "Date": "\/Date(1308956400000+0100)\/",
+      "StartTime": "20:30",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307103833000+0100)\/",
+      "Edited": "\/Date(1307103833000+0100)\/"
+    },
+    {
+      "Id": "gig/96261",
+      "BandNames": [
+        {
+          "Value": "Last Breath"
+        }
+      ],
+      "Venue": "Blackpool Rugby Club",
+      "Date": "\/Date(1316300400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": "Blackpool Breeze",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311271682000+0100)\/",
+      "Edited": "\/Date(1311271682000+0100)\/"
+    }
+  ],
+  "Future": []
+}

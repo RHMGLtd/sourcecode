@@ -1,0 +1,22 @@
+{
+  "Id": "metadata/2070",
+  "VenueName": "Layton Institute",
+  "MainImageName": null,
+  "BarAndClubReviewsUrl": "http://www.bar-and-club-reviews.com/bars/77447-layton-institute",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 391774",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "Westcliffe Drive ",
+      "Blackpool"
+    ],
+    "Website": "http://layton-institute.co.uk/default.aspx",
+    "EmailAddress": null,
+    "PostCode": "FY3 7HG",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.829269",
+    "Long": "-3.030531"
+  }
+}

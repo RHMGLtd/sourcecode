@@ -1,0 +1,25 @@
+{
+  "BandName": {
+    "Value": "Olly Murs"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/2059",
+      "BandNames": [
+        {
+          "Value": "Olly Murs"
+        }
+      ],
+      "Venue": "Blackpool Opera House",
+      "Date": "\/Date(1304636400000+0100)\/",
+      "StartTime": "19:00",
+      "Price": "unknown",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1304204400000+0100)\/",
+      "Edited": "\/Date(1304204400000+0100)\/"
+    }
+  ]
+}

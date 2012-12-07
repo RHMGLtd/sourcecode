@@ -1,0 +1,28 @@
+{
+  "IsNull": false,
+  "Venue": "K2",
+  "Gigs": [
+    {
+      "Id": "gig/80897",
+      "BandNames": [
+        {
+          "Value": "Callighan & Wolski"
+        },
+        {
+          "Value": "Charlie Cartmell"
+        }
+      ],
+      "Venue": "K2",
+      "Date": "\/Date(1309042800000+0100)\/",
+      "StartTime": "18:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1309006448000+0100)\/",
+      "Edited": "\/Date(1309006449000+0100)\/"
+    }
+  ],
+  "Future": []
+}

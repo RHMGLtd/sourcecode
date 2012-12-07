@@ -1,0 +1,22 @@
+{
+  "Id": "metadata/7170",
+  "VenueName": "Nellie Deans",
+  "MainImageName": "Nellie Deans.jpg",
+  "BarAndClubReviewsUrl": "http://www.bar-and-club-reviews.com/bars/49756-Nellie-Deans-Piano-Bar-Blackpool",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 623737",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "150 - 152 Promenade",
+      "Blackpool"
+    ],
+    "Website": "http://https://www.facebook.com/group.php?gid=15803069454",
+    "EmailAddress": null,
+    "PostCode": "FY1 1RE",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.820445",
+    "Long": "-3.055125"
+  }
+}

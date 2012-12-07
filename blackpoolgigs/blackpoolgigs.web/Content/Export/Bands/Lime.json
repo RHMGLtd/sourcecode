@@ -1,0 +1,31 @@
+{
+  "BandName": {
+    "Value": "Lime"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/45058",
+      "BandNames": [
+        {
+          "Value": "Lime"
+        },
+        {
+          "Value": "Wal Street Blues Band"
+        },
+        {
+          "Value": "Spitfire"
+        }
+      ],
+      "Venue": "The Rossall Tavern",
+      "Date": "\/Date(1310166000000+0100)\/",
+      "StartTime": "19:00",
+      "Price": "unknown",
+      "MoreInfo": null,
+      "GigTitle": "Only Fools & Hero's Charity Gig",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306419749000+0100)\/",
+      "Edited": "\/Date(1306419749000+0100)\/"
+    }
+  ]
+}

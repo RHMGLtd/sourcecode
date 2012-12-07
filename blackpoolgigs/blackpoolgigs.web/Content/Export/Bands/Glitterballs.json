@@ -1,0 +1,79 @@
+{
+  "BandName": {
+    "Value": "Glitterballs"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/55300",
+      "BandNames": [
+        {
+          "Value": "Glitterballs"
+        }
+      ],
+      "Venue": "The Royal Oak",
+      "Date": "\/Date(1308265200000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306843998000+0100)\/",
+      "Edited": "\/Date(1306843998000+0100)\/"
+    },
+    {
+      "Id": "gig/49156",
+      "BandNames": [
+        {
+          "Value": "Glitterballs"
+        }
+      ],
+      "Venue": "Uncle Toms Cabin",
+      "Date": "\/Date(1311375600000+0100)\/",
+      "StartTime": "21:30",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306503898000+0100)\/",
+      "Edited": "\/Date(1306503898000+0100)\/"
+    },
+    {
+      "Id": "gig/99377",
+      "BandNames": [
+        {
+          "Value": "Glitterballs"
+        }
+      ],
+      "Venue": "Burlington",
+      "Date": "\/Date(1314313200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311708430000+0100)\/",
+      "Edited": "\/Date(1311708430000+0100)\/"
+    },
+    {
+      "Id": "gig/134153",
+      "BandNames": [
+        {
+          "Value": "Glitterballs"
+        }
+      ],
+      "Venue": "The Venue",
+      "Date": "\/Date(1327708800000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326568852000+0000)\/",
+      "Edited": "\/Date(1326568852000+0000)\/"
+    }
+  ]
+}

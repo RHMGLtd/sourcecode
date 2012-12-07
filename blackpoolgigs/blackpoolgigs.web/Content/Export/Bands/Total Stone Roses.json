@@ -1,0 +1,25 @@
+{
+  "BandName": {
+    "Value": "Total Stone Roses"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/134194",
+      "BandNames": [
+        {
+          "Value": "Total Stone Roses"
+        }
+      ],
+      "Venue": "The Blue Room",
+      "Date": "\/Date(1328227200000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "£2.00",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326571081000+0000)\/",
+      "Edited": "\/Date(1326571081000+0000)\/"
+    }
+  ]
+}

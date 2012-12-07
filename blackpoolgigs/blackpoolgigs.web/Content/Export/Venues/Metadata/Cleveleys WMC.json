@@ -1,0 +1,22 @@
+{
+  "Id": "metadata/6149",
+  "VenueName": "Cleveleys WMC",
+  "MainImageName": "Cleveleys WMC.jpg",
+  "BarAndClubReviewsUrl": "http://www.bar-and-club-reviews.com/bars/77446-cleveleys-working-mens-club",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 855004",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "Slinger Road",
+      "Thornton-Cleveleys"
+    ],
+    "Website": "",
+    "EmailAddress": null,
+    "PostCode": "FY5 1BN",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.879191",
+    "Long": "-3.043152"
+  }
+}

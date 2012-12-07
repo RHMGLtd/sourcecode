@@ -1,0 +1,79 @@
+{
+  "BandName": {
+    "Value": "Dirty Daggers"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/3",
+      "BandNames": [
+        {
+          "Value": "Carpe Diem"
+        },
+        {
+          "Value": "Driven Overboard"
+        },
+        {
+          "Value": "Mitford Rebel"
+        },
+        {
+          "Value": "Dirty Daggers"
+        },
+        {
+          "Value": "Kinchinlay"
+        },
+        {
+          "Value": "The Privileged Few"
+        },
+        {
+          "Value": "Escort Knights"
+        },
+        {
+          "Value": "The Temps"
+        },
+        {
+          "Value": "The Colours"
+        },
+        {
+          "Value": "Go Ban Jo Wolski"
+        }
+      ],
+      "Venue": "The Blue Room",
+      "Date": "\/Date(1303513200000+0100)\/",
+      "StartTime": "19.30",
+      "Price": "£2",
+      "MoreInfo": "Later At The Blue Room is an mini indoor festival that runs over both the consecutive bank holiday weekends at the end of April at the Blue Room pub in Blackpool from Thursday 21st April to Sunday 24th April and Thursday 28th April to Sunday 1st May.\r\n\r\nThere will be 80 bands performing over both weekends with 10 acts performing each night, there will be performances from Goonies Never Say Die, The Senton Bombs, Escape Artist, Ides Of March, My Preserver, Idol Minds, Makers Of Venice, Northern Structure, Hammer No More The Fingers, The Colours, Metonia, Bill Orrick, The Drop-Out Wives and many more\r\n\r\nThe format of the event is set up in the same way the 'Later with Jools Holland' programme works, there are 2 stages set up in the venue, as soon as one band finishes at one end of the pub the next band starts at the other end, they even have a 'fake Jools' to compere the night.\r\n\r\nIt runs from 7pm until late every night and is only £2 to get in\r\nits all happening at The Blue Room, Church Street, Blackpool\r\nupdated listings can be found at www.facebook.com/theblueroomblackpool\r\nyou can follow us on twitter at www.twitter.com/blueroombpl",
+      "GigTitle": "Later At The Blue Room",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303686000000+0100)\/",
+      "Edited": "\/Date(1303686000000+0100)\/"
+    },
+    {
+      "Id": "gig/94211",
+      "BandNames": [
+        {
+          "Value": "Dirty Daggers"
+        },
+        {
+          "Value": "The Gekko"
+        },
+        {
+          "Value": "Veasey"
+        },
+        {
+          "Value": "Matchstick Men"
+        }
+      ],
+      "Venue": "The Blue Room",
+      "Date": "\/Date(1315004400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "£1.00",
+      "MoreInfo": "THE DIRTY DAGGERS\r\nRock from Blackpool\r\nhttp://www.facebook.com/pages/The-Dirty-Daggers/77379020190\r\n\r\nTHE GEKKO\r\nHard Rock from Chorley\r\nhttp://www.facebook.com/pages/The-Gekko/185008254854111\r\n\r\nVEASEY\r\nIndie Rock N Roll from Blackpool\r\nhttp://www.facebook.com/pages/VEASEY/29324796184\r\n\r\nMatchstickmen\r\nAlternative Rock from Liverpool\r\nhttp://www.facebook.com/Matchstickmen.band",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311140239000+0100)\/",
+      "Edited": "\/Date(1313933225000+0100)\/"
+    }
+  ]
+}

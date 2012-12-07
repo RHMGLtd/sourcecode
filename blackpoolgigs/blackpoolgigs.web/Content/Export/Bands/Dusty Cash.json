@@ -1,0 +1,67 @@
+{
+  "BandName": {
+    "Value": "Dusty Cash"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/121857",
+      "BandNames": [
+        {
+          "Value": "Callighan & Wolski"
+        },
+        {
+          "Value": "Dusty Cash"
+        }
+      ],
+      "Venue": "The Hop Inn",
+      "Date": "\/Date(1316905200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315390965000+0100)\/",
+      "Edited": "\/Date(1316763160000+0100)\/"
+    },
+    {
+      "Id": "gig/68613",
+      "BandNames": [
+        {
+          "Value": "Blackheart Afterglow"
+        },
+        {
+          "Value": "Dusty Cash"
+        }
+      ],
+      "Venue": "The Blue Room",
+      "Date": "\/Date(1317423600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "£1",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307885891000+0100)\/",
+      "Edited": "\/Date(1315391066000+0100)\/"
+    },
+    {
+      "Id": "gig/121858",
+      "BandNames": [
+        {
+          "Value": "Dusty Cash"
+        }
+      ],
+      "Venue": "Gillespies Bar",
+      "Date": "\/Date(1322179200000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315391008000+0100)\/",
+      "Edited": "\/Date(1315391008000+0100)\/"
+    }
+  ]
+}

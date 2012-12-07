@@ -1,0 +1,484 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{166A65C9-04B3-4628-9293-FE3D03D4A99D}</ProjectGuid>
+    <ProjectTypeGuids>{F85E285D-A4E0-4152-9332-AB1D724D3325};{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>blackpoolgigs.web</RootNamespace>
+    <AssemblyName>blackpoolgigs.web</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <MvcBuildViews>false</MvcBuildViews>
+    <UseIISExpress>false</UseIISExpress>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>none</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Castle.Core">
+      <HintPath>..\..\lib\castle_windsor\Castle.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Castle.Windsor">
+      <HintPath>..\..\lib\castle_windsor\Castle.Windsor.dll</HintPath>
+    </Reference>
+    <Reference Include="Castle.Windsor.Lifestyles">
+      <HintPath>..\..\lib\castle_windsor\Castle.Windsor.Lifestyles.dll</HintPath>
+    </Reference>
+    <Reference Include="DotNetOpenId, Version=2.5.4.9045, Culture=neutral, PublicKeyToken=2780ccd10d57b246, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\lib\snooze\DotNetOpenId.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=4.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\lib\raven\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenFileSystem, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="Snooze, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\lib\snooze\Snooze.dll</HintPath>
+    </Reference>
+    <Reference Include="Spark, Version=1.1.0.0, Culture=neutral, PublicKeyToken=7f8549eed921a12c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\lib\spark\Spark.dll</HintPath>
+    </Reference>
+    <Reference Include="Spark.Web.Mvc, Version=1.1.0.0, Culture=neutral, PublicKeyToken=7f8549eed921a12c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\lib\spark\Spark.Web.Mvc.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web.Mvc, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web.Abstractions" />
+    <Reference Include="System.Web.Routing" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Configuration\BaseConfig.cs" />
+    <Compile Include="Controllers\BandController.cs" />
+    <Compile Include="Controllers\ContactController.cs" />
+    <Compile Include="Controllers\ContentController.cs" />
+    <Compile Include="Controllers\DiaryController.cs" />
+    <Compile Include="Controllers\ErrorController.cs" />
+    <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\VenueController.cs" />
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="installer.cs" />
+    <Compile Include="Models\Blob.cs" />
+    <Compile Include="Models\FourOhFourReason.cs" />
+    <Compile Include="Models\GigSummaryForMap.cs" />
+    <Compile Include="Models\RecentlyChangedInfo.cs" />
+    <Compile Include="Models\ThanksImageInfo.cs" />
+    <Compile Include="Models\ViewModels\AboutViewModel.cs" />
+    <Compile Include="Models\ViewModels\BandLookingForAGigViewModel.cs" />
+    <Compile Include="Models\ViewModels\BandsViewModel.cs" />
+    <Compile Include="Models\ViewModels\BandViewModel.cs" />
+    <Compile Include="Models\ViewModels\ClaimBandViewModel.cs" />
+    <Compile Include="Models\ViewModels\ClaimThanksViewModel.cs" />
+    <Compile Include="Models\ViewModels\ContactViewModel.cs" />
+    <Compile Include="Models\ViewModels\DayMapViewModel.cs" />
+    <Compile Include="Models\ViewModels\DayViewModel.cs" />
+    <Compile Include="Models\ViewModels\FourOhFourViewModel.cs" />
+    <Compile Include="Models\ViewModels\GigViewModel.cs" />
+    <Compile Include="Models\ViewModels\MonthViewModel.cs" />
+    <Compile Include="Models\ViewModels\HomeViewModel.cs" />
+    <Compile Include="Models\ViewModels\NotFoundViewModel.cs" />
+    <Compile Include="Models\ViewModels\ThanksViewModel.cs" />
+    <Compile Include="Models\ViewModels\VenueMapNotFoundViewModel.cs" />
+    <Compile Include="Models\ViewModels\VenueMapViewModel.cs" />
+    <Compile Include="Models\ViewModels\VenueNotFoundViewModel.cs" />
+    <Compile Include="Models\ViewModels\VenuesMapViewModel.cs" />
+    <Compile Include="Models\ViewModels\VenuesViewModel.cs" />
+    <Compile Include="Models\ViewModels\VenueViewModel.cs" />
+    <Compile Include="Models\ViewModels\DiaryNotFoundViewModel.cs" />
+    <Compile Include="Models\ViewModels\YearViewModel.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RouteRegistration.cs" />
+    <Compile Include="Services\Blobs.cs" />
+    <Compile Include="Services\Diariser.cs" />
+    <Compile Include="Services\Emailer.cs" />
+    <Compile Include="Services\Interfaces\IDiarise.cs" />
+    <Compile Include="Services\Interfaces\IEmail.cs" />
+    <Compile Include="Services\Interfaces\IProvideBlobs.cs" />
+    <Compile Include="Services\Interfaces\ISayThanks.cs" />
+    <Compile Include="Services\SayThanks.cs" />
+    <Compile Include="Urls\AboutUrl.cs" />
+    <Compile Include="Urls\BandLookingForAGigUrl.cs" />
+    <Compile Include="Urls\BandsUrl.cs" />
+    <Compile Include="Urls\BandUrl.cs" />
+    <Compile Include="Urls\ClaimBandUrl.cs" />
+    <Compile Include="Urls\ClaimThanksUrl.cs" />
+    <Compile Include="Urls\ContactUrl.cs" />
+    <Compile Include="Urls\DayMapUrl.cs" />
+    <Compile Include="Urls\DayUrl.cs" />
+    <Compile Include="Urls\DiaryUrl.cs" />
+    <Compile Include="Urls\ErrorUrl.cs" />
+    <Compile Include="Urls\GigUrl.cs" />
+    <Compile Include="Urls\HomeUrl.cs" />
+    <Compile Include="Urls\MonthUrl.cs" />
+    <Compile Include="Urls\StolenGearListUrl.cs" />
+    <Compile Include="Urls\StolenGearUrl.cs" />
+    <Compile Include="Urls\ThanksUrl.cs" />
+    <Compile Include="Urls\TodayUrl.cs" />
+    <Compile Include="Urls\VenueMapUrl.cs" />
+    <Compile Include="Urls\VenuesMapUrl.cs" />
+    <Compile Include="Urls\VenuesUrl.cs" />
+    <Compile Include="Urls\VenueUrl.cs" />
+    <Compile Include="Urls\YearUrl.cs" />
+    <Content Include="BingSiteAuth.xml" />
+    <Content Include="Content\about.css" />
+    <Content Include="Content\bands.css" />
+    <Content Include="Content\claimband.css" />
+    <Content Include="Content\Base.css" />
+    <Content Include="Content\common.css" />
+    <Content Include="Content\contact.css" />
+    <Content Include="Content\form.css" />
+    <Content Include="Content\home.css" />
+    <Content Include="Content\images\adverts\blackpool-gigs-charity-banner-raising-money-for-cancer-charities.gif" />
+    <Content Include="Content\images\backgrounds\sorry this gig has been cancelled.png" />
+    <Content Include="Content\images\blackpoolgigs-map-showing-where-we-list-gigs-for.jpg" />
+    <Content Include="Content\images\icons\claim-this-band.png" />
+    <Content Include="Content\images\icons\facebook-icon.png" />
+    <Content Include="Content\images\icons\myspace-icon.png" />
+    <Content Include="Content\images\Welcome-to-Blackpool-Gigs-for-Gigs-in-Blackpool-and-the-Fylde-Coast.png" />
+    <Content Include="Content\scripts\band.js" />
+    <Content Include="Content\scripts\jquery-1.4.4.min.js" />
+    <Content Include="Content\scripts\jquery-ui-1.8.7.custom.min.js" />
+    <Content Include="Content\scripts\jquery.tmpl.js" />
+    <Content Include="Content\stolengear.css" />
+    <Content Include="Content\images\adverts\Rock Hard Music Group Tall Animated Banner - THE best recording and rehearsal studio in Blackpool Lancashire.gif" />
+    <Content Include="Content\images\blackpool-gigs-for-gigs-in-blackpool.jpg" />
+    <Content Include="Content\images\Blackpool-Gigs-Logo---The-place-to-find-out-about-gigs-in-Blackpool-Lancashire.png" />
+    <Content Include="Content\images\icons\bar-and-club-reviews.png" />
+    <Content Include="Content\images\icons\little-tick.png" />
+    <Content Include="Content\images\This venue has gigs in blackpool in the future.png" />
+    <Content Include="Content\menu.css" />
+    <Content Include="Content\yahoo stuff\dragdrop-min.js" />
+    <Content Include="Content\yahoo stuff\fonts-min.css" />
+    <Content Include="Content\yahoo stuff\slider-min.js" />
+    <Content Include="Content\yahoo stuff\slider.css" />
+    <Content Include="Content\yahoo stuff\yahoo-dom-event.js" />
+    <Content Include="Views\Shared\_venueMap.spark">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Views\Content\about.spark">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Views\Diary\shared\_dayNavLinks.spark">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Views\Diary\shared\_monthNavLinks.spark">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Views\Shared\_menu.spark">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Views\Diary\daymap.spark">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Views\Content\bandlookingforagig.spark">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="y_key_3d4586a06438703b.html" />
+    <Content Include="Views\Diary\shared\_dayMapNavLinks.spark">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Views\Content\stolengear.spark">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Views\Home\home_old.spark">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Views\Band\bands.spark">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Views\Shared\Links\_alphaBandLinks.spark">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Views\Band\band.spark">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Views\Band\claimband.spark">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Views\Band\claimthanks.spark">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Views\Band\Shared\_gigSummary.spark">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Views\Shared\Links\_bandLink.spark">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Views\Shared\Links\_venueLink.spark">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Views\Shared\Links\_dayLink.spark">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Views\Shared\Links\_moreInfoLink.spark">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Views\Diary\shared\_gigSummary.spark">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Views\Band\Shared\_bandsNavLinks.spark">
+      <SubType>Designer</SubType>
+    </Content>
+    <None Include="Views\Shared\_gigSummary.spark" />
+    <Content Include="Views\Venue\venuemapnotfound.spark">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Views\Venue\venuemap.spark">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Views\Venue\venues.spark">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Views\Venue\shared\_venuesNavLinks.spark">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Views\Content\stolengearlist.spark">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Views\Venue\venuesmap.spark">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Views\Venue\shared\_gigDetail.spark">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Views\Venue\shared\_gigSummary.spark">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Content\FourOhFour.css" />
+    <Content Include="Content\images\404 images\blob-grins-while-looking-very-tired-clipart.gif" />
+    <Content Include="Content\images\404 images\blob-looking-defeated-clipart.gif" />
+    <Content Include="Content\images\404 images\blob-miserable-clipart.gif" />
+    <Content Include="Content\images\404 images\blob-on-the-run-clipart.gif" />
+    <Content Include="Content\images\404 images\blob-pulling-hair-out-in-desperation-clipart.gif" />
+    <Content Include="Content\images\404 images\blob-what-do-i-do-now-clipart.gif" />
+    <Content Include="Content\images\404 images\blob-with-magnifying-glass-clipart.gif" />
+    <Content Include="Content\images\404 images\blob-with-pencil-moustache-and-goatee-clipart.gif" />
+    <Content Include="Content\images\404 images\blob-worried-clasping-hands-clipart.gif" />
+    <Content Include="Content\images\backgrounds\diary-view.png" />
+    <Content Include="Content\diary.css" />
+    <Content Include="Content\images\backgrounds\today-star.png" />
+    <Content Include="Content\images\backgrounds\venue-view.png" />
+    <Content Include="Content\images\A month of events from Blackpool Gigs - live events and gigs in blackpool lancashire.png" />
+    <Content Include="Content\images\An event from Blackpool Gigs - live events and gigs in blackpool lancashire.png" />
+    <Content Include="Content\images\Blackpool Gigs live events and gigs in blackpool lancashire.png" />
+    <Content Include="Content\images\blackpool gigs live music, events and performance small.jpg" />
+    <Content Include="Content\images\Blackpool Gigs Logo - The place to find out about gigs in Blackpool Lancashire.png" />
+    <Content Include="Content\images\cartoons\1.gif" />
+    <Content Include="Content\images\cartoons\2.gif" />
+    <Content Include="Content\images\cartoons\3.gif" />
+    <Content Include="Content\images\cartoons\4.gif" />
+    <Content Include="Content\images\cartoons\5.gif" />
+    <Content Include="Content\images\cartoons\7.gif" />
+    <Content Include="Content\images\cartoons\8.gif" />
+    <Content Include="Content\images\cartoons\9.gif" />
+    <Content Include="Content\images\cartoons\10.gif" />
+    <Content Include="Content\images\cartoons\11.gif" />
+    <Content Include="Content\images\cartoons\12.gif" />
+    <Content Include="Content\images\cartoons\6.gif" />
+    <Content Include="Content\images\icons\little-contact-person.png" />
+    <Content Include="Content\images\icons\little-email.png" />
+    <Content Include="Content\images\icons\little-house.png" />
+    <Content Include="Content\images\icons\little-phone.png" />
+    <Content Include="Content\images\icons\little-www.png" />
+    <Content Include="Content\metadata.css" />
+    <Content Include="Content\images\blackpool gigs live music, events and performance.jpg" />
+    <Content Include="Content\venue.css" />
+    <Content Include="favicon.ico" />
+    <Content Include="Global.asax" />
+    <Content Include="google5e2e85b64e78a9f3.html" />
+    <Content Include="sitemap.xml" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\Home\home.spark">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Views\Shared\_global.spark">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\Diary\month.spark">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\Layouts\Application.spark" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\AdministrateBlackpoolGigs\blackpoolgigs.filedal\blackpoolgigs.filedal.csproj">
+      <Project>{42A895D9-DA47-41DA-9D8C-F7CA92BFE188}</Project>
+      <Name>blackpoolgigs.filedal</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\coolbunny\coolbunny.common\coolbunny.common.csproj">
+      <Project>{E9309763-E4F0-448D-85CD-F8ABD7A53FAF}</Project>
+      <Name>coolbunny.common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\coolbunny\coolbunny.web.common\coolbunny.web.common.csproj">
+      <Project>{7CEE7A03-0060-4506-A86F-CF32063A2102}</Project>
+      <Name>coolbunny.web.common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\blackpoolgigs.common\blackpoolgigs.common.csproj">
+      <Project>{6F03BB72-0E24-4AAD-980C-59E1AB04FECA}</Project>
+      <Name>blackpoolgigs.common</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\Contact\contact.spark">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\Diary\day.spark">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\Diary\year.spark">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\Shared\Links\_monthLinks.spark">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Views\Contact\thanks.spark">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Views\Venue\venue.spark">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Content\Export\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\Shared\_venueMetaData.spark">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\Shared\_venueContactDetails.spark">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\Venue\venuenotfound.spark">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\Diary\diarynotfound.spark">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\Shared\_pageTitle.spark" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\Shared\Links\_contactLink.spark" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\Error\fourohfour.spark">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\Venue\gig.spark">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target> -->
+  <Target Name="AfterBuild" Condition="'$(MvcBuildViews)'=='true'">
+    <AspNetCompiler VirtualPath="temp" PhysicalPath="$(ProjectDir)" />
+  </Target>
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>9850</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <PropertyGroup>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+</Project>

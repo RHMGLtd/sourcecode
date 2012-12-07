@@ -1,0 +1,32 @@
+R# version: 5.1.1766.4
+assembly Raven.Client.Lightweight, Version=1.0.0.0, Culture=neutral, PublicKeyToken=37f41c7f99471593
+  file C:\business websites\lib\raven\Raven.Client.Lightweight.dll mtime 04/02/2011 16:00:57
+  file C:\business websites\www.blackpoolgigs.co.uk\www.blackpoolgigs.co.uk\Bin\Raven.Client.Lightweight.dll mtime 04/02/2011 16:00:57
+referenced assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  file C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorlib.dll mtime 18/03/2010 12:16:28
+referenced assembly Newtonsoft.Json, Version=4.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed
+  file C:\business websites\lib\raven\Newtonsoft.Json.dll mtime 04/02/2011 16:00:56
+  file C:\business websites\www.blackpoolgigs.co.uk\www.blackpoolgigs.co.uk\Bin\Newtonsoft.Json.dll mtime 04/02/2011 16:00:56
+referenced assembly System.Transactions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  file C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.Transactions.dll mtime 18/03/2010 12:16:28
+referenced assembly System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  file C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll mtime 18/03/2010 18:31:26
+referenced assembly Raven.Abstractions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=37f41c7f99471593
+  file C:\business websites\lib\raven\Raven.Abstractions.dll mtime 28/02/2011 17:33:07
+  file C:\business websites\www.blackpoolgigs.co.uk\www.blackpoolgigs.co.uk\Bin\Raven.Abstractions.dll mtime 28/02/2011 17:33:07
+referenced assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  file C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll mtime 18/03/2010 18:31:26
+referenced assembly MissingBitsFromClientProfile, Version=0.0.0.0, Culture=neutral, PublicKeyToken=37f41c7f99471593
+  file C:\business websites\lib\raven\MissingBitsFromClientProfile.dll mtime 04/02/2011 16:00:56
+  file C:\business websites\www.blackpoolgigs.co.uk\www.blackpoolgigs.co.uk\Bin\MissingBitsFromClientProfile.dll mtime 04/02/2011 16:00:56
+referenced assembly System.ComponentModel.Composition, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  file C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.ComponentModel.Composition.dll mtime 18/03/2010 18:31:26
+referenced assembly AsyncCtpLibrary, Version=1.0.3951.36518, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+  file C:\business websites\lib\raven\AsyncCtpLibrary.dll mtime 04/02/2011 16:00:56
+  file C:\business websites\www.blackpoolgigs.co.uk\www.blackpoolgigs.co.uk\Bin\AsyncCtpLibrary.dll mtime 04/02/2011 16:00:56
+referenced assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  file C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll mtime 18/03/2010 18:31:26
+referenced assembly Microsoft.CSharp, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+  file C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\Microsoft.CSharp.dll mtime 18/03/2010 18:31:26
+referenced assembly System.Configuration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+  file C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Configuration.dll mtime 18/03/2010 18:31:26

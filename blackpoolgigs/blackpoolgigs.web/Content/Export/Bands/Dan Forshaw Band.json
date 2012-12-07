@@ -1,0 +1,25 @@
+{
+  "BandName": {
+    "Value": "Dan Forshaw Band"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/71683",
+      "BandNames": [
+        {
+          "Value": "Dan Forshaw Band"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1311721200000+0100)\/",
+      "StartTime": "19:00",
+      "Price": "free",
+      "MoreInfo": "Join Dan, Mike, Gary and Carl for an evening of jazz funk, 21st century standards and maybe some hashed up Michael Jackson!",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307974329000+0100)\/",
+      "Edited": "\/Date(1311717233000+0100)\/"
+    }
+  ]
+}

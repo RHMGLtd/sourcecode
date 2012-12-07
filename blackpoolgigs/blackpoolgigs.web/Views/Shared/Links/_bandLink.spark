@@ -1,0 +1,1 @@
+<a href="!{new BandUrl(bandName)}" alt="Click to see the band page for !{bandName} including gigs and show in Blackpool" title="Click to see the band page for !{bandName} including gigs and show in Blackpool">!{bandName}</a>

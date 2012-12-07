@@ -1,0 +1,22 @@
+{
+  "Id": "metadata/2060",
+  "VenueName": "Burlington",
+  "MainImageName": "Burlington.jpg",
+  "BarAndClubReviewsUrl": "http://www.bar-and-club-reviews.com/bars/45498-Burlington-Blackpool",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 346338",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "Lytham Road",
+      "Blackpool"
+    ],
+    "Website": "",
+    "EmailAddress": null,
+    "PostCode": "FY4 1JE",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.788952",
+    "Long": "-3.048213"
+  }
+}

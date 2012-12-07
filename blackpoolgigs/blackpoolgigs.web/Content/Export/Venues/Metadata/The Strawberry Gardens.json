@@ -1,0 +1,22 @@
+{
+  "Id": "metadata/13317",
+  "VenueName": "The Strawberry Gardens",
+  "MainImageName": "The Strawberry Gardens.jpg",
+  "BarAndClubReviewsUrl": "",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 879971",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "Poulton Road",
+      "Fleetwood"
+    ],
+    "Website": "",
+    "EmailAddress": null,
+    "PostCode": "FY7 6TF",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": null,
+    "Long": null
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "BandName": {
+    "Value": "John Gomm"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/73729",
+      "BandNames": [
+        {
+          "Value": "John Gomm"
+        }
+      ],
+      "Venue": "Stanley Park",
+      "Date": "\/Date(1312671600000+0100)\/",
+      "StartTime": "14:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308310992000+0100)\/",
+      "Edited": "\/Date(1308310993000+0100)\/"
+    }
+  ]
+}

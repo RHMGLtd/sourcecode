@@ -1,0 +1,164 @@
+.pageTitle
+{
+    position: relative;
+    font-size: 3em;
+    z-index: 2;
+}
+.actions
+{
+    font-size: 1.4em;
+    text-align: center;
+    font-weight: normal;
+}
+.actions .navLinks
+{
+    font-size: 0.6em;
+}
+.actions .highlight
+{
+    font-size: 1.8em;
+}
+
+.diaryEntry
+{
+    height: 80px;
+    vertical-align: top;
+}
+.diaryEntry .date
+{
+    text-align: center;
+    border-bottom: 1px solid black;
+}
+.diaryEntry .gigs
+{
+    margin-top: 2px;
+    border: 2px dashed RGB(246, 132,31);
+    height: 50px;
+    width: 90%;
+    text-align: center;
+}
+.gigLink
+{
+    font-size: 1.15em;
+}
+.todayStar
+{
+    background-image: url("images/backgrounds/today-star.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.todayHighlight
+{
+    background-color: RGB(246, 132,31);
+}
+.item
+{
+    font-size: 1.3em;
+    border: 3px dashed RGB(246, 132,31);
+    padding: 10px 10px;
+    margin: 10px 5px;
+}
+.items .cancelled
+{
+    background-image: url("images/backgrounds/sorry this gig has been cancelled.png");
+}
+.item .image
+{
+    float: left;
+}
+.item .title
+{
+    font-size: 1.1em;
+    float: none;
+    padding-left: 80px;
+    font-weight: bold;
+}
+.item .source
+{
+    text-align: right;
+    font-size: .7em;
+    float: right;
+    margin-bottom: 2px;
+}
+.item .container
+{
+    clear: both;
+    padding: 5px;
+}
+.item .describe
+{
+    float: left;
+    width: 100px;
+    font-style: oblique;
+    font-weight: bold;
+    color: RGB(246, 132,31);
+}
+.items .moreinfo
+{
+    clear: both;
+    text-align: center;
+}
+.details_plus .container
+{
+    width: 49%;
+}
+.details_plus .plusContainer
+{
+    float: right;
+}
+.details_plus .detailsContainer
+{
+    padding: 5px;
+}
+.month
+{
+    border: 3px dashed RGB(246, 132,31);
+    padding: 10px 10px;
+    margin: 10px 5px;
+    width: 200px;
+    height: 60px;
+    font-size: 1.8em;
+    float: left;
+    text-align: center;
+}
+.fade
+{
+    color: Gray;
+    border: 3px dashed RGB(246, 203,160);
+}
+.fade a:link
+{
+    color: RGB(246, 203,160);
+}
+.fade a:visited
+{
+    color: RGB(246, 203,160);
+}
+.fade a:active
+{
+    color: RGB(246, 203,160);
+}
+.fade a:hover
+{
+    color: Gray;
+}
+.infoPanel
+{
+    text-align: justify;
+    padding: 3px 5px;
+    width: 740px;
+    border: 3px dotted RGB(246, 132,31);
+}
+.infoPanel p
+{
+    margin: 5px 0px;
+}
+.monthLinks
+{
+    text-align: center;
+    font-size: 0.9em;
+}
+.monthLinks .current
+{
+    color: Black;
+}

@@ -1,0 +1,137 @@
+<viewdata model="HomeViewModel" />
+
+<content name="title">
+  Blackpool Gigs - Live Music and Events in Blackpool
+</content>
+<content name="css">
+  <link href="~/content/home.css" rel="stylesheet" type="text/css" />
+</content>
+<content name="body">
+  <div style="float: right;">
+    <img src="content/images/Welcome-to-Blackpool-Gigs-for-Gigs-in-Blackpool-and-the-Fylde-Coast.png" alt="Blackpool Gigs - The place for live music and events in Blackpool, Lancashire" title="Blackpool Gigs - The place for live music and events in Blackpool, Lancashire"></img>
+  </div>
+  <div class="thisWeek">
+    <h4>Gigs This Week</h4>
+    <hr />
+    <table width="100%">
+      <tr>
+        <th width="14%">Monday</th>
+        <th width="14%">Tuesday</th>
+        <th width="14%">Wednesday</th>
+        <th width="14%">Thursday</th>
+        <th width="14%">Friday</th>
+        <th width="14%">Saturday</th>
+        <th width="14%">Sunday</th>
+      </tr>
+      <tr>
+        <td class="diaryEntry">
+          <div if="Model.ThisWeek.Monday != null">
+            <div class="date todayHighlight?{Model.ThisWeek.Monday.Date == DateTime.Now.Date}">!{Model.ThisWeek.Monday.Date.Day}</div>
+            <div if="Model.ThisWeek.Monday.Gigs.Count > 0" class="gigs todayStar?{Model.ThisWeek.Monday.Date == DateTime.Now.Date}" title="!{Model.ThisWeek.Monday.Summary}">
+              <a href="!{new DayUrl(Model.ThisWeek.Monday.Date)}" alt="click to see gigs and events in blackpool on !{Model.ThisWeek.Monday.Date.ToString('dd MMM yyyy')}" class="link gigLink">!{Model.ThisWeek.Monday.CountSummary}</a>
+            </div>
+          </div>
+        </td>
+        <td class="diaryEntry">
+          <div if="Model.ThisWeek.Tuesday != null">
+            <div class="date todayHighlight?{Model.ThisWeek.Tuesday.Date == DateTime.Now.Date}">!{Model.ThisWeek.Tuesday.Date.Day}</div>
+            <div if="Model.ThisWeek.Tuesday.Gigs.Count > 0" class="gigs todayStar?{Model.ThisWeek.Tuesday.Date == DateTime.Now.Date}" title="!{Model.ThisWeek.Tuesday.Summary}">
+              <a href="!{new DayUrl(Model.ThisWeek.Tuesday.Date)}" alt="click to see gigs and events in blackpool on !{Model.ThisWeek.Tuesday.Date.ToString('dd MMM yyyy')}" class="link gigLink">!{Model.ThisWeek.Tuesday.CountSummary}</a>
+            </div>
+          </div>
+        </td>
+        <td class="diaryEntry">
+          <div  if="Model.ThisWeek.Wednesday != null">
+            <div class="date todayHighlight?{Model.ThisWeek.Wednesday.Date == DateTime.Now.Date}">!{Model.ThisWeek.Wednesday.Date.Day}</div>
+            <div if="Model.ThisWeek.Wednesday.Gigs.Count > 0" class="gigs todayStar?{Model.ThisWeek.Wednesday.Date == DateTime.Now.Date}" title="!{Model.ThisWeek.Wednesday.Summary}">
+              <a href="!{new DayUrl(Model.ThisWeek.Wednesday.Date)}" alt="click to see gigs and events in blackpool on !{Model.ThisWeek.Wednesday.Date.ToString('dd MMM yyyy')}" class="link gigLink">!{Model.ThisWeek.Wednesday.CountSummary}</a>
+            </div>
+          </div>
+        </td>
+        <td class="diaryEntry">
+          <div if="Model.ThisWeek.Thursday != null">
+            <div class="date todayHighlight?{Model.ThisWeek.Thursday.Date == DateTime.Now.Date}">!{Model.ThisWeek.Thursday.Date.Day}</div>
+            <div if="Model.ThisWeek.Thursday.Gigs.Count > 0" class="gigs todayStar?{Model.ThisWeek.Thursday.Date == DateTime.Now.Date}" title="!{Model.ThisWeek.Thursday.Summary}">
+              <a href="!{new DayUrl(Model.ThisWeek.Thursday.Date)}" alt="click to see gigs and events in blackpool on !{Model.ThisWeek.Thursday.Date.ToString('dd MMM yyyy')}" class="link gigLink">!{Model.ThisWeek.Thursday.CountSummary}</a>
+            </div>
+          </div>
+        </td>
+        <td class="diaryEntry">
+          <div if="Model.ThisWeek.Friday != null">
+            <div class="date todayHighlight?{Model.ThisWeek.Friday.Date == DateTime.Now.Date}">!{Model.ThisWeek.Friday.Date.Day}</div>
+            <div if="Model.ThisWeek.Friday.Gigs.Count > 0" class="gigs todayStar?{Model.ThisWeek.Friday.Date == DateTime.Now.Date}" title="!{Model.ThisWeek.Friday.Summary}">
+              <a href="!{new DayUrl(Model.ThisWeek.Friday.Date)}" alt="click to see gigs and events in blackpool on !{Model.ThisWeek.Friday.Date.ToString('dd MMM yyyy')}" class="link gigLink">!{Model.ThisWeek.Friday.CountSummary}</a>
+            </div>
+          </div>
+        </td>
+        <td class="diaryEntry">
+          <div if="Model.ThisWeek.Saturday != null">
+            <div class="date todayHighlight?{Model.ThisWeek.Saturday.Date == DateTime.Now.Date}">!{Model.ThisWeek.Saturday.Date.Day}</div>
+            <div if="Model.ThisWeek.Saturday.Gigs.Count > 0" class="gigs todayStar?{Model.ThisWeek.Saturday.Date == DateTime.Now.Date}" title="!{Model.ThisWeek.Saturday.Summary}">
+              <a href="!{new DayUrl(Model.ThisWeek.Saturday.Date)}" alt="click to see gigs and events in blackpool on !{Model.ThisWeek.Saturday.Date.ToString('dd MMM yyyy')}" class="link gigLink">!{Model.ThisWeek.Saturday.CountSummary}</a>
+            </div>
+          </div>
+        </td>
+        <td class="diaryEntry">
+          <div if="Model.ThisWeek.Sunday != null">
+            <div class="date todayHighlight?{Model.ThisWeek.Sunday.Date == DateTime.Now.Date}">!{Model.ThisWeek.Sunday.Date.Day}</div>
+            <div if="Model.ThisWeek.Sunday.Gigs.Count > 0" class="gigs todayStar?{Model.ThisWeek.Sunday.Date == DateTime.Now.Date}" title="!{Model.ThisWeek.Sunday.Summary}">
+              <a href="!{new DayUrl(Model.ThisWeek.Sunday.Date)}" alt="click to see gigs and events in blackpool on !{Model.ThisWeek.Sunday.Date.ToString('dd MMM yyyy')}" class="link gigLink">!{Model.ThisWeek.Sunday.CountSummary}</a>
+            </div>
+          </div>
+        </td>
+      </tr>
+    </table>
+    <div class="actions">
+      click <a class="highlight" href="!{new DiaryUrl()}" alt="Gigs in Blackpool, Lancashire for the month of !{Model.Month} in the year of !{DateTime.Now.Year}" title="Gigs in Blackpool, Lancashire for the month of !{Model.Month} in the year of !{DateTime.Now.Year}">
+        HERE
+      </a> to view this month's gigs :: go to <a href="!{new TodayUrl()}" class="highlight">TODAY</a>
+    </div>
+  </div>
+  <div class="infoPanel left">
+    <p>
+      Welcome to the <em>best</em> place to find out what is happening in Blackpool's Live Music Scene. The
+      best place to let your fans know about your next performance. The one stop shop to rate and review
+      all live performances in Blackpool, Lancashire.
+    </p>
+    <p>
+      From solo artists to full on bands, all gigs and performance art can be found on this site.  Eventually you will be able to add your own events, and we will also
+      aggregate information from facebook and myspace events. For now, if you have a gig to tell us about please <contactLink /> and we
+      will be happy to publicise it.
+    </p>
+    <p>
+      Please follow us on Twitter (<a href="http://www.twitter.com/blackpoolgigs" target="_blank" alt="twitter feed for gigs, events and whats on in blackpool, lancashire" title="twitter feed for gigs, events and whats on in blackpool, lancashire">@blackpoolgigs</a>) and facebook
+    </p>
+  </div>
+  <div class="infoPanel right">
+    <h4>Recently Updated Gigs</h4>
+    <div each="var gig in Model.RecentlyUpdated">
+      <span class="highlight">!{gig.DaysSinceChange}</span> !{gig.Summary} :: <a href="!{new GigUrl(gig.Date, gig.Venue)}" alt="blackpoolgigs listing for the gig at !{gig.Venue} on !{gig.Date.ToString('dd MMM yyyy')}" title="blackpoolgigs listing for the gig at !{gig.Venue} on !{gig.Date.ToString('dd MMM yyyy')}">view</a>
+      <div style="width: 150px;">
+        <hr />
+      </div>
+    </div>
+    <h4>Statistics</h4>
+    <div class="gigCounts">
+      <span class="totalGigs highlight">!{Model.TotalGigs}</span> gigs currently listed, of which <span class="futureGigs highlight">!{Model.FutureGigs}</span> are in the future.
+    </div>
+    <div class="gigCounts">
+      <span class="totalGigs highlight">!{Model.BandCount}</span> bands playing in <span class="futureGigs highlight">!{Model.VenueCount}</span> different venues.
+    </div>
+    <hr />
+  </div>
+</content>
+<content name="rightPanel">
+  <script type="text/javascript">
+    <!--
+google_ad_client = "pub-4956915789383422";
+/* front page skyscraper */
+google_ad_slot = "9897787744";
+google_ad_width = 120;
+google_ad_height = 600;
+//-->
+  </script>
+  <script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+  </script>
+</content>

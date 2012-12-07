@@ -1,0 +1,97 @@
+{
+  "BandName": {
+    "Value": "Full Fat Boogie Band"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/31751",
+      "BandNames": [
+        {
+          "Value": "Full Fat Boogie Band"
+        }
+      ],
+      "Venue": "The Hansom Cab",
+      "Date": "\/Date(1305846000000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1305537060000+0100)\/",
+      "Edited": "\/Date(1307881285000+0100)\/"
+    },
+    {
+      "Id": "gig/76801",
+      "BandNames": [
+        {
+          "Value": "Brother Rabbit"
+        },
+        {
+          "Value": "Huggy and the Bears"
+        },
+        {
+          "Value": "The Blue Pig Orchestra"
+        },
+        {
+          "Value": "Triple Threat"
+        },
+        {
+          "Value": "Full Fat Boogie Band"
+        },
+        {
+          "Value": "The Keytars"
+        },
+        {
+          "Value": "OneFourThree"
+        }
+      ],
+      "Venue": "The Bay Horse",
+      "Date": "\/Date(1310770800000+0100)\/",
+      "StartTime": "12:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": "Bay Horse Fun Day Competition",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308497972000+0100)\/",
+      "Edited": "\/Date(1310494059000+0100)\/"
+    },
+    {
+      "Id": "gig/99352",
+      "BandNames": [
+        {
+          "Value": "Full Fat Boogie Band"
+        }
+      ],
+      "Venue": "The Raikes Hall",
+      "Date": "\/Date(1313794800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311707856000+0100)\/",
+      "Edited": "\/Date(1311707856000+0100)\/"
+    },
+    {
+      "Id": "gig/133140",
+      "BandNames": [
+        {
+          "Value": "Full Fat Boogie Band"
+        }
+      ],
+      "Venue": "The Shovels",
+      "Date": "\/Date(1329523200000+0000)\/",
+      "StartTime": "21:30",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326560636000+0000)\/",
+      "Edited": "\/Date(1326560636000+0000)\/"
+    }
+  ]
+}

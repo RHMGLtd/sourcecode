@@ -1,0 +1,22 @@
+{
+  "Id": "metadata/2077",
+  "VenueName": "The Rossall Tavern",
+  "MainImageName": "The Rossall Tavern.jpg",
+  "BarAndClubReviewsUrl": "http://www.bar-and-club-reviews.com/bars/77466-the-rossall-tavern",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 777704",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "Larkholme Parade",
+      "Fleetwood"
+    ],
+    "Website": "",
+    "EmailAddress": null,
+    "PostCode": "FY7 8RP",
+    "ContactName": "Howard"
+  },
+  "MapCoords": {
+    "Lat": "53.907498",
+    "Long": "-3.046335"
+  }
+}

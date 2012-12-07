@@ -1,0 +1,22 @@
+{
+  "Id": "metadata/2069",
+  "VenueName": "Empress Ballroom",
+  "MainImageName": null,
+  "BarAndClubReviewsUrl": "",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 625252",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "Church Street",
+      "Blackpool"
+    ],
+    "Website": "http://www.wintergardensblackpool.co.uk/empress_ballroom.htm",
+    "EmailAddress": "events@leisure-parcs.co.uk ",
+    "PostCode": "FY1 1HL",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.817885",
+    "Long": "-3.050736"
+  }
+}

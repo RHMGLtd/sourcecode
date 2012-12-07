@@ -1,0 +1,1 @@
+<a href="!{new VenueUrl(venue)}" alt="click here to see all future gigs and events taking place at !{venue} in Blackpool" title="click here to see all future gigs and events taking place at !{venue} in Blackpool">!{venue}</a>

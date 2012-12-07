@@ -1,0 +1,25 @@
+{
+  "BandName": {
+    "Value": "The Cotton House Shakers"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/66568",
+      "BandNames": [
+        {
+          "Value": "The Cotton House Shakers"
+        }
+      ],
+      "Venue": "Station Tavern",
+      "Date": "\/Date(1307746800000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307646588000+0100)\/",
+      "Edited": "\/Date(1307646588000+0100)\/"
+    }
+  ]
+}

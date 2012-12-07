@@ -1,0 +1,107 @@
+<viewdata model="MonthViewModel" />
+
+<content name="title">
+  Blackpool Gigs - Live Music and Events in Blackpool :: !{Model.Month} !{Model.Year}
+</content>
+<content name="css">
+  <link href="~/content/diary.css" rel="stylesheet" type="text/css" />
+</content>
+<content name="body">
+  <pageTitle />
+  <div class="infoPanel">
+    <img src="~/Content/images/A month of events from Blackpool Gigs - live events and gigs in blackpool lancashire.png" alt="Blackpoolgigs.co.uk logo :: the month of !{Model.Month}"></img>
+    Below are links to gigs that are taking place in Blackpool in !{Model.Month}. If you are aware of any gigs that we are not listing, or
+    have spotted anything you think we should change, please <contactLink /> and we will be very happy to update our listings.
+    If you are in one of the bands listed and would like to add more information about your band
+    please <contactLink /> to discuss how we can work with you to
+    improve your listings.
+  </div>
+  <monthLinks />
+  <div class="actions">
+    <monthNavLinks />
+  </div>
+  <hr />
+  <table width="100%">
+    <tr>
+      <th width="14%">Monday</th>
+      <th width="14%">Tuesday</th>
+      <th width="14%">Wednesday</th>
+      <th width="14%">Thursday</th>
+      <th width="14%">Friday</th>
+      <th width="14%">Saturday</th>
+      <th width="14%">Sunday</th>
+    </tr>
+    <tr each="var line in Model.Diary.Lines">
+      <td class="diaryEntry">
+        <div if="line.Monday != null">
+          <div class="date todayHighlight?{line.Monday.Date == DateTime.Now.Date}">!{line.Monday.Date.Day}</div>
+          <div if="line.Monday.Gigs.Count > 0" class="gigs todayStar?{line.Monday.Date == DateTime.Now.Date}" title="!{line.Monday.Summary}">
+            <a href="!{new DayUrl(line.Monday.Date)}" alt="click to see gigs and events in blackpool on !{line.Monday.Date.ToString('dd MMM yyyy')}" class="link gigLink">!{line.Monday.CountSummary}</a>
+          </div>
+        </div>
+      </td>
+      <td class="diaryEntry">
+        <div if="line.Tuesday != null">
+          <div class="date todayHighlight?{line.Tuesday.Date == DateTime.Now.Date}">!{line.Tuesday.Date.Day}</div>
+          <div if="line.Tuesday.Gigs.Count > 0" class="gigs todayStar?{line.Tuesday.Date == DateTime.Now.Date}" title="!{line.Tuesday.Summary}">
+            <a href="!{new DayUrl(line.Tuesday.Date)}" alt="click to see gigs and events in blackpool on !{line.Tuesday.Date.ToString('dd MMM yyyy')}" class="link gigLink">!{line.Tuesday.CountSummary}</a>
+          </div>
+        </div>
+      </td>
+      <td class="diaryEntry">
+        <div  if="line.Wednesday != null">
+          <div class="date todayHighlight?{line.Wednesday.Date == DateTime.Now.Date}">!{line.Wednesday.Date.Day}</div>
+          <div if="line.Wednesday.Gigs.Count > 0" class="gigs todayStar?{line.Wednesday.Date == DateTime.Now.Date}" title="!{line.Wednesday.Summary}">
+            <a href="!{new DayUrl(line.Wednesday.Date)}" alt="click to see gigs and events in blackpool on !{line.Wednesday.Date.ToString('dd MMM yyyy')}" class="link gigLink">!{line.Wednesday.CountSummary}</a>
+          </div>
+        </div>
+      </td>
+      <td class="diaryEntry">
+        <div if="line.Thursday != null">
+          <div class="date todayHighlight?{line.Thursday.Date == DateTime.Now.Date}">!{line.Thursday.Date.Day}</div>
+          <div if="line.Thursday.Gigs.Count > 0" class="gigs todayStar?{line.Thursday.Date == DateTime.Now.Date}" title="!{line.Thursday.Summary}">
+            <a href="!{new DayUrl(line.Thursday.Date)}" alt="click to see gigs and events in blackpool on !{line.Thursday.Date.ToString('dd MMM yyyy')}" class="link gigLink">!{line.Thursday.CountSummary}</a>
+          </div>
+        </div>
+      </td>
+      <td class="diaryEntry">
+        <div if="line.Friday != null">
+          <div class="date todayHighlight?{line.Friday.Date == DateTime.Now.Date}">!{line.Friday.Date.Day}</div>
+          <div if="line.Friday.Gigs.Count > 0" class="gigs todayStar?{line.Friday.Date == DateTime.Now.Date}" title="!{line.Friday.Summary}">
+            <a href="!{new DayUrl(line.Friday.Date)}" alt="click to see gigs and events in blackpool on !{line.Friday.Date.ToString('dd MMM yyyy')}" class="link gigLink">!{line.Friday.CountSummary}</a>
+          </div>
+        </div>
+      </td>
+      <td class="diaryEntry">
+        <div if="line.Saturday != null">
+          <div class="date todayHighlight?{line.Saturday.Date == DateTime.Now.Date}">!{line.Saturday.Date.Day}</div>
+          <div if="line.Saturday.Gigs.Count > 0" class="gigs todayStar?{line.Saturday.Date == DateTime.Now.Date}" title="!{line.Saturday.Summary}">
+            <a href="!{new DayUrl(line.Saturday.Date)}" alt="click to see gigs and events in blackpool on !{line.Saturday.Date.ToString('dd MMM yyyy')}" class="link gigLink">!{line.Saturday.CountSummary}</a>
+          </div>
+        </div>
+      </td>
+      <td class="diaryEntry">
+        <div if="line.Sunday != null">
+          <div class="date todayHighlight?{line.Sunday.Date == DateTime.Now.Date}">!{line.Sunday.Date.Day}</div>
+          <div if="line.Sunday.Gigs.Count > 0" class="gigs todayStar?{line.Sunday.Date == DateTime.Now.Date}" title="!{line.Sunday.Summary}">
+            <a href="!{new DayUrl(line.Sunday.Date)}" alt="click to see gigs and events in blackpool on !{line.Sunday.Date.ToString('dd MMM yyyy')}" class="link gigLink">!{line.Sunday.CountSummary}</a>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </table>
+</content>
+<content name="rightPanel">
+  <script type="text/javascript">
+    <!--
+google_ad_client = "pub-4956915789383422";
+/* diary_skyscraper */
+google_ad_slot = "4422198803";
+google_ad_width = 120;
+google_ad_height = 600;
+//-->
+  </script>
+  <script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+  </script>
+</content>

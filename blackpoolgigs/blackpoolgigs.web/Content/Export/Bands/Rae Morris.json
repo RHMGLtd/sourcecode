@@ -1,0 +1,61 @@
+{
+  "BandName": {
+    "Value": "Rae Morris"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/2052",
+      "BandNames": [
+        {
+          "Value": "Troubadour"
+        },
+        {
+          "Value": "Jon Brindley"
+        },
+        {
+          "Value": "Rae Morris"
+        },
+        {
+          "Value": "Dan Wilde"
+        },
+        {
+          "Value": "Spiral Scouts"
+        },
+        {
+          "Value": "Jily Riley"
+        },
+        {
+          "Value": "Pan"
+        },
+        {
+          "Value": "Ghost Trains"
+        },
+        {
+          "Value": "Andy Stones"
+        },
+        {
+          "Value": "Gaia"
+        },
+        {
+          "Value": "The Magdalenas"
+        },
+        {
+          "Value": "3 Daft Monkeys"
+        },
+        {
+          "Value": "Emily Barker & the Red Clay Halo"
+        }
+      ],
+      "Venue": "Victorian Sunlounge",
+      "Date": "\/Date(1306537200000+0100)\/",
+      "StartTime": "11:30",
+      "Price": "£15.00",
+      "MoreInfo": "TICKETS NOW ON SALE!\r\nPlease follow Ticketweb link\r\nhttp://www.ticketweb.co.uk/user/?region=xxx&query=schedule&promoter=barefootbabylon&interface=barefootbabylon\r\n\r\nor pop into Winter Gardens Box Officeto buy Adult Tickets for discount advance price of only £15.",
+      "GigTitle": "Barefoot in Babylon Festival",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303686000000+0100)\/",
+      "Edited": "\/Date(1303686000000+0100)\/"
+    }
+  ]
+}

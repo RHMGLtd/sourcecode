@@ -1,0 +1,41 @@
+<div class="item">
+  <div class="container">
+    <div class="image">
+      <img src="~/Content/images/An event from Blackpool Gigs - live events and gigs in blackpool lancashire.png" alt="a gig or event taking place at !{gig.Venue} in blackpool on !{gig.Date.ToString('dd MMM yyyy')}" title="a gig or event taking place at !{gig.Venue} in blackpool on !{gig.Date.ToString('dd MMM yyyy')}"></img>
+    </div>
+    <div class="source">!{gig.Source.makeRHMGalink()}</div>
+  </div>
+  <div if="!string.IsNullOrEmpty(Model.Gig.GigTitle)"  class="container">
+    <div class="describe">Title</div>
+    <span class="gigTitle">
+      !{gig.GigTitle}
+    </span>
+  </div>
+  <div class="container">
+    <div class="describe">bands</div>
+    <span each="var band in gig.BandNames" class="bandName">
+      <bandLink bandName="band.Value" /> :: </span>
+  </div>
+  <div class="container">
+    <div class="describe">date</div>
+    <span class="date">
+      <dayLink date="gig.Date" />
+    </span>
+  </div>
+  <div class="container">
+    <div class="describe">venue</div>
+    <span class="date">
+      <venueLink venue="gig.Venue" />
+    </span>
+  </div>
+  <div class="container">
+    <div class="describe">details</div>
+    <span class="price">!{gig.Price} entry</span> :: <span class="time">starts at !{gig.StartTime}</span>
+  </div>
+  <div  if="!string.IsNullOrEmpty(gig.MoreInfo)" class="container">
+    <div class="describe">more info</div>
+    <span class="moreInfo">
+      !{gig.MoreInfo.Linkify()}
+    </span>
+  </div>
+</div>

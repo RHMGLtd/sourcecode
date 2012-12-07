@@ -1,0 +1,22 @@
+{
+  "Id": "metadata/2063",
+  "VenueName": "The Bull",
+  "MainImageName": "The Bull.jpg",
+  "BarAndClubReviewsUrl": "http://www.bar-and-club-reviews.com/bars/55873-The-Bull-Poulton-Le-Fylde",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 895598",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "2 Blackpool Old Road",
+      "Poulton-Le-Fylde"
+    ],
+    "Website": "http://https://www.facebook.com/people/The-Bull-Poulton/100000215684266",
+    "EmailAddress": null,
+    "PostCode": "FY6 7AS",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.846217",
+    "Long": "-2.99297"
+  }
+}

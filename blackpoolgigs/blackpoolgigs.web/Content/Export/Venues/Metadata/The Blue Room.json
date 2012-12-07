@@ -1,0 +1,22 @@
+{
+  "Id": "metadata/2051",
+  "VenueName": "The Blue Room",
+  "MainImageName": "The Blue Room.jpg",
+  "BarAndClubReviewsUrl": "http://www.bar-and-club-reviews.com/bars/45058-Blue-Room-Blackpool",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 316393",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "139/141 Church St",
+      "Blackpool"
+    ],
+    "Website": "http://www.theblueroomlive.com/",
+    "EmailAddress": "theblueroom@gmail.com",
+    "PostCode": "FY1 3NX",
+    "ContactName": "Andy Daubney"
+  },
+  "MapCoords": {
+    "Lat": "53.818089",
+    "Long": "-3.047143"
+  }
+}
