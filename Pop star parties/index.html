@@ -1,0 +1,56 @@
+<html>
+	<head>
+    <script type='text/javascript' src='swfobject.js'></script>
+	<style>
+		a:link, a:visited, a:hover, a:active
+		{
+			color: white;
+			text-decoration: none;
+			border: 1px white dotted;
+			padding: 2px;
+		}
+	</style>
+	<title>
+		Pop star parties - home
+	</title>
+	</head>
+	<body style="background-color: RGB(137,3,75);">
+		<div style="margin: 0 auto; width: 800px; font-family: helvetica">
+			<div class="title">
+				<img src="Images/Pop-star-parties-for-kids-in-blackpool-heading.png" />
+			</div>
+			<div class="menuBar" style="color: white; font-size: 1.3em;text-align: center; padding: 10px;">
+				HOME :: <a href="about.html">ABOUT</a> :: <a href="gallery.html">GALLERY</a> :: <a href="tracks.html">TRACKS</a> :: <a href="testimonial.html">TESTIMONIAL</a> :: <a href="contact.html">CONTACT</a>
+			</div>
+			<div class="content" style="background-color: white; padding: 10px;">
+				<div class="mainImage" style=" float: right; width: 350px; line-height: 150%; margin: 20px; padding: 10px; border-style: outset; border-color: RGB(137,3,75); border-width: 3px; color: RGB(137,3,75);">
+					<img src="images/Party Room 03.jpg" width="350px" />
+					<br />
+					A party ready to happen
+				</div >
+				<div class="mainTextContent" style="width: 300px; line-height: 150%; margin: 20px; padding: 10px; border-style: outset; border-color: RGB(137,3,75); border-width: 3px; color: RGB(137,3,75);">
+					Give your princess a day to remember as she and her friends get to live their dreams at Rock Hard Studios, Blackpool's biggest
+					and best, professional recording studio.
+					<hr />
+					Have a listen to these awesome party singles!
+					<div id='ppws'>
+                    </div>
+                    <script type='text/javascript'>
+                        var so = new SWFObject('player.swf', 'mpl', '200', '24', '9');
+                        so.addParam('allowfullscreen', 'true');
+                        so.addParam('allowscriptaccess', 'always');
+                        so.addParam('wmode', 'opaque');
+                        so.addVariable('duration', '110');
+                        so.addVariable('file', 'audio/Pop Party Website Sample.mp3');
+                        so.write('ppws');
+                    </script>
+				</div>
+				<div class="secondaryTextContent" style="width: 300px; line-height: 150%; margin: 20px; padding: 10px; border-style: outset; border-color: RGB(137,3,75); border-width: 3px; color: RGB(137,3,75);">
+					Parties from £18 / person
+					<div style="float: right">Pizza Hut available with your party @ 10% discount!</div>
+					<img src="images/pizzaHutDeliveryLogo.gif" style="display: block;" width=100px/>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
