@@ -1,0 +1,16 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html>
+<head>
+  <title>
+    <use content="title" />
+  </title>
+  <meta http-equiv="Content-Type" content="text/html"/>
+    <link href="~/content/styles/Site.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<h1>
+	Rock Hard Music Group
+</h1>
+	<hr />
+<use content="navBar" />
+<use content="body" />
+</body>

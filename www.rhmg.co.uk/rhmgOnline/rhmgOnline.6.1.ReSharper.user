@@ -1,0 +1,110 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="9D063728-F4D9-4B7D-9703-ACDF42CD9FE8/d:Urls/f:HomeUrl.cs" caret="77" fromTop="4" />
+      <File id="3F840DDA-AFFD-46B4-BB70-B57465D6B0BD/f:RoutingSpecs.cs" caret="442" fromTop="14" />
+      <File id="9D063728-F4D9-4B7D-9703-ACDF42CD9FE8/d:Views/d:Shared/f:_global.spark" caret="44" fromTop="0" />
+      <File id="9D063728-F4D9-4B7D-9703-ACDF42CD9FE8/f:packages.config" caret="0" fromTop="0" />
+      <File id="9D063728-F4D9-4B7D-9703-ACDF42CD9FE8/d:Models/d:ViewModels/f:HomeViewModel.cs" caret="169" fromTop="6" />
+      <File id="9D063728-F4D9-4B7D-9703-ACDF42CD9FE8/d:Controllers/f:HomeController.cs" caret="672" fromTop="25" />
+      <File id="9D063728-F4D9-4B7D-9703-ACDF42CD9FE8/d:Services/d:Interfaces/f:IDoBranding.cs" caret="85" fromTop="3" />
+      <File id="9D063728-F4D9-4B7D-9703-ACDF42CD9FE8/d:Models/f:Brand.cs" caret="335" fromTop="11" />
+      <File id="9D063728-F4D9-4B7D-9703-ACDF42CD9FE8/d:Views/d:Layouts/f:Application.spark" caret="387" fromTop="12" />
+      <File id="9D063728-F4D9-4B7D-9703-ACDF42CD9FE8/d:Content/d:styles/f:Site.css" caret="331" fromTop="17" />
+      <File id="9D063728-F4D9-4B7D-9703-ACDF42CD9FE8/d:Services/d:Default/f:Brands.cs" caret="11752" fromTop="22" />
+      <File id="9D063728-F4D9-4B7D-9703-ACDF42CD9FE8/d:Views/d:Home/f:home.spark" caret="324" fromTop="11" />
+      <File id="9D063728-F4D9-4B7D-9703-ACDF42CD9FE8/f:RouteRegistration.cs" caret="150" fromTop="7" />
+      <File id="9D063728-F4D9-4B7D-9703-ACDF42CD9FE8/f:Global.asax.cs" caret="1331" fromTop="21" />
+      <File id="9D063728-F4D9-4B7D-9703-ACDF42CD9FE8/d:Raven/f:DocumentConventionFactory.cs" caret="584" fromTop="17" />
+      <File id="9D063728-F4D9-4B7D-9703-ACDF42CD9FE8/f:Web.config" caret="440" fromTop="11" />
+      <File id="9D063728-F4D9-4B7D-9703-ACDF42CD9FE8/d:Raven/f:RavenInstaller.cs" caret="837" fromTop="26" />
+      <File id="9D063728-F4D9-4B7D-9703-ACDF42CD9FE8/d:Raven/f:DocumentStoreFactory.cs" caret="1053" fromTop="29" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="9D063728-F4D9-4B7D-9703-ACDF42CD9FE8/d:Services/d:Default/f:Brands.cs" caret="4371" fromTop="33" />
+      <File id="9D063728-F4D9-4B7D-9703-ACDF42CD9FE8/d:Services/d:Default/f:Brands.cs" caret="7091" fromTop="42" />
+      <File id="9D063728-F4D9-4B7D-9703-ACDF42CD9FE8/d:Services/d:Default/f:Brands.cs" caret="5729" fromTop="45" />
+      <File id="9D063728-F4D9-4B7D-9703-ACDF42CD9FE8/d:Services/d:Default/f:Brands.cs" caret="942" fromTop="18" />
+      <File id="9D063728-F4D9-4B7D-9703-ACDF42CD9FE8/d:Services/d:Default/f:Brands.cs" caret="2331" fromTop="37" />
+      <File id="9D063728-F4D9-4B7D-9703-ACDF42CD9FE8/d:Services/d:Default/f:Brands.cs" caret="3662" fromTop="35" />
+      <File id="9D063728-F4D9-4B7D-9703-ACDF42CD9FE8/d:Services/d:Default/f:Brands.cs" caret="5022" fromTop="36" />
+      <File id="9D063728-F4D9-4B7D-9703-ACDF42CD9FE8/d:Services/d:Default/f:Brands.cs" caret="6388" fromTop="37" />
+      <File id="9D063728-F4D9-4B7D-9703-ACDF42CD9FE8/d:Services/d:Default/f:Brands.cs" caret="7739" fromTop="37" />
+      <File id="9D063728-F4D9-4B7D-9703-ACDF42CD9FE8/d:Services/d:Default/f:Brands.cs" caret="9107" fromTop="36" />
+      <File id="9D063728-F4D9-4B7D-9703-ACDF42CD9FE8/d:Services/d:Default/f:Brands.cs" caret="10501" fromTop="37" />
+      <File id="9D063728-F4D9-4B7D-9703-ACDF42CD9FE8/d:Services/d:Default/f:Brands.cs" caret="11752" fromTop="34" />
+      <File id="9D063728-F4D9-4B7D-9703-ACDF42CD9FE8/d:Views/d:Home/f:home.spark" caret="656" fromTop="22" />
+      <File id="9D063728-F4D9-4B7D-9703-ACDF42CD9FE8/d:Views/d:Home/f:home.spark" caret="662" fromTop="22" />
+      <File id="9D063728-F4D9-4B7D-9703-ACDF42CD9FE8/d:Views/d:Home/f:home.spark" caret="554" fromTop="17" />
+      <File id="9D063728-F4D9-4B7D-9703-ACDF42CD9FE8/f:Global.asax.cs" caret="1155" fromTop="36" />
+      <File id="9D063728-F4D9-4B7D-9703-ACDF42CD9FE8/f:Global.asax.cs" caret="1108" fromTop="32" />
+      <File id="9D063728-F4D9-4B7D-9703-ACDF42CD9FE8/d:Raven/f:RavenInstaller.cs" caret="1316" fromTop="37" />
+      <File id="9D063728-F4D9-4B7D-9703-ACDF42CD9FE8/d:Raven/f:RavenInstaller.cs" caret="298" fromTop="9" />
+      <File id="9D063728-F4D9-4B7D-9703-ACDF42CD9FE8/d:Raven/f:RavenInstaller.cs" caret="841" fromTop="26" />
+      <File id="9D063728-F4D9-4B7D-9703-ACDF42CD9FE8/d:Raven/f:RavenInstaller.cs" caret="1053" fromTop="30" />
+      <File id="9D063728-F4D9-4B7D-9703-ACDF42CD9FE8/d:Raven/f:RavenInstaller.cs" caret="1326" fromTop="38" />
+      <File id="9D063728-F4D9-4B7D-9703-ACDF42CD9FE8/d:Raven/f:DocumentStoreFactory.cs" caret="318" fromTop="8" />
+      <File id="9D063728-F4D9-4B7D-9703-ACDF42CD9FE8/d:Raven/f:DocumentStoreFactory.cs" caret="1385" fromTop="38" />
+      <File id="9D063728-F4D9-4B7D-9703-ACDF42CD9FE8/d:Raven/f:DocumentConventionFactory.cs" caret="611" fromTop="17" />
+      <File id="9D063728-F4D9-4B7D-9703-ACDF42CD9FE8/d:Raven/f:DocumentStoreFactory.cs" caret="679" fromTop="21" />
+      <File id="9D063728-F4D9-4B7D-9703-ACDF42CD9FE8/d:Raven/f:DocumentStoreFactory.cs" caret="1053" fromTop="32" />
+      <File id="9D063728-F4D9-4B7D-9703-ACDF42CD9FE8/f:Global.asax.cs" caret="1331" fromTop="21" />
+      <File id="9D063728-F4D9-4B7D-9703-ACDF42CD9FE8/d:Raven/f:DocumentConventionFactory.cs" caret="497" fromTop="14" />
+      <File id="9D063728-F4D9-4B7D-9703-ACDF42CD9FE8/f:Web.config" caret="440" fromTop="11" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False" />
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="10" />
+      <Item value="ResourceResult`0" priority="0" />
+      <Item value="return" priority="2" />
+      <Item value="new" priority="5" />
+      <Item value="class" priority="3" />
+      <Item value="GET`0" priority="0" />
+      <Item value="Behaves_like" priority="0" />
+      <Item value="Brandings" priority="0" />
+      <Item value="List&lt;string&gt;" priority="0" />
+      <Item value="string" priority="5" />
+      <Item value="Brand`0" priority="1" />
+      <Item value="List&lt;Brand&gt;" priority="0" />
+      <Item value="Brand" priority="0" />
+      <Item value="Name" priority="0" />
+      <Item value="protected" priority="0" />
+      <Item value="readonly" priority="0" />
+      <Item value="IDoBranding`0" priority="0" />
+      <Item value="brands" priority="0" />
+      <Item value="Introduction" priority="5" />
+      <Item value="SubName" priority="1" />
+      <Item value="BrandLink`0" priority="0" />
+      <Item value="Links" priority="1" />
+      <Item value="BrandLink" priority="2" />
+      <Item value="Label" priority="0" />
+      <Item value="ctor" priority="0" />
+      <Item value="Link" priority="4" />
+      <Item value="MainBrandLink" priority="4" />
+      <Item value="ImageName" priority="5" />
+      <Item value="ConfigureRaven`0" priority="0" />
+      <Item value="null" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:rhmgOnline.Models.IDoBranding">
+      <Item value="GetThem`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
