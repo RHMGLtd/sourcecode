@@ -1,0 +1,26 @@
+C:\business websites\coolbunny\coolbunny.web.common\bin\Release\coolbunny.web.common.dll
+C:\business websites\coolbunny\coolbunny.web.common\bin\Release\coolbunny.web.common.pdb
+C:\business websites\coolbunny\coolbunny.web.common\bin\Release\Castle.Core.dll
+C:\business websites\coolbunny\coolbunny.web.common\bin\Release\Castle.Windsor.dll
+C:\business websites\coolbunny\coolbunny.web.common\bin\Release\Castle.Windsor.Lifestyles.dll
+C:\business websites\coolbunny\coolbunny.web.common\bin\Release\Castle.Core.pdb
+C:\business websites\coolbunny\coolbunny.web.common\bin\Release\Castle.Core.xml
+C:\business websites\coolbunny\coolbunny.web.common\bin\Release\Castle.Windsor.pdb
+C:\business websites\coolbunny\coolbunny.web.common\bin\Release\Castle.Windsor.xml
+C:\business websites\coolbunny\coolbunny.web.common\bin\Release\Castle.Windsor.Lifestyles.pdb
+C:\business websites\coolbunny\coolbunny.web.common\obj\Release\ResolveAssemblyReference.cache
+C:\business websites\coolbunny\coolbunny.web.common\obj\Release\coolbunny.web.common.dll
+C:\business websites\coolbunny\coolbunny.web.common\obj\Release\coolbunny.web.common.pdb
+E:\laptop save\business websites\coolbunny\coolbunny.web.common\bin\Release\coolbunny.web.common.dll
+E:\laptop save\business websites\coolbunny\coolbunny.web.common\bin\Release\coolbunny.web.common.pdb
+E:\laptop save\business websites\coolbunny\coolbunny.web.common\bin\Release\Castle.Core.dll
+E:\laptop save\business websites\coolbunny\coolbunny.web.common\bin\Release\Castle.Windsor.dll
+E:\laptop save\business websites\coolbunny\coolbunny.web.common\bin\Release\Castle.Windsor.Lifestyles.dll
+E:\laptop save\business websites\coolbunny\coolbunny.web.common\bin\Release\Castle.Core.pdb
+E:\laptop save\business websites\coolbunny\coolbunny.web.common\bin\Release\Castle.Core.xml
+E:\laptop save\business websites\coolbunny\coolbunny.web.common\bin\Release\Castle.Windsor.pdb
+E:\laptop save\business websites\coolbunny\coolbunny.web.common\bin\Release\Castle.Windsor.xml
+E:\laptop save\business websites\coolbunny\coolbunny.web.common\bin\Release\Castle.Windsor.Lifestyles.pdb
+E:\laptop save\business websites\coolbunny\coolbunny.web.common\obj\Release\ResolveAssemblyReference.cache
+E:\laptop save\business websites\coolbunny\coolbunny.web.common\obj\Release\coolbunny.web.common.dll
+E:\laptop save\business websites\coolbunny\coolbunny.web.common\obj\Release\coolbunny.web.common.pdb

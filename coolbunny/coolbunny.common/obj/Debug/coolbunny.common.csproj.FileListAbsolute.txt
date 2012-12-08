@@ -1,0 +1,14 @@
+C:\business websites\coolbunny\coolbunny.common\bin\Debug\coolbunny.common.dll
+C:\business websites\coolbunny\coolbunny.common\bin\Debug\coolbunny.common.pdb
+C:\business websites\coolbunny\coolbunny.common\bin\Debug\Castle.Core.dll
+C:\business websites\coolbunny\coolbunny.common\bin\Debug\Castle.Windsor.dll
+C:\business websites\coolbunny\coolbunny.common\bin\Debug\Newtonsoft.Json.dll
+C:\business websites\coolbunny\coolbunny.common\bin\Debug\Castle.Core.pdb
+C:\business websites\coolbunny\coolbunny.common\bin\Debug\Castle.Core.xml
+C:\business websites\coolbunny\coolbunny.common\bin\Debug\Castle.Windsor.pdb
+C:\business websites\coolbunny\coolbunny.common\bin\Debug\Castle.Windsor.xml
+C:\business websites\coolbunny\coolbunny.common\bin\Debug\Newtonsoft.Json.pdb
+C:\business websites\coolbunny\coolbunny.common\bin\Debug\Newtonsoft.Json.xml
+C:\business websites\coolbunny\coolbunny.common\obj\Debug\ResolveAssemblyReference.cache
+C:\business websites\coolbunny\coolbunny.common\obj\Debug\coolbunny.common.dll
+C:\business websites\coolbunny\coolbunny.common\obj\Debug\coolbunny.common.pdb
