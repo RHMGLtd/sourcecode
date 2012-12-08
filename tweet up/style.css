@@ -1,0 +1,37 @@
+body
+		{
+			background-color: RGB(198, 226, 255);
+			font-family: Helvetica
+		}
+		.container
+		{
+			margin: 0 auto;
+			width: 800px;
+			font-family: helvetica;
+			text-align:justify;
+		}
+		.one
+		{
+			color: green;
+		}
+		.two
+		{
+			color: orange;
+		}
+		.three
+		{
+			color: red;
+		}a:link, a:visited, a:hover, a:active
+		{
+			color: black;
+			text-decoration: none;
+			border: 1px black dotted;
+		}
+		em
+		{
+			font-weight: bold;
+		}
+		.small
+		{
+			font-size: 0.7em;
+		}
