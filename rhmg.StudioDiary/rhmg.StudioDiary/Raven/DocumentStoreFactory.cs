@@ -2,7 +2,7 @@ using Raven.Client;
 using Raven.Client.Document;
 using Raven.Client.Embedded;
 
-namespace rhmg.StudioDiary
+namespace rhmg.StudioDiary.Raven
 {
     public class DocumentStoreFactory
     {

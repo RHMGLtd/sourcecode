@@ -110,8 +110,8 @@
     <Compile Include="Contact.cs" />
     <Compile Include="DayView.cs" />
     <Compile Include="DiaryManager.cs" />
-    <Compile Include="DocumentConventionFactory.cs" />
-    <Compile Include="DocumentStoreFactory.cs" />
+    <Compile Include="Raven\DocumentConventionFactory.cs" />
+    <Compile Include="Raven\DocumentStoreFactory.cs" />
     <Compile Include="Entity.cs" />
     <Compile Include="Extensions\DateTimeExtensions.cs" />
     <Compile Include="Note.cs" />
@@ -119,7 +119,7 @@
     <Compile Include="PaymentType.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Rate.cs" />
-    <Compile Include="ravendalInstaller.cs" />
+    <Compile Include="Raven\ravendalInstaller.cs" />
     <Compile Include="Repository.cs" />
     <Compile Include="Room.cs" />
     <Compile Include="TimePart.cs" />

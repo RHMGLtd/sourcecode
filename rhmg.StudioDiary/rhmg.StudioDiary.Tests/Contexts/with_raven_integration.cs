@@ -2,6 +2,7 @@ using System.Collections.Generic;
 using Machine.Specifications;
 using Raven.Client;
 using Raven.Client.Embedded;
+using rhmg.StudioDiary.Raven;
 
 namespace rhmg.StudioDiary.Tests.Contexts
 {

@@ -1,6 +1,6 @@
 using Raven.Client.Document;
 
-namespace rhmg.StudioDiary
+namespace rhmg.StudioDiary.Raven
 {
     public class DocumentConventionFactory
     {
