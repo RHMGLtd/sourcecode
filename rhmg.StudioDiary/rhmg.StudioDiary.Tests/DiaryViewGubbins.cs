@@ -123,9 +123,87 @@ namespace rhmg.StudioDiary.Tests
             };
 
             It has_no_availability_for_the_monday =
-                () => monthToAView.WithPeakAvailability.Any(x => x.Date == test_entities.Dates.monday).ShouldBeFalse();
+                () => monthToAView.WithPeakAvailability.FirstOrDefault(x => x.Date == test_entities.Dates.monday).HasAvailability.ShouldBeFalse();
             It has_availability_for_the_tuesday =
-                () => monthToAView.WithPeakAvailability.Any(x => x.Date == test_entities.Dates.tuesday).ShouldBeTrue();
+                () => monthToAView.WithPeakAvailability.FirstOrDefault(x => x.Date == test_entities.Dates.tuesday).HasAvailability.ShouldBeTrue();
+        }
+
+        public class when_there_is_recording_on_a_saturday_of_eight_hours_length : with_raven_integration<Booking, Booking>
+        {
+            static MonthToAView monthToAView;
+
+            Establish context = () =>
+            {
+                var time = new TimePart
+                {
+                    Hour = 10
+                };
+                var liveRoomBooking = Booking.Create(new List<Contact> { test_entities.TheBeatles }, test_entities.Dates.saturday, time, new TimeSpan(8, 0, 0), test_entities.Rooms.liveRoom, test_entities.liveRoomEveningRate);
+
+                liveRoomBooking.Save(new Repository<Booking>(session));
+            };
+            Because and_we_ask_for_the_month_to_a_view = () =>
+            {
+                monthToAView =
+                    DiaryManager.MonthToAViewFor(
+                        test_entities.Dates.monday, new Repository<Booking>(session));
+            };
+            It has_no_availability_for_the_saturday =
+                () => monthToAView.WithPeakAvailability.FirstOrDefault(x => x.Date == test_entities.Dates.saturday).HasAvailability.ShouldBeFalse();
+        }
+        public class when_there_is_recording_on_a_saturday_of_four_hours_length : with_raven_integration<Booking, Booking>
+        {
+            static MonthToAView monthToAView;
+
+            Establish context = () =>
+            {
+                var time = new TimePart
+                {
+                    Hour = 10
+                };
+                var liveRoomBooking = Booking.Create(new List<Contact> { test_entities.TheBeatles }, test_entities.Dates.saturday, time, new TimeSpan(4, 0, 0), test_entities.Rooms.liveRoom, test_entities.liveRoomEveningRate);
+
+                liveRoomBooking.Save(new Repository<Booking>(session));
+            };
+            Because and_we_ask_for_the_month_to_a_view = () =>
+            {
+                monthToAView =
+                    DiaryManager.MonthToAViewFor(
+                        test_entities.Dates.monday, new Repository<Booking>(session));
+            };
+            It has_no_availability_for_the_saturday =
+                () => monthToAView.WithPeakAvailability.FirstOrDefault(x => x.Date == test_entities.Dates.saturday).HasAvailability.ShouldBeTrue();
+        }
+
+        public class when_there_are_multiple_recordings_on_saturday : with_raven_integration<Booking, Booking>
+        {
+            static MonthToAView monthToAView;
+
+            Establish context = () =>
+            {
+                var ten = new TimePart
+                {
+                    Hour = 10
+                };
+                var four = new TimePart
+                {
+                    Hour = 16
+                };
+                var liveRoomBooking1 = Booking.Create(new List<Contact> { test_entities.TheBeatles }, test_entities.Dates.saturday, ten, new TimeSpan(4, 0, 0), test_entities.Rooms.liveRoom, test_entities.liveRoomEveningRate);
+
+                liveRoomBooking1.Save(new Repository<Booking>(session));
+                var liveRoomBooking2 = Booking.Create(new List<Contact> { test_entities.TheBeatles }, test_entities.Dates.saturday, four, new TimeSpan(4, 0, 0), test_entities.Rooms.liveRoom, test_entities.liveRoomEveningRate);
+
+                liveRoomBooking2.Save(new Repository<Booking>(session));
+            };
+            Because and_we_ask_for_the_month_to_a_view = () =>
+            {
+                monthToAView =
+                    DiaryManager.MonthToAViewFor(
+                        test_entities.Dates.monday, new Repository<Booking>(session));
+            };
+            It has_no_availability_for_the_saturday =
+                () => monthToAView.WithPeakAvailability.FirstOrDefault(x => x.Date == test_entities.Dates.saturday).HasAvailability.ShouldBeTrue();
         }
     }
 }

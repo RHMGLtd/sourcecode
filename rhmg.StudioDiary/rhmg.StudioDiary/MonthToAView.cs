@@ -20,15 +20,11 @@ namespace rhmg.StudioDiary
             var dateInMonth = new DateTime(date.Year, date.Month, 1);
             while (dateInMonth.Month == date.Month)
             {
-                // if today is a weekday
-                if (dateInMonth.DayOfWeek != DayOfWeek.Saturday && dateInMonth.DayOfWeek != DayOfWeek.Sunday)
-                {
-                    // get any bookings for this date which are peak time
-                    var thisDaysBookings = bookings.Where(x => x.Date == dateInMonth && x.IsInWeekdayPeakTime());
-                    // if we have four or more bookings then we are full
-                    if (thisDaysBookings.Count() < 4)
-                        WithPeakAvailability.Add(new DaySummary(dateInMonth));
-                }
+
+                // get any bookings for this date which are peak time
+                var thisDaysBookings = bookings.Where(x => x.Date == dateInMonth);
+                // if we have four or more bookings then we are full
+                WithPeakAvailability.Add(new DaySummary(dateInMonth, thisDaysBookings));
                 dateInMonth = dateInMonth.AddDays(1);
             }
         }
@@ -36,11 +32,34 @@ namespace rhmg.StudioDiary
 
     public class DaySummary
     {
-        public DaySummary(DateTime dateInMonth)
+        public DaySummary(DateTime dateInMonth, IEnumerable<Booking> thisDaysBookings)
         {
             Date = dateInMonth;
+            ThisDaysBookings = thisDaysBookings;
+            Init();
+        }
+
+        void Init()
+        {
+            // if today is a saturday
+            if (Date.DayOfWeek == DayOfWeek.Saturday)
+            {
+                // if we have a recording longer than 8 hours we are full
+                HasAvailability = !ThisDaysBookings.Any(x => x.Room.Name == "Live Room" && x.Length >= new TimeSpan(0, 8, 0, 0));
+                return;
+            }
+            // if today is a sunday
+            if (Date.DayOfWeek == DayOfWeek.Sunday)
+            {
+                HasAvailability = true;
+                return;
+            }
+            // if today is a weekday
+            HasAvailability = ThisDaysBookings.Count(x => x.IsInWeekdayPeakTime()) < 4;
         }
 
         public DateTime Date { get; set; }
+        public IEnumerable<Booking> ThisDaysBookings { get; set; }
+        public bool HasAvailability { get; set; }
     }
 }
