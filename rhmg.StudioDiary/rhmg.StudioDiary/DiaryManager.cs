@@ -9,8 +9,13 @@ namespace rhmg.StudioDiary
         {
             var monday = date.MondayDate();
             var sunday = date.SundayDate();
-            var bookings = repository.Get(x => x.Date >= monday && x.Date <= sunday);
+            var bookings = repository.Get(x =>  x.Date >= monday && x.Date <= sunday);
             return new WeekToAView(bookings);
+        }
+
+        public static MonthToAView MonthToAViewFor(DateTime date, IRepository<Booking> repository)
+        {
+            return new MonthToAView(repository.Get(x => x.Date.Month == date.Month), date);
         }
     }
 }

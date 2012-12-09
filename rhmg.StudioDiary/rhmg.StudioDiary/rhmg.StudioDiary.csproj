@@ -108,8 +108,9 @@
     <Compile Include="Booking.cs" />
     <Compile Include="Cancellation.cs" />
     <Compile Include="Contact.cs" />
-    <Compile Include="DayView.cs" />
+    <Compile Include="DayViewBookingLists.cs" />
     <Compile Include="DiaryManager.cs" />
+    <Compile Include="MonthToAView.cs" />
     <Compile Include="Raven\DocumentConventionFactory.cs" />
     <Compile Include="Raven\DocumentStoreFactory.cs" />
     <Compile Include="Entity.cs" />
@@ -122,6 +123,7 @@
     <Compile Include="Raven\ravendalInstaller.cs" />
     <Compile Include="Repository.cs" />
     <Compile Include="Room.cs" />
+    <Compile Include="StudioConfiguration.cs" />
     <Compile Include="TimePart.cs" />
     <Compile Include="WeekToAView.cs" />
   </ItemGroup>

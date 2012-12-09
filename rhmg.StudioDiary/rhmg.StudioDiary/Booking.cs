@@ -97,5 +97,17 @@ namespace rhmg.StudioDiary
         {
             Notes.Add(note);
         }
+
+        public bool IsInWeekdayPeakTime()
+        {
+            if (Date.DayOfWeek == DayOfWeek.Saturday || Date.DayOfWeek == DayOfWeek.Sunday)
+                return false;
+            if (StartTime.Hour == 18 &&
+                Length > new TimeSpan(0, 1, 0, 0))
+                return true;
+            if (StartTime.Hour >= 19)
+                return true;
+            return false;
+        }
     }
 }

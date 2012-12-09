@@ -15,6 +15,69 @@ namespace rhmg.StudioDiary.Tests.Contexts
             public static DateTime saturday = new DateTime(2012, 12, 8);
             public static DateTime sunday = new DateTime(2012, 12, 9);
         }
+        public class Rooms
+        {
+            public static Room liveRoom
+            {
+                get
+                {
+                    return new Room
+                    {
+                        Name = "Live Room",
+                        Rates = new[]
+                                           {
+                                               liveRoomEveningRate,
+                                               liverRoomDayTimeHourly
+                                           }
+                    };
+                }
+            }
+            public static Room room2
+            {
+                get
+                {
+                    return new Room
+                    {
+                        Name = "Room 2",
+                        Rates = new[]
+                                           {
+                                               standardEveningRate,
+                                               daytimeHourly
+                                           }
+                    };
+                }
+            }
+            public static Room room3
+            {
+                get
+                {
+                    return new Room
+                    {
+                        Name = "Room 3",
+                        Rates = new[]
+                                           {
+                                               standardEveningRate,
+                                               daytimeHourly
+                                           }
+                    };
+                }
+            }
+            public static Room room4
+            {
+                get
+                {
+                    return new Room
+                    {
+                        Name = "Room 4",
+                        Rates = new[]
+                                           {
+                                               standardEveningRate,
+                                               daytimeHourly
+                                           }
+                    };
+                }
+            }
+        }
 
         public static Contact TheBeatles
         {
@@ -36,24 +99,10 @@ namespace rhmg.StudioDiary.Tests.Contexts
                              {
                                  Hour = 12
                              };
-                return Booking.Create(new List<Contact> { TheBeatles }, dp, st, new TimeSpan(4, 0, 0), room4, standardEveningRate);
+                return Booking.Create(new List<Contact> { TheBeatles }, dp, st, new TimeSpan(4, 0, 0), Rooms.room4, standardEveningRate);
             }
         }
-        public static Room room4
-        {
-            get
-            {
-                return new Room
-                           {
-                               Name = "Room 4",
-                               Rates = new[]
-                                           {
-                                               standardEveningRate,
-                                               daytimeHourly
-                                           }
-                           };
-            }
-        }
+        
         public static Rate standardEveningRate
         {
             get
@@ -66,6 +115,18 @@ namespace rhmg.StudioDiary.Tests.Contexts
                            };
             }
         }
+        public static Rate liveRoomEveningRate
+        {
+            get
+            {
+                return new Rate
+                {
+                    Description = "Live Room Evening Four Hours",
+                    Per = new TimeSpan(4, 0, 0),
+                    PoundsAmount = 35.00
+                };
+            }
+        }
         public static Rate daytimeHourly
         {
             get
@@ -76,6 +137,18 @@ namespace rhmg.StudioDiary.Tests.Contexts
                                Per = new TimeSpan(1, 0, 0),
                                PoundsAmount = 7.50
                            };
+            }
+        }
+        public static Rate liverRoomDayTimeHourly
+        {
+            get
+            {
+                return new Rate
+                {
+                    Description = "Live Room Hourly",
+                    Per = new TimeSpan(1, 0, 0),
+                    PoundsAmount = 10.00
+                };
             }
         }
         public static AdditionalEquipment amplifier

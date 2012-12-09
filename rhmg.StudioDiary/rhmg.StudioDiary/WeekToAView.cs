@@ -7,13 +7,13 @@ namespace rhmg.StudioDiary
     {
         public WeekToAView(IEnumerable<Booking> bookings)
         {
-            Monday = new DayView();
-            Tuesday = new DayView();
-            Wednesday = new DayView();
-            Thursday = new DayView();
-            Friday = new DayView();
-            Saturday = new DayView();
-            Sunday = new DayView();
+            Monday = new DayViewBookingLists();
+            Tuesday = new DayViewBookingLists();
+            Wednesday = new DayViewBookingLists();
+            Thursday = new DayViewBookingLists();
+            Friday = new DayViewBookingLists();
+            Saturday = new DayViewBookingLists();
+            Sunday = new DayViewBookingLists();
             Init(bookings);
         }
 
@@ -38,12 +38,12 @@ namespace rhmg.StudioDiary
             }
         }
 
-        public DayView Monday { get; set; }
-        public DayView Tuesday { get; set; }
-        public DayView Wednesday { get; set; }
-        public DayView Thursday { get; set; }
-        public DayView Friday { get; set; }
-        public DayView Saturday { get; set; }
-        public DayView Sunday { get; set; }
+        public DayViewBookingLists Monday { get; set; }
+        public DayViewBookingLists Tuesday { get; set; }
+        public DayViewBookingLists Wednesday { get; set; }
+        public DayViewBookingLists Thursday { get; set; }
+        public DayViewBookingLists Friday { get; set; }
+        public DayViewBookingLists Saturday { get; set; }
+        public DayViewBookingLists Sunday { get; set; }
     }
 }

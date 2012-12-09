@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using Machine.Specifications;
 using rhmg.StudioDiary.Tests.Contexts;
 
@@ -219,5 +220,32 @@ namespace rhmg.StudioDiary.Tests
         Because of = () => booking = Booking.Get("booking/1", new Repository<Booking>(session));
 
         It has_loaded = () => booking.ShouldNotBeNull();
+    }
+
+    public class is_a_booking_peak_or_not
+    {
+        static Booking sixPmOnAMondayForOneHour;
+        static Booking sixPmOnAMondayForFourHours;
+        static Booking sevenPmOnAMonday;
+
+        Establish context = () =>
+        {
+            sixPmOnAMondayForOneHour = Booking.Create(new List<Contact> { test_entities.TheBeatles }, test_entities.Dates.monday, new TimePart { Hour = 18 },
+                                                      new TimeSpan(1, 0, 0), test_entities.Rooms.room4,
+                                                      test_entities.standardEveningRate);
+            sixPmOnAMondayForFourHours = Booking.Create(new List<Contact> { test_entities.TheBeatles }, test_entities.Dates.monday, new TimePart { Hour = 18 },
+                                                      new TimeSpan(4, 0, 0), test_entities.Rooms.room4,
+                                                      test_entities.standardEveningRate);
+            sevenPmOnAMonday = Booking.Create(new List<Contact> { test_entities.TheBeatles }, test_entities.Dates.monday, new TimePart { Hour = 19 },
+                                                      new TimeSpan(4, 0, 0), test_entities.Rooms.room4,
+                                                      test_entities.standardEveningRate);
+        };
+
+        It works_out_six_pm_for_one_hour_is_not_peak_time =
+            () => sixPmOnAMondayForOneHour.IsInWeekdayPeakTime().ShouldBeFalse();
+        It works_out_six_pm_for_four_hours_is_peak_time =
+            () => sixPmOnAMondayForFourHours.IsInWeekdayPeakTime().ShouldBeTrue();
+        It works_out_seven_pm_for_four_hours_is_peak_time =
+            () => sevenPmOnAMonday.IsInWeekdayPeakTime().ShouldBeTrue();
     }
 }
