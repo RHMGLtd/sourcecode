@@ -1,0 +1,450 @@
+[
+	{
+		"name" : "Ashes Of Humanity",
+		"web_presence" : [
+							{
+								"text" : "facebook fan page",
+								"link" : "http://www.facebook.com/group.php?gid=273196117931"
+							}
+						]
+	},
+	{
+		"name" : "Beertrix"
+	},
+	{
+		"name" : "Big Door Open",
+		"web_presence" : [
+							{
+								"text" : "north west bands",
+								"link" : "http://nwb.co/bigdooropen"
+							},
+							{
+								"text" : "myspace page",
+								"link" : "http://www.myspace.com/bigdooropen"
+							},
+							{
+								"text" : "twitter",
+								"link" : "http://twitter.com/BigDoorOpenUK"
+							}
+						]
+	},
+	{
+		"name" : "Matt Billington"
+	},
+	{
+		"name" : "Andrew Bond"
+	},
+	{
+		"name" : "Charlie Cartmell",
+		"web_presence" : [
+							{
+								"text" : "myspace page",
+								"link" : "http://www.myspace.com/charliecartmell09"
+							}
+						]
+	},
+	{
+		"name" : "Chase The Morning",
+		"web_presence" : [
+							{
+								"text" : "myspace page",
+								"link" : "http://www.myspace.com/chasethemorninguk"
+							}
+						]
+	},
+	{
+		"name" : "Blackpool Pleasure Beach",
+		"web_presence" : [
+							{
+								"text" : "business page",
+								"link" : "http://www.blackpoolpleasurebeach.com"
+							}
+						]
+	},
+	{
+		"name" : "Clare Thorpe"
+	},
+	{
+		"name" : "Danny Hilton"
+	},
+	{
+		"name" : "Darren Day",
+		"web_presence" : [
+							{
+								"text" : "wikipedia",
+								"link" : "http://en.wikipedia.org/wiki/Darren_Day"
+							}
+						]
+	},
+	{
+		"name" : "Dean Shaw"
+	},
+	{
+		"name" : "Defiance",
+		"web_presence" : [
+							{
+								"text" : "myspace page",
+								"link" : "http://www.myspace.com/defiancemetaluk"
+							},
+							{
+								"text" : "facebook page",
+								"link" : "http://www.facebook.com/pages/Defiance/190039027836"
+							}
+						]
+	},
+	{
+		"name" : "Dirty Daggers",
+		"web_presence" : [
+							{
+								"text" : "myspace page",
+								"link" : "http://www.myspace.com/thedirtydaggers"
+							},
+							{
+								"text" : "reverb nation page",
+								"link" : "http://www.reverbnation.com/thedirtydaggers"
+							}
+						]
+	},
+	{
+		"name" : "Dr Dave"
+	},
+	{
+		"name" : "Ego Musto",
+		"web_presence" : [
+							{
+								"text" : "reverb nation page",
+								"link" : "http://www.reverbnation.com/egomusto"
+							}
+						]
+	},
+	{
+		"name" : "Esperlay"
+	},
+	{
+		"name" : "Garbage Men"
+	},
+	{
+		"name" : "Hot Wyre"
+	},
+	{
+		"name" : "Jack"
+	},
+	{
+		"name" : "The Jeps",
+		"web_presence" : [
+							{
+								"text" : "own website",
+								"link" : "http://thejeps.co.uk/default.aspx"
+							},
+							{
+								"text" : "facebook page",
+								"link" : "http://www.facebook.com/pages/The-JEPS-Function-Band/295328111024"
+							},
+							{
+								"text" : "youtube channel",
+								"link" : "http://www.youtube.com/user/THEJEPSBAND"
+							}
+						]
+	},
+	{
+		"name" : "Johnathan Taylor"
+	},
+	{
+		"name" : "Julie Cavanargh"
+	},
+	{
+		"name" : "Jumberbells"
+	},
+	{
+		"name" : "Kaseno",
+		"web_presence" : [
+							{
+								"text" : "myspace page",
+								"link" : "http://www.myspace.com/kaseno"
+							},
+							{
+								"text" : "own website",
+								"link" : "http://www.kaseno.co.uk/"
+							},
+							{
+								"text" : "facebook page",
+								"link" : "http://www.facebook.com/Kasenomusic"
+							}							
+						]
+	},
+	{
+		"name" : "Kelly"
+	},
+	{
+		"name" : "Killing Floor",
+		"web_presence" : [
+							{
+								"text" : "video on youtube",
+								"link" : "http://www.youtube.com/watch?v=Ek2n1e0ywKc"
+							}
+						]
+	},
+	{
+		"name" : "Steven Ladley (Ladders)"
+	},
+	{
+		"name" : "Steph Fraser",
+		"web_presence" : [
+							{
+								"text" : "own website",
+								"link" : "http://www.stephfraser.co.uk/"
+							},
+							{
+								"text" : "wikipedia",
+								"link" : "http://en.wikipedia.org/wiki/Steph_Fraser"
+							},
+							{
+								"text" : "myspace page",
+								"link" : "http://www.myspace.com/stefaniefraser"
+							}
+						]
+	},
+	{
+		"name" : "Litterbug",
+		"web_presence" : [
+							{
+								"text" : "reverb nation page",
+								"link" : "http://www.reverbnation.com/litterbug"
+							},
+							{
+								"text" : "myspace page",
+								"link" : "http://www.myspace.com/litterbugblackpool"
+							}
+						]
+	},
+	{
+		"name" : "Lupus In Fabula",
+		"web_presence" : [
+							{
+								"text" : "myspace page",
+								"link" : "http://www.myspace.com/lupusinfabula"
+							}
+						]
+	},
+	{
+		"name" : "Manitou"
+	},
+	{
+		"name" : "Mike"
+	},
+	{
+		"name" : "Morning Wood"
+	},
+	{
+		"name" : "New York Dolls",
+		"web_presence" : [
+							{
+								"text" : "myspace page",
+								"link" : "http://www.myspace.com/newyorkdolls"
+							},
+							{
+								"text" : "own page",
+								"link" : "http://www.nydolls.org/Home.html"
+							},
+							{
+								"text" : "wikipedia",
+								"link" : "http://en.wikipedia.org/wiki/New_York_Dolls"
+							}
+						]
+	},
+	{
+		"name" : "Pabs"
+	},
+	{
+		"name" : "Personal Sacrifice"
+	},
+	{
+		"name" : "Peter Hook",
+		"web_presence" : [
+							{
+								"text" : "myspace page",
+								"link" : "http://www.myspace.com/peterhookneworder"
+							},
+							{
+								"text" : "wikipedia",
+								"link" : "http://en.wikipedia.org/wiki/Peter_Hook"
+							}
+						]
+	},
+	{
+		"name" : "Peter Simple"
+	},
+	{
+		"name" : "Rae Morris",
+		"web_presence" : [
+							{
+								"text" : "myspace page",
+								"link" : "http://www.myspace.com/raemorrismusic"
+							}
+						]
+	},
+	{
+		"name" : "Ramonastone",
+		"web_presence" : [
+							{
+								"text" : "myspace page",
+								"link" : "http://www.myspace.com/ramonastone"
+							}
+						]
+	},
+	{
+		"name" : "Sarah Ling"
+	},
+	{
+		"name" : "Shen",
+		"web_presence" : [
+							{
+								"text" : "myspace page",
+								"link" : "http://www.myspace.com/shenband"
+							}
+						]
+	},
+	{
+		"name" : "The Shipman Project",
+		"web_presence" : [
+							{
+								"text" : "myspace page",
+								"link" : "http://www.myspace.com/theshipmanproject"
+							},
+							{
+								"text" : "own page",
+								"link" : "http://www.theshipmanproject.com/"
+							}
+						]
+	},
+	{
+		"name" : "S**t Boy Band"
+	},
+	{
+		"name" : "Silvertones",
+		"web_presence" : [
+							{
+								"text" : "myspace page",
+								"link" : "http://www.myspace.com/silvertonesblackpool"
+							},
+							{
+								"text" : "facebook page",
+								"link" : "http://www.facebook.com/pages/Silvertones/328199904096"
+							}
+						]
+	},
+	{
+		"name" : "Songmaker Studios",
+		"web_presence" : [
+							{
+								"text" : "business page",
+								"link" : "http://www.songmaker.co.uk/"
+							}
+						]
+	},
+	{
+		"name" : "SOS Music",
+		"web_presence" : [
+							{
+								"text" : "business page",
+								"link" : "http://www.sosmusic.co.uk/"
+							}
+						]
+	},
+	{
+		"name" : "Spitfire",
+		"web_presence" : [
+							{
+								"text" : "reverb nation page",
+								"link" : "http://www.reverbnation.com/spitfirenw"
+							}
+						]
+	},
+	{
+		"name" : "Stephen Leroy Cook"
+	},
+	{
+		"name" : "The Horn",
+		"web_presence" : [
+							{
+								"text" : "myspace page",
+								"link" : "http://www.myspace.com/thehornlive"
+							},
+							{
+								"text" : "facebook page",
+								"link" : "http://www.facebook.com/thehornlive"
+							},
+							{
+								"text" : "north west bands page",
+								"link" : "http://nwb.co/thehorn"
+							}
+						]
+	},
+	{
+		"name" : "The Pretty Thunder",
+		"web_presence" : [
+							{
+								"text" : "myspace page",
+								"link" : "http://www.myspace.com/theprettythunder"
+							},
+							{
+								"text" : "facebook page",
+								"link" : "http://www.facebook.com/pages/The-Pretty-Thunder/198191879729"
+							}
+						]
+	},
+	{
+		"name" : "The Tartan Scars",
+		"web_presence" : [
+							{
+								"text" : "myspace page",
+								"link" : "http://www.myspace.com/thetartanscars"
+							},
+							{
+								"text" : "unsigned.com page",
+								"link" : "http://www.unsigned.com/thetartanscars"
+							}
+						]
+	},
+	{
+		"name" : "The Unitards",
+		"web_presence" : [
+							{
+								"text" : "myspace page",
+								"link" : "http://www.myspace.com/theunitardsblackpool"
+							},
+							{
+								"text" : "facebook page",
+								"link" : "http://www.facebook.com/group.php?gid=39634164355"
+							}
+						]
+	},
+	{
+		"name" : "The Wheeljacks",
+		"web_presence" : [
+							{
+								"text" : "myspace page",
+								"link" : "http://www.myspace.com/wheeljacks"
+							}
+						]
+	},
+	{
+		"name" : "The Valvetronics",
+		"web_presence" : [
+							{
+								"text" : "facebook page",
+								"link" : "http://www.facebook.com/theValvetronics"
+							},
+							{
+								"text" : "myspace page",
+								"link" : "http://www.myspace.com/thevalvetronics"
+							}
+						]
+	},
+	{
+		"name" : "Michael Woodacre"
+	},
+	{
+		"name" : "Yeh Yeh"
+	}
+]
