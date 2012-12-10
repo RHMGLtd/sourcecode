@@ -12,6 +12,8 @@ namespace rhmg.StudioDiary.Raven
                            {
                                if (typeof(Booking).IsAssignableFrom(type))
                                    return "booking";
+                               if (typeof(BackFill).IsAssignableFrom(type))
+                                   return "backfill";
                                if (typeof(Contact).IsAssignableFrom(type))
                                    return "contact";
                                return null;

@@ -24,7 +24,6 @@ namespace rhmg.StudioDiary
 
         public bool CheckedIn { get; set; }
 
-
         public static Booking Create(List<Contact> contacts, DateTime date, TimePart startTime, TimeSpan length, Room room, Rate rate)
         {
             return new Booking

@@ -1,6 +1,7 @@
 ﻿using System.Collections.Generic;
 using Machine.Specifications;
 using rhmg.StudioDiary.Tests.Contexts;
+using rhmg.StudioDiary.Tests.Contexts.test_entities;
 
 namespace rhmg.StudioDiary.Tests
 {
@@ -8,7 +9,7 @@ namespace rhmg.StudioDiary.Tests
     {
         static Contact contact;
 
-        Establish context = () => contact = test_entities.TheBeatles;
+        Establish context = () => contact = Contacts.TheBeatles;
 
         Because of = () => contact = contact.Save(new Repository<Contact>(session));
 
@@ -21,8 +22,8 @@ namespace rhmg.StudioDiary.Tests
 
         Establish context = () =>
                                 {
-                                    var contact = test_entities.TheBeatles.Save(new Repository<Contact>(session));
-                                    var booking = test_entities.standard_4_hour_evening_rehearsal_booking;
+                                    var contact = Contacts.TheBeatles.Save(new Repository<Contact>(session));
+                                    var booking = Bookings.standard_4_hour_evening_rehearsal_booking;
                                     booking.Contacts = new List<Contact> { contact };
                                     booking.Save(new Repository<Booking>(session));
                                 };

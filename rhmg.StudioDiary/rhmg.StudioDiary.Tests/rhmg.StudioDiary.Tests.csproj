@@ -117,8 +117,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BackfillShennizle.cs" />
     <Compile Include="ContactThings.cs" />
-    <Compile Include="Contexts\test_entities.cs" />
+    <Compile Include="Contexts\test_entities\AdditionalEquipments.cs" />
+    <Compile Include="Contexts\test_entities\BackFills.cs" />
+    <Compile Include="Contexts\test_entities\Bookings.cs" />
+    <Compile Include="Contexts\test_entities\Contacts.cs" />
+    <Compile Include="Contexts\test_entities\Dates.cs" />
+    <Compile Include="Contexts\test_entities\Rates.cs" />
+    <Compile Include="Contexts\test_entities\Rooms.cs" />
     <Compile Include="Contexts\with_auto_mocking.cs" />
     <Compile Include="Contexts\with_booking.cs" />
     <Compile Include="Contexts\with_contact.cs" />

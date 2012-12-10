@@ -105,6 +105,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AdditionalEquipment.cs" />
+    <Compile Include="Backfill.cs" />
     <Compile Include="Booking.cs" />
     <Compile Include="Cancellation.cs" />
     <Compile Include="Contact.cs" />

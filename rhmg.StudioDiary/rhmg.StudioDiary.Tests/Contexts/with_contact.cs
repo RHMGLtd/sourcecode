@@ -1,3 +1,5 @@
+using rhmg.StudioDiary.Tests.Contexts.test_entities;
+
 namespace rhmg.StudioDiary.Tests.Contexts
 {
     public class with_contact
@@ -6,7 +8,7 @@ namespace rhmg.StudioDiary.Tests.Contexts
 
         public with_contact()
         {
-            the_beatles = test_entities.TheBeatles;
+            the_beatles = Contacts.TheBeatles;
         }
     }
 }
