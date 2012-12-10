@@ -7,6 +7,7 @@ namespace rhmg.StudioDiary
     public class Booking : Entity
     {
         public bool HasOutstandingOwings { get; set; }
+        public bool IsCancelled { get; set; }
 
         public List<Contact> Contacts { get; set; }
         public DateTime Date { get; set; }
@@ -19,7 +20,9 @@ namespace rhmg.StudioDiary
         public Cancellation Cancellation { get; set; }
         public List<Payment> Payments { get; set; }
 
-        public List<AdditionalEquipment> AdditionalEquipment { get; set; } 
+        public List<AdditionalEquipment> AdditionalEquipment { get; set; }
+
+        public bool CheckedIn { get; set; }
 
 
         public static Booking Create(List<Contact> contacts, DateTime date, TimePart startTime, TimeSpan length, Room room, Rate rate)
@@ -51,6 +54,7 @@ namespace rhmg.StudioDiary
         {
             // set flags for searching
             HasOutstandingOwings = Outstanding() > 0;
+            IsCancelled = Cancellation != null;
             return repo.Put(this);
         }
 
@@ -108,6 +112,11 @@ namespace rhmg.StudioDiary
             if (StartTime.Hour >= 19)
                 return true;
             return false;
+        }
+
+        public void CheckIn()
+        {
+            CheckedIn = true;
         }
     }
 }

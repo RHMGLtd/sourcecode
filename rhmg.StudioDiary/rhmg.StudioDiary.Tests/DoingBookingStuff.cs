@@ -196,6 +196,26 @@ namespace rhmg.StudioDiary.Tests
             () => standard_4_hour_evening_rehearsal_booking.Notes[0].DateCreated.Date.ShouldEqual(DateTime.Now.Date);
     }
 
+    public class when_a_new_booking : with_booking
+    {
+        static Booking booking;
+
+        Establish context = () => booking = test_entities.standard_4_hour_evening_rehearsal_booking;
+
+        It is_not_checked_in = () => booking.CheckedIn.ShouldBeFalse();
+    }
+
+    public class when_arriving_a_booking : with_booking
+    {
+        static Booking booking;
+
+        Establish context = () => booking = test_entities.standard_4_hour_evening_rehearsal_booking;
+
+        Because of = () => booking.CheckIn();
+
+        It sets_the_booking_as_checked_in = () => booking.CheckedIn.ShouldBeTrue();
+    }
+
     public class when_saving_a_new_booking : with_raven_integration<Booking, Booking>
     {
         static Booking booking;
