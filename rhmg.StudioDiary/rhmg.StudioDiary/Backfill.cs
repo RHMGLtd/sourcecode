@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace rhmg.StudioDiary
 {
@@ -7,6 +8,8 @@ namespace rhmg.StudioDiary
         public Contact Contact { get; set; }
 
         public DateTime Date { get; set; }
+
+        public bool Upgraded { get; set; }
 
         public static BackFill Create(Contact contact, DateTime date)
         {
@@ -25,6 +28,15 @@ namespace rhmg.StudioDiary
         public static BackFill Get(string id, IRepository<BackFill> repo)
         {
             return repo.Get(id);
+        }
+        public static List<BackFill> Get(DateTime effectiveDate, IRepository<BackFill> repo)
+        {
+            return repo.Get(x => x.Date == effectiveDate);
+        }
+
+        public void Upgrade()
+        {
+            Upgraded = true;
         }
     }
 }
