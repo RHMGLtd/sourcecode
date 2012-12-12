@@ -1,0 +1,61 @@
+{
+  "IsNull": false,
+  "Venue": "The Newton Arms",
+  "Gigs": [
+    {
+      "Id": "gig/78852",
+      "BandNames": [
+        {
+          "Value": "The Keytars"
+        }
+      ],
+      "Venue": "The Newton Arms",
+      "Date": "\/Date(1309561200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308915697000+0100)\/",
+      "Edited": "\/Date(1308915697000+0100)\/"
+    },
+    {
+      "Id": "gig/61453",
+      "BandNames": [
+        {
+          "Value": "The Versions"
+        }
+      ],
+      "Venue": "The Newton Arms",
+      "Date": "\/Date(1312585200000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307103349000+0100)\/",
+      "Edited": "\/Date(1307103349000+0100)\/"
+    },
+    {
+      "Id": "gig/61458",
+      "BandNames": [
+        {
+          "Value": "The Versions"
+        }
+      ],
+      "Venue": "The Newton Arms",
+      "Date": "\/Date(1322870400000+0000)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307103617000+0100)\/",
+      "Edited": "\/Date(1307103617000+0100)\/"
+    }
+  ],
+  "Future": []
+}

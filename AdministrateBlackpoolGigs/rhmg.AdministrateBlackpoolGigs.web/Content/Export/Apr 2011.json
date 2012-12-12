@@ -1,0 +1,863 @@
+{
+  "FirstDayOfMonth": "\/Date(1301612400000+0100)\/",
+  "Lines": [
+    {
+      "Entries": [
+        {
+          "Date": "\/Date(1301612400000+0100)\/",
+          "Gigs": []
+        },
+        {
+          "Date": "\/Date(1301698800000+0100)\/",
+          "Gigs": []
+        },
+        {
+          "Date": "\/Date(1301785200000+0100)\/",
+          "Gigs": []
+        }
+      ]
+    },
+    {
+      "Entries": [
+        {
+          "Date": "\/Date(1301871600000+0100)\/",
+          "Gigs": []
+        },
+        {
+          "Date": "\/Date(1301958000000+0100)\/",
+          "Gigs": []
+        },
+        {
+          "Date": "\/Date(1302044400000+0100)\/",
+          "Gigs": []
+        },
+        {
+          "Date": "\/Date(1302130800000+0100)\/",
+          "Gigs": []
+        },
+        {
+          "Date": "\/Date(1302217200000+0100)\/",
+          "Gigs": []
+        },
+        {
+          "Date": "\/Date(1302303600000+0100)\/",
+          "Gigs": []
+        },
+        {
+          "Date": "\/Date(1302390000000+0100)\/",
+          "Gigs": []
+        }
+      ]
+    },
+    {
+      "Entries": [
+        {
+          "Date": "\/Date(1302476400000+0100)\/",
+          "Gigs": []
+        },
+        {
+          "Date": "\/Date(1302562800000+0100)\/",
+          "Gigs": []
+        },
+        {
+          "Date": "\/Date(1302649200000+0100)\/",
+          "Gigs": []
+        },
+        {
+          "Date": "\/Date(1302735600000+0100)\/",
+          "Gigs": []
+        },
+        {
+          "Date": "\/Date(1302822000000+0100)\/",
+          "Gigs": []
+        },
+        {
+          "Date": "\/Date(1302908400000+0100)\/",
+          "Gigs": []
+        },
+        {
+          "Date": "\/Date(1302994800000+0100)\/",
+          "Gigs": []
+        }
+      ]
+    },
+    {
+      "Entries": [
+        {
+          "Date": "\/Date(1303081200000+0100)\/",
+          "Gigs": []
+        },
+        {
+          "Date": "\/Date(1303167600000+0100)\/",
+          "Gigs": []
+        },
+        {
+          "Date": "\/Date(1303254000000+0100)\/",
+          "Gigs": []
+        },
+        {
+          "Date": "\/Date(1303340400000+0100)\/",
+          "Gigs": [
+            {
+              "Id": "gig/7",
+              "BandNames": [
+                {
+                  "Value": "Jimi Hendrix Tribute Band"
+                }
+              ],
+              "Venue": "The Edge",
+              "Date": "\/Date(1303340400000+0100)\/",
+              "StartTime": "19:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1303945200000+0100)\/",
+              "Edited": "\/Date(1303945200000+0100)\/"
+            },
+            {
+              "Id": "gig/29697",
+              "BandNames": [
+                {
+                  "Value": "Jimi Hendrix Tribute Band"
+                }
+              ],
+              "Venue": "The Edge",
+              "Date": "\/Date(1303340400000+0100)\/",
+              "StartTime": "19.30",
+              "Price": "Free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1305466630000+0100)\/",
+              "Edited": "\/Date(1305466631000+0100)\/"
+            },
+            {
+              "Id": "gig/1",
+              "BandNames": [
+                {
+                  "Value": "Daniel Mahon"
+                },
+                {
+                  "Value": "Lost In Last Week"
+                },
+                {
+                  "Value": "Sky Valley Mistress"
+                },
+                {
+                  "Value": "We Come In Pieces"
+                },
+                {
+                  "Value": "Bill Orrick"
+                },
+                {
+                  "Value": "Go Heeled"
+                },
+                {
+                  "Value": "Dododeaddead"
+                },
+                {
+                  "Value": "Goonies Never Say Die"
+                },
+                {
+                  "Value": "Apache Viking"
+                },
+                {
+                  "Value": "The Senton Bombs"
+                }
+              ],
+              "Venue": "The Blue Room",
+              "Date": "\/Date(1303340400000+0100)\/",
+              "StartTime": "19.30",
+              "Price": "£2",
+              "MoreInfo": "Later At The Blue Room is an mini indoor festival that runs over both the consecutive bank holiday weekends at the end of April at the Blue Room pub in Blackpool from Thursday 21st April to Sunday 24th April and Thursday 28th April to Sunday 1st May.\r\n\r\nThere will be 80 bands performing over both weekends with 10 acts performing each night, there will be performances from Goonies Never Say Die, The Senton Bombs, Escape Artist, Ides Of March, My Preserver, Idol Minds, Makers Of Venice, Northern Structure, Hammer No More The Fingers, The Colours, Metonia, Bill Orrick, The Drop-Out Wives and many more\r\n\r\nThe format of the event is set up in the same way the 'Later with Jools Holland' programme works, there are 2 stages set up in the venue, as soon as one band finishes at one end of the pub the next band starts at the other end, they even have a 'fake Jools' to compere the night.\r\n\r\nIt runs from 7pm until late every night and is only £2 to get in\r\nits all happening at The Blue Room, Church Street, Blackpool\r\nupdated listings can be found at www.facebook.com/theblueroomblackpool\r\nyou can follow us on twitter at www.twitter.com/blueroombpl",
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1304118000000+0100)\/",
+              "Edited": "\/Date(1314445768000+0100)\/"
+            }
+          ]
+        },
+        {
+          "Date": "\/Date(1303426800000+0100)\/",
+          "Gigs": [
+            {
+              "Id": "gig/10",
+              "BandNames": [
+                {
+                  "Value": "The Jeps"
+                }
+              ],
+              "Venue": "Burlington",
+              "Date": "\/Date(1303426800000+0100)\/",
+              "StartTime": "19:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1303858800000+0100)\/",
+              "Edited": "\/Date(1303858800000+0100)\/"
+            },
+            {
+              "Id": "gig/9",
+              "BandNames": [
+                {
+                  "Value": "Ska Face"
+                },
+                {
+                  "Value": "Pink Torpedoes"
+                }
+              ],
+              "Venue": "The Merrie England",
+              "Date": "\/Date(1303426800000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1303772400000+0100)\/",
+              "Edited": "\/Date(1303772400000+0100)\/"
+            },
+            {
+              "Id": "gig/2",
+              "BandNames": [
+                {
+                  "Value": "This Dirty Swamp"
+                },
+                {
+                  "Value": "Big Door Open"
+                },
+                {
+                  "Value": "Hello Bamboo"
+                },
+                {
+                  "Value": "Secrets Of Kaplan"
+                },
+                {
+                  "Value": "Effluence"
+                },
+                {
+                  "Value": "Naomi's Blood Diamonds"
+                },
+                {
+                  "Value": "Metonia"
+                },
+                {
+                  "Value": "Deafen The Creatures"
+                },
+                {
+                  "Value": "Idol Minds"
+                },
+                {
+                  "Value": "Last Breath"
+                }
+              ],
+              "Venue": "The Blue Room",
+              "Date": "\/Date(1303426800000+0100)\/",
+              "StartTime": "19.30",
+              "Price": "£2",
+              "MoreInfo": "Later At The Blue Room is an mini indoor festival that runs over both the consecutive bank holiday weekends at the end of April at the Blue Room pub in Blackpool from Thursday 21st April to Sunday 24th April and Thursday 28th April to Sunday 1st May.\r\n\r\nThere will be 80 bands performing over both weekends with 10 acts performing each night, there will be performances from Goonies Never Say Die, The Senton Bombs, Escape Artist, Ides Of March, My Preserver, Idol Minds, Makers Of Venice, Northern Structure, Hammer No More The Fingers, The Colours, Metonia, Bill Orrick, The Drop-Out Wives and many more\r\n\r\nThe format of the event is set up in the same way the 'Later with Jools Holland' programme works, there are 2 stages set up in the venue, as soon as one band finishes at one end of the pub the next band starts at the other end, they even have a 'fake Jools' to compere the night.\r\n\r\nIt runs from 7pm until late every night and is only £2 to get in\r\nits all happening at The Blue Room, Church Street, Blackpool\r\nupdated listings can be found at www.facebook.com/theblueroomblackpool\r\nyou can follow us on twitter at www.twitter.com/blueroombpl",
+              "GigTitle": "Later At The Blue Room",
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1303858800000+0100)\/",
+              "Edited": "\/Date(1303858800000+0100)\/"
+            },
+            {
+              "Id": "gig/11",
+              "BandNames": [
+                {
+                  "Value": "The Love Rats"
+                }
+              ],
+              "Venue": "The Venue",
+              "Date": "\/Date(1303426800000+0100)\/",
+              "StartTime": "19:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1303513200000+0100)\/",
+              "Edited": "\/Date(1305653128000+0100)\/"
+            }
+          ]
+        },
+        {
+          "Date": "\/Date(1303513200000+0100)\/",
+          "Gigs": [
+            {
+              "Id": "gig/15",
+              "BandNames": [
+                {
+                  "Value": "The Coustics"
+                }
+              ],
+              "Venue": "The Hansom Cab",
+              "Date": "\/Date(1303513200000+0100)\/",
+              "StartTime": "19:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1303858800000+0100)\/",
+              "Edited": "\/Date(1303858800000+0100)\/"
+            },
+            {
+              "Id": "gig/16",
+              "BandNames": [
+                {
+                  "Value": "Magic Trees"
+                }
+              ],
+              "Venue": "The Town House",
+              "Date": "\/Date(1303513200000+0100)\/",
+              "StartTime": "19:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1303858800000+0100)\/",
+              "Edited": "\/Date(1303858800000+0100)\/"
+            },
+            {
+              "Id": "gig/17",
+              "BandNames": [
+                {
+                  "Value": "Twisted Romance"
+                }
+              ],
+              "Venue": "The Bloomfield Hotel",
+              "Date": "\/Date(1303513200000+0100)\/",
+              "StartTime": "19:00",
+              "Price": null,
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1304204400000+0100)\/",
+              "Edited": "\/Date(1304204400000+0100)\/"
+            },
+            {
+              "Id": "gig/5",
+              "BandNames": [
+                {
+                  "Value": "The Team"
+                }
+              ],
+              "Venue": "The Sands",
+              "Date": "\/Date(1303513200000+0100)\/",
+              "StartTime": "19.00",
+              "Price": "unknown",
+              "MoreInfo": "7 piece band THE TEAM backed the late great Edwin Starr of which Edwin's brother ANGELO STARR was an integral part.\r\n",
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1303599600000+0100)\/",
+              "Edited": "\/Date(1303599600000+0100)\/"
+            },
+            {
+              "Id": "gig/12",
+              "BandNames": [
+                {
+                  "Value": "The Blue Pig Orchestra"
+                }
+              ],
+              "Venue": "The Venue",
+              "Date": "\/Date(1303513200000+0100)\/",
+              "StartTime": "19:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1303686000000+0100)\/",
+              "Edited": "\/Date(1305653140000+0100)\/"
+            },
+            {
+              "Id": "gig/3",
+              "BandNames": [
+                {
+                  "Value": "Carpe Diem"
+                },
+                {
+                  "Value": "Driven Overboard"
+                },
+                {
+                  "Value": "Mitford Rebel"
+                },
+                {
+                  "Value": "Dirty Daggers"
+                },
+                {
+                  "Value": "Kinchinlay"
+                },
+                {
+                  "Value": "The Privileged Few"
+                },
+                {
+                  "Value": "Escort Knights"
+                },
+                {
+                  "Value": "The Temps"
+                },
+                {
+                  "Value": "The Colours"
+                },
+                {
+                  "Value": "Go Ban Jo Wolski"
+                }
+              ],
+              "Venue": "The Blue Room",
+              "Date": "\/Date(1303513200000+0100)\/",
+              "StartTime": "19.30",
+              "Price": "£2",
+              "MoreInfo": "Later At The Blue Room is an mini indoor festival that runs over both the consecutive bank holiday weekends at the end of April at the Blue Room pub in Blackpool from Thursday 21st April to Sunday 24th April and Thursday 28th April to Sunday 1st May.\r\n\r\nThere will be 80 bands performing over both weekends with 10 acts performing each night, there will be performances from Goonies Never Say Die, The Senton Bombs, Escape Artist, Ides Of March, My Preserver, Idol Minds, Makers Of Venice, Northern Structure, Hammer No More The Fingers, The Colours, Metonia, Bill Orrick, The Drop-Out Wives and many more\r\n\r\nThe format of the event is set up in the same way the 'Later with Jools Holland' programme works, there are 2 stages set up in the venue, as soon as one band finishes at one end of the pub the next band starts at the other end, they even have a 'fake Jools' to compere the night.\r\n\r\nIt runs from 7pm until late every night and is only £2 to get in\r\nits all happening at The Blue Room, Church Street, Blackpool\r\nupdated listings can be found at www.facebook.com/theblueroomblackpool\r\nyou can follow us on twitter at www.twitter.com/blueroombpl",
+              "GigTitle": "Later At The Blue Room",
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1303686000000+0100)\/",
+              "Edited": "\/Date(1303686000000+0100)\/"
+            },
+            {
+              "Id": "gig/13",
+              "BandNames": [
+                {
+                  "Value": "The Monster Squad"
+                }
+              ],
+              "Venue": "The Raikes Hall",
+              "Date": "\/Date(1303513200000+0100)\/",
+              "StartTime": "19:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1304031600000+0100)\/",
+              "Edited": "\/Date(1308852566000+0100)\/"
+            }
+          ]
+        },
+        {
+          "Date": "\/Date(1303599600000+0100)\/",
+          "Gigs": [
+            {
+              "Id": "gig/19",
+              "BandNames": [
+                {
+                  "Value": "Des O'Connor"
+                }
+              ],
+              "Venue": "The Grand Theatre",
+              "Date": "\/Date(1303599600000+0100)\/",
+              "StartTime": "19:30",
+              "Price": "£42.00",
+              "MoreInfo": "The Veteran Crooner and chat show host with memories and music.",
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1303772400000+0100)\/",
+              "Edited": "\/Date(1303772400000+0100)\/"
+            },
+            {
+              "Id": "gig/4",
+              "BandNames": [
+                {
+                  "Value": "Veasey"
+                },
+                {
+                  "Value": "Voo"
+                },
+                {
+                  "Value": "Don't Start Fires"
+                },
+                {
+                  "Value": "Rain Bailiff"
+                },
+                {
+                  "Value": "Container Drivers"
+                },
+                {
+                  "Value": "Hammer No More The fingers"
+                },
+                {
+                  "Value": "Juno and the Mook"
+                },
+                {
+                  "Value": "Switchboard Spectacular"
+                },
+                {
+                  "Value": "Escape Artist"
+                },
+                {
+                  "Value": "Litterbug"
+                }
+              ],
+              "Venue": "The Blue Room",
+              "Date": "\/Date(1303599600000+0100)\/",
+              "StartTime": "19.30",
+              "Price": "£2",
+              "MoreInfo": "Later At The Blue Room is an mini indoor festival that runs over both the consecutive bank holiday weekends at the end of April at the Blue Room pub in Blackpool from Thursday 21st April to Sunday 24th April and Thursday 28th April to Sunday 1st May.\r\n\r\nThere will be 80 bands performing over both weekends with 10 acts performing each night, there will be performances from Goonies Never Say Die, The Senton Bombs, Escape Artist, Ides Of March, My Preserver, Idol Minds, Makers Of Venice, Northern Structure, Hammer No More The Fingers, The Colours, Metonia, Bill Orrick, The Drop-Out Wives and many more\r\n\r\nThe format of the event is set up in the same way the 'Later with Jools Holland' programme works, there are 2 stages set up in the venue, as soon as one band finishes at one end of the pub the next band starts at the other end, they even have a 'fake Jools' to compere the night.\r\n\r\nIt runs from 7pm until late every night and is only £2 to get in\r\nits all happening at The Blue Room, Church Street, Blackpool\r\nupdated listings can be found at www.facebook.com/theblueroomblackpool\r\nyou can follow us on twitter at www.twitter.com/blueroombpl",
+              "GigTitle": "Later At The Blue Room",
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1303599600000+0100)\/",
+              "Edited": "\/Date(1303599600000+0100)\/"
+            },
+            {
+              "Id": "gig/22",
+              "BandNames": [
+                {
+                  "Value": "Back For Good"
+                }
+              ],
+              "Venue": "Blackpool Opera House",
+              "Date": "\/Date(1303599600000+0100)\/",
+              "StartTime": "19:30",
+              "Price": "£10",
+              "MoreInfo": "Recreating the magic of Take That in concert.",
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1303772400000+0100)\/",
+              "Edited": "\/Date(1303772400000+0100)\/"
+            },
+            {
+              "Id": "gig/1025",
+              "BandNames": [
+                {
+                  "Value": "A'Priori"
+                },
+                {
+                  "Value": "Ashes of Humanity"
+                },
+                {
+                  "Value": "Killshot"
+                },
+                {
+                  "Value": "Pangaea"
+                }
+              ],
+              "Venue": "The Layton Institute",
+              "Date": "\/Date(1303599600000+0100)\/",
+              "StartTime": "18.00",
+              "Price": "£3",
+              "MoreInfo": "Layton Institute is set to rock on Easter Sunday when the Westcliffe Drive venue features its first heavy rock concert for some time.",
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1303513200000+0100)\/",
+              "Edited": "\/Date(1306834979000+0100)\/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Entries": [
+        {
+          "Date": "\/Date(1303686000000+0100)\/",
+          "Gigs": []
+        },
+        {
+          "Date": "\/Date(1303772400000+0100)\/",
+          "Gigs": []
+        },
+        {
+          "Date": "\/Date(1303858800000+0100)\/",
+          "Gigs": []
+        },
+        {
+          "Date": "\/Date(1303945200000+0100)\/",
+          "Gigs": [
+            {
+              "Id": "gig/6",
+              "BandNames": [
+                {
+                  "Value": "Engelbert Humperdinck"
+                }
+              ],
+              "Venue": "Blackpool Opera House",
+              "Date": "\/Date(1303945200000+0100)\/",
+              "StartTime": "19.30",
+              "Price": "unknown",
+              "MoreInfo": "Tickets Available From Blackpool Box Office",
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1303686000000+0100)\/",
+              "Edited": "\/Date(1303686000000+0100)\/"
+            },
+            {
+              "Id": "gig/4098",
+              "BandNames": [
+                {
+                  "Value": "The Horn"
+                }
+              ],
+              "Venue": "The Cedar Tavern",
+              "Date": "\/Date(1303945200000+0100)\/",
+              "StartTime": "21:00",
+              "Price": "free",
+              "MoreInfo": "Cedar Tavern Town Centre Behind Gillies.",
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1303945200000+0100)\/",
+              "Edited": "\/Date(1303945200000+0100)\/"
+            },
+            {
+              "Id": "gig/8",
+              "BandNames": [
+                {
+                  "Value": "The 60's Experience"
+                }
+              ],
+              "Venue": "The Sands",
+              "Date": "\/Date(1303945200000+0100)\/",
+              "StartTime": "18.30",
+              "Price": "unknown",
+              "MoreInfo": "This outstanding live band play tribute to the music of the 1960s! Taking you on magical mystery tour from Merseybeat to The Rolling Stones Hyde Park concert of 1969, incorporating The Summer of Love and Flower Power along the way.\r\n\r\nWith costume changes and fantastic impersonations this really is a FUN FILLED NIGHT!!! Get in the PARTY mood...\r\n\r\nArtistes portrayed, both musically and visually, include\r\n\r\n* The Beatles\r\n* The Rolling Stone\r\n* The Monkees\r\n* Cliff and The Shadows\r\n* Roy Orbison\r\n* and many more",
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1304290800000+0100)\/",
+              "Edited": "\/Date(1304290800000+0100)\/"
+            },
+            {
+              "Id": "gig/14",
+              "BandNames": [
+                {
+                  "Value": "The Garbagemen"
+                },
+                {
+                  "Value": "Alpha State Of Mind"
+                },
+                {
+                  "Value": "Taser Puppets"
+                },
+                {
+                  "Value": "Lost In Last Week"
+                },
+                {
+                  "Value": "Satan's Mineons"
+                },
+                {
+                  "Value": "Newspaper Joe"
+                },
+                {
+                  "Value": "Curiosity Shop"
+                },
+                {
+                  "Value": "My Preserver"
+                },
+                {
+                  "Value": "The Wickets"
+                },
+                {
+                  "Value": "Makers Of Venice"
+                }
+              ],
+              "Venue": "The Blue Room",
+              "Date": "\/Date(1303945200000+0100)\/",
+              "StartTime": "19.30",
+              "Price": "£2",
+              "MoreInfo": "Later At The Blue Room is an mini indoor festival that runs over both the consecutive bank holiday weekends at the end of April at the Blue Room pub in Blackpool from Thursday 21st April to Sunday 24th April and Thursday 28th April to Sunday 1st May.\r\n\r\nThere will be 80 bands performing over both weekends with 10 acts performing each night, there will be performances from Goonies Never Say Die, The Senton Bombs, Escape Artist, Ides Of March, My Preserver, Idol Minds, Makers Of Venice, Northern Structure, Hammer No More The Fingers, The Colours, Metonia, Bill Orrick, The Drop-Out Wives and many more\r\n\r\nThe format of the event is set up in the same way the 'Later with Jools Holland' programme works, there are 2 stages set up in the venue, as soon as one band finishes at one end of the pub the next band starts at the other end, they even have a 'fake Jools' to compere the night.\r\n\r\nIt runs from 7pm until late every night and is only £2 to get in\r\nits all happening at The Blue Room, Church Street, Blackpool\r\nupdated listings can be found at www.facebook.com/theblueroomblackpool\r\nyou can follow us on twitter at www.twitter.com/blueroombpl",
+              "GigTitle": "Later At The Blue Room",
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1303686000000+0100)\/",
+              "Edited": "\/Date(1303686000000+0100)\/"
+            },
+            {
+              "Id": "gig/4097",
+              "BandNames": [
+                {
+                  "Value": "The Keytars"
+                }
+              ],
+              "Venue": "The Bull",
+              "Date": "\/Date(1303945200000+0100)\/",
+              "StartTime": "20.30",
+              "Price": "free",
+              "MoreInfo": "Sit back get the wine in and enjoy. Hope to see you all there :-)X",
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1304290800000+0100)\/",
+              "Edited": "\/Date(1306836321000+0100)\/"
+            }
+          ]
+        },
+        {
+          "Date": "\/Date(1304031600000+0100)\/",
+          "Gigs": [
+            {
+              "Id": "gig/5121",
+              "BandNames": [
+                {
+                  "Value": "The Deadbeats"
+                }
+              ],
+              "Venue": "The Hansom Cab",
+              "Date": "\/Date(1304031600000+0100)\/",
+              "StartTime": "19:00",
+              "Price": "Free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1304118000000+0100)\/",
+              "Edited": "\/Date(1304118000000+0100)\/"
+            },
+            {
+              "Id": "gig/2049",
+              "BandNames": [
+                {
+                  "Value": "Andy Stones"
+                },
+                {
+                  "Value": "The Magdalenas"
+                },
+                {
+                  "Value": "Gaia"
+                }
+              ],
+              "Venue": "The Cedar Tavern",
+              "Date": "\/Date(1304031600000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "£5.00",
+              "MoreInfo": "Welcome one & all to the final Barefoot in Babylon Fundraiser on Fri 29th April, 8pm til late, The Tavern, Church St, Blackpool. The fabulous line-up includes\r\nANDY STONES\r\nTHE MAGDALENAS\r\n& GAIA for only £5 entry.\r\n\r\nIf you came to the festival or any of the nights then you’ll know what to expect…high calibre artists in relaxed surroundings, decked out with Persian carpets, cushions & candles plus great tunes between acts to add to the atmosphere.",
+              "GigTitle": "Barefoot in Babylon Fundraiser",
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1303599600000+0100)\/",
+              "Edited": "\/Date(1303599600000+0100)\/"
+            },
+            {
+              "Id": "gig/18",
+              "BandNames": [
+                {
+                  "Value": "Pangaea"
+                },
+                {
+                  "Value": "Call me DIVA"
+                },
+                {
+                  "Value": "Sofa Kings"
+                },
+                {
+                  "Value": "Istari Stacks"
+                },
+                {
+                  "Value": "Liar Liar"
+                },
+                {
+                  "Value": "Marionette"
+                },
+                {
+                  "Value": "Mancalledhorse"
+                },
+                {
+                  "Value": "Youth Anxiety"
+                },
+                {
+                  "Value": "Ides Of March"
+                },
+                {
+                  "Value": "Big Door Open"
+                }
+              ],
+              "Venue": "The Blue Room",
+              "Date": "\/Date(1304031600000+0100)\/",
+              "StartTime": "19.30",
+              "Price": "£2",
+              "MoreInfo": "Later At The Blue Room is an mini indoor festival that runs over both the consecutive bank holiday weekends at the end of April at the Blue Room pub in Blackpool from Thursday 21st April to Sunday 24th April and Thursday 28th April to Sunday 1st May.\r\n\r\nThere will be 80 bands performing over both weekends with 10 acts performing each night, there will be performances from Goonies Never Say Die, The Senton Bombs, Escape Artist, Ides Of March, My Preserver, Idol Minds, Makers Of Venice, Northern Structure, Hammer No More The Fingers, The Colours, Metonia, Bill Orrick, The Drop-Out Wives and many more\r\n\r\nThe format of the event is set up in the same way the 'Later with Jools Holland' programme works, there are 2 stages set up in the venue, as soon as one band finishes at one end of the pub the next band starts at the other end, they even have a 'fake Jools' to compere the night.\r\n\r\nIt runs from 7pm until late every night and is only £2 to get in\r\nits all happening at The Blue Room, Church Street, Blackpool\r\nupdated listings can be found at www.facebook.com/theblueroomblackpool\r\nyou can follow us on twitter at www.twitter.com/blueroombpl",
+              "GigTitle": "Later At The Blue Room",
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1303599600000+0100)\/",
+              "Edited": "\/Date(1306835105000+0100)\/"
+            }
+          ]
+        },
+        {
+          "Date": "\/Date(1304118000000+0100)\/",
+          "Gigs": [
+            {
+              "Id": "gig/20",
+              "BandNames": [
+                {
+                  "Value": "Kickstart Kitty"
+                },
+                {
+                  "Value": "Blackheart Afterglow"
+                },
+                {
+                  "Value": "Tacoma Narrows Bridge Disaster"
+                },
+                {
+                  "Value": "Karhide"
+                },
+                {
+                  "Value": "Northern Structure"
+                },
+                {
+                  "Value": "Alright The Captain"
+                },
+                {
+                  "Value": "Flies Are Spies From Hell"
+                },
+                {
+                  "Value": "What The Blood Revealed"
+                },
+                {
+                  "Value": "Goonies Never Say Die"
+                },
+                {
+                  "Value": "Escape Artist"
+                }
+              ],
+              "Venue": "The Blue Room",
+              "Date": "\/Date(1304118000000+0100)\/",
+              "StartTime": "19.30",
+              "Price": "£2",
+              "MoreInfo": "Later At The Blue Room is an mini indoor festival that runs over both the consecutive bank holiday weekends at the end of April at the Blue Room pub in Blackpool from Thursday 21st April to Sunday 24th April and Thursday 28th April to Sunday 1st May.\r\n\r\nThere will be 80 bands performing over both weekends with 10 acts performing each night, there will be performances from Goonies Never Say Die, The Senton Bombs, Escape Artist, Ides Of March, My Preserver, Idol Minds, Makers Of Venice, Northern Structure, Hammer No More The Fingers, The Colours, Metonia, Bill Orrick, The Drop-Out Wives and many more\r\n\r\nThe format of the event is set up in the same way the 'Later with Jools Holland' programme works, there are 2 stages set up in the venue, as soon as one band finishes at one end of the pub the next band starts at the other end, they even have a 'fake Jools' to compere the night.\r\n\r\nIt runs from 7pm until late every night and is only £2 to get in\r\nits all happening at The Blue Room, Church Street, Blackpool\r\nupdated listings can be found at www.facebook.com/theblueroomblackpool\r\nyou can follow us on twitter at www.twitter.com/blueroombpl",
+              "GigTitle": "Later At The Blue Room",
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1304290800000+0100)\/",
+              "Edited": "\/Date(1304290800000+0100)\/"
+            },
+            {
+              "Id": "gig/2050",
+              "BandNames": [
+                {
+                  "Value": "Ska Face"
+                }
+              ],
+              "Venue": "The Royal Oak",
+              "Date": "\/Date(1304118000000+0100)\/",
+              "StartTime": "20:30",
+              "Price": "free",
+              "MoreInfo": "Thanks to the enigmatic new Manager at The Dunes, we have moved the gig to The Royal Oak - we hope to see you there!",
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1303772400000+0100)\/",
+              "Edited": "\/Date(1303772400000+0100)\/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

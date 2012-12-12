@@ -1,0 +1,43 @@
+{
+  "BandName": {
+    "Value": "Red Bank Road"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/143361",
+      "BandNames": [
+        {
+          "Value": "Red Bank Road"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1328313600000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1328351726000+0000)\/",
+      "Edited": "\/Date(1328351726000+0000)\/"
+    },
+    {
+      "Id": "gig/143362",
+      "BandNames": [
+        {
+          "Value": "Red Bank Road"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1329177600000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": "Valentine Party Night",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1328351752000+0000)\/",
+      "Edited": "\/Date(1328351752000+0000)\/"
+    }
+  ]
+}

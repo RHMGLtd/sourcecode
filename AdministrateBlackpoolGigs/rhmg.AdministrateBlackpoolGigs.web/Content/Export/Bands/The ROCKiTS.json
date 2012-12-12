@@ -1,0 +1,133 @@
+{
+  "BandName": {
+    "Value": "The ROCKiTS"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/20487",
+      "BandNames": [
+        {
+          "Value": "The ROCKiTS"
+        }
+      ],
+      "Venue": "Windy Harbour",
+      "Date": "\/Date(1305327600000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1304031600000+0100)\/",
+      "Edited": "\/Date(1307098775000+0100)\/"
+    },
+    {
+      "Id": "gig/31759",
+      "BandNames": [
+        {
+          "Value": "The ROCKiTS"
+        }
+      ],
+      "Venue": "The Hop Inn",
+      "Date": "\/Date(1306018800000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1305537574000+0100)\/",
+      "Edited": "\/Date(1307098789000+0100)\/"
+    },
+    {
+      "Id": "gig/38913",
+      "BandNames": [
+        {
+          "Value": "The ROCKiTS"
+        }
+      ],
+      "Venue": "The Wyre Light",
+      "Date": "\/Date(1306623600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306244300000+0100)\/",
+      "Edited": "\/Date(1306244301000+0100)\/"
+    },
+    {
+      "Id": "gig/78894",
+      "BandNames": [
+        {
+          "Value": "The ROCKiTS"
+        }
+      ],
+      "Venue": "Fylde Rugby Club",
+      "Date": "\/Date(1310166000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308918095000+0100)\/",
+      "Edited": "\/Date(1308918095000+0100)\/"
+    },
+    {
+      "Id": "gig/78895",
+      "BandNames": [
+        {
+          "Value": "The ROCKiTS"
+        }
+      ],
+      "Venue": "Royal British Legion Club",
+      "Date": "\/Date(1311289200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308918195000+0100)\/",
+      "Edited": "\/Date(1308918195000+0100)\/"
+    },
+    {
+      "Id": "gig/99403",
+      "BandNames": [
+        {
+          "Value": "The ROCKiTS"
+        }
+      ],
+      "Venue": "The Sandhills",
+      "Date": "\/Date(1313190000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311709329000+0100)\/",
+      "Edited": "\/Date(1311709329000+0100)\/"
+    },
+    {
+      "Id": "gig/140315",
+      "BandNames": [
+        {
+          "Value": "The ROCKiTS"
+        }
+      ],
+      "Venue": "Royal British Legion Club",
+      "Date": "\/Date(1329523200000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327835968000+0000)\/",
+      "Edited": "\/Date(1327835968000+0000)\/"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "IsNull": false,
+  "Venue": "The Town House",
+  "Gigs": [
+    {
+      "Id": "gig/16",
+      "BandNames": [
+        {
+          "Value": "Magic Trees"
+        }
+      ],
+      "Venue": "The Town House",
+      "Date": "\/Date(1303513200000+0100)\/",
+      "StartTime": "19:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303858800000+0100)\/",
+      "Edited": "\/Date(1303858800000+0100)\/"
+    },
+    {
+      "Id": "gig/36866",
+      "BandNames": [
+        {
+          "Value": "Shakers Blues Band"
+        }
+      ],
+      "Venue": "The Town House",
+      "Date": "\/Date(1306450800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1305983213000+0100)\/",
+      "Edited": "\/Date(1305983213000+0100)\/"
+    },
+    {
+      "Id": "gig/77845",
+      "BandNames": [
+        {
+          "Value": "The Deadbeats"
+        }
+      ],
+      "Venue": "The Town House",
+      "Date": "\/Date(1308870000000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308852187000+0100)\/",
+      "Edited": "\/Date(1308852187000+0100)\/"
+    },
+    {
+      "Id": "gig/101381",
+      "BandNames": [
+        {
+          "Value": "Charlese"
+        }
+      ],
+      "Venue": "The Town House",
+      "Date": "\/Date(1311721200000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": "A night of Funk, Soul, Jazz & Blues with \"The Midnight Lamp\", Charlese, Tom Vernon, Chris Hodder, Jonathan Hartley.\r\n\r\nSituated in Lytham St Annes town centre directly opposite the railway station, The Town House, formerly known as the Crescent, is a trouble free, female friendly venue. Known as a lively, vibrant pub, it is part of the local circuit and prominent in the town. This modern style pub is open plan with bright colours and leather sofas where you can relax and enjoy a favourite pint or a value for money bite to eat. The bar, which is alongside the dance floor is a Victorian listed building and has a traditional feel.",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311835838000+0100)\/",
+      "Edited": "\/Date(1311835838000+0100)\/"
+    },
+    {
+      "Id": "gig/99418",
+      "BandNames": [
+        {
+          "Value": "Magic Trees"
+        }
+      ],
+      "Venue": "The Town House",
+      "Date": "\/Date(1312585200000+0100)\/",
+      "StartTime": "22:00",
+      "Price": "£3.00",
+      "MoreInfo": "After Hours Party. Tickets are £3 and must be purchased in advance.",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311709894000+0100)\/",
+      "Edited": "\/Date(1311709894000+0100)\/"
+    }
+  ],
+  "Future": []
+}

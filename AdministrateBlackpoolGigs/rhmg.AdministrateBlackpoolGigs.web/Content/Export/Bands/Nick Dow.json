@@ -1,0 +1,43 @@
+{
+  "BandName": {
+    "Value": "Nick Dow"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/32773",
+      "BandNames": [
+        {
+          "Value": "Nick Dow"
+        }
+      ],
+      "Venue": "The North Euston",
+      "Date": "\/Date(1310166000000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1305543882000+0100)\/",
+      "Edited": "\/Date(1305543882000+0100)\/"
+    },
+    {
+      "Id": "gig/32784",
+      "BandNames": [
+        {
+          "Value": "Nick Dow"
+        }
+      ],
+      "Venue": "The North Euston",
+      "Date": "\/Date(1317423600000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1305544263000+0100)\/",
+      "Edited": "\/Date(1305544263000+0100)\/"
+    }
+  ]
+}

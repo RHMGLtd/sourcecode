@@ -1,0 +1,22 @@
+{
+  "Id": "metadata/3",
+  "VenueName": "The Bloomfield Hotel",
+  "MainImageName": "The Bloomfield Hotel.jpg",
+  "BarAndClubReviewsUrl": "http://www.bar-and-club-reviews.com/bars/77452-the-bloomfield-hotel",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 768788",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "Bloomfield Road",
+      "Blackpool"
+    ],
+    "Website": "",
+    "EmailAddress": "loolynda@hotmail.co.uk",
+    "PostCode": "FY1 6PW",
+    "ContactName": "Lynda"
+  },
+  "MapCoords": {
+    "Lat": "53.804252",
+    "Long": "-3.039922"
+  }
+}

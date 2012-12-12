@@ -1,0 +1,22 @@
+{
+  "Id": "metadata/13314",
+  "VenueName": "Highfield Social Club",
+  "MainImageName": null,
+  "BarAndClubReviewsUrl": "",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 342389",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "79 Highfield Road",
+      "Blackpool"
+    ],
+    "Website": "",
+    "EmailAddress": null,
+    "PostCode": "FY4 2JE",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.785872",
+    "Long": "-3.043363"
+  }
+}

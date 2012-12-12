@@ -1,0 +1,55 @@
+{
+  "BandName": {
+    "Value": "Repeater"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/135169",
+      "BandNames": [
+        {
+          "Value": "Repeater"
+        },
+        {
+          "Value": "Boss Stewart"
+        },
+        {
+          "Value": "Steamy"
+        }
+      ],
+      "Venue": "Royal British Legion Club",
+      "Date": "\/Date(1326499200000+0000)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": "Three Bands in One!",
+      "GigTitle": "The Bandit Review",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326587365000+0000)\/",
+      "Edited": "\/Date(1326587366000+0000)\/"
+    },
+    {
+      "Id": "gig/135170",
+      "BandNames": [
+        {
+          "Value": "Repeater"
+        },
+        {
+          "Value": "Boss Stewart"
+        },
+        {
+          "Value": "Steamy"
+        }
+      ],
+      "Venue": "The Victoria",
+      "Date": "\/Date(1327708800000+0000)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": "The Bandit Review",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326587419000+0000)\/",
+      "Edited": "\/Date(1326587419000+0000)\/"
+    }
+  ]
+}

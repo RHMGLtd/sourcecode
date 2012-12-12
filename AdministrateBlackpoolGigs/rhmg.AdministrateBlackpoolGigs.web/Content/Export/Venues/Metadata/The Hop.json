@@ -1,0 +1,22 @@
+{
+  "Id": "metadata/3073",
+  "VenueName": "The Hop",
+  "MainImageName": null,
+  "BarAndClubReviewsUrl": "",
+  "ContactDetail": {
+    "MainPhoneNumber": null,
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "4 King Street",
+      " Blackpool"
+    ],
+    "Website": "",
+    "EmailAddress": null,
+    "PostCode": "FY1 3EJ",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.819855",
+    "Long": "-3.048846"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "IsNull": false,
+  "Venue": "Carleton Bowling and Social Club",
+  "Gigs": [
+    {
+      "Id": "gig/131073",
+      "BandNames": [
+        {
+          "Value": "Rupert Fabulous"
+        }
+      ],
+      "Venue": "Carleton Bowling and Social Club",
+      "Date": "\/Date(1317423600000+0100)\/",
+      "StartTime": "20:30",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1317030290000+0100)\/",
+      "Edited": "\/Date(1317030290000+0100)\/"
+    },
+    {
+      "Id": "gig/134164",
+      "BandNames": [
+        {
+          "Value": "Rupert Fabulous"
+        }
+      ],
+      "Venue": "Carleton Bowling and Social Club",
+      "Date": "\/Date(1327104000000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326569318000+0000)\/",
+      "Edited": "\/Date(1326569318000+0000)\/"
+    }
+  ],
+  "Future": []
+}

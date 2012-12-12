@@ -1,0 +1,31 @@
+{
+  "BandName": {
+    "Value": "The Pat Smear Test"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/130049",
+      "BandNames": [
+        {
+          "Value": "Pearl Scam"
+        },
+        {
+          "Value": "Angry Hair"
+        },
+        {
+          "Value": "The Pat Smear Test"
+        }
+      ],
+      "Venue": "The Blue Room",
+      "Date": "\/Date(1322784000000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "£1.00",
+      "MoreInfo": "Pearl Scam as Pearl Jam\r\nAngry Hair as Alice In Chains\r\nThe Pat Smear Test as Nirvana\r\n\r\nAll performing plenty of grunge anthems at this special one off event!\r\n\r\n8:30pm onwards, £1 entrance",
+      "GigTitle": "PEARL JAM / ALICE IN CHAINS / NIRVANA cover bands",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1316863874000+0100)\/",
+      "Edited": "\/Date(1316863970000+0100)\/"
+    }
+  ]
+}

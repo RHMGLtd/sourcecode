@@ -1,0 +1,133 @@
+{
+  "BandName": {
+    "Value": "Jekyll"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/62465",
+      "BandNames": [
+        {
+          "Value": "OneFourThree"
+        },
+        {
+          "Value": "Triple Threat"
+        },
+        {
+          "Value": "Solvent Free"
+        },
+        {
+          "Value": "Jekyll"
+        }
+      ],
+      "Venue": "The Lime Lounge",
+      "Date": "\/Date(1309042800000+0100)\/",
+      "StartTime": "18.30",
+      "Price": "£2.50",
+      "MoreInfo": "The bands are hoping to raise funds for local boy, Yuto Rice, who has a life threatening disorder.\r\n\r\nEntry £2.50 on the door.",
+      "GigTitle": "Raising money for Yuto Rice",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307268123000+0100)\/",
+      "Edited": "\/Date(1307268319000+0100)\/"
+    },
+    {
+      "Id": "gig/96257",
+      "BandNames": [
+        {
+          "Value": "Liam Bland"
+        },
+        {
+          "Value": "The Colours"
+        },
+        {
+          "Value": "Jekyll"
+        },
+        {
+          "Value": "Last Breath"
+        },
+        {
+          "Value": "The Original Zip"
+        },
+        {
+          "Value": "The Underachievers"
+        },
+        {
+          "Value": "DJ Moyma"
+        }
+      ],
+      "Venue": "Marine Hall",
+      "Date": "\/Date(1311375600000+0100)\/",
+      "StartTime": "19:00",
+      "Price": "£6.00",
+      "MoreInfo": null,
+      "GigTitle": "Battle of the Bands",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311271475000+0100)\/",
+      "Edited": "\/Date(1311272282000+0100)\/"
+    },
+    {
+      "Id": "gig/133122",
+      "BandNames": [
+        {
+          "Value": "Jekyll"
+        }
+      ],
+      "Venue": "The Rossall Tavern",
+      "Date": "\/Date(1318546800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326558065000+0000)\/",
+      "Edited": "\/Date(1326558065000+0000)\/"
+    },
+    {
+      "Id": "gig/133123",
+      "BandNames": [
+        {
+          "Value": "Jekyll"
+        },
+        {
+          "Value": "Hooker"
+        },
+        {
+          "Value": "Lune Deep"
+        },
+        {
+          "Value": "Triple Threat"
+        }
+      ],
+      "Venue": "The Tank",
+      "Date": "\/Date(1319929200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": "Halloween Band Fest",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326558106000+0000)\/",
+      "Edited": "\/Date(1326558106000+0000)\/"
+    },
+    {
+      "Id": "gig/133124",
+      "BandNames": [
+        {
+          "Value": "Jekyll"
+        }
+      ],
+      "Venue": "The Rossall Tavern",
+      "Date": "\/Date(1320364800000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326558179000+0000)\/",
+      "Edited": "\/Date(1326558179000+0000)\/"
+    }
+  ]
+}

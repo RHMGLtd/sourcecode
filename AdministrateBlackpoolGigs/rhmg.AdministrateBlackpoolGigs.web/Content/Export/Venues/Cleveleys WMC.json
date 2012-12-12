@@ -1,0 +1,98 @@
+{
+  "IsNull": false,
+  "Venue": "Cleveleys WMC",
+  "Gigs": [
+    {
+      "Id": "gig/20484",
+      "BandNames": [
+        {
+          "Value": "Huggy and the Bears"
+        }
+      ],
+      "Venue": "Cleveleys WMC",
+      "Date": "\/Date(1305327600000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303858800000+0100)\/",
+      "Edited": "\/Date(1303858800000+0100)\/"
+    },
+    {
+      "Id": "gig/137220",
+      "BandNames": [
+        {
+          "Value": "Backwater"
+        }
+      ],
+      "Venue": "Cleveleys WMC",
+      "Date": "\/Date(1328918400000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327313485000+0000)\/",
+      "Edited": "\/Date(1327313485000+0000)\/"
+    },
+    {
+      "Id": "gig/133156",
+      "BandNames": [
+        {
+          "Value": "The Blue Pig Orchestra"
+        }
+      ],
+      "Venue": "Cleveleys WMC",
+      "Date": "\/Date(1335567600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326561696000+0000)\/",
+      "Edited": "\/Date(1326561696000+0000)\/"
+    }
+  ],
+  "Future": [
+    {
+      "Id": "gig/137220",
+      "BandNames": [
+        {
+          "Value": "Backwater"
+        }
+      ],
+      "Venue": "Cleveleys WMC",
+      "Date": "\/Date(1328918400000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327313485000+0000)\/",
+      "Edited": "\/Date(1327313485000+0000)\/"
+    },
+    {
+      "Id": "gig/133156",
+      "BandNames": [
+        {
+          "Value": "The Blue Pig Orchestra"
+        }
+      ],
+      "Venue": "Cleveleys WMC",
+      "Date": "\/Date(1335567600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326561696000+0000)\/",
+      "Edited": "\/Date(1326561696000+0000)\/"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "BandName": {
+    "Value": "Tony Auton Band"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/143371",
+      "BandNames": [
+        {
+          "Value": "Tony Auton Band"
+        }
+      ],
+      "Venue": "The Prince Arthur",
+      "Date": "\/Date(1335481200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1328352310000+0000)\/",
+      "Edited": "\/Date(1328352310000+0000)\/"
+    }
+  ]
+}

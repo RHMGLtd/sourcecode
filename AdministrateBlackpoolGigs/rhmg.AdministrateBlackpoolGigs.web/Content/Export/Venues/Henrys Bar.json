@@ -1,0 +1,43 @@
+{
+  "IsNull": false,
+  "Venue": "Henrys Bar",
+  "Gigs": [
+    {
+      "Id": "gig/99390",
+      "BandNames": [
+        {
+          "Value": "Flip"
+        }
+      ],
+      "Venue": "Henrys Bar",
+      "Date": "\/Date(1314313200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311708824000+0100)\/",
+      "Edited": "\/Date(1311708824000+0100)\/"
+    },
+    {
+      "Id": "gig/116783",
+      "BandNames": [
+        {
+          "Value": "Flip"
+        }
+      ],
+      "Venue": "Henrys Bar",
+      "Date": "\/Date(1316127600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315140728000+0100)\/",
+      "Edited": "\/Date(1315140728000+0100)\/"
+    }
+  ],
+  "Future": []
+}

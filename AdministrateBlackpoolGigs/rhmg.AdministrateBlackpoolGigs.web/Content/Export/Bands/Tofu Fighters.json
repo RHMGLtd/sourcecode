@@ -1,0 +1,43 @@
+{
+  "BandName": {
+    "Value": "Tofu Fighters"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/99339",
+      "BandNames": [
+        {
+          "Value": "Tofu Fighters"
+        }
+      ],
+      "Venue": "Belle View",
+      "Date": "\/Date(1313190000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311707519000+0100)\/",
+      "Edited": "\/Date(1311707519000+0100)\/"
+    },
+    {
+      "Id": "gig/135174",
+      "BandNames": [
+        {
+          "Value": "Tofu Fighters"
+        }
+      ],
+      "Venue": "Belle View",
+      "Date": "\/Date(1328313600000+0000)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326588206000+0000)\/",
+      "Edited": "\/Date(1326588206000+0000)\/"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "Id": "metadata/11267",
+  "VenueName": "The Cube",
+  "MainImageName": "The Cube.jpg",
+  "BarAndClubReviewsUrl": "",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 895566",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "2 Breck Road",
+      "Poulton-Le-fylde"
+    ],
+    "Website": "http://http://www.cubebars.com/index.php",
+    "EmailAddress": null,
+    "PostCode": "FY6 7AA",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.847615",
+    "Long": "-2.991114"
+  }
+}

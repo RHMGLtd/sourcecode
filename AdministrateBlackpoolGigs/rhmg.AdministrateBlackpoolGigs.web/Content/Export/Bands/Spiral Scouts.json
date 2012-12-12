@@ -1,0 +1,157 @@
+{
+  "BandName": {
+    "Value": "Spiral Scouts"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/40961",
+      "BandNames": [
+        {
+          "Value": "Spiral Scouts"
+        }
+      ],
+      "Venue": "Hounds Hill",
+      "Date": "\/Date(1306450800000+0100)\/",
+      "StartTime": "13:00",
+      "Price": "free",
+      "MoreInfo": "The lucky residents of Blackpool will be given a taster of just one of the talented acts to perform at the BAREFOOT IN BABYLON music festival due to commence at midday on Saturday 28th in the victorian sunlounge on North Pier.\r\n\r\nThe Spiral Scouts will be delivering a one off promotional performance of their very own original material in the heart of Blackpool's oldest shopping centre from 1pm on Friday. So come on down, show your support and help us promote what is set out to be a fantastic day and night of dazzling entertainment in amazing bohemian surroundings.",
+      "GigTitle": "Spiral Scouts play The Hound's Hill!!!",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306392149000+0100)\/",
+      "Edited": "\/Date(1306392149000+0100)\/"
+    },
+    {
+      "Id": "gig/2052",
+      "BandNames": [
+        {
+          "Value": "Troubadour"
+        },
+        {
+          "Value": "Jon Brindley"
+        },
+        {
+          "Value": "Rae Morris"
+        },
+        {
+          "Value": "Dan Wilde"
+        },
+        {
+          "Value": "Spiral Scouts"
+        },
+        {
+          "Value": "Jily Riley"
+        },
+        {
+          "Value": "Pan"
+        },
+        {
+          "Value": "Ghost Trains"
+        },
+        {
+          "Value": "Andy Stones"
+        },
+        {
+          "Value": "Gaia"
+        },
+        {
+          "Value": "The Magdalenas"
+        },
+        {
+          "Value": "3 Daft Monkeys"
+        },
+        {
+          "Value": "Emily Barker & the Red Clay Halo"
+        }
+      ],
+      "Venue": "Victorian Sunlounge",
+      "Date": "\/Date(1306537200000+0100)\/",
+      "StartTime": "11:30",
+      "Price": "£15.00",
+      "MoreInfo": "TICKETS NOW ON SALE!\r\nPlease follow Ticketweb link\r\nhttp://www.ticketweb.co.uk/user/?region=xxx&query=schedule&promoter=barefootbabylon&interface=barefootbabylon\r\n\r\nor pop into Winter Gardens Box Officeto buy Adult Tickets for discount advance price of only £15.",
+      "GigTitle": "Barefoot in Babylon Festival",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303686000000+0100)\/",
+      "Edited": "\/Date(1303686000000+0100)\/"
+    },
+    {
+      "Id": "gig/66561",
+      "BandNames": [
+        {
+          "Value": "Spiral Scouts"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1308870000000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307646124000+0100)\/",
+      "Edited": "\/Date(1307646124000+0100)\/"
+    },
+    {
+      "Id": "gig/97283",
+      "BandNames": [
+        {
+          "Value": "Spiral Scouts"
+        }
+      ],
+      "Venue": "Silantro",
+      "Date": "\/Date(1311462000000+0100)\/",
+      "StartTime": "16:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": "St Annes Music Festival",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311511186000+0100)\/",
+      "Edited": "\/Date(1311511186000+0100)\/"
+    },
+    {
+      "Id": "gig/105474",
+      "BandNames": [
+        {
+          "Value": "Six10repeater"
+        },
+        {
+          "Value": "Blind Kings"
+        },
+        {
+          "Value": "Magic Trees"
+        },
+        {
+          "Value": "Spiral Scouts"
+        },
+        {
+          "Value": "Idol Minds"
+        },
+        {
+          "Value": "The TC Allstars"
+        },
+        {
+          "Value": "Alpha State Of Mind"
+        },
+        {
+          "Value": "The Keytars"
+        },
+        {
+          "Value": "Flip"
+        }
+      ],
+      "Venue": "The Victoria",
+      "Date": "\/Date(1313190000000+0100)\/",
+      "StartTime": "10:00",
+      "Price": "free",
+      "MoreInfo": "Open from 10am. First band from 12pm. This event on the anniversary of Woodstock is in aid of Teenage Cancer and RNLI (Lifeboats) your support would be much appreciated by attending for such a good cause.",
+      "GigTitle": "Vic-Stock",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1312439791000+0100)\/",
+      "Edited": "\/Date(1312439791000+0100)\/"
+    }
+  ]
+}

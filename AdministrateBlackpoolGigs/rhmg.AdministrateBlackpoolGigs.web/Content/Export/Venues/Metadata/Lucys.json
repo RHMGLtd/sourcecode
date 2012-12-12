@@ -1,0 +1,22 @@
+{
+  "Id": "metadata/19457",
+  "VenueName": "Lucys",
+  "MainImageName": null,
+  "BarAndClubReviewsUrl": "",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 293802",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "69 - 71 Talbot Road",
+      "Blackpool"
+    ],
+    "Website": "http://www.lucysattobago.co.uk/",
+    "EmailAddress": null,
+    "PostCode": "FY1 1NL",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.820042",
+    "Long": "-3.051404"
+  }
+}

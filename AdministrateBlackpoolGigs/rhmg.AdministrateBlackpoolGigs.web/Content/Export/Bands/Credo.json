@@ -1,0 +1,31 @@
+{
+  "BandName": {
+    "Value": "Credo"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/3073",
+      "BandNames": [
+        {
+          "Value": "Matt Stevens"
+        },
+        {
+          "Value": "Also Eden"
+        },
+        {
+          "Value": "Credo"
+        }
+      ],
+      "Venue": "Beat",
+      "Date": "\/Date(1305759600000+0100)\/",
+      "StartTime": "19:00",
+      "Price": "£31 weekend, £7 each day",
+      "MoreInfo": "The North West of England had a pioneering role in the growth and development of Progressive Rock music. From Jethro Tull to Jon Anderson of Yes, the area was a hotbed of music for both bands and fans alike. What's more, there is a massive latent audience starved of this pioneering and innovative musical genre.\r\n\r\nThe Electric Garden Progressive Rock festival will (for the first year) be a 3 day celebration of Progressive Rock in May 2011. Starting on the Thursday night we'll have 12 of the best UK and Overseas acts to entertain you with an excellent sound system and convivial atmosphere",
+      "GigTitle": "The Electric Garden Progressive Rock Festival",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1304031600000+0100)\/",
+      "Edited": "\/Date(1304031600000+0100)\/"
+    }
+  ]
+}

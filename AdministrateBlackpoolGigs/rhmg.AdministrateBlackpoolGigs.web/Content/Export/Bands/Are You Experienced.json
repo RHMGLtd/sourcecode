@@ -1,0 +1,25 @@
+{
+  "BandName": {
+    "Value": "Are You Experienced"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/116842",
+      "BandNames": [
+        {
+          "Value": "Are You Experienced"
+        }
+      ],
+      "Venue": "The Edge",
+      "Date": "\/Date(1315436400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "£5.00",
+      "MoreInfo": null,
+      "GigTitle": "The Jimi Hendrix Experience",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315142812000+0100)\/",
+      "Edited": "\/Date(1315142812000+0100)\/"
+    }
+  ]
+}

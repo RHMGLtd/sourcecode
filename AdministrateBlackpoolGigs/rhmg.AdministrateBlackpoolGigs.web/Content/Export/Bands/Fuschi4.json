@@ -1,0 +1,25 @@
+{
+  "BandName": {
+    "Value": "Fuschi4"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/143363",
+      "BandNames": [
+        {
+          "Value": "Fuschi4"
+        }
+      ],
+      "Venue": "The Prince Arthur",
+      "Date": "\/Date(1330646400000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": "Manchester Blues band with a growing reputation",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1328351896000+0000)\/",
+      "Edited": "\/Date(1328351896000+0000)\/"
+    }
+  ]
+}

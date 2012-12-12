@@ -1,0 +1,23 @@
+<viewdata model="BandsViewModel model" />
+<content name="title">
+  Administrate Blackpool Gigs : Bands List
+</content>
+<content name="body">
+  <div>
+    <a href="!{new HomeUrl()}">HOME</a>
+    <div class="pager">
+      <a class="navLink" if="model.Params.PageNumber != 1" href="!{new BandsUrl() { SortColumn = model.Params.SortColumn, SortOrder = model.Params.SortOrder, PageSize = model.Params.PageSize, PageNumber = model.Params.PageNumber - 1 }}">
+        go back a page
+      </a>
+      <span class ="text">you are currently on page !{model.Bands.CurrentPageNumber} of !{model.Bands.NumberOfPages} and you are viewing !{model.Bands.Results.Count()} of a total of !{model.Bands.TotalNumberOfRecords} bands.</span>
+      <a class="navLink" if="model.Params.PageNumber != model.Bands.NumberOfPages" href="!{new BandsUrl() { SortColumn = model.Params.SortColumn, SortOrder = model.Params.SortOrder, PageSize = model.Params.PageSize, PageNumber = model.Params.PageNumber + 1 }}">
+        go forward a page
+      </a>
+    </div>
+    <hr />
+    <div class="addItem" each ="var band in model.Bands.Results">
+      <div class="venueName">!{band.Value}</div>
+      <a href="!{new BandUrl(band.Value)}">view</a>
+    </div>
+  </div>
+</content>

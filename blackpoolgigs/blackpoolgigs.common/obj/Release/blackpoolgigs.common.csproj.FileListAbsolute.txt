@@ -52,3 +52,35 @@ C:\business websites\blackpoolgigs\blackpoolgigs.common\bin\Release\Lucene.Net.x
 C:\business websites\blackpoolgigs\blackpoolgigs.common\bin\Release\SpellChecker.Net.xml
 C:\business websites\blackpoolgigs\blackpoolgigs.common\bin\Release\Raven.Json.dll
 C:\business websites\blackpoolgigs\blackpoolgigs.common\bin\Release\Raven.Json.pdb
+C:\_src\sourcecode\blackpoolgigs\blackpoolgigs.common\bin\Release\blackpoolgigs.common.dll
+C:\_src\sourcecode\blackpoolgigs\blackpoolgigs.common\bin\Release\blackpoolgigs.common.pdb
+C:\_src\sourcecode\blackpoolgigs\blackpoolgigs.common\bin\Release\coolbunny.common.dll
+C:\_src\sourcecode\blackpoolgigs\blackpoolgigs.common\bin\Release\Castle.Windsor.dll
+C:\_src\sourcecode\blackpoolgigs\blackpoolgigs.common\bin\Release\Mono.Posix.dll
+C:\_src\sourcecode\blackpoolgigs\blackpoolgigs.common\bin\Release\Raven.Json.dll
+C:\_src\sourcecode\blackpoolgigs\blackpoolgigs.common\bin\Release\log4net.dll
+C:\_src\sourcecode\blackpoolgigs\blackpoolgigs.common\bin\Release\ICSharpCode.NRefactory.dll
+C:\_src\sourcecode\blackpoolgigs\blackpoolgigs.common\bin\Release\Raven.Http.dll
+C:\_src\sourcecode\blackpoolgigs\blackpoolgigs.common\bin\Release\Lucene.Net.dll
+C:\_src\sourcecode\blackpoolgigs\blackpoolgigs.common\bin\Release\SpellChecker.Net.dll
+C:\_src\sourcecode\blackpoolgigs\blackpoolgigs.common\bin\Release\Spatial.Net.dll
+C:\_src\sourcecode\blackpoolgigs\blackpoolgigs.common\bin\Release\Castle.Core.dll
+C:\_src\sourcecode\blackpoolgigs\blackpoolgigs.common\bin\Release\coolbunny.common.pdb
+C:\_src\sourcecode\blackpoolgigs\blackpoolgigs.common\bin\Release\Newtonsoft.Json.pdb
+C:\_src\sourcecode\blackpoolgigs\blackpoolgigs.common\bin\Release\Newtonsoft.Json.xml
+C:\_src\sourcecode\blackpoolgigs\blackpoolgigs.common\bin\Release\OpenFileSystem.pdb
+C:\_src\sourcecode\blackpoolgigs\blackpoolgigs.common\bin\Release\Raven.Abstractions.pdb
+C:\_src\sourcecode\blackpoolgigs\blackpoolgigs.common\bin\Release\Raven.Database.pdb
+C:\_src\sourcecode\blackpoolgigs\blackpoolgigs.common\bin\Release\Castle.Windsor.pdb
+C:\_src\sourcecode\blackpoolgigs\blackpoolgigs.common\bin\Release\Castle.Windsor.xml
+C:\_src\sourcecode\blackpoolgigs\blackpoolgigs.common\bin\Release\Raven.Json.pdb
+C:\_src\sourcecode\blackpoolgigs\blackpoolgigs.common\bin\Release\log4net.xml
+C:\_src\sourcecode\blackpoolgigs\blackpoolgigs.common\bin\Release\Raven.Http.pdb
+C:\_src\sourcecode\blackpoolgigs\blackpoolgigs.common\bin\Release\Lucene.Net.pdb
+C:\_src\sourcecode\blackpoolgigs\blackpoolgigs.common\bin\Release\Lucene.Net.xml
+C:\_src\sourcecode\blackpoolgigs\blackpoolgigs.common\bin\Release\SpellChecker.Net.xml
+C:\_src\sourcecode\blackpoolgigs\blackpoolgigs.common\bin\Release\Castle.Core.pdb
+C:\_src\sourcecode\blackpoolgigs\blackpoolgigs.common\bin\Release\Castle.Core.xml
+C:\_src\sourcecode\blackpoolgigs\blackpoolgigs.common\obj\Release\ResolveAssemblyReference.cache
+C:\_src\sourcecode\blackpoolgigs\blackpoolgigs.common\obj\Release\blackpoolgigs.common.dll
+C:\_src\sourcecode\blackpoolgigs\blackpoolgigs.common\obj\Release\blackpoolgigs.common.pdb

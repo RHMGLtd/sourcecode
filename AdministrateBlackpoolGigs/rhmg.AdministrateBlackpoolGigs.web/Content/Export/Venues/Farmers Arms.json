@@ -1,0 +1,188 @@
+{
+  "IsNull": false,
+  "Venue": "Farmers Arms",
+  "Gigs": [
+    {
+      "Id": "gig/40965",
+      "BandNames": [
+        {
+          "Value": "Paul Darran"
+        }
+      ],
+      "Venue": "Farmers Arms",
+      "Date": "\/Date(1306623600000+0100)\/",
+      "StartTime": "20:30",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306394516000+0100)\/",
+      "Edited": "\/Date(1306394516000+0100)\/"
+    },
+    {
+      "Id": "gig/66564",
+      "BandNames": [
+        {
+          "Value": "Paul Darran"
+        }
+      ],
+      "Venue": "Farmers Arms",
+      "Date": "\/Date(1307660400000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307646350000+0100)\/",
+      "Edited": "\/Date(1307646350000+0100)\/"
+    },
+    {
+      "Id": "gig/134158",
+      "BandNames": [
+        {
+          "Value": "Billy Nomates"
+        }
+      ],
+      "Venue": "Farmers Arms",
+      "Date": "\/Date(1327190400000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326569054000+0000)\/",
+      "Edited": "\/Date(1326569054000+0000)\/"
+    },
+    {
+      "Id": "gig/134160",
+      "BandNames": [
+        {
+          "Value": "James Luke"
+        }
+      ],
+      "Venue": "Farmers Arms",
+      "Date": "\/Date(1327622400000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326569176000+0000)\/",
+      "Edited": "\/Date(1326569176000+0000)\/"
+    },
+    {
+      "Id": "gig/140303",
+      "BandNames": [
+        {
+          "Value": "On The Edge"
+        }
+      ],
+      "Venue": "Farmers Arms",
+      "Date": "\/Date(1329004800000+0000)\/",
+      "StartTime": "20:30",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": "Claire's 21st Birthday",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327834934000+0000)\/",
+      "Edited": "\/Date(1327834934000+0000)\/"
+    },
+    {
+      "Id": "gig/140306",
+      "BandNames": [
+        {
+          "Value": "Billy Nomates"
+        }
+      ],
+      "Venue": "Farmers Arms",
+      "Date": "\/Date(1330214400000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327835533000+0000)\/",
+      "Edited": "\/Date(1327835533000+0000)\/"
+    },
+    {
+      "Id": "gig/140290",
+      "BandNames": [
+        {
+          "Value": "Glitterballs"
+        }
+      ],
+      "Venue": "Farmers Arms",
+      "Date": "\/Date(1333148400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327834046000+0000)\/",
+      "Edited": "\/Date(1327834046000+0000)\/"
+    }
+  ],
+  "Future": [
+    {
+      "Id": "gig/140303",
+      "BandNames": [
+        {
+          "Value": "On The Edge"
+        }
+      ],
+      "Venue": "Farmers Arms",
+      "Date": "\/Date(1329004800000+0000)\/",
+      "StartTime": "20:30",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": "Claire's 21st Birthday",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327834934000+0000)\/",
+      "Edited": "\/Date(1327834934000+0000)\/"
+    },
+    {
+      "Id": "gig/140306",
+      "BandNames": [
+        {
+          "Value": "Billy Nomates"
+        }
+      ],
+      "Venue": "Farmers Arms",
+      "Date": "\/Date(1330214400000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327835533000+0000)\/",
+      "Edited": "\/Date(1327835533000+0000)\/"
+    },
+    {
+      "Id": "gig/140290",
+      "BandNames": [
+        {
+          "Value": "Glitterballs"
+        }
+      ],
+      "Venue": "Farmers Arms",
+      "Date": "\/Date(1333148400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327834046000+0000)\/",
+      "Edited": "\/Date(1327834046000+0000)\/"
+    }
+  ]
+}

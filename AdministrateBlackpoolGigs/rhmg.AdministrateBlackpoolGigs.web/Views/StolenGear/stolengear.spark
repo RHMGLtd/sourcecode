@@ -1,0 +1,127 @@
+<viewdata model="StolenGearViewModel model" />
+<content name="title">
+  Administrate Blackpool Gigs : Manage Gig Metadata
+</content>
+<content name="scripts">
+  <script src="~/Content/Scripts/common.js" type="text/javascript"></script>
+  <script src="~/Content/Scripts/jquery.tmpl.js" type="text/javascript"></script>
+  <script src="~/Content/Scripts/jquery.validate.min.js" type="text/javascript"></script>
+  <script src="~/Content/Scripts/knockout.js" type="text/javascript"></script>
+  <script src="~/Content/Scripts/jquery-ui-1.8.7.custom.min.js" type="text/javascript"></script>
+  <script src="~/Content/Scripts/stolengear.js" type="text/javascript"></script>
+  <script type="text/javascript">
+    $(document).ready(function () {
+    $('.WhenWasItStolen').datepicker(
+    {
+    onClose: function (dateText, inst) { $('.WhenWasItStolen').val(dateText) },
+    dateFormat: 'dd-M-yy'
+    });
+    });
+  </script>
+</content>
+<content name="body">
+  <div>
+    <a href="!{new HomeUrl()}">HOME</a> :: <a href="!{new StolenGearListUrl()}">LIST</a>
+    <hr />
+    <form method="post" enctype="multipart/form-data">
+      <input type="HIDDEN" name="Id" value="!{model.Id}" />
+      <input type="HIDDEN" name="Source" value="manually input by rhmg" />
+      <input type="HIDDEN" name="Created" value="!{model.Created}" />
+      <input type="HIDDEN" name="Edited" value="!{DateTime.Now}" />
+      <div>
+        Headline :: <input id="Headline" type="text" name="Headline" value="!{model.Headline}" class="input" minlength="2"/>
+      </div>
+      <div>
+        What Is It :: <textarea id="WhatIsIt" type="text" name="WhatIsIt" class="input" rows="5" cols="60" >!{model.WhatIsIt}</textarea>
+      </div>
+      <div>
+        Where Was It Stolen From :: <textarea id="WhereWasItStolenFrom" type="text" name="WhereWasItStolenFrom" class="input" rows="5" cols="60" >!{model.WhereWasItStolenFrom}</textarea>
+      </div>
+      <div>
+        Who To Contact :: <input id="WhoToContact" type="text" name="WhoToContact" value="!{model.WhoToContact}" class="input" minlength="2"/>
+      </div>
+      <div>
+        Contact Email :: <input id="ContactEmail" type="text" name="ContactEmail" value="!{model.ContactEmail}" class="input" minlength="2"/>
+      </div>
+      <div>
+        Contact Phone :: <input id="ContactPhone" type="text" name="ContactPhone" value="!{model.ContactPhone}" class="input" minlength="2"/>
+      </div>
+      <div>
+        Reward Offered Is :: <textarea id="RewardOfferedIs" type="text" name="RewardOfferedIs" class="input" rows="5" cols="60" >!{model.RewardOfferedIs}</textarea>
+      </div>
+      <div>
+        When Was It Stolen :: <input id="WhenWasItStolen" type="text" class="WhenWasItStolen input" name="WhenWasItStolen" value="!{model.WhenWasItStolen.SafeDate()}"  minlength="2"/>
+      </div>
+      <div>
+        Recovered :: <input type="checkbox" Name="Recovered" checked="?{model.Recovered}" value="true" /> <input type="hidden" Name="Recovered" value="false"></input>
+      </div>
+      <div>
+        Archived :: <input type="checkbox" Name="Archived" checked="?{model.Archived}" value="true" /> <input type="hidden" Name="Archived" value="false"></input>
+      </div>
+      <hr />
+      <div>Images :: </div>
+      <div id="ImagesContainer">
+        <input type="HIDDEN" name="ImageName1" value="!{model.ImageName1}" />
+        <div>
+          Select Image 1 :: <input id="Images" type="file" name="Image1" class="input" minlength="2"/> (main image on the list view)
+        </div>
+        <div>
+          Current Image 1: <a href="">!{model.ImageName1}</a>
+        </div>
+        <div>
+          Caption 1 :: <input type="text" name="ImageCaption1"  class="input" minlength="2" value="!{model.ImageCaption1}"></input>
+        </div>
+      </div>
+      <div id="ImagesContainer">
+        <input type="HIDDEN" name="ImageName2" value="!{model.ImageName2}" />
+        <div>
+          Select Image 2 :: <input id="Images" type="file" name="Image2" class="input" minlength="2"/>
+        </div>
+        <div>
+          Current Image 2: <a href="">!{model.ImageName2}</a>
+        </div>
+        <div>
+          Caption 2 :: <input type="text" name="ImageCaption2"  class="input" minlength="2" value="!{model.ImageCaption2}"></input>
+        </div>
+      </div>
+      <div id="ImagesContainer">
+        <input type="HIDDEN" name="ImageName3" value="!{model.ImageName3}" />
+        <div>
+          Select Image 3 :: <input id="Images" type="file" name="Image3" class="input" minlength="2"/>
+        </div>
+        <div>
+          Current Image 3: <a href="">!{model.ImageName3}</a>
+        </div>
+        <div>
+          Caption 3 :: <input type="text" name="ImageCaption3"  class="input" minlength="2" value="!{model.ImageCaption3}"></input>
+        </div>
+      </div>
+      <div id="ImagesContainer">
+        <input type="HIDDEN" name="ImageName4" value="!{model.ImageName4}" />
+        <div>
+          Select Image 4 :: <input id="Images" type="file" name="Image4" class="input" minlength="2"/>
+        </div>
+        <div>
+          Current Image 4: <a href="">!{model.ImageName4}</a>
+        </div>
+        <div>
+          Caption 4 :: <input type="text" name="ImageCaption4"  class="input" minlength="2" value="!{model.ImageCaption4}"></input>
+        </div>
+      </div>
+      <div id="ImagesContainer">
+        <input type="HIDDEN" name="ImageName5" value="!{model.ImageName5}" />
+        <div>
+          Select Image 5 :: <input id="Images" type="file" name="Image5" class="input" minlength="2"/>
+        </div>
+        <div>
+          Current Image 5: <a href="">!{model.ImageName5}</a>
+        </div>
+        <div>
+          Caption 5 :: <input type="text" name="ImageCaption5"  class="input" minlength="2" value="!{model.ImageCaption5}"></input>
+        </div>
+      </div>
+      <hr />
+      <button type="submit">Save</button>
+    </form>
+  </div>
+</content>

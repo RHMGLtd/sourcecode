@@ -1,0 +1,23 @@
+{
+  "Id": "metadata/20491",
+  "VenueName": "Lord Derby",
+  "MainImageName": "Lord Derby.jpg",
+  "BarAndClubReviewsUrl": "",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 725656",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "The Square",
+      "St Annes Road West",
+      "St Annes"
+    ],
+    "Website": "",
+    "EmailAddress": null,
+    "PostCode": "FY8 2NA",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.750646",
+    "Long": "-3.033831"
+  }
+}

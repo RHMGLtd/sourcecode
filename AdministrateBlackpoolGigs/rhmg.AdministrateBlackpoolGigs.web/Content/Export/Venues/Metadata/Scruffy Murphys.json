@@ -1,0 +1,22 @@
+{
+  "Id": "metadata/10241",
+  "VenueName": "Scruffy Murphys",
+  "MainImageName": "Scruffy Murphys.jpg",
+  "BarAndClubReviewsUrl": "",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 624 538",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "32 Corporation Street",
+      "Blackpool"
+    ],
+    "Website": "",
+    "EmailAddress": null,
+    "PostCode": null,
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.817756",
+    "Long": "-3.053749"
+  }
+}

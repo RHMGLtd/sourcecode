@@ -1,0 +1,115 @@
+{
+  "BandName": {
+    "Value": "The Fuse"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/18445",
+      "BandNames": [
+        {
+          "Value": "The Fuse"
+        }
+      ],
+      "Venue": "Station Tavern",
+      "Date": "\/Date(1305846000000+0100)\/",
+      "StartTime": "19.30",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1304031600000+0100)\/",
+      "Edited": "\/Date(1304031600000+0100)\/"
+    },
+    {
+      "Id": "gig/31750",
+      "BandNames": [
+        {
+          "Value": "The Fuse"
+        }
+      ],
+      "Venue": "Station Tavern",
+      "Date": "\/Date(1305846000000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1305537010000+0100)\/",
+      "Edited": "\/Date(1305537010000+0100)\/"
+    },
+    {
+      "Id": "gig/31772",
+      "BandNames": [
+        {
+          "Value": "The Fuse"
+        }
+      ],
+      "Venue": "The Edge",
+      "Date": "\/Date(1308783600000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1305538594000+0100)\/",
+      "Edited": "\/Date(1305538594000+0100)\/"
+    },
+    {
+      "Id": "gig/31773",
+      "BandNames": [
+        {
+          "Value": "The Fuse"
+        }
+      ],
+      "Venue": "The Old Bank Inn",
+      "Date": "\/Date(1308956400000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1305538635000+0100)\/",
+      "Edited": "\/Date(1305538635000+0100)\/"
+    },
+    {
+      "Id": "gig/134145",
+      "BandNames": [
+        {
+          "Value": "The Fuse"
+        }
+      ],
+      "Venue": "The Hop Inn",
+      "Date": "\/Date(1331251200000+0000)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326564743000+0000)\/",
+      "Edited": "\/Date(1326564743000+0000)\/"
+    },
+    {
+      "Id": "gig/134146",
+      "BandNames": [
+        {
+          "Value": "The Fuse"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1332374400000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326567948000+0000)\/",
+      "Edited": "\/Date(1326567949000+0000)\/"
+    }
+  ]
+}

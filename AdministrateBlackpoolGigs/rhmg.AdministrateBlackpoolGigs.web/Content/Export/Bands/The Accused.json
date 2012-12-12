@@ -1,0 +1,61 @@
+{
+  "BandName": {
+    "Value": "The Accused"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/61443",
+      "BandNames": [
+        {
+          "Value": "The Accused"
+        }
+      ],
+      "Venue": "Station Tavern",
+      "Date": "\/Date(1307055600000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307102704000+0100)\/",
+      "Edited": "\/Date(1307102704000+0100)\/"
+    },
+    {
+      "Id": "gig/79876",
+      "BandNames": [
+        {
+          "Value": "The Accused"
+        }
+      ],
+      "Venue": "The Venue",
+      "Date": "\/Date(1311289200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308920292000+0100)\/",
+      "Edited": "\/Date(1326570603000+0000)\/"
+    },
+    {
+      "Id": "gig/134192",
+      "BandNames": [
+        {
+          "Value": "The Accused"
+        }
+      ],
+      "Venue": "The Venue",
+      "Date": "\/Date(1327104000000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326570557000+0000)\/",
+      "Edited": "\/Date(1326570557000+0000)\/"
+    }
+  ]
+}

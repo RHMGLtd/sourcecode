@@ -1,0 +1,18 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+  <head>
+    <title>
+      <use content="title" />
+    </title>
+	 <script src="~/Content/Scripts/jquery-1.4.4.min.js" type="text/javascript"></script>
+	 <script src="~/Content/Scripts/common.js" type="text/javascript"></script>
+	<use content="scripts" />
+    <meta http-equiv="Content-Type" content="text/html"/>
+    <link href="~/content/styles/Screen.css" rel="stylesheet" type="text/css" />
+    <link href="~/content/styles/jquery-ui-1.8.6.custom.css" rel="stylesheet" type="text/css" />
+    <meta name="keywords" content="blackpool, what's on, what, is, on gigs, bands, solo artists, cabaret, live, music, performance, lancashire, acoustic, rock, blues, funk, soul, reggae, covers, original music, fun in blackpool, party, entertainment, concerts" />
+  </head>
+  <body>
+    <use content="body" />
+  </body>
+</html>

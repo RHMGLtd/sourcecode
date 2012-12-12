@@ -1,0 +1,118 @@
+{
+  "BandName": {
+    "Value": "Bob On"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/18449",
+      "BandNames": [
+        {
+          "Value": "Bob On"
+        }
+      ],
+      "Venue": "Old Town Hall",
+      "Date": "\/Date(1305241200000+0100)\/",
+      "StartTime": "19.30",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1304204400000+0100)\/",
+      "Edited": "\/Date(1304204400000+0100)\/"
+    },
+    {
+      "Id": "gig/63497",
+      "BandNames": [
+        {
+          "Value": "Bob On"
+        }
+      ],
+      "Venue": "Uncle Toms Cabin",
+      "Date": "\/Date(1308351600000+0100)\/",
+      "StartTime": "22:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307371600000+0100)\/",
+      "Edited": "\/Date(1307371600000+0100)\/"
+    },
+    {
+      "Id": "gig/63496",
+      "BandNames": [
+        {
+          "Value": "Ska Face"
+        },
+        {
+          "Value": "Bob On"
+        }
+      ],
+      "Venue": "The Merrie England",
+      "Date": "\/Date(1309474800000+0100)\/",
+      "StartTime": "20:30",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307371555000+0100)\/",
+      "Edited": "\/Date(1307371555000+0100)\/"
+    },
+    {
+      "Id": "gig/116816",
+      "BandNames": [
+        {
+          "Value": "Bob On"
+        }
+      ],
+      "Venue": "Uncle Toms Cabin",
+      "Date": "\/Date(1316818800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315141917000+0100)\/",
+      "Edited": "\/Date(1315141917000+0100)\/"
+    },
+    {
+      "Id": "gig/140341",
+      "BandNames": [
+        {
+          "Value": "Bob On"
+        }
+      ],
+      "Venue": "Uncle Toms Cabin",
+      "Date": "\/Date(1328313600000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327837528000+0000)\/",
+      "Edited": "\/Date(1327837528000+0000)\/"
+    },
+    {
+      "Id": "gig/140350",
+      "BandNames": [
+        {
+          "Value": "Bob On"
+        }
+      ],
+      "Venue": "Old Town Hall",
+      "Date": "\/Date(1330128000000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327838178000+0000)\/",
+      "Edited": "\/Date(1327838178000+0000)\/"
+    }
+  ]
+}

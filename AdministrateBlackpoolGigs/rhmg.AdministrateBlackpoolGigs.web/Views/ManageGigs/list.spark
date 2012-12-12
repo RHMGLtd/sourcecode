@@ -1,0 +1,29 @@
+<viewdata model="ListViewModel model" />
+<content name="title">
+  Administrate Blackpool Gigs : Gigs List
+</content>
+<content name="scripts">
+  <script src="~/Content/Scripts/list.js" type="text/javascript"></script>
+</content>
+<content name="body">
+  <div>
+    <a href="!{new HomeUrl()}">HOME</a> || <a href="!{new AddUrl()}">ADD</a>
+    <div class="pager">
+      <a class="navLink" if="model.Params.PageNumber != 1" href="!{new ListUrl() { SortColumn = model.Params.SortColumn, SortOrder = model.Params.SortOrder, PageSize = model.Params.PageSize, PageNumber = model.Params.PageNumber - 1 }}">
+        go back a page
+      </a>
+      <span class ="text">you are currently on page !{model.Gigs.CurrentPageNumber} of !{model.Gigs.NumberOfPages} and you are viewing !{model.Gigs.Results.Count()} of a total of !{model.Gigs.TotalNumberOfRecords} gigs.</span>
+      <a class="navLink" if="model.Params.PageNumber != model.Gigs.NumberOfPages" href="!{new ListUrl() { SortColumn = model.Params.SortColumn, SortOrder = model.Params.SortOrder, PageSize = model.Params.PageSize, PageNumber = model.Params.PageNumber + 1 }}">
+        go forward a page
+      </a>
+    </div>
+    <hr />
+    <div class="addItem" each ="var gig in model.Gigs.Results">
+      <span>!{gig.Date.ToString("dd MMM yyyy")}</span>
+      <span>!{gig.StartTime}</span>
+      <span>!{gig.Summary}</span>
+      <a href="!{new EditUrl(){RecordId = gig.Id.Replace('gig/', '')}}">edit</a>
+      <a href="javascript:void(0)" onclick="my_delete('!{gig.Id}')">delete</a>
+    </div>
+  </div>
+</content>

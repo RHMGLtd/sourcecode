@@ -1,0 +1,22 @@
+{
+  "Id": "metadata/22529",
+  "VenueName": "The Prince Arthur",
+  "MainImageName": "The Prince Arthur.jpg",
+  "BarAndClubReviewsUrl": "",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 778659",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "46-48 Lord Street",
+      "Fleetwood"
+    ],
+    "Website": "http://www.facebook.com/thepastairwell",
+    "EmailAddress": "thepastairwell@gmail.com",
+    "PostCode": "FY7 6DT",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.92304",
+    "Long": "-3.010587"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "BandName": {
+    "Value": "Killing Time"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/140357",
+      "BandNames": [
+        {
+          "Value": "Killing Time"
+        }
+      ],
+      "Venue": "Stanley Ward Conservative Club",
+      "Date": "\/Date(1328918400000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327838620000+0000)\/",
+      "Edited": "\/Date(1327838620000+0000)\/"
+    }
+  ]
+}

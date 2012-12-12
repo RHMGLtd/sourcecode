@@ -1,0 +1,25 @@
+{
+  "BandName": {
+    "Value": "Some Big Fish"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/37900",
+      "BandNames": [
+        {
+          "Value": "Some Big Fish"
+        }
+      ],
+      "Venue": "The Old Bank Inn",
+      "Date": "\/Date(1306537200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306150525000+0100)\/",
+      "Edited": "\/Date(1306150525000+0100)\/"
+    }
+  ]
+}

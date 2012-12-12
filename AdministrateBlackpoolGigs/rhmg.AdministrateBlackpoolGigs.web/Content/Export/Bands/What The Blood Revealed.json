@@ -1,0 +1,79 @@
+{
+  "BandName": {
+    "Value": "What The Blood Revealed"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/20",
+      "BandNames": [
+        {
+          "Value": "Kickstart Kitty"
+        },
+        {
+          "Value": "Blackheart Afterglow"
+        },
+        {
+          "Value": "Tacoma Narrows Bridge Disaster"
+        },
+        {
+          "Value": "Karhide"
+        },
+        {
+          "Value": "Northern Structure"
+        },
+        {
+          "Value": "Alright The Captain"
+        },
+        {
+          "Value": "Flies Are Spies From Hell"
+        },
+        {
+          "Value": "What The Blood Revealed"
+        },
+        {
+          "Value": "Goonies Never Say Die"
+        },
+        {
+          "Value": "Escape Artist"
+        }
+      ],
+      "Venue": "The Blue Room",
+      "Date": "\/Date(1304118000000+0100)\/",
+      "StartTime": "19.30",
+      "Price": "£2",
+      "MoreInfo": "Later At The Blue Room is an mini indoor festival that runs over both the consecutive bank holiday weekends at the end of April at the Blue Room pub in Blackpool from Thursday 21st April to Sunday 24th April and Thursday 28th April to Sunday 1st May.\r\n\r\nThere will be 80 bands performing over both weekends with 10 acts performing each night, there will be performances from Goonies Never Say Die, The Senton Bombs, Escape Artist, Ides Of March, My Preserver, Idol Minds, Makers Of Venice, Northern Structure, Hammer No More The Fingers, The Colours, Metonia, Bill Orrick, The Drop-Out Wives and many more\r\n\r\nThe format of the event is set up in the same way the 'Later with Jools Holland' programme works, there are 2 stages set up in the venue, as soon as one band finishes at one end of the pub the next band starts at the other end, they even have a 'fake Jools' to compere the night.\r\n\r\nIt runs from 7pm until late every night and is only £2 to get in\r\nits all happening at The Blue Room, Church Street, Blackpool\r\nupdated listings can be found at www.facebook.com/theblueroomblackpool\r\nyou can follow us on twitter at www.twitter.com/blueroombpl",
+      "GigTitle": "Later At The Blue Room",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1304290800000+0100)\/",
+      "Edited": "\/Date(1304290800000+0100)\/"
+    },
+    {
+      "Id": "gig/107521",
+      "BandNames": [
+        {
+          "Value": "Goonies Never Say Die"
+        },
+        {
+          "Value": "What The Blood Revealed"
+        },
+        {
+          "Value": "White Swallow"
+        },
+        {
+          "Value": "Boy Genius"
+        }
+      ],
+      "Venue": "The Blue Room",
+      "Date": "\/Date(1319238000000+0100)\/",
+      "StartTime": "20:30",
+      "Price": "£1.00",
+      "MoreInfo": "GOONIES NEVER SAY DIE\r\nPost-Pretentious Odd Timing Rock Nonsense from Blackpool\r\nhttp://www.facebook.com/go​oniesneversaydiemusic\r\n\r\nWHAT THE BLOOD REVEALED\r\nAre going to melt your face off wall of instrumental rock noise from Irvine (thats in Scotland kids!)\r\nhttp://www.facebook.com/pa​ges/What-the-Blood-Reveale​d/153508968022124\r\n\r\nWHITE SWALLOW\r\nRaging at yer mum hows it so loud theres only 2 of them Rock from Chorley\r\nhttp://www.facebook.com/pa​ges/White-Swallow/10609817​6100443\r\n\r\nBOY GENIUS\r\nWheres the biscuits dad you bellend powerpop rock from Preston\r\nhttp://www.facebook.com/pa​ges/Boy-Genius/13991681122​4",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1313132294000+0100)\/",
+      "Edited": "\/Date(1313132295000+0100)\/"
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+<viewdata model="BandViewModel model" />
+<content name="title">
+  Administrate Blackpool Gigs : Band Maintain Page
+</content>
+<content name="scripts">
+  <script src="~/Content/Scripts/common.js" type="text/javascript"></script>
+  <script src="~/Content/Scripts/jquery.tmpl.js" type="text/javascript"></script>
+  <script src="~/Content/Scripts/jquery.validate.min.js" type="text/javascript"></script>
+  <script src="~/Content/Scripts/jquery-ui-1.8.7.custom.min.js" type="text/javascript"></script>
+  <link rel="stylesheet" type="text/css" href="~/Content/yahoo stuff/fonts-min.css" />
+  <link rel="stylesheet" type="text/css" href="~/Content/yahoo stuff/slider.css" />
+  <script type="text/javascript" src="~/Content/yahoo stuff/yahoo-dom-event.js"></script>
+  <script type="text/javascript" src="~/Content/yahoo stuff/dragdrop-min.js"></script>
+  <script type="text/javascript" src="~/Content/yahoo stuff/slider-min.js"></script>
+  <script src="~/Content/Scripts/band.js" type="text/javascript"></script>
+  <script>
+    var Event = YAHOO.util.Event,
+    Dom = YAHOO.util.Dom,
+    lang = YAHOO.lang,
+    slider,
+    bg = "slider-bg", thumb = "slider-thumb"
+
+    // The slider can move 0 pixels up
+    var topConstraint = 0;
+
+    // The slider can move 200 pixels down
+    var bottomConstraint = 200;
+
+    // Custom scale factor for converting the pixel offset into a real value
+    var scaleFactor = 0.5;
+
+    // The amount the slider moves when the value is changed with the arrow
+    // keys
+    var keyIncrement = 20;
+
+    var tickSize = 20;
+
+    Event.onDOMReady(function () {
+
+    slider = YAHOO.widget.Slider.getHorizSlider(bg,
+    thumb, topConstraint, bottomConstraint, 20);
+
+    // Sliders with ticks can be animated without YAHOO.util.Anim
+    slider.animate = true;
+
+    slider.getRealValue = function () {
+    return Math.round(this.getValue() * scaleFactor);
+    }
+    //slider.setValue(, false); //false here means to animate if possible
+
+    slider.subscribe("change", function (offsetFromStart) {
+
+    // use the scale factor to convert the pixel offset into a real
+    // value
+    var actualValue = slider.getRealValue();
+
+    // Update the title attribute on the background.  This helps assistive
+    // technology to communicate the state change
+    Dom.get(bg).title = "slider value = " + actualValue;
+    $('#CoverPercentage').val(actualValue);
+    $('#OriginalPercentage').val(100 - actualValue);
+    });
+
+    slider.subscribe("slideStart", function () {
+    YAHOO.log("slideStart fired", "warn");
+    });
+
+    slider.subscribe("slideEnd", function () {
+    YAHOO.log("slideEnd fired", "warn");
+    });
+    slider.setValue(Math.round(!{model.CoverPercentage} / scaleFactor));
+    });
+  </script>
+</content>
+<content name="body">
+  <div>
+    <a href="!{new HomeUrl()}">HOME</a> :: <a href="!{new BandsUrl()}">LIST</a>
+    <div class="pager">
+      <a class="navLink" if="model.Params.PageNumber != 1" href="!{new BandUrl(model.BandName) { SortColumn = model.Params.SortColumn, SortOrder = model.Params.SortOrder, PageSize = model.Params.PageSize, PageNumber = model.Params.PageNumber - 1 }}">
+        go back a page
+      </a>
+      <span class ="text">you are currently on page !{model.Gigs.CurrentPageNumber} of !{model.Gigs.NumberOfPages} and you are viewing !{model.Gigs.Results.Count()} of a total of !{model.Gigs.TotalNumberOfRecords} gigs for !{model.BandName}.</span>
+      <a class="navLink" if="model.Params.PageNumber != model.Gigs.NumberOfPages" href="!{new BandUrl(model.BandName) { SortColumn = model.Params.SortColumn, SortOrder = model.Params.SortOrder, PageSize = model.Params.PageSize, PageNumber = model.Params.PageNumber + 1 }}">
+        go forward a page
+      </a>
+    </div>
+    <hr />
+    <form  method="post" enctype="multipart/form-data">
+      <input type="HIDDEN" name="Id" value="!{model.Id}" />
+      <input type="HIDDEN" name="BandName" value="!{model.BandName}" />
+      <div>
+        Main Contact Name :: <input id="MainContactName" type="text" name="MainContactName" value="!{model.MainContactName}" class="input" minlength="2"/>
+      </div>
+      <div id="OtherContacts">
+        <div each ="var contact in model.OtherContacts">
+          Other Contact :: <input id="OtherContact" type="text" name="OtherContacts" value="!{contact}" class="input" minlength="2"/>
+          :: <button onclick="remove(this); return false;">remove</button>
+        </div>
+      </div>
+      <button id="AddContact">add another contact to this band</button>
+      <div>
+        Contact Email :: <input id="ContactEmail" type="text" name="ContactEmail" value="!{model.ContactEmail}" class="input" minlength="2"/>
+      </div>
+      <div>
+        Bio :: <textarea id="whatAbout" name="Bio" rows="5" cols="60" class="input required">!{Model.Bio}</textarea>
+      </div>
+      <div>
+        Style :: <input id="Style" type="text" name="Style" value="!{model.Style}" class="input" minlength="2"/>
+      </div>
+      <div>
+        Cover / Original ::
+      </div>
+      <input type="HIDDEN" id="CoverPercentage" name="CoverPercentage" value="!{model.CoverPercentage}" />
+      <input type="HIDDEN" id="OriginalPercentage" name="OriginalPercentage" value="!{model.OriginalPercentage}" />
+      <div id="slider-bg" class="yui-h-slider" tabindex="-1" title="Slider">
+        <div id="slider-thumb" class="yui-slider-thumb">
+          <img src="http://yui.yahooapis.com/2.9.0/build/slider/assets/thumb-n.gif" />
+        </div>
+      </div>
+      <div>
+        MySpace Link (fully qualified please) :: <input id="MySpaceLink" type="text" name="MySpaceLink" value="!{model.MySpaceLink}" class="input" minlength="2"/>
+      </div>
+      <div>
+        Facebook Link (fully qualified please) :: <input id="FacebookLink" type="text" name="FacebookLink" value="!{model.FacebookLink}" class="input" minlength="2"/>
+      </div>
+      <div id="OtherLinks">
+        <div each ="var link in model.OtherLinks">
+          Other Web Link (fully qualified please) :: <input id="OtherLink" type="text" name="OtherLinks" value="!{link}" class="input" minlength="2"/>
+          :: <button onclick="remove(this); return false;">remove</button>
+        </div>
+      </div>
+      <button id="AddLink">add another web link to this band</button>
+      <div>
+        Number Of Band Members :: <input id="NumberOfBandMembers" type="text" name="NumberOfBandMembers" value="!{model.NumberOfBandMembers}" class="input"/>
+      </div>
+      <div>
+        Home Town :: <input id="HomeTown" type="text" name="HomeTown" value="!{model.HomeTown}" class="input"/>
+      </div>
+      <button type="submit">Save.</button>
+    </form>
+    
+    <hr />
+    <div class="addItem" each ="var gig in model.Gigs.Results">
+      !{gig.Summary} on !{gig.Date.ToString('dd MMM yyyy')} || <a href="!{new EditUrl(gig.Id)}">view</a>
+    </div>
+  </div>
+</content>

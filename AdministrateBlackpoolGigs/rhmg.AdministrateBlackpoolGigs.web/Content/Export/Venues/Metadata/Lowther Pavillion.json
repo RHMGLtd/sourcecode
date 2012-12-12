@@ -1,0 +1,23 @@
+{
+  "Id": "metadata/20492",
+  "VenueName": "Lowther Pavillion",
+  "MainImageName": "Lowther Pavillion.jpg",
+  "BarAndClubReviewsUrl": "",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 794221",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "Lowther Terrace",
+      "West Beach",
+      "Lytham St. Annes"
+    ],
+    "Website": "http://www.lowtherpavilion.co.uk/",
+    "EmailAddress": "boxoffice@lowtherpavilion.co.uk",
+    "PostCode": "FY8 5QQ",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.736553",
+    "Long": "-2.969742"
+  }
+}

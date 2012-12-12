@@ -1,0 +1,278 @@
+{
+  "IsNull": false,
+  "Venue": "The Golden Ball",
+  "Gigs": [
+    {
+      "Id": "gig/21506",
+      "BandNames": [
+        {
+          "Value": "The Keytars"
+        }
+      ],
+      "Venue": "The Golden Ball",
+      "Date": "\/Date(1305932400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303858800000+0100)\/",
+      "Edited": "\/Date(1305536556000+0100)\/"
+    },
+    {
+      "Id": "gig/31763",
+      "BandNames": [
+        {
+          "Value": "Thistle"
+        }
+      ],
+      "Venue": "The Golden Ball",
+      "Date": "\/Date(1306623600000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1305538212000+0100)\/",
+      "Edited": "\/Date(1305538212000+0100)\/"
+    },
+    {
+      "Id": "gig/36868",
+      "BandNames": [
+        {
+          "Value": "Shakers Blues Band"
+        }
+      ],
+      "Venue": "The Golden Ball",
+      "Date": "\/Date(1307746800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1305983335000+0100)\/",
+      "Edited": "\/Date(1305983335000+0100)\/"
+    },
+    {
+      "Id": "gig/31768",
+      "BandNames": [
+        {
+          "Value": "Thistle"
+        }
+      ],
+      "Venue": "The Golden Ball",
+      "Date": "\/Date(1314486000000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1305538345000+0100)\/",
+      "Edited": "\/Date(1305538345000+0100)\/"
+    },
+    {
+      "Id": "gig/31771",
+      "BandNames": [
+        {
+          "Value": "Thistle"
+        }
+      ],
+      "Venue": "The Golden Ball",
+      "Date": "\/Date(1324857600000+0000)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1305538465000+0100)\/",
+      "Edited": "\/Date(1305538465000+0100)\/"
+    },
+    {
+      "Id": "gig/133200",
+      "BandNames": [
+        {
+          "Value": "Thistle"
+        }
+      ],
+      "Venue": "The Golden Ball",
+      "Date": "\/Date(1333839600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326564218000+0000)\/",
+      "Edited": "\/Date(1326564218000+0000)\/"
+    },
+    {
+      "Id": "gig/133202",
+      "BandNames": [
+        {
+          "Value": "Thistle"
+        }
+      ],
+      "Venue": "The Golden Ball",
+      "Date": "\/Date(1336258800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326564289000+0000)\/",
+      "Edited": "\/Date(1326564289000+0000)\/"
+    },
+    {
+      "Id": "gig/133204",
+      "BandNames": [
+        {
+          "Value": "Thistle"
+        }
+      ],
+      "Venue": "The Golden Ball",
+      "Date": "\/Date(1338678000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326564340000+0000)\/",
+      "Edited": "\/Date(1326564340000+0000)\/"
+    },
+    {
+      "Id": "gig/133206",
+      "BandNames": [
+        {
+          "Value": "Thistle"
+        }
+      ],
+      "Venue": "The Golden Ball",
+      "Date": "\/Date(1345935600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326564394000+0000)\/",
+      "Edited": "\/Date(1326564394000+0000)\/"
+    },
+    {
+      "Id": "gig/133207",
+      "BandNames": [
+        {
+          "Value": "Thistle"
+        }
+      ],
+      "Venue": "The Golden Ball",
+      "Date": "\/Date(1356480000000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326564435000+0000)\/",
+      "Edited": "\/Date(1326564435000+0000)\/"
+    }
+  ],
+  "Future": [
+    {
+      "Id": "gig/133200",
+      "BandNames": [
+        {
+          "Value": "Thistle"
+        }
+      ],
+      "Venue": "The Golden Ball",
+      "Date": "\/Date(1333839600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326564218000+0000)\/",
+      "Edited": "\/Date(1326564218000+0000)\/"
+    },
+    {
+      "Id": "gig/133202",
+      "BandNames": [
+        {
+          "Value": "Thistle"
+        }
+      ],
+      "Venue": "The Golden Ball",
+      "Date": "\/Date(1336258800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326564289000+0000)\/",
+      "Edited": "\/Date(1326564289000+0000)\/"
+    },
+    {
+      "Id": "gig/133204",
+      "BandNames": [
+        {
+          "Value": "Thistle"
+        }
+      ],
+      "Venue": "The Golden Ball",
+      "Date": "\/Date(1338678000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326564340000+0000)\/",
+      "Edited": "\/Date(1326564340000+0000)\/"
+    },
+    {
+      "Id": "gig/133206",
+      "BandNames": [
+        {
+          "Value": "Thistle"
+        }
+      ],
+      "Venue": "The Golden Ball",
+      "Date": "\/Date(1345935600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326564394000+0000)\/",
+      "Edited": "\/Date(1326564394000+0000)\/"
+    },
+    {
+      "Id": "gig/133207",
+      "BandNames": [
+        {
+          "Value": "Thistle"
+        }
+      ],
+      "Venue": "The Golden Ball",
+      "Date": "\/Date(1356480000000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326564435000+0000)\/",
+      "Edited": "\/Date(1326564435000+0000)\/"
+    }
+  ]
+}

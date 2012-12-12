@@ -1,0 +1,79 @@
+{
+  "BandName": {
+    "Value": "Lauren Codling"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/117761",
+      "BandNames": [
+        {
+          "Value": "Lauren Codling"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1315090800000+0100)\/",
+      "StartTime": "17:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315142951000+0100)\/",
+      "Edited": "\/Date(1315142951000+0100)\/"
+    },
+    {
+      "Id": "gig/117762",
+      "BandNames": [
+        {
+          "Value": "Lauren Codling"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1315695600000+0100)\/",
+      "StartTime": "17:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315144370000+0100)\/",
+      "Edited": "\/Date(1315144370000+0100)\/"
+    },
+    {
+      "Id": "gig/117763",
+      "BandNames": [
+        {
+          "Value": "Lauren Codling"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1316300400000+0100)\/",
+      "StartTime": "17:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315144385000+0100)\/",
+      "Edited": "\/Date(1315144410000+0100)\/"
+    },
+    {
+      "Id": "gig/117764",
+      "BandNames": [
+        {
+          "Value": "Lauren Codling"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1316905200000+0100)\/",
+      "StartTime": "17:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315144416000+0100)\/",
+      "Edited": "\/Date(1315144416000+0100)\/"
+    }
+  ]
+}

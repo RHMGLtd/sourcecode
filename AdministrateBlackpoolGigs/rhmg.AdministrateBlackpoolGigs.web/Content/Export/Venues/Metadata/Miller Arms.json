@@ -1,0 +1,23 @@
+{
+  "Id": "metadata/20494",
+  "VenueName": "Miller Arms",
+  "MainImageName": "Miller Arms.jpg",
+  "BarAndClubReviewsUrl": "",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 882668",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "Station Road",
+      "Singleton Village",
+      "Poulton-le-Fylde"
+    ],
+    "Website": "http://www.themillerarms.co.uk/",
+    "EmailAddress": "info@themillerarms.co.uk",
+    "PostCode": "FY6 8LL",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.83598",
+    "Long": "-2.939009"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "BandName": {
+    "Value": "Fuzzy Trees"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/143366",
+      "BandNames": [
+        {
+          "Value": "Fuzzy Trees"
+        }
+      ],
+      "Venue": "The Prince Arthur",
+      "Date": "\/Date(1332460800000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1328352060000+0000)\/",
+      "Edited": "\/Date(1328352060000+0000)\/"
+    }
+  ]
+}

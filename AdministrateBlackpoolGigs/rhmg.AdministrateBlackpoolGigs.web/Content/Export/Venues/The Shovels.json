@@ -1,0 +1,278 @@
+{
+  "IsNull": false,
+  "Venue": "The Shovels",
+  "Gigs": [
+    {
+      "Id": "gig/36865",
+      "BandNames": [
+        {
+          "Value": "Shakers Blues Band"
+        }
+      ],
+      "Venue": "The Shovels",
+      "Date": "\/Date(1305932400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1305983154000+0100)\/",
+      "Edited": "\/Date(1305983155000+0100)\/"
+    },
+    {
+      "Id": "gig/19464",
+      "BandNames": [
+        {
+          "Value": "Ska Face"
+        }
+      ],
+      "Venue": "The Shovels",
+      "Date": "\/Date(1309561200000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1304204400000+0100)\/",
+      "Edited": "\/Date(1304204400000+0100)\/"
+    },
+    {
+      "Id": "gig/8202",
+      "BandNames": [
+        {
+          "Value": "Brother Rabbit"
+        }
+      ],
+      "Venue": "The Shovels",
+      "Date": "\/Date(1311980400000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303599600000+0100)\/",
+      "Edited": "\/Date(1303599600000+0100)\/"
+    },
+    {
+      "Id": "gig/8214",
+      "BandNames": [
+        {
+          "Value": "Brother Rabbit"
+        }
+      ],
+      "Venue": "The Shovels",
+      "Date": "\/Date(1325289600000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303599600000+0100)\/",
+      "Edited": "\/Date(1303599600000+0100)\/"
+    },
+    {
+      "Id": "gig/134166",
+      "BandNames": [
+        {
+          "Value": "Touch the Pearl"
+        }
+      ],
+      "Venue": "The Shovels",
+      "Date": "\/Date(1327708800000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326569383000+0000)\/",
+      "Edited": "\/Date(1326569383000+0000)\/"
+    },
+    {
+      "Id": "gig/133140",
+      "BandNames": [
+        {
+          "Value": "Full Fat Boogie Band"
+        }
+      ],
+      "Venue": "The Shovels",
+      "Date": "\/Date(1329523200000+0000)\/",
+      "StartTime": "21:30",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326560636000+0000)\/",
+      "Edited": "\/Date(1326560636000+0000)\/"
+    },
+    {
+      "Id": "gig/133141",
+      "BandNames": [
+        {
+          "Value": "Souled Out"
+        }
+      ],
+      "Venue": "The Shovels",
+      "Date": "\/Date(1333148400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326560733000+0000)\/",
+      "Edited": "\/Date(1326560733000+0000)\/"
+    },
+    {
+      "Id": "gig/133142",
+      "BandNames": [
+        {
+          "Value": "The Monster Squad"
+        }
+      ],
+      "Venue": "The Shovels",
+      "Date": "\/Date(1337382000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326560774000+0000)\/",
+      "Edited": "\/Date(1326560774000+0000)\/"
+    },
+    {
+      "Id": "gig/136198",
+      "BandNames": [
+        {
+          "Value": "Brother Rabbit"
+        }
+      ],
+      "Venue": "The Shovels",
+      "Date": "\/Date(1341010800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326636997000+0000)\/",
+      "Edited": "\/Date(1326636997000+0000)\/"
+    },
+    {
+      "Id": "gig/136199",
+      "BandNames": [
+        {
+          "Value": "The Versions"
+        }
+      ],
+      "Venue": "The Shovels",
+      "Date": "\/Date(1342220400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326637059000+0000)\/",
+      "Edited": "\/Date(1326637059000+0000)\/"
+    }
+  ],
+  "Future": [
+    {
+      "Id": "gig/133140",
+      "BandNames": [
+        {
+          "Value": "Full Fat Boogie Band"
+        }
+      ],
+      "Venue": "The Shovels",
+      "Date": "\/Date(1329523200000+0000)\/",
+      "StartTime": "21:30",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326560636000+0000)\/",
+      "Edited": "\/Date(1326560636000+0000)\/"
+    },
+    {
+      "Id": "gig/133141",
+      "BandNames": [
+        {
+          "Value": "Souled Out"
+        }
+      ],
+      "Venue": "The Shovels",
+      "Date": "\/Date(1333148400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326560733000+0000)\/",
+      "Edited": "\/Date(1326560733000+0000)\/"
+    },
+    {
+      "Id": "gig/133142",
+      "BandNames": [
+        {
+          "Value": "The Monster Squad"
+        }
+      ],
+      "Venue": "The Shovels",
+      "Date": "\/Date(1337382000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326560774000+0000)\/",
+      "Edited": "\/Date(1326560774000+0000)\/"
+    },
+    {
+      "Id": "gig/136198",
+      "BandNames": [
+        {
+          "Value": "Brother Rabbit"
+        }
+      ],
+      "Venue": "The Shovels",
+      "Date": "\/Date(1341010800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326636997000+0000)\/",
+      "Edited": "\/Date(1326636997000+0000)\/"
+    },
+    {
+      "Id": "gig/136199",
+      "BandNames": [
+        {
+          "Value": "The Versions"
+        }
+      ],
+      "Venue": "The Shovels",
+      "Date": "\/Date(1342220400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326637059000+0000)\/",
+      "Edited": "\/Date(1326637059000+0000)\/"
+    }
+  ]
+}

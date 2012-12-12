@@ -1,0 +1,25 @@
+{
+  "BandName": {
+    "Value": "Imelda May"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/2063",
+      "BandNames": [
+        {
+          "Value": "Imelda May"
+        }
+      ],
+      "Venue": "Blackpool Opera House",
+      "Date": "\/Date(1321747200000+0000)\/",
+      "StartTime": "19:00",
+      "Price": "unknown",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303858800000+0100)\/",
+      "Edited": "\/Date(1303858800000+0100)\/"
+    }
+  ]
+}

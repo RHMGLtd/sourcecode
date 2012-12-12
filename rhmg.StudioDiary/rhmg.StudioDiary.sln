@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rhmg.StudioDiary.Tests", "r
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rhmg.StudioDiary.InternalWeb", "rhmg.StudioDiary.InternalWeb\rhmg.StudioDiary.InternalWeb.csproj", "{1D260F99-B0B4-477E-AA3B-7935484E9C6A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "coolbunny.tests.common", "..\coolbunny\coolbunny.tests.common\coolbunny.tests.common.csproj", "{6E90B152-151B-4DC7-9A05-6F0BC0436FB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "coolbunny.common", "..\coolbunny\coolbunny.common\coolbunny.common.csproj", "{E9309763-E4F0-448D-85CD-F8ABD7A53FAF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Admin Site|Any CPU = Admin Site|Any CPU
@@ -39,6 +43,22 @@ Global
 		{1D260F99-B0B4-477E-AA3B-7935484E9C6A}.Release|Any CPU.Build.0 = Release|Any CPU
 		{1D260F99-B0B4-477E-AA3B-7935484E9C6A}.Web site|Any CPU.ActiveCfg = Release|Any CPU
 		{1D260F99-B0B4-477E-AA3B-7935484E9C6A}.Web site|Any CPU.Build.0 = Release|Any CPU
+		{6E90B152-151B-4DC7-9A05-6F0BC0436FB1}.Admin Site|Any CPU.ActiveCfg = Admin Site|Any CPU
+		{6E90B152-151B-4DC7-9A05-6F0BC0436FB1}.Admin Site|Any CPU.Build.0 = Admin Site|Any CPU
+		{6E90B152-151B-4DC7-9A05-6F0BC0436FB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E90B152-151B-4DC7-9A05-6F0BC0436FB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E90B152-151B-4DC7-9A05-6F0BC0436FB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E90B152-151B-4DC7-9A05-6F0BC0436FB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E90B152-151B-4DC7-9A05-6F0BC0436FB1}.Web site|Any CPU.ActiveCfg = Web site|Any CPU
+		{6E90B152-151B-4DC7-9A05-6F0BC0436FB1}.Web site|Any CPU.Build.0 = Web site|Any CPU
+		{E9309763-E4F0-448D-85CD-F8ABD7A53FAF}.Admin Site|Any CPU.ActiveCfg = Admin Site|Any CPU
+		{E9309763-E4F0-448D-85CD-F8ABD7A53FAF}.Admin Site|Any CPU.Build.0 = Admin Site|Any CPU
+		{E9309763-E4F0-448D-85CD-F8ABD7A53FAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9309763-E4F0-448D-85CD-F8ABD7A53FAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9309763-E4F0-448D-85CD-F8ABD7A53FAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9309763-E4F0-448D-85CD-F8ABD7A53FAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9309763-E4F0-448D-85CD-F8ABD7A53FAF}.Web site|Any CPU.ActiveCfg = Web site|Any CPU
+		{E9309763-E4F0-448D-85CD-F8ABD7A53FAF}.Web site|Any CPU.Build.0 = Web site|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,133 @@
+{
+  "BandName": {
+    "Value": "Touch the Pearl"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/95233",
+      "BandNames": [
+        {
+          "Value": "Touch the Pearl"
+        }
+      ],
+      "Venue": "Uncle Toms Cabin",
+      "Date": "\/Date(1313708400000+0100)\/",
+      "StartTime": "21:30",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311234406000+0100)\/",
+      "Edited": "\/Date(1311234406000+0100)\/"
+    },
+    {
+      "Id": "gig/111617",
+      "BandNames": [
+        {
+          "Value": "Touch the Pearl"
+        }
+      ],
+      "Venue": "The Venue",
+      "Date": "\/Date(1315004400000+0100)\/",
+      "StartTime": "21:30",
+      "Price": "free",
+      "MoreInfo": "'Whenever I'm down, I call on you, my friends!'\r\nFollowing hot on the heels of a storming night at Uncle Tom's last week (thanks to all those that came down by the way!), this 9-piece collective will be debuting at the Venue on Cleveleys Promenade on Saturday 3rd Sept, providing Soul grooves, beats, mash-ups & dance tunes for anyone wanting or needing to party!! If you've seen us before, we'll expect to see you there ... if you haven't seen us before, come & check us out! XXX",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1314190120000+0100)\/",
+      "Edited": "\/Date(1314190121000+0100)\/"
+    },
+    {
+      "Id": "gig/116819",
+      "BandNames": [
+        {
+          "Value": "Touch the Pearl"
+        }
+      ],
+      "Venue": "The Venue",
+      "Date": "\/Date(1316127600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315142126000+0100)\/",
+      "Edited": "\/Date(1315574281000+0100)\/"
+    },
+    {
+      "Id": "gig/116775",
+      "BandNames": [
+        {
+          "Value": "Touch the Pearl"
+        }
+      ],
+      "Venue": "Uncle Toms Cabin",
+      "Date": "\/Date(1316214000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315140529000+0100)\/",
+      "Edited": "\/Date(1315463688000+0100)\/"
+    },
+    {
+      "Id": "gig/132097",
+      "BandNames": [
+        {
+          "Value": "Touch the Pearl"
+        }
+      ],
+      "Venue": "The Royal Oak",
+      "Date": "\/Date(1317423600000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "unknown",
+      "MoreInfo": "Get Touched .... coz down the Shore everything's all right...x",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1317109576000+0100)\/",
+      "Edited": "\/Date(1317109577000+0100)\/"
+    },
+    {
+      "Id": "gig/134165",
+      "BandNames": [
+        {
+          "Value": "Touch the Pearl"
+        }
+      ],
+      "Venue": "Belle View",
+      "Date": "\/Date(1327104000000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326569365000+0000)\/",
+      "Edited": "\/Date(1326569365000+0000)\/"
+    },
+    {
+      "Id": "gig/134166",
+      "BandNames": [
+        {
+          "Value": "Touch the Pearl"
+        }
+      ],
+      "Venue": "The Shovels",
+      "Date": "\/Date(1327708800000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326569383000+0000)\/",
+      "Edited": "\/Date(1326569383000+0000)\/"
+    }
+  ]
+}

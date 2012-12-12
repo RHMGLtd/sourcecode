@@ -1,0 +1,23 @@
+{
+  "Id": "metadata/2071",
+  "VenueName": "Old Town Hall",
+  "MainImageName": "Old Town Hall.jpg",
+  "BarAndClubReviewsUrl": "http://www.bar-and-club-reviews.com/bars/66999-The-Old-Town-Hall-Poulton-Le-Fylde",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 892257",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "Church Street",
+      "Market Square",
+      "Poulton Le Fylde"
+    ],
+    "Website": "",
+    "EmailAddress": null,
+    "PostCode": "FY6 7AP",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.847223",
+    "Long": "-2.992884"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "Id": "metadata/20496",
+  "VenueName": "San Marcos",
+  "MainImageName": "San Marcos.jpg",
+  "BarAndClubReviewsUrl": "",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 404010",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "513 Lytham Road",
+      "Blackpool"
+    ],
+    "Website": "http://www.sanmarcosblackpool.co.uk/",
+    "EmailAddress": "ask@sanmarcosblackpool.co.uk",
+    "PostCode": "FY4 1TE",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.784534",
+    "Long": "-3.047204"
+  }
+}

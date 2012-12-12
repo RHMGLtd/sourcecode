@@ -1,0 +1,25 @@
+{
+  "IsNull": false,
+  "Venue": "The Grand Theatre",
+  "Gigs": [
+    {
+      "Id": "gig/19",
+      "BandNames": [
+        {
+          "Value": "Des O'Connor"
+        }
+      ],
+      "Venue": "The Grand Theatre",
+      "Date": "\/Date(1303599600000+0100)\/",
+      "StartTime": "19:30",
+      "Price": "£42.00",
+      "MoreInfo": "The Veteran Crooner and chat show host with memories and music.",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303772400000+0100)\/",
+      "Edited": "\/Date(1303772400000+0100)\/"
+    }
+  ],
+  "Future": []
+}

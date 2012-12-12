@@ -1,0 +1,22 @@
+{
+  "Id": "metadata/2067",
+  "VenueName": "Beat",
+  "MainImageName": null,
+  "BarAndClubReviewsUrl": "",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 299821",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "Above the Rose and Crown",
+      "22 Corporation St"
+    ],
+    "Website": "",
+    "EmailAddress": null,
+    "PostCode": "FY1 1EJ",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.818171",
+    "Long": "-3.054081"
+  }
+}

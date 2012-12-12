@@ -1,0 +1,43 @@
+{
+  "BandName": {
+    "Value": "Captains Crew"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/32781",
+      "BandNames": [
+        {
+          "Value": "Captains Crew"
+        }
+      ],
+      "Venue": "The North Euston",
+      "Date": "\/Date(1315609200000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1305544200000+0100)\/",
+      "Edited": "\/Date(1305544200000+0100)\/"
+    },
+    {
+      "Id": "gig/32790",
+      "BandNames": [
+        {
+          "Value": "Captains Crew"
+        }
+      ],
+      "Venue": "The North Euston",
+      "Date": "\/Date(1322265600000+0000)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1305544716000+0100)\/",
+      "Edited": "\/Date(1305544716000+0100)\/"
+    }
+  ]
+}

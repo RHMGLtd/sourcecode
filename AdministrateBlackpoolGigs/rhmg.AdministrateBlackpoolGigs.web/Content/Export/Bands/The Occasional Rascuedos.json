@@ -1,0 +1,25 @@
+{
+  "BandName": {
+    "Value": "The Occasional Rascuedos"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/77844",
+      "BandNames": [
+        {
+          "Value": "The Occasional Rascuedos"
+        }
+      ],
+      "Venue": "Station Tavern",
+      "Date": "\/Date(1308870000000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308852143000+0100)\/",
+      "Edited": "\/Date(1308852143000+0100)\/"
+    }
+  ]
+}

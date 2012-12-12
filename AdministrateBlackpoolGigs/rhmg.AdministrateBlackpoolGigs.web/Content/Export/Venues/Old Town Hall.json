@@ -1,0 +1,656 @@
+{
+  "IsNull": false,
+  "Venue": "Old Town Hall",
+  "Gigs": [
+    {
+      "Id": "gig/13313",
+      "BandNames": [
+        {
+          "Value": "Smokin' Aces"
+        }
+      ],
+      "Venue": "Old Town Hall",
+      "Date": "\/Date(1304722800000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": "The Smokin Aces Rock Cover Band",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303513200000+0100)\/",
+      "Edited": "\/Date(1303513200000+0100)\/"
+    },
+    {
+      "Id": "gig/18449",
+      "BandNames": [
+        {
+          "Value": "Bob On"
+        }
+      ],
+      "Venue": "Old Town Hall",
+      "Date": "\/Date(1305241200000+0100)\/",
+      "StartTime": "19.30",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1304204400000+0100)\/",
+      "Edited": "\/Date(1304204400000+0100)\/"
+    },
+    {
+      "Id": "gig/23553",
+      "BandNames": [
+        {
+          "Value": "Happy Daize"
+        }
+      ],
+      "Venue": "Old Town Hall",
+      "Date": "\/Date(1306537200000+0100)\/",
+      "StartTime": "21:30",
+      "Price": "Free",
+      "MoreInfo": "The Hippy Happy band will be taking you on a cosmic journey back to the 60's and 70's with some of the songs that made those times exciting and memorable. Songs not often played but instantly remembered. Fun,Frolics and damn fine music.",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303599600000+0100)\/",
+      "Edited": "\/Date(1303599600000+0100)\/"
+    },
+    {
+      "Id": "gig/8196",
+      "BandNames": [
+        {
+          "Value": "Brother Rabbit"
+        }
+      ],
+      "Venue": "Old Town Hall",
+      "Date": "\/Date(1307142000000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303686000000+0100)\/",
+      "Edited": "\/Date(1303686000000+0100)\/"
+    },
+    {
+      "Id": "gig/78876",
+      "BandNames": [
+        {
+          "Value": "The Monster Squad"
+        }
+      ],
+      "Venue": "Old Town Hall",
+      "Date": "\/Date(1309561200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308917173000+0100)\/",
+      "Edited": "\/Date(1308917173000+0100)\/"
+    },
+    {
+      "Id": "gig/78853",
+      "BandNames": [
+        {
+          "Value": "The Keytars"
+        }
+      ],
+      "Venue": "Old Town Hall",
+      "Date": "\/Date(1310166000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308915773000+0100)\/",
+      "Edited": "\/Date(1308915773000+0100)\/"
+    },
+    {
+      "Id": "gig/78872",
+      "BandNames": [
+        {
+          "Value": "Smokin Monkey"
+        }
+      ],
+      "Venue": "Old Town Hall",
+      "Date": "\/Date(1310770800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308916928000+0100)\/",
+      "Edited": "\/Date(1308916928000+0100)\/"
+    },
+    {
+      "Id": "gig/99393",
+      "BandNames": [
+        {
+          "Value": "The Keytars"
+        }
+      ],
+      "Venue": "Old Town Hall",
+      "Date": "\/Date(1312585200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311708904000+0100)\/",
+      "Edited": "\/Date(1311708904000+0100)\/"
+    },
+    {
+      "Id": "gig/106502",
+      "BandNames": [
+        {
+          "Value": "Venezuela Venezuela"
+        }
+      ],
+      "Venue": "Old Town Hall",
+      "Date": "\/Date(1313794800000+0100)\/",
+      "StartTime": "20:30",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1313046048000+0100)\/",
+      "Edited": "\/Date(1313046048000+0100)\/"
+    },
+    {
+      "Id": "gig/99424",
+      "BandNames": [
+        {
+          "Value": "Kazoobian"
+        }
+      ],
+      "Venue": "Old Town Hall",
+      "Date": "\/Date(1314313200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311710146000+0100)\/",
+      "Edited": "\/Date(1311710146000+0100)\/"
+    },
+    {
+      "Id": "gig/8205",
+      "BandNames": [
+        {
+          "Value": "Brother Rabbit"
+        }
+      ],
+      "Venue": "Old Town Hall",
+      "Date": "\/Date(1315004400000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303513200000+0100)\/",
+      "Edited": "\/Date(1303513200000+0100)\/"
+    },
+    {
+      "Id": "gig/116797",
+      "BandNames": [
+        {
+          "Value": "The Good Machine"
+        }
+      ],
+      "Venue": "Old Town Hall",
+      "Date": "\/Date(1316818800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315141245000+0100)\/",
+      "Edited": "\/Date(1315141245000+0100)\/"
+    },
+    {
+      "Id": "gig/125953",
+      "BandNames": [
+        {
+          "Value": "Paul Conner"
+        }
+      ],
+      "Venue": "Old Town Hall",
+      "Date": "\/Date(1317423600000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": "Paul Conner - Live lead guitar and vocals.....'The' one man band covers The Beatles, Chuck Berry,Rod Stewart,Bryan Adams,Free,Bon Jovi,Wild Cherry,Kenny Loggins,Whitesnake,The Eagles,Blonde,Status Quo,Chesney Hawkes,ACDC,U2,Rainbow,Lynard Skynard,Queen,John Farnham,Black Sabbath,Van Halen,The Proclaimers,Thin Lizzy,Aerosmith,Deep Blue Something,Kaiser Chiefs,Black Crows,The Darkness,Stereophonics,Greenday",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1316500382000+0100)\/",
+      "Edited": "\/Date(1316500383000+0100)\/"
+    },
+    {
+      "Id": "gig/133134",
+      "BandNames": [
+        {
+          "Value": "Venezuela Venezuela"
+        }
+      ],
+      "Venue": "Old Town Hall",
+      "Date": "\/Date(1321056000000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326560262000+0000)\/",
+      "Edited": "\/Date(1326560262000+0000)\/"
+    },
+    {
+      "Id": "gig/133121",
+      "BandNames": [
+        {
+          "Value": "Venezuela Venezuela"
+        }
+      ],
+      "Venue": "Old Town Hall",
+      "Date": "\/Date(1321574400000+0000)\/",
+      "StartTime": "20:30",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326557776000+0000)\/",
+      "Edited": "\/Date(1326557777000+0000)\/"
+    },
+    {
+      "Id": "gig/16390",
+      "BandNames": [
+        {
+          "Value": "The Versions"
+        }
+      ],
+      "Venue": "Old Town Hall",
+      "Date": "\/Date(1322784000000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303599600000+0100)\/",
+      "Edited": "\/Date(1303599600000+0100)\/"
+    },
+    {
+      "Id": "gig/134168",
+      "BandNames": [
+        {
+          "Value": "The Deadbeats"
+        }
+      ],
+      "Venue": "Old Town Hall",
+      "Date": "\/Date(1327622400000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326569475000+0000)\/",
+      "Edited": "\/Date(1326569475000+0000)\/"
+    },
+    {
+      "Id": "gig/140348",
+      "BandNames": [
+        {
+          "Value": "Boomin"
+        }
+      ],
+      "Venue": "Old Town Hall",
+      "Date": "\/Date(1328227200000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327838032000+0000)\/",
+      "Edited": "\/Date(1327838032000+0000)\/"
+    },
+    {
+      "Id": "gig/133137",
+      "BandNames": [
+        {
+          "Value": "Venezuela Venezuela"
+        }
+      ],
+      "Venue": "Old Town Hall",
+      "Date": "\/Date(1328313600000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326560384000+0000)\/",
+      "Edited": "\/Date(1326560384000+0000)\/"
+    },
+    {
+      "Id": "gig/140349",
+      "BandNames": [
+        {
+          "Value": "Shiver"
+        }
+      ],
+      "Venue": "Old Town Hall",
+      "Date": "\/Date(1328918400000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327838111000+0000)\/",
+      "Edited": "\/Date(1327838111000+0000)\/"
+    },
+    {
+      "Id": "gig/140335",
+      "BandNames": [
+        {
+          "Value": "The Keytars"
+        }
+      ],
+      "Venue": "Old Town Hall",
+      "Date": "\/Date(1329523200000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327837150000+0000)\/",
+      "Edited": "\/Date(1327837150000+0000)\/"
+    },
+    {
+      "Id": "gig/140350",
+      "BandNames": [
+        {
+          "Value": "Bob On"
+        }
+      ],
+      "Venue": "Old Town Hall",
+      "Date": "\/Date(1330128000000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327838178000+0000)\/",
+      "Edited": "\/Date(1327838178000+0000)\/"
+    },
+    {
+      "Id": "gig/140351",
+      "BandNames": [
+        {
+          "Value": "Twisted Romance"
+        }
+      ],
+      "Venue": "Old Town Hall",
+      "Date": "\/Date(1330646400000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327838298000+0000)\/",
+      "Edited": "\/Date(1327838298000+0000)\/"
+    },
+    {
+      "Id": "gig/140352",
+      "BandNames": [
+        {
+          "Value": "Rampage"
+        }
+      ],
+      "Venue": "Old Town Hall",
+      "Date": "\/Date(1330732800000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327838323000+0000)\/",
+      "Edited": "\/Date(1327838323000+0000)\/"
+    },
+    {
+      "Id": "gig/140353",
+      "BandNames": [
+        {
+          "Value": "Paul Conner"
+        }
+      ],
+      "Venue": "Old Town Hall",
+      "Date": "\/Date(1331337600000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327838401000+0000)\/",
+      "Edited": "\/Date(1327838401000+0000)\/"
+    },
+    {
+      "Id": "gig/140354",
+      "BandNames": [
+        {
+          "Value": "Happy Daize"
+        }
+      ],
+      "Venue": "Old Town Hall",
+      "Date": "\/Date(1331942400000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "unknown",
+      "MoreInfo": null,
+      "GigTitle": "St Patrick's Day",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327838469000+0000)\/",
+      "Edited": "\/Date(1327838469000+0000)\/"
+    },
+    {
+      "Id": "gig/140355",
+      "BandNames": [
+        {
+          "Value": "The Coustics"
+        }
+      ],
+      "Venue": "Old Town Hall",
+      "Date": "\/Date(1333148400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327838505000+0000)\/",
+      "Edited": "\/Date(1327838505000+0000)\/"
+    }
+  ],
+  "Future": [
+    {
+      "Id": "gig/133137",
+      "BandNames": [
+        {
+          "Value": "Venezuela Venezuela"
+        }
+      ],
+      "Venue": "Old Town Hall",
+      "Date": "\/Date(1328313600000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326560384000+0000)\/",
+      "Edited": "\/Date(1326560384000+0000)\/"
+    },
+    {
+      "Id": "gig/140349",
+      "BandNames": [
+        {
+          "Value": "Shiver"
+        }
+      ],
+      "Venue": "Old Town Hall",
+      "Date": "\/Date(1328918400000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327838111000+0000)\/",
+      "Edited": "\/Date(1327838111000+0000)\/"
+    },
+    {
+      "Id": "gig/140335",
+      "BandNames": [
+        {
+          "Value": "The Keytars"
+        }
+      ],
+      "Venue": "Old Town Hall",
+      "Date": "\/Date(1329523200000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327837150000+0000)\/",
+      "Edited": "\/Date(1327837150000+0000)\/"
+    },
+    {
+      "Id": "gig/140350",
+      "BandNames": [
+        {
+          "Value": "Bob On"
+        }
+      ],
+      "Venue": "Old Town Hall",
+      "Date": "\/Date(1330128000000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327838178000+0000)\/",
+      "Edited": "\/Date(1327838178000+0000)\/"
+    },
+    {
+      "Id": "gig/140351",
+      "BandNames": [
+        {
+          "Value": "Twisted Romance"
+        }
+      ],
+      "Venue": "Old Town Hall",
+      "Date": "\/Date(1330646400000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327838298000+0000)\/",
+      "Edited": "\/Date(1327838298000+0000)\/"
+    },
+    {
+      "Id": "gig/140352",
+      "BandNames": [
+        {
+          "Value": "Rampage"
+        }
+      ],
+      "Venue": "Old Town Hall",
+      "Date": "\/Date(1330732800000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327838323000+0000)\/",
+      "Edited": "\/Date(1327838323000+0000)\/"
+    },
+    {
+      "Id": "gig/140353",
+      "BandNames": [
+        {
+          "Value": "Paul Conner"
+        }
+      ],
+      "Venue": "Old Town Hall",
+      "Date": "\/Date(1331337600000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327838401000+0000)\/",
+      "Edited": "\/Date(1327838401000+0000)\/"
+    },
+    {
+      "Id": "gig/140354",
+      "BandNames": [
+        {
+          "Value": "Happy Daize"
+        }
+      ],
+      "Venue": "Old Town Hall",
+      "Date": "\/Date(1331942400000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "unknown",
+      "MoreInfo": null,
+      "GigTitle": "St Patrick's Day",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327838469000+0000)\/",
+      "Edited": "\/Date(1327838469000+0000)\/"
+    },
+    {
+      "Id": "gig/140355",
+      "BandNames": [
+        {
+          "Value": "The Coustics"
+        }
+      ],
+      "Venue": "Old Town Hall",
+      "Date": "\/Date(1333148400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327838505000+0000)\/",
+      "Edited": "\/Date(1327838505000+0000)\/"
+    }
+  ]
+}

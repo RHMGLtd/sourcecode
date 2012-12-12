@@ -1,0 +1,43 @@
+{
+  "IsNull": false,
+  "Venue": "Happy Scots Bar",
+  "Gigs": [
+    {
+      "Id": "gig/78869",
+      "BandNames": [
+        {
+          "Value": "Twisted Romance"
+        }
+      ],
+      "Venue": "Happy Scots Bar",
+      "Date": "\/Date(1312066800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308916849000+0100)\/",
+      "Edited": "\/Date(1308916849000+0100)\/"
+    },
+    {
+      "Id": "gig/99408",
+      "BandNames": [
+        {
+          "Value": "Twisted Romance"
+        }
+      ],
+      "Venue": "Happy Scots Bar",
+      "Date": "\/Date(1314486000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311709590000+0100)\/",
+      "Edited": "\/Date(1311709590000+0100)\/"
+    }
+  ],
+  "Future": []
+}

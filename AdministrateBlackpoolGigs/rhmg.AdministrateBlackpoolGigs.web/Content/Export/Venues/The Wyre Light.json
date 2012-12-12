@@ -1,0 +1,25 @@
+{
+  "IsNull": false,
+  "Venue": "The Wyre Light",
+  "Gigs": [
+    {
+      "Id": "gig/38913",
+      "BandNames": [
+        {
+          "Value": "The ROCKiTS"
+        }
+      ],
+      "Venue": "The Wyre Light",
+      "Date": "\/Date(1306623600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306244300000+0100)\/",
+      "Edited": "\/Date(1306244301000+0100)\/"
+    }
+  ],
+  "Future": []
+}

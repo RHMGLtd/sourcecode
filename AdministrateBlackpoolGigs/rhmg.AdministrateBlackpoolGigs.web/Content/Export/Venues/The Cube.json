@@ -1,0 +1,169 @@
+{
+  "IsNull": false,
+  "Venue": "The Cube",
+  "Gigs": [
+    {
+      "Id": "gig/40962",
+      "BandNames": [
+        {
+          "Value": "The Keytars"
+        }
+      ],
+      "Venue": "The Cube",
+      "Date": "\/Date(1306450800000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306392212000+0100)\/",
+      "Edited": "\/Date(1306392212000+0100)\/"
+    },
+    {
+      "Id": "gig/81921",
+      "BandNames": [
+        {
+          "Value": "Magic Trees"
+        }
+      ],
+      "Venue": "The Cube",
+      "Date": "\/Date(1309474800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": "Come celebrate Canada Day on July 1st with your favourite Canadians at the Cube in Poulton! (FY6 7AA)",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1309189054000+0100)\/",
+      "Edited": "\/Date(1309189056000+0100)\/"
+    },
+    {
+      "Id": "gig/78862",
+      "BandNames": [
+        {
+          "Value": "The Deadbeats (Acoustic)"
+        }
+      ],
+      "Venue": "The Cube",
+      "Date": "\/Date(1310684400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308916474000+0100)\/",
+      "Edited": "\/Date(1308916474000+0100)\/"
+    },
+    {
+      "Id": "gig/78874",
+      "BandNames": [
+        {
+          "Value": "Orin"
+        }
+      ],
+      "Venue": "The Cube",
+      "Date": "\/Date(1311289200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308917034000+0100)\/",
+      "Edited": "\/Date(1308917034000+0100)\/"
+    },
+    {
+      "Id": "gig/99392",
+      "BandNames": [
+        {
+          "Value": "The Keytars"
+        }
+      ],
+      "Venue": "The Cube",
+      "Date": "\/Date(1312498800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311708879000+0100)\/",
+      "Edited": "\/Date(1311708879000+0100)\/"
+    },
+    {
+      "Id": "gig/99410",
+      "BandNames": [
+        {
+          "Value": "The Deadbeats"
+        }
+      ],
+      "Venue": "The Cube",
+      "Date": "\/Date(1313708400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": "Playing acoustic tonight.",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311709690000+0100)\/",
+      "Edited": "\/Date(1311709690000+0100)\/"
+    },
+    {
+      "Id": "gig/99398",
+      "BandNames": [
+        {
+          "Value": "The Keytars"
+        }
+      ],
+      "Venue": "The Cube",
+      "Date": "\/Date(1314313200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311709041000+0100)\/",
+      "Edited": "\/Date(1311709041000+0100)\/"
+    },
+    {
+      "Id": "gig/116789",
+      "BandNames": [
+        {
+          "Value": "The Keytars"
+        }
+      ],
+      "Venue": "The Cube",
+      "Date": "\/Date(1315522800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315141042000+0100)\/",
+      "Edited": "\/Date(1315141042000+0100)\/"
+    },
+    {
+      "Id": "gig/116792",
+      "BandNames": [
+        {
+          "Value": "The Keytars"
+        }
+      ],
+      "Venue": "The Cube",
+      "Date": "\/Date(1317337200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315141131000+0100)\/",
+      "Edited": "\/Date(1315141131000+0100)\/"
+    }
+  ],
+  "Future": []
+}

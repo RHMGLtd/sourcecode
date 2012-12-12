@@ -1,0 +1,31 @@
+{
+  "BandName": {
+    "Value": "Noxious Toys"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/34822",
+      "BandNames": [
+        {
+          "Value": "The Privileged Few"
+        },
+        {
+          "Value": "Noxious Toys"
+        },
+        {
+          "Value": "Dirty Hearts Club"
+        }
+      ],
+      "Venue": "The Blue Room",
+      "Date": "\/Date(1310166000000+0100)\/",
+      "StartTime": "20:30",
+      "Price": "£1.00",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1305654631000+0100)\/",
+      "Edited": "\/Date(1305655397000+0100)\/"
+    }
+  ]
+}

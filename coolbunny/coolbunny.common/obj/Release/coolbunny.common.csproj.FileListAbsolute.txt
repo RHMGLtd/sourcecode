@@ -26,3 +26,14 @@ E:\laptop save\business websites\coolbunny\coolbunny.common\bin\Release\Newtonso
 E:\laptop save\business websites\coolbunny\coolbunny.common\obj\Release\ResolveAssemblyReference.cache
 E:\laptop save\business websites\coolbunny\coolbunny.common\obj\Release\coolbunny.common.dll
 E:\laptop save\business websites\coolbunny\coolbunny.common\obj\Release\coolbunny.common.pdb
+C:\_src\sourcecode\coolbunny\coolbunny.common\bin\Release\coolbunny.common.dll
+C:\_src\sourcecode\coolbunny\coolbunny.common\bin\Release\coolbunny.common.pdb
+C:\_src\sourcecode\coolbunny\coolbunny.common\bin\Release\Castle.Core.pdb
+C:\_src\sourcecode\coolbunny\coolbunny.common\bin\Release\Castle.Core.xml
+C:\_src\sourcecode\coolbunny\coolbunny.common\bin\Release\Castle.Windsor.pdb
+C:\_src\sourcecode\coolbunny\coolbunny.common\bin\Release\Castle.Windsor.xml
+C:\_src\sourcecode\coolbunny\coolbunny.common\bin\Release\Newtonsoft.Json.pdb
+C:\_src\sourcecode\coolbunny\coolbunny.common\bin\Release\Newtonsoft.Json.xml
+C:\_src\sourcecode\coolbunny\coolbunny.common\obj\Release\ResolveAssemblyReference.cache
+C:\_src\sourcecode\coolbunny\coolbunny.common\obj\Release\coolbunny.common.dll
+C:\_src\sourcecode\coolbunny\coolbunny.common\obj\Release\coolbunny.common.pdb

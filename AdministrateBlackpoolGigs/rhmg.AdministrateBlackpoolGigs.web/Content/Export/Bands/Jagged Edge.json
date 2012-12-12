@@ -1,0 +1,79 @@
+{
+  "BandName": {
+    "Value": "Jagged Edge"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/31757",
+      "BandNames": [
+        {
+          "Value": "Jagged Edge"
+        }
+      ],
+      "Venue": "Belle View",
+      "Date": "\/Date(1305932400000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1305537333000+0100)\/",
+      "Edited": "\/Date(1305537333000+0100)\/"
+    },
+    {
+      "Id": "gig/78861",
+      "BandNames": [
+        {
+          "Value": "Jagged Edge"
+        }
+      ],
+      "Venue": "The Royal Oak",
+      "Date": "\/Date(1311980400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "£1.00",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308916272000+0100)\/",
+      "Edited": "\/Date(1308916272000+0100)\/"
+    },
+    {
+      "Id": "gig/88069",
+      "BandNames": [
+        {
+          "Value": "Jagged Edge"
+        }
+      ],
+      "Venue": "Belle View",
+      "Date": "\/Date(1315609200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1309851031000+0100)\/",
+      "Edited": "\/Date(1309851031000+0100)\/"
+    },
+    {
+      "Id": "gig/133125",
+      "BandNames": [
+        {
+          "Value": "Jagged Edge"
+        }
+      ],
+      "Venue": "Belle View",
+      "Date": "\/Date(1325289600000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "unknown",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326558325000+0000)\/",
+      "Edited": "\/Date(1326558325000+0000)\/"
+    }
+  ]
+}

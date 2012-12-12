@@ -1,0 +1,31 @@
+{
+  "BandName": {
+    "Value": "The Curiosity Shop"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/40963",
+      "BandNames": [
+        {
+          "Value": "Janice Graham Band"
+        },
+        {
+          "Value": "The Curiosity Shop"
+        },
+        {
+          "Value": "Dysphonia"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1308178800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": "The Janice Graham band are a gang of funkateers from Manchester who sound so unique in an age when it is so easy to copy what has gone before. They are much much more than just another bunch of Mancunian council house riff raff, they have got attitude aplenty and hearts full of soul. I don’t know how my city does it, but I am glad it does. The North is about to rise again. MANI – PRIMAL SCREAM/THE STONE ROSES \r\n\r\nOne of the best of the new breed of Manchester bands who could easily become our next big thing. Deffo! CLINT BOON – XFM\r\n\r\n\r\nStraight out of South Manchester, an area that hasn't really been associated with the cutting edge of Manchester music since the post-punk days of the early Durutti Column et al, come Acid Jazz’s newest signing \r\n\r\nTHE JANICE GRAHAM BAND.\r\n\r\nConvention is a difficult little island to skirt around. Stick too close and you end up getting sucked into a colony of sound-alike bands that are indistinguishable apart from subtle variations in the fraying of the tightly worn jeans. Steer too far away from land and you run the risk of becoming the master of your domain; but with pitifully few little souls and sailors to catalogue your mysterious and exotic voyage. Of course, no bugger told THE JANICE GRAHAM BAND any of this! Convention is a word that doesn’t exist in the Janice Graham vocabulary. And, as a result, the band are quite extraordinary. They kaleidoscope through musical influences at the flick of a plectrum in absolute precision, keeping every song full of deliciously danceable and immediate ideas that are never allowed to become tiresome before swiftly morphing into the next snaking groove or flourishing brass ‘n’ bass interjection. The young Manc band, Joe Jones (lead vocals/bass), Andy Mortan (guitar), Josh Hunt (trumpet and backing vocals) and Tom Scott (drums and backing vocals) - average age a mere 21, are a true garage band; the lads had known each other from around the estate for years and soon endless jamming in a South Manchester garage ensued, where they not only formed, but rehearsed and played their first gigs in October 2008. The JGB sound is heavily infused with Hip Hop, Funk, Soul, Garage Rock, Jazz and Reggae/Ska influences, but the band are none of these labels, they transcend their influences and come out the other side with their own sound! Moving forward the band have supported the likes of Steve Cradock, The Heavy, Kid British, Matt Berry and Madness in front of 5000 people at the Hull Arena. \r\n\r\nWhen I first heard this band they blew me away. Their sound is fresh and totally uncategorisable - after I got to see them live I realised that I wanted to bring them to Acid Jazz. I expect great things! EDDIE PILLER – ACID JAZZ RECORDS",
+      "GigTitle": "Janice Graham Band + Support",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306392314000+0100)\/",
+      "Edited": "\/Date(1308168228000+0100)\/"
+    }
+  ]
+}

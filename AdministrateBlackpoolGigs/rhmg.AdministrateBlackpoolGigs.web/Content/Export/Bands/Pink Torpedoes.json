@@ -1,0 +1,28 @@
+{
+  "BandName": {
+    "Value": "Pink Torpedoes"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/9",
+      "BandNames": [
+        {
+          "Value": "Ska Face"
+        },
+        {
+          "Value": "Pink Torpedoes"
+        }
+      ],
+      "Venue": "The Merrie England",
+      "Date": "\/Date(1303426800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303772400000+0100)\/",
+      "Edited": "\/Date(1303772400000+0100)\/"
+    }
+  ]
+}

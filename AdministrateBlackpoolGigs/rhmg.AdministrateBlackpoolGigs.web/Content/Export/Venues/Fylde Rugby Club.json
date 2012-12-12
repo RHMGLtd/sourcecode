@@ -1,0 +1,25 @@
+{
+  "IsNull": false,
+  "Venue": "Fylde Rugby Club",
+  "Gigs": [
+    {
+      "Id": "gig/78894",
+      "BandNames": [
+        {
+          "Value": "The ROCKiTS"
+        }
+      ],
+      "Venue": "Fylde Rugby Club",
+      "Date": "\/Date(1310166000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308918095000+0100)\/",
+      "Edited": "\/Date(1308918095000+0100)\/"
+    }
+  ],
+  "Future": []
+}

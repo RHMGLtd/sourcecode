@@ -1,0 +1,28 @@
+{
+  "BandName": {
+    "Value": "Chameleon Jazz Band"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/78878",
+      "BandNames": [
+        {
+          "Value": "The Monster Squad"
+        },
+        {
+          "Value": "Chameleon Jazz Band"
+        }
+      ],
+      "Venue": "Victorian Sunlounge",
+      "Date": "\/Date(1310166000000+0100)\/",
+      "StartTime": "19:00",
+      "Price": "£10.00",
+      "MoreInfo": "Yes people, it's that time of year again! Ladies get your frocks at the ready and gents dust off your tuxedos 'cause Blackpool LIFE are holding yet another extravigant SUMMER BALL!!!\r\n\r\nIf you attended last year's Enchantment Over the Sea Dance then you'll know just what to expect. A classy evening compered by the dazzling ANNE NOLAN with live music from the Chameleon Jazz Band and the amazing MONSTER SQUAD!!\r\n\r\nSet in the stunning, beautifully lit Victorian Sunlounge on the end of the north pier, this sophisticated evening promises to be filled with wonder and surprise as guests dance the night away in truly enchanting surroundings.\r\n\r\nDelicious canapes will be served throughout the evening and the champagne will flow like wine!!\r\n\r\nThe shuttle bus will carry guests in true style from one end of the pier to the next where the red carpet will be rolled out!\r\n\r\nAll this for just £10 a ticket!!\r\n\r\nFor reservations either contact Laura on 07790280065 or go to The North Pier Box office.",
+      "GigTitle": "The Enchantment Over the Sea Dance",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308917288000+0100)\/",
+      "Edited": "\/Date(1308917288000+0100)\/"
+    }
+  ]
+}

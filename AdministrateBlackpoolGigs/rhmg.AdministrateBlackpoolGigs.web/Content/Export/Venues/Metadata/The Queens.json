@@ -1,0 +1,22 @@
+{
+  "Id": "metadata/2055",
+  "VenueName": "The Queens",
+  "MainImageName": null,
+  "BarAndClubReviewsUrl": "http://www.bar-and-club-reviews.com/bars/77464-the-queens",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 342015",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "467- 469 Promenade",
+      "Blackpool"
+    ],
+    "Website": "http://www.thequeenshotel.freeserve.co.uk/",
+    "EmailAddress": "reception@thequeenshotel.freeserve.co.uk",
+    "PostCode": "FY4 1AY",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.797394",
+    "Long": "-3.056023"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "Id": "metadata/20487",
+  "VenueName": "Henrys Bar",
+  "MainImageName": "Henrys Bar.jpg",
+  "BarAndClubReviewsUrl": "",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 737111",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "5 Henry Street",
+      "Lytham St Annes"
+    ],
+    "Website": "http://www.henrysbarandgrill.co.uk/",
+    "EmailAddress": null,
+    "PostCode": "FY8 5LE",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.736465",
+    "Long": "-2.964377"
+  }
+}

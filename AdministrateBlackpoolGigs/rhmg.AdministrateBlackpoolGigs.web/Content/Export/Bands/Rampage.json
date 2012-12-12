@@ -1,0 +1,25 @@
+{
+  "BandName": {
+    "Value": "Rampage"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/140352",
+      "BandNames": [
+        {
+          "Value": "Rampage"
+        }
+      ],
+      "Venue": "Old Town Hall",
+      "Date": "\/Date(1330732800000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327838323000+0000)\/",
+      "Edited": "\/Date(1327838323000+0000)\/"
+    }
+  ]
+}

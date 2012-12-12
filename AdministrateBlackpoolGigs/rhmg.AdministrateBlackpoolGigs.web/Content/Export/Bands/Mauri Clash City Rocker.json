@@ -1,0 +1,43 @@
+{
+  "BandName": {
+    "Value": "Mauri Clash City Rocker"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/39948",
+      "BandNames": [
+        {
+          "Value": "Mauri Clash City Rocker"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1312412400000+0100)\/",
+      "StartTime": "16:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": "Mauri Clash City Rocker - Acoustic Riot - Blackpool Tour 2011",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306335175000+0100)\/",
+      "Edited": "\/Date(1307877176000+0100)\/"
+    },
+    {
+      "Id": "gig/39949",
+      "BandNames": [
+        {
+          "Value": "Mauri Clash City Rocker"
+        }
+      ],
+      "Venue": "Stanley Park",
+      "Date": "\/Date(1312498800000+0100)\/",
+      "StartTime": "14:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": "Mauri Clash City Rocker - Acoustic Riot - Blackpool Tour 2011",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306335310000+0100)\/",
+      "Edited": "\/Date(1307877222000+0100)\/"
+    }
+  ]
+}

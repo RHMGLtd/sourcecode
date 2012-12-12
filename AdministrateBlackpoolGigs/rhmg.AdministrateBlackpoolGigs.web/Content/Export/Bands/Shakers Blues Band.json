@@ -1,0 +1,259 @@
+{
+  "BandName": {
+    "Value": "Shakers Blues Band"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/36865",
+      "BandNames": [
+        {
+          "Value": "Shakers Blues Band"
+        }
+      ],
+      "Venue": "The Shovels",
+      "Date": "\/Date(1305932400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1305983154000+0100)\/",
+      "Edited": "\/Date(1305983155000+0100)\/"
+    },
+    {
+      "Id": "gig/36866",
+      "BandNames": [
+        {
+          "Value": "Shakers Blues Band"
+        }
+      ],
+      "Venue": "The Town House",
+      "Date": "\/Date(1306450800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1305983213000+0100)\/",
+      "Edited": "\/Date(1305983213000+0100)\/"
+    },
+    {
+      "Id": "gig/36867",
+      "BandNames": [
+        {
+          "Value": "Shakers Blues Band"
+        }
+      ],
+      "Venue": "The Plough",
+      "Date": "\/Date(1307142000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1305983243000+0100)\/",
+      "Edited": "\/Date(1305983243000+0100)\/"
+    },
+    {
+      "Id": "gig/36868",
+      "BandNames": [
+        {
+          "Value": "Shakers Blues Band"
+        }
+      ],
+      "Venue": "The Golden Ball",
+      "Date": "\/Date(1307746800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1305983335000+0100)\/",
+      "Edited": "\/Date(1305983335000+0100)\/"
+    },
+    {
+      "Id": "gig/40964",
+      "BandNames": [
+        {
+          "Value": "The Blue Pig Orchestra"
+        },
+        {
+          "Value": "Ska Face"
+        },
+        {
+          "Value": "Happy Daize"
+        },
+        {
+          "Value": "The Jeps"
+        },
+        {
+          "Value": "Rupert Fabulous"
+        },
+        {
+          "Value": "The Versions"
+        },
+        {
+          "Value": "Tony Mitchell"
+        },
+        {
+          "Value": "Triple Threat"
+        },
+        {
+          "Value": "Brother Rabbit"
+        },
+        {
+          "Value": "3rd Step"
+        },
+        {
+          "Value": "Fleetwood High School"
+        },
+        {
+          "Value": "Stephanie Fraser"
+        },
+        {
+          "Value": "Penny Black"
+        },
+        {
+          "Value": "Paul Huson & Ayshea Manning"
+        },
+        {
+          "Value": "The Colours"
+        },
+        {
+          "Value": "Poison Apple"
+        },
+        {
+          "Value": "Gatorville"
+        },
+        {
+          "Value": "Roxyrama"
+        },
+        {
+          "Value": "Hot Vestry"
+        },
+        {
+          "Value": "Framed at the Crime Scene"
+        },
+        {
+          "Value": "He Who Dares"
+        },
+        {
+          "Value": "The Underachievers"
+        },
+        {
+          "Value": "Forever Autumn"
+        },
+        {
+          "Value": "Junk Box DJs"
+        },
+        {
+          "Value": "Elysium"
+        },
+        {
+          "Value": "Fatt Tuesday"
+        },
+        {
+          "Value": "Unresolved"
+        },
+        {
+          "Value": "Paige Howard"
+        },
+        {
+          "Value": "Remember Hillards"
+        },
+        {
+          "Value": "Ashes of Humanity"
+        },
+        {
+          "Value": "Shakers Blues Band"
+        }
+      ],
+      "Venue": "Marine Hall",
+      "Date": "\/Date(1310166000000+0100)\/",
+      "StartTime": "12:00",
+      "Price": "£5",
+      "MoreInfo": "Raising money for Yuto Rice.\r\n\r\nFor more info please visit www.charityconcert.co.uk\r\n\r\nEntry wrist bands will be sold on the day £5 each",
+      "GigTitle": "Yuto Fest",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306392515000+0100)\/",
+      "Edited": "\/Date(1306392515000+0100)\/"
+    },
+    {
+      "Id": "gig/36869",
+      "BandNames": [
+        {
+          "Value": "Shakers Blues Band"
+        }
+      ],
+      "Venue": "The Burn Naze",
+      "Date": "\/Date(1311375600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1305983660000+0100)\/",
+      "Edited": "\/Date(1305983660000+0100)\/"
+    },
+    {
+      "Id": "gig/36870",
+      "BandNames": [
+        {
+          "Value": "Shakers Blues Band"
+        }
+      ],
+      "Venue": "The North Euston",
+      "Date": "\/Date(1311980400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1305983704000+0100)\/",
+      "Edited": "\/Date(1305983704000+0100)\/"
+    },
+    {
+      "Id": "gig/116814",
+      "BandNames": [
+        {
+          "Value": "Shakers Blues Band"
+        }
+      ],
+      "Venue": "The Plough",
+      "Date": "\/Date(1315609200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315141710000+0100)\/",
+      "Edited": "\/Date(1315141710000+0100)\/"
+    },
+    {
+      "Id": "gig/32783",
+      "BandNames": [
+        {
+          "Value": "Shakers Blues Band"
+        }
+      ],
+      "Venue": "The North Euston",
+      "Date": "\/Date(1316818800000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1305544245000+0100)\/",
+      "Edited": "\/Date(1306836269000+0100)\/"
+    }
+  ]
+}

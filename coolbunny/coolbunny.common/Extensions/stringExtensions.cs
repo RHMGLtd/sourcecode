@@ -102,6 +102,12 @@ namespace coolbunny.common.Extensions
             return string.IsNullOrEmpty(input) ? input : input.Trim();
         }
 
+        public static string EnsureEndsWith(this string input, string endWith)
+        {
+            if (input.ToLower().EndsWith(endWith.ToLower()))
+                return input;
+            return input + endWith;
+        }
         public static string EnsureStartsWith(this string input, string startWith)
         {
             if (input.ToLower().StartsWith(startWith.ToLower()))

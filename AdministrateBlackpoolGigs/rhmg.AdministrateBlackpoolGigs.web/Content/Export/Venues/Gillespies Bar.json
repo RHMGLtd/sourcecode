@@ -1,0 +1,296 @@
+{
+  "IsNull": false,
+  "Venue": "Gillespies Bar",
+  "Gigs": [
+    {
+      "Id": "gig/43010",
+      "BandNames": [
+        {
+          "Value": "Orin"
+        }
+      ],
+      "Venue": "Gillespies Bar",
+      "Date": "\/Date(1306623600000+0100)\/",
+      "StartTime": "19:00",
+      "Price": "free",
+      "MoreInfo": "Its a bank holiday weekend so feel free to get drunk and enjoy the sounds of Neal and jakey as ORIN",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306405043000+0100)\/",
+      "Edited": "\/Date(1308917108000+0100)\/"
+    },
+    {
+      "Id": "gig/63495",
+      "BandNames": [
+        {
+          "Value": "Orin"
+        }
+      ],
+      "Venue": "Gillespies Bar",
+      "Date": "\/Date(1307660400000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307371520000+0100)\/",
+      "Edited": "\/Date(1307371520000+0100)\/"
+    },
+    {
+      "Id": "gig/33794",
+      "BandNames": [
+        {
+          "Value": "All Eyes West"
+        },
+        {
+          "Value": "Jimmy Islip"
+        },
+        {
+          "Value": "Litterbug"
+        }
+      ],
+      "Venue": "Gillespies Bar",
+      "Date": "\/Date(1308610800000+0100)\/",
+      "StartTime": "19:30",
+      "Price": "Free",
+      "MoreInfo": "This is a free gig with donations on the door.\r\n\r\nJimmy Islip of The Magnificent",
+      "GigTitle": "An Interesting Gig in Blackpool",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1305628305000+0100)\/",
+      "Edited": "\/Date(1306925710000+0100)\/"
+    },
+    {
+      "Id": "gig/78873",
+      "BandNames": [
+        {
+          "Value": "Orin"
+        }
+      ],
+      "Venue": "Gillespies Bar",
+      "Date": "\/Date(1310079600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308916990000+0100)\/",
+      "Edited": "\/Date(1308916990000+0100)\/"
+    },
+    {
+      "Id": "gig/91137",
+      "BandNames": [],
+      "Venue": "Gillespies Bar",
+      "Date": "\/Date(1310511600000+0100)\/",
+      "StartTime": "20:30",
+      "Price": "free",
+      "MoreInfo": "This is an event not to be missed! Open mic @ Gillespies every wednesday. All artists poets, singers, comedians, rappers, dancers etc are welcome. \r\n\r\nThe evening will be sponsored by Tower music everyone who performs will get a 10% discount voucher to spend in Tower music. Also best performance will win a whole of drinks vouchers. No one goes home empty handed at this event. \r\n\r\nSee you all there!",
+      "GigTitle": "OPEN MIC @ GILLESPIES BLACKPOOL",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1309959420000+0100)\/",
+      "Edited": "\/Date(1309959421000+0100)\/"
+    },
+    {
+      "Id": "gig/70657",
+      "BandNames": [
+        {
+          "Value": "Venezuela Venezuela"
+        }
+      ],
+      "Venue": "Gillespies Bar",
+      "Date": "\/Date(1310684400000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307968229000+0100)\/",
+      "Edited": "\/Date(1307968229000+0100)\/"
+    },
+    {
+      "Id": "gig/94213",
+      "BandNames": [],
+      "Venue": "Gillespies Bar",
+      "Date": "\/Date(1311116400000+0100)\/",
+      "StartTime": "20:30",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": "Open Mic Night!",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311140326000+0100)\/",
+      "Edited": "\/Date(1311140326000+0100)\/"
+    },
+    {
+      "Id": "gig/103431",
+      "BandNames": [
+        {
+          "Value": "Orin"
+        }
+      ],
+      "Venue": "Gillespies Bar",
+      "Date": "\/Date(1313103600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311947201000+0100)\/",
+      "Edited": "\/Date(1311947201000+0100)\/"
+    },
+    {
+      "Id": "gig/94209",
+      "BandNames": [
+        {
+          "Value": "Veasey"
+        }
+      ],
+      "Venue": "Gillespies Bar",
+      "Date": "\/Date(1313708400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311140174000+0100)\/",
+      "Edited": "\/Date(1311140175000+0100)\/"
+    },
+    {
+      "Id": "gig/115715",
+      "BandNames": [
+        {
+          "Value": "Callighan & Wolski"
+        }
+      ],
+      "Venue": "Gillespies Bar",
+      "Date": "\/Date(1315090800000+0100)\/",
+      "StartTime": "15:30",
+      "Price": "free",
+      "MoreInfo": "Sunday afternoon kickin off about 3.30 not played here for a looooong time will be lovely!",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315040474000+0100)\/",
+      "Edited": "\/Date(1315040474000+0100)\/"
+    },
+    {
+      "Id": "gig/112641",
+      "BandNames": [
+        {
+          "Value": "Sounds Like Superstring"
+        },
+        {
+          "Value": "Smaquehead"
+        }
+      ],
+      "Venue": "Gillespies Bar",
+      "Date": "\/Date(1315522800000+0100)\/",
+      "StartTime": "21:30",
+      "Price": "free",
+      "MoreInfo": "The greatest \"The Sound of Superstring\" tribute act will be performing on FRIDAY 9TH SEPT 9.30pm at GILLESPIES on TOPPING ST, BLACKPOOL.\r\n\"SOUNDS LIKE SUPERSTRING\" are an acoustic duo, made up of two members, Oz (me and The Boys) and The Bean Machine (Shaun Mind Reader). Join them, plus special guests \"SMAQUEHEAD\" for one night only of annoying, but well written novelty songs with amazing melodies and some \"not as good as they used to be\" falsetto harmonies. Plus FREE WISDOM for everyone.",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1314282152000+0100)\/",
+      "Edited": "\/Date(1314282155000+0100)\/"
+    },
+    {
+      "Id": "gig/122881",
+      "BandNames": [
+        {
+          "Value": "Callighan & Wolski"
+        }
+      ],
+      "Venue": "Gillespies Bar",
+      "Date": "\/Date(1316127600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315752737000+0100)\/",
+      "Edited": "\/Date(1315752737000+0100)\/"
+    },
+    {
+      "Id": "gig/116770",
+      "BandNames": [
+        {
+          "Value": "James Luke"
+        }
+      ],
+      "Venue": "Gillespies Bar",
+      "Date": "\/Date(1316732400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315140329000+0100)\/",
+      "Edited": "\/Date(1315140329000+0100)\/"
+    },
+    {
+      "Id": "gig/116810",
+      "BandNames": [
+        {
+          "Value": "Venezuela Venezuela"
+        }
+      ],
+      "Venue": "Gillespies Bar",
+      "Date": "\/Date(1317337200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315141625000+0100)\/",
+      "Edited": "\/Date(1315141625000+0100)\/"
+    },
+    {
+      "Id": "gig/121858",
+      "BandNames": [
+        {
+          "Value": "Dusty Cash"
+        }
+      ],
+      "Venue": "Gillespies Bar",
+      "Date": "\/Date(1322179200000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315391008000+0100)\/",
+      "Edited": "\/Date(1315391008000+0100)\/"
+    },
+    {
+      "Id": "gig/134173",
+      "BandNames": [
+        {
+          "Value": "Twisted Romance"
+        }
+      ],
+      "Venue": "Gillespies Bar",
+      "Date": "\/Date(1327622400000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326569646000+0000)\/",
+      "Edited": "\/Date(1326569646000+0000)\/"
+    }
+  ],
+  "Future": []
+}

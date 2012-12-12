@@ -1,0 +1,58 @@
+{
+  "BandName": {
+    "Value": "Uncle Paul"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/31756",
+      "BandNames": [
+        {
+          "Value": "Uncle Paul"
+        },
+        {
+          "Value": "Secret Diablo"
+        },
+        {
+          "Value": "Dysphonia"
+        },
+        {
+          "Value": "Orin"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1305932400000+0100)\/",
+      "StartTime": "19:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": "Alternative Rock Night",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1305537303000+0100)\/",
+      "Edited": "\/Date(1308917090000+0100)\/"
+    },
+    {
+      "Id": "gig/90113",
+      "BandNames": [
+        {
+          "Value": "Makers Of Venice"
+        },
+        {
+          "Value": "Uncle Paul"
+        },
+        {
+          "Value": "Dinosaurs Are Shit Dragons"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1310770800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1309872351000+0100)\/",
+      "Edited": "\/Date(1309872352000+0100)\/"
+    }
+  ]
+}

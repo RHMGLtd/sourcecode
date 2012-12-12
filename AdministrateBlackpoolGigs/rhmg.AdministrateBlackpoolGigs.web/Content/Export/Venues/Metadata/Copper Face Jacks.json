@@ -1,0 +1,23 @@
+{
+  "Id": "metadata/20485",
+  "VenueName": "Copper Face Jacks",
+  "MainImageName": "Copper Face Jacks.jpg",
+  "BarAndClubReviewsUrl": "",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 352341",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "Norbreck Castle Hotel",
+      "Queens Promenade",
+      "Blackpool"
+    ],
+    "Website": "",
+    "EmailAddress": null,
+    "PostCode": "FY2 9AA",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.8582",
+    "Long": "-3.049602"
+  }
+}

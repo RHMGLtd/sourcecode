@@ -1,0 +1,22 @@
+{
+  "Id": "metadata/6152",
+  "VenueName": "The Golden Ball",
+  "MainImageName": "The Golden Ball.jpg",
+  "BarAndClubReviewsUrl": "http://www.bar-and-club-reviews.com/bars/61341-The-Golden-Ball-Poulton-Le-Fylde",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 882196",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "1 Ball Street",
+      "Poulton-le-Fylde"
+    ],
+    "Website": "",
+    "EmailAddress": null,
+    "PostCode": "FY6 7BA",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.847606",
+    "Long": "-2.991868"
+  }
+}

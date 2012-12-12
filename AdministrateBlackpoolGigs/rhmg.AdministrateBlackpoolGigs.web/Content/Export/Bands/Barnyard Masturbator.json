@@ -1,0 +1,34 @@
+{
+  "BandName": {
+    "Value": "Barnyard Masturbator"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/101378",
+      "BandNames": [
+        {
+          "Value": "CSOD"
+        },
+        {
+          "Value": "Barnyard Masturbator"
+        },
+        {
+          "Value": "The Temps"
+        },
+        {
+          "Value": "Inner Temple"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1312585200000+0100)\/",
+      "StartTime": "19:30",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311835175000+0100)\/",
+      "Edited": "\/Date(1311835175000+0100)\/"
+    }
+  ]
+}

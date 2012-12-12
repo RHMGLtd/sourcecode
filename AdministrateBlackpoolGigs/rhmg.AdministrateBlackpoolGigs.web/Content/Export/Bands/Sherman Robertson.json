@@ -1,0 +1,28 @@
+{
+  "BandName": {
+    "Value": "Sherman Robertson"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/99402",
+      "BandNames": [
+        {
+          "Value": "Sherman Robertson"
+        },
+        {
+          "Value": "The Monster Squad"
+        }
+      ],
+      "Venue": "Marine Hall",
+      "Date": "\/Date(1314226800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "unknown",
+      "MoreInfo": "Blues/Soul Legend Sherman Robertson brings his Texas blues back to the U.K.Described as one part zydeco,one part swamp blues,one part electric blues and one part rhythm and blues Sherman Robertson is a class act in the blues/soul arena and a true showman.\r\n\r\nSupport comes from The Monster Squad.Fast getting the nickname The \"Mighty\" Monster Squad this local band of funk toting misfits will no doubt be coming out all guns blazing to give this very special occasion the kick start it deserves",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311709294000+0100)\/",
+      "Edited": "\/Date(1311835768000+0100)\/"
+    }
+  ]
+}

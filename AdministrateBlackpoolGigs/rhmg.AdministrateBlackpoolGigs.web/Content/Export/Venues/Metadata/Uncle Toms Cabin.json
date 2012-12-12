@@ -1,0 +1,22 @@
+{
+  "Id": "metadata/2058",
+  "VenueName": "Uncle Toms Cabin",
+  "MainImageName": "Uncle Toms Cabin.JPG",
+  "BarAndClubReviewsUrl": "http://www.bar-and-club-reviews.com/bars/77473-uncle-toms-cabin",
+  "ContactDetail": {
+    "MainPhoneNumber": "0333 8001800",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "44-46 Queens Promenade",
+      "Blackpool"
+    ],
+    "Website": "",
+    "EmailAddress": null,
+    "PostCode": "FY2 9RW",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.845836",
+    "Long": "-3.053546"
+  }
+}

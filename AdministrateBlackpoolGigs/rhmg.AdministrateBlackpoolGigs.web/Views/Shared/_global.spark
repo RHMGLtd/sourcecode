@@ -1,0 +1,11 @@
+<use namespace="rhmg.AdministrateBlackpoolGigs.web.Models.ViewModels" />
+<use namespace="rhmg.AdministrateBlackpoolGigs.web.Models" />
+<use namespace="rhmg.AdministrateBlackpoolGigs.web.Urls" />
+<use namespace="blackpoolgigs.common" />
+<use namespace="blackpoolgigs.common.ViewModels" />
+<use namespace ="coolbunny.common.Extensions" />
+
+<use namespace="System.Web.Script.Serialization" />
+<use namespace="System.Linq" />
+<use namespace="System.Web" />
+<use namespace="System" />

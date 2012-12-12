@@ -1,0 +1,22 @@
+{
+  "Id": "metadata/15365",
+  "VenueName": "The Victoria",
+  "MainImageName": "The Victoria.jpg",
+  "BarAndClubReviewsUrl": "",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 721041",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "Church Road",
+      "Lytham St Annes"
+    ],
+    "Website": "",
+    "EmailAddress": null,
+    "PostCode": "FY8 3NE",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.756108",
+    "Long": "-3.020489"
+  }
+}

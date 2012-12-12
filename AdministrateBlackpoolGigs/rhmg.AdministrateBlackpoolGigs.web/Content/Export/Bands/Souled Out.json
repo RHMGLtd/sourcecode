@@ -1,0 +1,97 @@
+{
+  "BandName": {
+    "Value": "Souled Out"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/103428",
+      "BandNames": [
+        {
+          "Value": "Souled Out"
+        }
+      ],
+      "Venue": "The Edge",
+      "Date": "\/Date(1313622000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311946565000+0100)\/",
+      "Edited": "\/Date(1311946565000+0100)\/"
+    },
+    {
+      "Id": "gig/103429",
+      "BandNames": [
+        {
+          "Value": "Souled Out"
+        }
+      ],
+      "Venue": "Uncle Toms Cabin",
+      "Date": "\/Date(1315609200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311946813000+0100)\/",
+      "Edited": "\/Date(1311946813000+0100)\/"
+    },
+    {
+      "Id": "gig/134175",
+      "BandNames": [
+        {
+          "Value": "Souled Out"
+        }
+      ],
+      "Venue": "Uncle Toms Cabin",
+      "Date": "\/Date(1326499200000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326569757000+0000)\/",
+      "Edited": "\/Date(1326569757000+0000)\/"
+    },
+    {
+      "Id": "gig/140344",
+      "BandNames": [
+        {
+          "Value": "Souled Out"
+        }
+      ],
+      "Venue": "Belle View",
+      "Date": "\/Date(1328918400000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327837644000+0000)\/",
+      "Edited": "\/Date(1327837644000+0000)\/"
+    },
+    {
+      "Id": "gig/133141",
+      "BandNames": [
+        {
+          "Value": "Souled Out"
+        }
+      ],
+      "Venue": "The Shovels",
+      "Date": "\/Date(1333148400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326560733000+0000)\/",
+      "Edited": "\/Date(1326560733000+0000)\/"
+    }
+  ]
+}

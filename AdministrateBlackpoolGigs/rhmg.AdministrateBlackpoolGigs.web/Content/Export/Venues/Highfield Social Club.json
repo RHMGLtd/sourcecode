@@ -1,0 +1,98 @@
+{
+  "IsNull": false,
+  "Venue": "Highfield Social Club",
+  "Gigs": [
+    {
+      "Id": "gig/106510",
+      "BandNames": [
+        {
+          "Value": "Backwater"
+        }
+      ],
+      "Venue": "Highfield Social Club",
+      "Date": "\/Date(1318028400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1313047136000+0100)\/",
+      "Edited": "\/Date(1313047136000+0100)\/"
+    },
+    {
+      "Id": "gig/61464",
+      "BandNames": [
+        {
+          "Value": "Thistle"
+        }
+      ],
+      "Venue": "Highfield Social Club",
+      "Date": "\/Date(1331856000000+0000)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307104129000+0100)\/",
+      "Edited": "\/Date(1307104129000+0100)\/"
+    },
+    {
+      "Id": "gig/137221",
+      "BandNames": [
+        {
+          "Value": "Backwater"
+        }
+      ],
+      "Venue": "Highfield Social Club",
+      "Date": "\/Date(1340406000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327313541000+0000)\/",
+      "Edited": "\/Date(1327313541000+0000)\/"
+    }
+  ],
+  "Future": [
+    {
+      "Id": "gig/61464",
+      "BandNames": [
+        {
+          "Value": "Thistle"
+        }
+      ],
+      "Venue": "Highfield Social Club",
+      "Date": "\/Date(1331856000000+0000)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307104129000+0100)\/",
+      "Edited": "\/Date(1307104129000+0100)\/"
+    },
+    {
+      "Id": "gig/137221",
+      "BandNames": [
+        {
+          "Value": "Backwater"
+        }
+      ],
+      "Venue": "Highfield Social Club",
+      "Date": "\/Date(1340406000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327313541000+0000)\/",
+      "Edited": "\/Date(1327313541000+0000)\/"
+    }
+  ]
+}

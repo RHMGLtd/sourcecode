@@ -1,0 +1,23 @@
+{
+  "Id": "metadata/17409",
+  "VenueName": "Hand and Dagger",
+  "MainImageName": "Hand and Dagger.jpg",
+  "BarAndClubReviewsUrl": "",
+  "ContactDetail": {
+    "MainPhoneNumber": "01772 690306",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "Treales Road",
+      "Salwick",
+      "Kirkham"
+    ],
+    "Website": "http://www.handanddagger.com",
+    "EmailAddress": null,
+    "PostCode": "PR4 0SA",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.791025",
+    "Long": "-2.814742"
+  }
+}

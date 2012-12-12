@@ -1,0 +1,23 @@
+{
+  "Id": "metadata/11270",
+  "VenueName": "The Tavern At The Mill",
+  "MainImageName": "The Tavern At The Mill.jpg",
+  "BarAndClubReviewsUrl": "",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 862586",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "Marsh Mill Village",
+      "Fleetwood Road North",
+      "Thornton Cleveleys"
+    ],
+    "Website": "",
+    "EmailAddress": null,
+    "PostCode": "FY5 4JZ",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.874532",
+    "Long": "-3.012271"
+  }
+}

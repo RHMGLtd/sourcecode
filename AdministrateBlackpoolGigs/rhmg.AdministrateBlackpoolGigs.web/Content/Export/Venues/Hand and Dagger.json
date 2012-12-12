@@ -1,0 +1,25 @@
+{
+  "IsNull": false,
+  "Venue": "Hand and Dagger",
+  "Gigs": [
+    {
+      "Id": "gig/82945",
+      "BandNames": [
+        {
+          "Value": "Charlese"
+        }
+      ],
+      "Venue": "Hand and Dagger",
+      "Date": "\/Date(1309561200000+0100)\/",
+      "StartTime": "19:00",
+      "Price": "free",
+      "MoreInfo": "A night of Acoustic Jazz, Soul, Blues & Funky D.I.S.C.O!! \r\nCharlese singing live accompanied by Matthew Shaw. \r\nCHICKEN CURRY SUPPER for just £5!!\r\nhttp://www.facebook.com/HandAndDagger\r\n\r\nAiming to become one of the best Food Destination Pubs the Hand & Dagger enjoys a pretty rural location by the Lancaster Canal at Treales, nr. Kirkham\r\n\r\nTel: 01772 690306",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1309192863000+0100)\/",
+      "Edited": "\/Date(1309192864000+0100)\/"
+    }
+  ],
+  "Future": []
+}

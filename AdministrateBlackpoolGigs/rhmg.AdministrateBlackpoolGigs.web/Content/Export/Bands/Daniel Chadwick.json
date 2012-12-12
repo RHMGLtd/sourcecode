@@ -1,0 +1,64 @@
+{
+  "BandName": {
+    "Value": "Daniel Chadwick"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/16389",
+      "BandNames": [
+        {
+          "Value": "OneFourThree"
+        },
+        {
+          "Value": "Jake Mulgrew"
+        },
+        {
+          "Value": "The Delerium"
+        },
+        {
+          "Value": "Solvent Free"
+        },
+        {
+          "Value": "Sour Sunrise"
+        },
+        {
+          "Value": "Lauren Hope"
+        },
+        {
+          "Value": "Daniel Chadwick"
+        },
+        {
+          "Value": "Rumour Of The Aces"
+        },
+        {
+          "Value": "Danny King"
+        },
+        {
+          "Value": "The Colours"
+        },
+        {
+          "Value": "Sam King"
+        },
+        {
+          "Value": "Finesse"
+        },
+        {
+          "Value": "Don't Start Fires"
+        },
+        {
+          "Value": "Phoenixx"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1306710000000+0100)\/",
+      "StartTime": "13.00",
+      "Price": "£3.00",
+      "MoreInfo": "'All Inclusive' gig (in aid of Phoenix Youth Theatre) Monday 30 May 2011 from 1.00pm onwards at The Cedar Tavern Blackpool Looking for something different to do on Bank Holiday Monday? Why not come along to the Cedar Tavern in Blackpool and give your support to some of our local young bands and artists as they fundraise for Phoenix Youth Theatre? The days events kick off at 1pm and bands such as OneFourThree, The Colours, Triple Threat, Solvent Free and others will be giving their time to perform. Entry to the event is just £3.00 (£3.50 on the door). Tickets can be purchased from the performing bands or direct from the venue. For further info, or if you have a band that would like to play, please contact Tina on 07891552480 or leave us a message. Look forward to seeing you all there! :D",
+      "GigTitle": "Phoenix Youth Theatre Gig",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1304118000000+0100)\/",
+      "Edited": "\/Date(1310494048000+0100)\/"
+    }
+  ]
+}

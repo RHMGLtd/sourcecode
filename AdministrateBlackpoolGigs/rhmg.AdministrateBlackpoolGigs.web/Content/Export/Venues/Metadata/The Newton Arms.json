@@ -1,0 +1,23 @@
+{
+  "Id": "metadata/13316",
+  "VenueName": "The Newton Arms",
+  "MainImageName": "The Newton Arms.jpg",
+  "BarAndClubReviewsUrl": "",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 397296",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "Staining Road",
+      "Normoss",
+      "Blackpool"
+    ],
+    "Website": "",
+    "EmailAddress": null,
+    "PostCode": "FY3 0AJ",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.827572",
+    "Long": "-3.005962"
+  }
+}

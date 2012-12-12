@@ -1,0 +1,25 @@
+{
+  "BandName": {
+    "Value": "Mike and The Mechanics"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/2060",
+      "BandNames": [
+        {
+          "Value": "Mike and The Mechanics"
+        }
+      ],
+      "Venue": "Blackpool Opera House",
+      "Date": "\/Date(1305932400000+0100)\/",
+      "StartTime": "19:00",
+      "Price": "unknown",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303599600000+0100)\/",
+      "Edited": "\/Date(1303599600000+0100)\/"
+    }
+  ]
+}

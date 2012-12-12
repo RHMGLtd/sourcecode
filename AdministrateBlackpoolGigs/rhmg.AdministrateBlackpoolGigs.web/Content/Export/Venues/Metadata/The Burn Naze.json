@@ -1,0 +1,22 @@
+{
+  "Id": "metadata/9218",
+  "VenueName": "The Burn Naze",
+  "MainImageName": "The Burn Naze.JPG",
+  "BarAndClubReviewsUrl": "",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 852954",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "Gamble Road",
+      "Thornton-Cleveleys"
+    ],
+    "Website": "",
+    "EmailAddress": null,
+    "PostCode": "FY5 4JF",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.887496",
+    "Long": "-3.010125"
+  }
+}

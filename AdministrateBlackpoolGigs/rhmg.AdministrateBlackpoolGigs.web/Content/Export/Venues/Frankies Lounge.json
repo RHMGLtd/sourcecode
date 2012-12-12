@@ -1,0 +1,43 @@
+{
+  "IsNull": false,
+  "Venue": "Frankies Lounge",
+  "Gigs": [
+    {
+      "Id": "gig/104449",
+      "BandNames": [
+        {
+          "Value": "The Deadbeats"
+        }
+      ],
+      "Venue": "Frankies Lounge",
+      "Date": "\/Date(1313017200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1312116676000+0100)\/",
+      "Edited": "\/Date(1312116676000+0100)\/"
+    },
+    {
+      "Id": "gig/116763",
+      "BandNames": [
+        {
+          "Value": "On The Edge"
+        }
+      ],
+      "Venue": "Frankies Lounge",
+      "Date": "\/Date(1317250800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315139982000+0100)\/",
+      "Edited": "\/Date(1315139982000+0100)\/"
+    }
+  ],
+  "Future": []
+}

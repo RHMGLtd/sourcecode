@@ -1,0 +1,22 @@
+{
+  "Id": "metadata/6153",
+  "VenueName": "The Grapevine",
+  "MainImageName": "The Grapevine.jpg",
+  "BarAndClubReviewsUrl": "http://www.bar-and-club-reviews.com/bars/77457-the-grapevine",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 896700",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "21 Market Place",
+      "Poulton-Le-Fylde"
+    ],
+    "Website": "",
+    "EmailAddress": null,
+    "PostCode": "FY6 7AS",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.84648",
+    "Long": "-2.992233"
+  }
+}

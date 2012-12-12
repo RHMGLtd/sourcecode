@@ -1,0 +1,24 @@
+{
+  "Id": "metadata/13313",
+  "VenueName": "Blackpool Rugby Club",
+  "MainImageName": null,
+  "BarAndClubReviewsUrl": "",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 824456",
+    "SecondaryPhoneNumbers": [
+      "01253 853308"
+    ],
+    "AddressLines": [
+      "Fleetwood Road",
+      "Bispham"
+    ],
+    "Website": "",
+    "EmailAddress": null,
+    "PostCode": "FY5 1RN",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.857045",
+    "Long": "-3.014481"
+  }
+}

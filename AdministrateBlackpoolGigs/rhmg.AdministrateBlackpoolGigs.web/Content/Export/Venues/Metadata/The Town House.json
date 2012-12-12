@@ -1,0 +1,21 @@
+{
+  "Id": "metadata/2066",
+  "VenueName": "The Town House",
+  "MainImageName": null,
+  "BarAndClubReviewsUrl": "http://www.bar-and-club-reviews.com/bars/77472-the-town-house",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 751880",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "20 Lytham Road"
+    ],
+    "Website": "",
+    "EmailAddress": null,
+    "PostCode": "FY1 6DX",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.806828",
+    "Long": "-3.054564"
+  }
+}

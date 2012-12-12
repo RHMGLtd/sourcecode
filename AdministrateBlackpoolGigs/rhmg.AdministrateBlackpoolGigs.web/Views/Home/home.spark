@@ -1,0 +1,31 @@
+<viewdata model="HomeViewModel" />
+
+<content name="title">
+  Administrate Blackpool Gigs
+</content>
+<content name="body">
+  <div class="wrapper">
+    <div class="pageTitle">
+      <img src="content/images/Blackpool Gigs Logo - The place to find out about gigs in Blackpool Lancashire.png"></img>
+    </div>
+    <div>
+      there are currently !{Model.Gigs} standard gigs, !{Model.RepeatingGigs} repeating gigs and !{Model.StolenGear} stolen pieces
+      of gear in the system.
+    </div>
+    <hr />
+    <div>
+      <a href="!{new AddUrl()}">Add new gig</a> ::
+      <a href="!{new AddRepeatingGigUrl()}">Add new repeating gig</a> ::
+      <a href="!{new AddStolenGearUrl()}">Add new stolen gear</a>
+      <hr />
+      <a href="!{new ListUrl()}">View List of Gigs</a> ::
+      <a href="!{new RepeatingGigsUrl()}">View List of Repeating Gigs</a> ::
+      <a href="!{new VenuesUrl()}">View List of Venues</a> ::
+      <a href="!{new StolenGearListUrl()}">View List of Stolen Gear</a>
+      <hr />
+      <a href="!{new ExportUrl()}">Export</a> ::
+      <a href="!{new AdminPanelUrl()}">Admin Panel</a> ::
+      <a href="!{new BandsUrl()}">Bands</a>
+    </div>
+  </div>
+</content>

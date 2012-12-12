@@ -1,0 +1,37 @@
+<viewdata model="VenuesViewModel model" />
+<content name="title">
+  Administrate Blackpool Gigs : Venues List
+</content>
+<content name="body">
+  <div>
+    <a href="!{new HomeUrl()}">HOME</a>
+    <div class="pager">
+      <a class="navLink" if="model.Params.PageNumber != 1" href="!{new VenuesUrl() { SortColumn = model.Params.SortColumn, SortOrder = model.Params.SortOrder, PageSize = model.Params.PageSize, PageNumber = model.Params.PageNumber - 1 }}">
+        go back a page
+      </a>
+      <span class ="text">you are currently on page !{model.Venues.CurrentPageNumber} of !{model.Venues.NumberOfPages} and you are viewing !{model.Venues.Results.Count()} of a total of !{model.Venues.TotalNumberOfRecords} venues.</span>
+      <a class="navLink" if="model.Params.PageNumber != model.Venues.NumberOfPages" href="!{new VenuesUrl() { SortColumn = model.Params.SortColumn, SortOrder = model.Params.SortOrder, PageSize = model.Params.PageSize, PageNumber = model.Params.PageNumber + 1 }}">
+        go forward a page
+      </a>
+    </div>
+    <hr />
+    <div class="addItem" each ="var venue in model.Venues.Results">
+      <div class="venueName">!{venue.Diary.Venue} (!{venue.Diary.Gigs.Count()})</div>
+      <div class="metadataImages">
+        <span if="venue.Metadata.IsEmpty()">no metadata</span>
+        <img if="!string.IsNullOrEmpty(venue.Metadata.ContactDetail.ContactName)" src="~/content/images/icons/little-contact-person.png" title="has a contact person"></img>
+        <img if="!string.IsNullOrEmpty(venue.Metadata.ContactDetail.EmailAddress)" src="~/content/images/icons/little-email.png" title="has an email"></img>
+        <img if="venue.Metadata.ContactDetail.AddressLines.Any()" src="~/content/images/icons/little-house.png" title="has !{venue.Metadata.ContactDetail.AddressLines.Count()} address lines"></img>
+        <img if="!string.IsNullOrEmpty(venue.Metadata.ContactDetail.PostCode)" src="~/content/images/icons/little-house.png" title="has a postcode"></img>
+        <img if="!string.IsNullOrEmpty(venue.Metadata.ContactDetail.MainPhoneNumber)" src="~/content/images/icons/little-phone.png" title="has a main phone number"></img>
+        <img if="!string.IsNullOrEmpty(venue.Metadata.ContactDetail.Website)" src="~/content/images/icons/little-www.png" title="has a website"></img>
+        <img if="!venue.Metadata.MapCoords.IsEmpty()" src="~/content/images/icons/little-tick.png" title="has google map coords"></img>
+        <span if="!string.IsNullOrEmpty(venue.Metadata.BarAndClubReviewsUrl)" title="has bar and club reviews url" style="color: red; background-color: grey; font-weight: bold; font-size: 1.3em; padding: 0px 3px;">B</span>
+        <img if="!string.IsNullOrEmpty(venue.Metadata.MainImageName)" src="~/content/images/icons/little-camera.png" title="has an image">
+          </img>
+      
+      </div>
+      <a href="!{new EditVenueUrl(){VenueName = venue.Diary.Venue}}">edit</a>
+    </div>
+  </div>
+</content>

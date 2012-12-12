@@ -1,0 +1,43 @@
+{
+  "BandName": {
+    "Value": "Jazz Aces"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/99355",
+      "BandNames": [
+        {
+          "Value": "Jazz Aces"
+        }
+      ],
+      "Venue": "Station Tavern",
+      "Date": "\/Date(1312239600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311707914000+0100)\/",
+      "Edited": "\/Date(1311707914000+0100)\/"
+    },
+    {
+      "Id": "gig/116821",
+      "BandNames": [
+        {
+          "Value": "Jazz Aces"
+        }
+      ],
+      "Venue": "Station Tavern",
+      "Date": "\/Date(1315263600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315142189000+0100)\/",
+      "Edited": "\/Date(1315142189000+0100)\/"
+    }
+  ]
+}

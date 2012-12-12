@@ -1,0 +1,43 @@
+{
+  "BandName": {
+    "Value": "DJ Moyma"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/96257",
+      "BandNames": [
+        {
+          "Value": "Liam Bland"
+        },
+        {
+          "Value": "The Colours"
+        },
+        {
+          "Value": "Jekyll"
+        },
+        {
+          "Value": "Last Breath"
+        },
+        {
+          "Value": "The Original Zip"
+        },
+        {
+          "Value": "The Underachievers"
+        },
+        {
+          "Value": "DJ Moyma"
+        }
+      ],
+      "Venue": "Marine Hall",
+      "Date": "\/Date(1311375600000+0100)\/",
+      "StartTime": "19:00",
+      "Price": "£6.00",
+      "MoreInfo": null,
+      "GigTitle": "Battle of the Bands",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311271475000+0100)\/",
+      "Edited": "\/Date(1311272282000+0100)\/"
+    }
+  ]
+}

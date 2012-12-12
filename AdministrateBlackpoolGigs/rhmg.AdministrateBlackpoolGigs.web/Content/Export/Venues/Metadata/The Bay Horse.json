@@ -1,0 +1,22 @@
+{
+  "Id": "metadata/15362",
+  "VenueName": "The Bay Horse",
+  "MainImageName": "The Bay Horse.jpg",
+  "BarAndClubReviewsUrl": "",
+  "ContactDetail": {
+    "MainPhoneNumber": null,
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "1 Station Road",
+      "Thornton-Cleveleys"
+    ],
+    "Website": "",
+    "EmailAddress": null,
+    "PostCode": "FY5 5HY",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.871113",
+    "Long": "-2.997964"
+  }
+}

@@ -1,0 +1,4292 @@
+{
+  "FirstDayOfMonth": "\/Date(1312153200000+0100)\/",
+  "Lines": [
+    {
+      "Entries": [
+        {
+          "Date": "\/Date(1312153200000+0100)\/",
+          "Gigs": [
+            {
+              "Id": "gig/94215",
+              "BandNames": [],
+              "Venue": "The Victoria",
+              "Date": "\/Date(1312153200000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": "OPEN MIC NIGHT - EVERYONE IS WELCOME - BRING YOUR FRIENDS!\r\nALL ABILITIES - ANY STYLE OF MUSIC - ANY INSTRUMENT\r\n...IF YOU ARE A BEGINNER THIS IS THE IDEAL NIGHT FOR YOU",
+              "GigTitle": "Singing By The Seaside",
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311140480000+0100)\/",
+              "Edited": "\/Date(1311140480000+0100)\/"
+            },
+            {
+              "Id": null,
+              "BandNames": [],
+              "Venue": "The Galleon",
+              "Date": "\/Date(1312153200000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": "We welcome ALL creative talent. Come along to our Mad Monday open Mic sessions - you could end up with a paid gig by the end of the week",
+              "GigTitle": "Mad Monday open Mic session",
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1307877103000+0100)\/",
+              "Edited": "\/Date(1307877103000+0100)\/"
+            }
+          ]
+        },
+        {
+          "Date": "\/Date(1312239600000+0100)\/",
+          "Gigs": [
+            {
+              "Id": "gig/99355",
+              "BandNames": [
+                {
+                  "Value": "Jazz Aces"
+                }
+              ],
+              "Venue": "Station Tavern",
+              "Date": "\/Date(1312239600000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311707914000+0100)\/",
+              "Edited": "\/Date(1311707914000+0100)\/"
+            },
+            {
+              "Id": "gig/100353",
+              "BandNames": [
+                {
+                  "Value": "The Swing Sound"
+                },
+                {
+                  "Value": "The Nemesis Sound"
+                }
+              ],
+              "Venue": "The Galleon",
+              "Date": "\/Date(1312239600000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": "Guest musicians welcome to join the band. We have poached Mr JOHN ELLIS (Jazz Piano) from Manchester join us in Blackpool TOP GUY!!",
+              "GigTitle": "A BIG MUSIC TRIBUTE NIGHT TO ERIC DELANEY",
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311715097000+0100)\/",
+              "Edited": "\/Date(1311715098000+0100)\/"
+            },
+            {
+              "Id": null,
+              "BandNames": [],
+              "Venue": "The Blue Room",
+              "Date": "\/Date(1312239600000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": "The Blue Room new Open Mic Night every Tuesday evening! There will be Acoustic and mics set up all night for players to get up!",
+              "GigTitle": "Open Mic Night!",
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1306484438000+0100)\/",
+              "Edited": "\/Date(1306484439000+0100)\/"
+            }
+          ]
+        },
+        {
+          "Date": "\/Date(1312326000000+0100)\/",
+          "Gigs": [
+            {
+              "Id": "gig/2053",
+              "BandNames": [
+                {
+                  "Value": "Inner Terrestrials"
+                },
+                {
+                  "Value": "Drongos for Europe"
+                },
+                {
+                  "Value": "2 Sick Monkeys"
+                },
+                {
+                  "Value": "Rasta4Eyes"
+                }
+              ],
+              "Venue": "Beat",
+              "Date": "\/Date(1312326000000+0100)\/",
+              "StartTime": "19:00",
+              "Price": "£5.00",
+              "MoreInfo": "Foot Loose Promo presents:\r\n\r\nREBELLION FESTIVAL WARM-UP SHOW!\r\nAs usual, we're doing our annual warm-up to Rebellion the day before Rebellion in Blackpool for everyone who travels up early.\r\nThis year so far we have confirmed:\r\n\r\nINNER TERRESTRIALS\r\nAll the way from Devon(/London), perhaps the best dub-punk band this country has ever seen. Singer Jay plays in Suicide Bid.\r\n\r\nDRONGOS FOR EUROPE\r\nNeed no introduction, legends in their own right.\r\n\r\n2 SICK MONKEYS\r\nOne bass player and one drummer never sounded so good. Comical punk duo who tour so hard they are one of the hardest working bands in the UK\r\n\r\nRASTA4EYES\r\nSt. Helens based ska band on Do The Dog Records\r\n\r\n+more TBC",
+              "GigTitle": "Rebellion Festival Warm-up Party",
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1304290800000+0100)\/",
+              "Edited": "\/Date(1304290800000+0100)\/"
+            },
+            {
+              "Id": "gig/93186",
+              "BandNames": [],
+              "Venue": "The Breck Club",
+              "Date": "\/Date(1312326000000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": "Acoustic/open mic nights. 1st Weds in every month. Free admission 8pm until 12am. This event, run by Andy Hall is becoming very popular, so get there early to reserve your spot!",
+              "GigTitle": "Jam Night at The Breck Club",
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1310494365000+0100)\/",
+              "Edited": "\/Date(1310494365000+0100)\/"
+            },
+            {
+              "Id": "gig/103437",
+              "BandNames": [
+                {
+                  "Value": "Jazz Knights"
+                }
+              ],
+              "Venue": "The Cedar Tavern",
+              "Date": "\/Date(1312326000000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311947421000+0100)\/",
+              "Edited": "\/Date(1311947421000+0100)\/"
+            }
+          ]
+        },
+        {
+          "Date": "\/Date(1312412400000+0100)\/",
+          "Gigs": [
+            {
+              "Id": "gig/2054",
+              "BandNames": [
+                {
+                  "Value": "UFX"
+                },
+                {
+                  "Value": "Cyanide Pills"
+                },
+                {
+                  "Value": "Litterbug"
+                },
+                {
+                  "Value": "Tight Finks"
+                }
+              ],
+              "Venue": "Beat",
+              "Date": "\/Date(1312412400000+0100)\/",
+              "StartTime": "22:00",
+              "Price": "unknown",
+              "MoreInfo": null,
+              "GigTitle": "Rebellion Festival After Show Party",
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1304290800000+0100)\/",
+              "Edited": "\/Date(1304290800000+0100)\/"
+            },
+            {
+              "Id": "gig/19466",
+              "BandNames": [
+                {
+                  "Value": "Ska Face"
+                }
+              ],
+              "Venue": "The Sands",
+              "Date": "\/Date(1312412400000+0100)\/",
+              "StartTime": "21:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1303513200000+0100)\/",
+              "Edited": "\/Date(1303513200000+0100)\/"
+            },
+            {
+              "Id": "gig/61492",
+              "BandNames": [
+                {
+                  "Value": "Dragster"
+                },
+                {
+                  "Value": "Hotwired Punk Band"
+                },
+                {
+                  "Value": "Drongos for Europe"
+                }
+              ],
+              "Venue": "Winter Gardens",
+              "Date": "\/Date(1312412400000+0100)\/",
+              "StartTime": "10:00",
+              "Price": "unknown",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1307104991000+0100)\/",
+              "Edited": "\/Date(1307105044000+0100)\/"
+            },
+            {
+              "Id": "gig/39948",
+              "BandNames": [
+                {
+                  "Value": "Mauri Clash City Rocker"
+                }
+              ],
+              "Venue": "The Galleon",
+              "Date": "\/Date(1312412400000+0100)\/",
+              "StartTime": "16:00",
+              "Price": "Free",
+              "MoreInfo": null,
+              "GigTitle": "Mauri Clash City Rocker - Acoustic Riot - Blackpool Tour 2011",
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1306335175000+0100)\/",
+              "Edited": "\/Date(1307877176000+0100)\/"
+            },
+            {
+              "Id": "gig/99329",
+              "BandNames": [
+                {
+                  "Value": "Paul Darran"
+                }
+              ],
+              "Venue": "Uncle Toms Cabin",
+              "Date": "\/Date(1312412400000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311707216000+0100)\/",
+              "Edited": "\/Date(1311707217000+0100)\/"
+            },
+            {
+              "Id": "gig/99378",
+              "BandNames": [
+                {
+                  "Value": "Billy Nomates"
+                }
+              ],
+              "Venue": "The Cedar Tavern",
+              "Date": "\/Date(1312412400000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311708478000+0100)\/",
+              "Edited": "\/Date(1311708478000+0100)\/"
+            },
+            {
+              "Id": "gig/99386",
+              "BandNames": [
+                {
+                  "Value": "Flip"
+                }
+              ],
+              "Venue": "The Grapevine",
+              "Date": "\/Date(1312412400000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311708724000+0100)\/",
+              "Edited": "\/Date(1311708724000+0100)\/"
+            },
+            {
+              "Id": "gig/99391",
+              "BandNames": [
+                {
+                  "Value": "The Keytars"
+                }
+              ],
+              "Venue": "The Edge",
+              "Date": "\/Date(1312412400000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311708856000+0100)\/",
+              "Edited": "\/Date(1311708856000+0100)\/"
+            }
+          ]
+        },
+        {
+          "Date": "\/Date(1312498800000+0100)\/",
+          "Gigs": [
+            {
+              "Id": "gig/2055",
+              "BandNames": [
+                {
+                  "Value": "The Dead Class"
+                },
+                {
+                  "Value": "Population"
+                },
+                {
+                  "Value": "Radio Dead Ones"
+                },
+                {
+                  "Value": "Billy Liar"
+                }
+              ],
+              "Venue": "Beat",
+              "Date": "\/Date(1312498800000+0100)\/",
+              "StartTime": "22:00",
+              "Price": "unknown",
+              "MoreInfo": null,
+              "GigTitle": "Rebellion Festival After Show Party",
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1303772400000+0100)\/",
+              "Edited": "\/Date(1303772400000+0100)\/"
+            },
+            {
+              "Id": "gig/16392",
+              "BandNames": [
+                {
+                  "Value": "The Versions"
+                }
+              ],
+              "Venue": "The Hop Inn",
+              "Date": "\/Date(1312498800000+0100)\/",
+              "StartTime": "20:30",
+              "Price": "Free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1304290800000+0100)\/",
+              "Edited": "\/Date(1305538092000+0100)\/"
+            },
+            {
+              "Id": "gig/61472",
+              "BandNames": [
+                {
+                  "Value": "The Kommitments"
+                }
+              ],
+              "Venue": "The Sands",
+              "Date": "\/Date(1312498800000+0100)\/",
+              "StartTime": "21:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1307104456000+0100)\/",
+              "Edited": "\/Date(1307104456000+0100)\/"
+            },
+            {
+              "Id": "gig/39949",
+              "BandNames": [
+                {
+                  "Value": "Mauri Clash City Rocker"
+                }
+              ],
+              "Venue": "Stanley Park",
+              "Date": "\/Date(1312498800000+0100)\/",
+              "StartTime": "14:00",
+              "Price": "Free",
+              "MoreInfo": null,
+              "GigTitle": "Mauri Clash City Rocker - Acoustic Riot - Blackpool Tour 2011",
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1306335310000+0100)\/",
+              "Edited": "\/Date(1307877222000+0100)\/"
+            },
+            {
+              "Id": "gig/97282",
+              "BandNames": [
+                {
+                  "Value": "The Senton Bombs"
+                },
+                {
+                  "Value": "Dinosaurs Are Shit Dragons"
+                },
+                {
+                  "Value": "Cowards"
+                },
+                {
+                  "Value": "Litterbug"
+                }
+              ],
+              "Venue": "The Blue Room",
+              "Date": "\/Date(1312498800000+0100)\/",
+              "StartTime": "20:30",
+              "Price": "£1.00",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311511123000+0100)\/",
+              "Edited": "\/Date(1311511123000+0100)\/"
+            },
+            {
+              "Id": "gig/99330",
+              "BandNames": [
+                {
+                  "Value": "Brother Rabbit"
+                }
+              ],
+              "Venue": "Uncle Toms Cabin",
+              "Date": "\/Date(1312498800000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311707287000+0100)\/",
+              "Edited": "\/Date(1311707287000+0100)\/"
+            },
+            {
+              "Id": "gig/99341",
+              "BandNames": [
+                {
+                  "Value": "State Of Quo"
+                }
+              ],
+              "Venue": "The Hansom Cab",
+              "Date": "\/Date(1312498800000+0100)\/",
+              "StartTime": "14:00",
+              "Price": "unknown",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311707624000+0100)\/",
+              "Edited": "\/Date(1311707624000+0100)\/"
+            },
+            {
+              "Id": "gig/99349",
+              "BandNames": [
+                {
+                  "Value": "Magic Trees"
+                }
+              ],
+              "Venue": "The Raikes Hall",
+              "Date": "\/Date(1312498800000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311707804000+0100)\/",
+              "Edited": "\/Date(1311707804000+0100)\/"
+            },
+            {
+              "Id": "gig/99356",
+              "BandNames": [
+                {
+                  "Value": "Whatever"
+                }
+              ],
+              "Venue": "Station Tavern",
+              "Date": "\/Date(1312498800000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311707971000+0100)\/",
+              "Edited": "\/Date(1311707971000+0100)\/"
+            },
+            {
+              "Id": "gig/99369",
+              "BandNames": [
+                {
+                  "Value": "The Jeps"
+                }
+              ],
+              "Venue": "The Venue",
+              "Date": "\/Date(1312498800000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311708285000+0100)\/",
+              "Edited": "\/Date(1311708285000+0100)\/"
+            },
+            {
+              "Id": "gig/99379",
+              "BandNames": [
+                {
+                  "Value": "Billy Nomates"
+                }
+              ],
+              "Venue": "Bispham Conservative Club",
+              "Date": "\/Date(1312498800000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311708510000+0100)\/",
+              "Edited": "\/Date(1311708510000+0100)\/"
+            },
+            {
+              "Id": "gig/99387",
+              "BandNames": [
+                {
+                  "Value": "Flip"
+                }
+              ],
+              "Venue": "The Olive Tree",
+              "Date": "\/Date(1312498800000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311708764000+0100)\/",
+              "Edited": "\/Date(1311708764000+0100)\/"
+            },
+            {
+              "Id": "gig/99392",
+              "BandNames": [
+                {
+                  "Value": "The Keytars"
+                }
+              ],
+              "Venue": "The Cube",
+              "Date": "\/Date(1312498800000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311708879000+0100)\/",
+              "Edited": "\/Date(1311708879000+0100)\/"
+            },
+            {
+              "Id": "gig/99407",
+              "BandNames": [
+                {
+                  "Value": "Twisted Romance"
+                }
+              ],
+              "Venue": "Burlington",
+              "Date": "\/Date(1312498800000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311709543000+0100)\/",
+              "Edited": "\/Date(1311709543000+0100)\/"
+            },
+            {
+              "Id": "gig/99411",
+              "BandNames": [
+                {
+                  "Value": "The Jeps"
+                }
+              ],
+              "Venue": "The Venue",
+              "Date": "\/Date(1312498800000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311709725000+0100)\/",
+              "Edited": "\/Date(1311709725000+0100)\/"
+            },
+            {
+              "Id": "gig/99416",
+              "BandNames": [
+                {
+                  "Value": "The Horn"
+                }
+              ],
+              "Venue": "The Hop Inn",
+              "Date": "\/Date(1312498800000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311709834000+0100)\/",
+              "Edited": "\/Date(1311709834000+0100)\/"
+            },
+            {
+              "Id": "gig/103438",
+              "BandNames": [
+                {
+                  "Value": "Niall"
+                }
+              ],
+              "Venue": "The Cedar Tavern",
+              "Date": "\/Date(1312498800000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311947529000+0100)\/",
+              "Edited": "\/Date(1311947529000+0100)\/"
+            },
+            {
+              "Id": null,
+              "BandNames": [
+                {
+                  "Value": "The Nemesis Sound"
+                }
+              ],
+              "Venue": "The Galleon",
+              "Date": "\/Date(1312498800000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1307877053000+0100)\/",
+              "Edited": "\/Date(1307877053000+0100)\/"
+            }
+          ]
+        },
+        {
+          "Date": "\/Date(1312585200000+0100)\/",
+          "Gigs": [
+            {
+              "Id": "gig/2056",
+              "BandNames": [
+                {
+                  "Value": "The Senton Bombs"
+                },
+                {
+                  "Value": "Pete Bentham & the Dinner Ladies"
+                },
+                {
+                  "Value": "Monica & the Explosion"
+                },
+                {
+                  "Value": "The Duel"
+                }
+              ],
+              "Venue": "Beat",
+              "Date": "\/Date(1312585200000+0100)\/",
+              "StartTime": "22:00",
+              "Price": "unknown",
+              "MoreInfo": null,
+              "GigTitle": "Rebellion Festival After Show Party",
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1304031600000+0100)\/",
+              "Edited": "\/Date(1304031600000+0100)\/"
+            },
+            {
+              "Id": "gig/32777",
+              "BandNames": [
+                {
+                  "Value": "The Coustics"
+                }
+              ],
+              "Venue": "The North Euston",
+              "Date": "\/Date(1312585200000+0100)\/",
+              "StartTime": "21:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1305544102000+0100)\/",
+              "Edited": "\/Date(1305544102000+0100)\/"
+            },
+            {
+              "Id": "gig/34825",
+              "BandNames": [
+                {
+                  "Value": "The Colours"
+                },
+                {
+                  "Value": "Mitford Rebel"
+                },
+                {
+                  "Value": "Rockburn"
+                }
+              ],
+              "Venue": "The Blue Room",
+              "Date": "\/Date(1312585200000+0100)\/",
+              "StartTime": "20:30",
+              "Price": "£1.00",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1305654752000+0100)\/",
+              "Edited": "\/Date(1305655442000+0100)\/"
+            },
+            {
+              "Id": "gig/61453",
+              "BandNames": [
+                {
+                  "Value": "The Versions"
+                }
+              ],
+              "Venue": "The Newton Arms",
+              "Date": "\/Date(1312585200000+0100)\/",
+              "StartTime": "21:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1307103349000+0100)\/",
+              "Edited": "\/Date(1307103349000+0100)\/"
+            },
+            {
+              "Id": "gig/96258",
+              "BandNames": [
+                {
+                  "Value": "Last Breath"
+                }
+              ],
+              "Venue": "The Loft",
+              "Date": "\/Date(1312585200000+0100)\/",
+              "StartTime": "19:00",
+              "Price": "unknown",
+              "MoreInfo": null,
+              "GigTitle": "Flanders Fest",
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311271578000+0100)\/",
+              "Edited": "\/Date(1311271578000+0100)\/"
+            },
+            {
+              "Id": "gig/99331",
+              "BandNames": [
+                {
+                  "Value": "The Heat"
+                }
+              ],
+              "Venue": "Uncle Toms Cabin",
+              "Date": "\/Date(1312585200000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311707307000+0100)\/",
+              "Edited": "\/Date(1311707307000+0100)\/"
+            },
+            {
+              "Id": "gig/99338",
+              "BandNames": [
+                {
+                  "Value": "Gatorville"
+                }
+              ],
+              "Venue": "Belle View",
+              "Date": "\/Date(1312585200000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311707500000+0100)\/",
+              "Edited": "\/Date(1311707500000+0100)\/"
+            },
+            {
+              "Id": "gig/99342",
+              "BandNames": [
+                {
+                  "Value": "Stiff"
+                }
+              ],
+              "Venue": "The Hansom Cab",
+              "Date": "\/Date(1312585200000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311707664000+0100)\/",
+              "Edited": "\/Date(1311707664000+0100)\/"
+            },
+            {
+              "Id": "gig/99350",
+              "BandNames": [
+                {
+                  "Value": "Nick Unlimited"
+                }
+              ],
+              "Venue": "The Raikes Hall",
+              "Date": "\/Date(1312585200000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311707823000+0100)\/",
+              "Edited": "\/Date(1311707823000+0100)\/"
+            },
+            {
+              "Id": "gig/99357",
+              "BandNames": [
+                {
+                  "Value": "Crush"
+                }
+              ],
+              "Venue": "Station Tavern",
+              "Date": "\/Date(1312585200000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311707987000+0100)\/",
+              "Edited": "\/Date(1311707987000+0100)\/"
+            },
+            {
+              "Id": "gig/99370",
+              "BandNames": [
+                {
+                  "Value": "The Good Machine"
+                }
+              ],
+              "Venue": "The Venue",
+              "Date": "\/Date(1312585200000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311708302000+0100)\/",
+              "Edited": "\/Date(1311708302000+0100)\/"
+            },
+            {
+              "Id": "gig/99393",
+              "BandNames": [
+                {
+                  "Value": "The Keytars"
+                }
+              ],
+              "Venue": "Old Town Hall",
+              "Date": "\/Date(1312585200000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311708904000+0100)\/",
+              "Edited": "\/Date(1311708904000+0100)\/"
+            },
+            {
+              "Id": "gig/99404",
+              "BandNames": [
+                {
+                  "Value": "Rupert Fabulous"
+                }
+              ],
+              "Venue": "The Royal Oak",
+              "Date": "\/Date(1312585200000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311709375000+0100)\/",
+              "Edited": "\/Date(1311709375000+0100)\/"
+            },
+            {
+              "Id": "gig/99418",
+              "BandNames": [
+                {
+                  "Value": "Magic Trees"
+                }
+              ],
+              "Venue": "The Town House",
+              "Date": "\/Date(1312585200000+0100)\/",
+              "StartTime": "22:00",
+              "Price": "£3.00",
+              "MoreInfo": "After Hours Party. Tickets are £3 and must be purchased in advance.",
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311709894000+0100)\/",
+              "Edited": "\/Date(1311709894000+0100)\/"
+            },
+            {
+              "Id": "gig/99422",
+              "BandNames": [
+                {
+                  "Value": "Lune Deep"
+                }
+              ],
+              "Venue": "The Queens, Fleetwood",
+              "Date": "\/Date(1312585200000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311710078000+0100)\/",
+              "Edited": "\/Date(1311710078000+0100)\/"
+            },
+            {
+              "Id": "gig/100354",
+              "BandNames": [
+                {
+                  "Value": "The Blue Pig Orchestra"
+                }
+              ],
+              "Venue": "The Strawberry Gardens",
+              "Date": "\/Date(1312585200000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": "Blue Pigs playing an Acoustic gig- Covers Originals Stu's double bass- looking forward to this one!",
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311715435000+0100)\/",
+              "Edited": "\/Date(1311715435000+0100)\/"
+            },
+            {
+              "Id": "gig/101378",
+              "BandNames": [
+                {
+                  "Value": "CSOD"
+                },
+                {
+                  "Value": "Barnyard Masturbator"
+                },
+                {
+                  "Value": "The Temps"
+                },
+                {
+                  "Value": "Inner Temple"
+                }
+              ],
+              "Venue": "The Cedar Tavern",
+              "Date": "\/Date(1312585200000+0100)\/",
+              "StartTime": "19:30",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311835175000+0100)\/",
+              "Edited": "\/Date(1311835175000+0100)\/"
+            },
+            {
+              "Id": "gig/102401",
+              "BandNames": [
+                {
+                  "Value": "The TC Allstars"
+                }
+              ],
+              "Venue": "The Cedar Tavern",
+              "Date": "\/Date(1312585200000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311933842000+0100)\/",
+              "Edited": "\/Date(1311933842000+0100)\/"
+            },
+            {
+              "Id": "gig/103430",
+              "BandNames": [],
+              "Venue": "Scruffy Murphys",
+              "Date": "\/Date(1312585200000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311947178000+0100)\/",
+              "Edited": "\/Date(1311947178000+0100)\/"
+            },
+            {
+              "Id": "gig/103435",
+              "BandNames": [
+                {
+                  "Value": "Lune Deep"
+                }
+              ],
+              "Venue": "The Queens, Fleetwood",
+              "Date": "\/Date(1312585200000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311947343000+0100)\/",
+              "Edited": "\/Date(1311947343000+0100)\/"
+            },
+            {
+              "Id": "gig/103439",
+              "BandNames": [
+                {
+                  "Value": "The TC Allstars"
+                }
+              ],
+              "Venue": "The Cedar Tavern",
+              "Date": "\/Date(1312585200000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311947554000+0100)\/",
+              "Edited": "\/Date(1311947554000+0100)\/"
+            },
+            {
+              "Id": null,
+              "BandNames": [
+                {
+                  "Value": "The Nemesis Sound"
+                }
+              ],
+              "Venue": "The Galleon",
+              "Date": "\/Date(1312585200000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1307877053000+0100)\/",
+              "Edited": "\/Date(1307877053000+0100)\/"
+            }
+          ]
+        },
+        {
+          "Date": "\/Date(1312671600000+0100)\/",
+          "Gigs": [
+            {
+              "Id": "gig/2058",
+              "BandNames": [
+                {
+                  "Value": "Crackshot"
+                },
+                {
+                  "Value": "Choking Susan"
+                },
+                {
+                  "Value": "Ceramic Hobs"
+                }
+              ],
+              "Venue": "West Coast Rock Cafe",
+              "Date": "\/Date(1312671600000+0100)\/",
+              "StartTime": "23:00",
+              "Price": "unknown",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1303945200000+0100)\/",
+              "Edited": "\/Date(1303945200000+0100)\/"
+            },
+            {
+              "Id": "gig/2057",
+              "BandNames": [
+                {
+                  "Value": "Church of Confidence"
+                },
+                {
+                  "Value": "Sedated"
+                },
+                {
+                  "Value": "The Blame"
+                }
+              ],
+              "Venue": "Beat",
+              "Date": "\/Date(1312671600000+0100)\/",
+              "StartTime": "23:00",
+              "Price": "unknown",
+              "MoreInfo": null,
+              "GigTitle": "Rebellion Festival After Show Party",
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1304031600000+0100)\/",
+              "Edited": "\/Date(1307098857000+0100)\/"
+            },
+            {
+              "Id": "gig/73729",
+              "BandNames": [
+                {
+                  "Value": "John Gomm"
+                }
+              ],
+              "Venue": "Stanley Park",
+              "Date": "\/Date(1312671600000+0100)\/",
+              "StartTime": "14:00",
+              "Price": "Free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1308310992000+0100)\/",
+              "Edited": "\/Date(1308310993000+0100)\/"
+            },
+            {
+              "Id": "gig/99343",
+              "BandNames": [
+                {
+                  "Value": "The Coustics"
+                }
+              ],
+              "Venue": "The Hansom Cab",
+              "Date": "\/Date(1312671600000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311707682000+0100)\/",
+              "Edited": "\/Date(1311707682000+0100)\/"
+            },
+            {
+              "Id": "gig/99358",
+              "BandNames": [
+                {
+                  "Value": "DJ Tall Boy Slim"
+                }
+              ],
+              "Venue": "Station Tavern",
+              "Date": "\/Date(1312671600000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311708010000+0100)\/",
+              "Edited": "\/Date(1311708010000+0100)\/"
+            },
+            {
+              "Id": "gig/99380",
+              "BandNames": [
+                {
+                  "Value": "Billy Nomates"
+                }
+              ],
+              "Venue": "Halfway House",
+              "Date": "\/Date(1312671600000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311708544000+0100)\/",
+              "Edited": "\/Date(1311708544000+0100)\/"
+            },
+            {
+              "Id": "gig/99383",
+              "BandNames": [
+                {
+                  "Value": "James Luke"
+                }
+              ],
+              "Venue": "The Royal Oak",
+              "Date": "\/Date(1312671600000+0100)\/",
+              "StartTime": "16:30",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311708638000+0100)\/",
+              "Edited": "\/Date(1311708638000+0100)\/"
+            },
+            {
+              "Id": "gig/99388",
+              "BandNames": [
+                {
+                  "Value": "Flip"
+                }
+              ],
+              "Venue": "The Edge",
+              "Date": "\/Date(1312671600000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311708785000+0100)\/",
+              "Edited": "\/Date(1311708785000+0100)\/"
+            },
+            {
+              "Id": "gig/103440",
+              "BandNames": [
+                {
+                  "Value": "Nick Unlimited"
+                }
+              ],
+              "Venue": "The Cedar Tavern",
+              "Date": "\/Date(1312671600000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311947605000+0100)\/",
+              "Edited": "\/Date(1311947605000+0100)\/"
+            },
+            {
+              "Id": null,
+              "BandNames": [
+                {
+                  "Value": "The Nemesis Sound"
+                }
+              ],
+              "Venue": "The Galleon",
+              "Date": "\/Date(1312671600000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1307877053000+0100)\/",
+              "Edited": "\/Date(1307877053000+0100)\/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Entries": [
+        {
+          "Date": "\/Date(1312758000000+0100)\/",
+          "Gigs": [
+            {
+              "Id": "gig/99359",
+              "BandNames": [],
+              "Venue": "Station Tavern",
+              "Date": "\/Date(1312758000000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": "Musicians Club - Jam Night",
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311708032000+0100)\/",
+              "Edited": "\/Date(1311708032000+0100)\/"
+            },
+            {
+              "Id": null,
+              "BandNames": [],
+              "Venue": "The Galleon",
+              "Date": "\/Date(1312758000000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": "We welcome ALL creative talent. Come along to our Mad Monday open Mic sessions - you could end up with a paid gig by the end of the week",
+              "GigTitle": "Mad Monday open Mic session",
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1307877103000+0100)\/",
+              "Edited": "\/Date(1307877103000+0100)\/"
+            }
+          ]
+        },
+        {
+          "Date": "\/Date(1312844400000+0100)\/",
+          "Gigs": [
+            {
+              "Id": "gig/2062",
+              "BandNames": [
+                {
+                  "Value": "Adele"
+                },
+                {
+                  "Value": "Amos Lee"
+                }
+              ],
+              "Venue": "Empress Ballroom",
+              "Date": "\/Date(1312844400000+0100)\/",
+              "StartTime": "19:00",
+              "Price": "unknown",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1304204400000+0100)\/",
+              "Edited": "\/Date(1304204400000+0100)\/"
+            },
+            {
+              "Id": "gig/103425",
+              "BandNames": [
+                {
+                  "Value": "Chris Clancy"
+                }
+              ],
+              "Venue": "The Galleon",
+              "Date": "\/Date(1312844400000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311946390000+0100)\/",
+              "Edited": "\/Date(1311946391000+0100)\/"
+            },
+            {
+              "Id": "gig/103441",
+              "BandNames": [
+                {
+                  "Value": "Megson"
+                }
+              ],
+              "Venue": "The Cedar Tavern",
+              "Date": "\/Date(1312844400000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311947623000+0100)\/",
+              "Edited": "\/Date(1311947623000+0100)\/"
+            },
+            {
+              "Id": null,
+              "BandNames": [],
+              "Venue": "The Blue Room",
+              "Date": "\/Date(1312844400000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": "The Blue Room new Open Mic Night every Tuesday evening! There will be Acoustic and mics set up all night for players to get up!",
+              "GigTitle": "Open Mic Night!",
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1306484438000+0100)\/",
+              "Edited": "\/Date(1306484439000+0100)\/"
+            }
+          ]
+        },
+        {
+          "Date": "\/Date(1312930800000+0100)\/",
+          "Gigs": [
+            {
+              "Id": "gig/71684",
+              "BandNames": [
+                {
+                  "Value": "Girl Peculiar"
+                },
+                {
+                  "Value": "Nova Six"
+                }
+              ],
+              "Venue": "The Galleon",
+              "Date": "\/Date(1312930800000+0100)\/",
+              "StartTime": "21:00",
+              "Price": "free",
+              "MoreInfo": "“One of the best records of 2010” Marc Riley\r\n\r\n“Girl Peculiar delivers a masterclass” Manchester Evening News\r\n\r\n“Absolutely bloody marvellous… Great Lyrics, Great Voice” Mark E Smith\r\n\r\n“Fu***ng top” Liam Gallager\r\n\r\nGirl Peculiar will be supported by up and coming local band Nova Six\r\n\r\nFREE ENTRY CHEAP DRINKS Strictly over 18's",
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1307974368000+0100)\/",
+              "Edited": "\/Date(1312873348000+0100)\/"
+            },
+            {
+              "Id": null,
+              "BandNames": [
+                {
+                  "Value": "Jazz Knights"
+                }
+              ],
+              "Venue": "The Cedar Tavern",
+              "Date": "\/Date(1312930800000+0100)\/",
+              "StartTime": "21:00",
+              "Price": "Free",
+              "MoreInfo": null,
+              "GigTitle": "Jazz Knights",
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1308479990000+0100)\/",
+              "Edited": "\/Date(1308479991000+0100)\/"
+            }
+          ]
+        },
+        {
+          "Date": "\/Date(1313017200000+0100)\/",
+          "Gigs": [
+            {
+              "Id": "gig/96259",
+              "BandNames": [
+                {
+                  "Value": "Last Breath"
+                }
+              ],
+              "Venue": "The Cedar Tavern",
+              "Date": "\/Date(1313017200000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311271615000+0100)\/",
+              "Edited": "\/Date(1311271615000+0100)\/"
+            },
+            {
+              "Id": "gig/103426",
+              "BandNames": [
+                {
+                  "Value": "Chris Clancy"
+                }
+              ],
+              "Venue": "The Lime Lounge",
+              "Date": "\/Date(1313017200000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311946427000+0100)\/",
+              "Edited": "\/Date(1311946427000+0100)\/"
+            },
+            {
+              "Id": "gig/104449",
+              "BandNames": [
+                {
+                  "Value": "The Deadbeats"
+                }
+              ],
+              "Venue": "Frankies Lounge",
+              "Date": "\/Date(1313017200000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1312116676000+0100)\/",
+              "Edited": "\/Date(1312116676000+0100)\/"
+            },
+            {
+              "Id": "gig/105473",
+              "BandNames": [
+                {
+                  "Value": "The Deadbeats"
+                }
+              ],
+              "Venue": "Ma Kellys",
+              "Date": "\/Date(1313017200000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1312439734000+0100)\/",
+              "Edited": "\/Date(1312439735000+0100)\/"
+            },
+            {
+              "Id": null,
+              "BandNames": [
+                {
+                  "Value": "The Nemesis Sound"
+                }
+              ],
+              "Venue": "The Galleon",
+              "Date": "\/Date(1313017200000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1307877053000+0100)\/",
+              "Edited": "\/Date(1307877053000+0100)\/"
+            }
+          ]
+        },
+        {
+          "Date": "\/Date(1313103600000+0100)\/",
+          "Gigs": [
+            {
+              "Id": "gig/61473",
+              "BandNames": [
+                {
+                  "Value": "The Kommitments"
+                }
+              ],
+              "Venue": "The Sands",
+              "Date": "\/Date(1313103600000+0100)\/",
+              "StartTime": "21:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1307104471000+0100)\/",
+              "Edited": "\/Date(1307104471000+0100)\/"
+            },
+            {
+              "Id": "gig/77850",
+              "BandNames": [
+                {
+                  "Value": "The Tapestry"
+                }
+              ],
+              "Venue": "The Hop Inn",
+              "Date": "\/Date(1313103600000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "unknown",
+              "MoreInfo": "They will be booking out a whole B+B as Manchester RAC PRESENTS aka \"Rent A Crowd\" will be coming over for the ride. The biggest up and coming manchester band to play in Blackpool yet.",
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1308852853000+0100)\/",
+              "Edited": "\/Date(1308852853000+0100)\/"
+            },
+            {
+              "Id": "gig/99332",
+              "BandNames": [
+                {
+                  "Value": "Flip"
+                }
+              ],
+              "Venue": "Uncle Toms Cabin",
+              "Date": "\/Date(1313103600000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311707348000+0100)\/",
+              "Edited": "\/Date(1311707348000+0100)\/"
+            },
+            {
+              "Id": "gig/99344",
+              "BandNames": [
+                {
+                  "Value": "Johnny Midnight Band"
+                }
+              ],
+              "Venue": "The Hansom Cab",
+              "Date": "\/Date(1313103600000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "unknown",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311707700000+0100)\/",
+              "Edited": "\/Date(1311707700000+0100)\/"
+            },
+            {
+              "Id": "gig/99351",
+              "BandNames": [
+                {
+                  "Value": "Nick Unlimited"
+                }
+              ],
+              "Venue": "The Raikes Hall",
+              "Date": "\/Date(1313103600000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311707840000+0100)\/",
+              "Edited": "\/Date(1311707840000+0100)\/"
+            },
+            {
+              "Id": "gig/99360",
+              "BandNames": [
+                {
+                  "Value": "Mothers Ruin"
+                }
+              ],
+              "Venue": "Station Tavern",
+              "Date": "\/Date(1313103600000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311708069000+0100)\/",
+              "Edited": "\/Date(1311708069000+0100)\/"
+            },
+            {
+              "Id": "gig/99366",
+              "BandNames": [
+                {
+                  "Value": "Catdog"
+                }
+              ],
+              "Venue": "The King Edward",
+              "Date": "\/Date(1313103600000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311708221000+0100)\/",
+              "Edited": "\/Date(1311708221000+0100)\/"
+            },
+            {
+              "Id": "gig/99371",
+              "BandNames": [
+                {
+                  "Value": "Smokin' Aces"
+                }
+              ],
+              "Venue": "The Venue",
+              "Date": "\/Date(1313103600000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311708325000+0100)\/",
+              "Edited": "\/Date(1311708325000+0100)\/"
+            },
+            {
+              "Id": "gig/99381",
+              "BandNames": [
+                {
+                  "Value": "On The Edge"
+                }
+              ],
+              "Venue": "The Royal Oak",
+              "Date": "\/Date(1313103600000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311708583000+0100)\/",
+              "Edited": "\/Date(1311708583000+0100)\/"
+            },
+            {
+              "Id": "gig/99412",
+              "BandNames": [
+                {
+                  "Value": "The Jeps"
+                }
+              ],
+              "Venue": "The Residence",
+              "Date": "\/Date(1313103600000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311709746000+0100)\/",
+              "Edited": "\/Date(1311709746000+0100)\/"
+            },
+            {
+              "Id": "gig/99421",
+              "BandNames": [
+                {
+                  "Value": "The Love Rats"
+                }
+              ],
+              "Venue": "Burlington",
+              "Date": "\/Date(1313103600000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311710059000+0100)\/",
+              "Edited": "\/Date(1311710059000+0100)\/"
+            },
+            {
+              "Id": "gig/103431",
+              "BandNames": [
+                {
+                  "Value": "Orin"
+                }
+              ],
+              "Venue": "Gillespies Bar",
+              "Date": "\/Date(1313103600000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311947201000+0100)\/",
+              "Edited": "\/Date(1311947201000+0100)\/"
+            },
+            {
+              "Id": "gig/94228",
+              "BandNames": [
+                {
+                  "Value": "Magic Trees"
+                },
+                {
+                  "Value": "Pangaea"
+                }
+              ],
+              "Venue": "The Cedar Tavern",
+              "Date": "\/Date(1313103600000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311141657000+0100)\/",
+              "Edited": "\/Date(1311947649000+0100)\/"
+            },
+            {
+              "Id": "gig/106499",
+              "BandNames": [
+                {
+                  "Value": "The Tapestry"
+                },
+                {
+                  "Value": "The Pretty Thunder"
+                },
+                {
+                  "Value": "Stephen Chadwick"
+                }
+              ],
+              "Venue": "Beat",
+              "Date": "\/Date(1313103600000+0100)\/",
+              "StartTime": "19.30",
+              "Price": "unknown",
+              "MoreInfo": "\"The Tapestry are a new band from Manchester who release their debut single on the 22nd of April.\r\nRode Your Luck (Tapestry records 001) , comes on all Suzy Quattro glam rock drums with impossibly catchy guitars before smashing into a huge boy/girl sing a long, terrace chant of a chorus.\r\nThe band have sold out Night and Day in Manchester , have a front man called Liam, and name Pixies, Pavement, The Clash and Television as influences…got your attention yet ?\r\nThe single is available for download from all the usual places and is available on cd from Piccadilly Records or from the band through their facebook\"\r\n\r\nLouder Than War, 15/04/2011\r\n\r\nThe Pretty Thunder are a raucous new sound emanating from Blackpool on Sea. If you like your rock hard and sweet - these guys will take some lickin!\r\n\r\nStephen Chadwick is a singer/songwriter from Manchester - destined for fame and fortune.\r\n\r\nFollowing the Gig, everyone will have queue jump ticket for Nellie Deans - just 2 mins along the prom where we can PARTY the night away!",
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1313045431000+0100)\/",
+              "Edited": "\/Date(1313045431000+0100)\/"
+            },
+            {
+              "Id": null,
+              "BandNames": [
+                {
+                  "Value": "The Nemesis Sound"
+                }
+              ],
+              "Venue": "The Galleon",
+              "Date": "\/Date(1313103600000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1307877053000+0100)\/",
+              "Edited": "\/Date(1307877053000+0100)\/"
+            }
+          ]
+        },
+        {
+          "Date": "\/Date(1313190000000+0100)\/",
+          "Gigs": [
+            {
+              "Id": "gig/8203",
+              "BandNames": [
+                {
+                  "Value": "Brother Rabbit"
+                }
+              ],
+              "Venue": "The Rossall Tavern",
+              "Date": "\/Date(1313190000000+0100)\/",
+              "StartTime": "20:30",
+              "Price": "Free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1304204400000+0100)\/",
+              "Edited": "\/Date(1304204400000+0100)\/"
+            },
+            {
+              "Id": "gig/32778",
+              "BandNames": [
+                {
+                  "Value": "Lune Deep"
+                }
+              ],
+              "Venue": "The North Euston",
+              "Date": "\/Date(1313190000000+0100)\/",
+              "StartTime": "21:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1305544129000+0100)\/",
+              "Edited": "\/Date(1305544129000+0100)\/"
+            },
+            {
+              "Id": "gig/34826",
+              "BandNames": [
+                {
+                  "Value": "Last Breath"
+                },
+                {
+                  "Value": "Metonia"
+                },
+                {
+                  "Value": "Sky Valley Mistress"
+                }
+              ],
+              "Venue": "The Blue Room",
+              "Date": "\/Date(1313190000000+0100)\/",
+              "StartTime": "20:30",
+              "Price": "£1.00",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1305654791000+0100)\/",
+              "Edited": "\/Date(1305655455000+0100)\/"
+            },
+            {
+              "Id": "gig/39944",
+              "BandNames": [
+                {
+                  "Value": "The Blue Pig Orchestra"
+                }
+              ],
+              "Venue": "The Layton Institute",
+              "Date": "\/Date(1313190000000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "Free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1306334911000+0100)\/",
+              "Edited": "\/Date(1306334911000+0100)\/"
+            },
+            {
+              "Id": "gig/61493",
+              "BandNames": [
+                {
+                  "Value": "5th Element"
+                }
+              ],
+              "Venue": "The Old Bank Inn",
+              "Date": "\/Date(1313190000000+0100)\/",
+              "StartTime": "21:30",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1307105067000+0100)\/",
+              "Edited": "\/Date(1307105067000+0100)\/"
+            },
+            {
+              "Id": "gig/99333",
+              "BandNames": [
+                {
+                  "Value": "KUDOS"
+                }
+              ],
+              "Venue": "Uncle Toms Cabin",
+              "Date": "\/Date(1313190000000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311707364000+0100)\/",
+              "Edited": "\/Date(1311707364000+0100)\/"
+            },
+            {
+              "Id": "gig/99339",
+              "BandNames": [
+                {
+                  "Value": "Tofu Fighters"
+                }
+              ],
+              "Venue": "Belle View",
+              "Date": "\/Date(1313190000000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311707519000+0100)\/",
+              "Edited": "\/Date(1311707519000+0100)\/"
+            },
+            {
+              "Id": "gig/99345",
+              "BandNames": [
+                {
+                  "Value": "Celtic Cross"
+                }
+              ],
+              "Venue": "The Hansom Cab",
+              "Date": "\/Date(1313190000000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311707723000+0100)\/",
+              "Edited": "\/Date(1311707723000+0100)\/"
+            },
+            {
+              "Id": "gig/99361",
+              "BandNames": [
+                {
+                  "Value": "SKP"
+                }
+              ],
+              "Venue": "Station Tavern",
+              "Date": "\/Date(1313190000000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311708094000+0100)\/",
+              "Edited": "\/Date(1311708094000+0100)\/"
+            },
+            {
+              "Id": "gig/99367",
+              "BandNames": [
+                {
+                  "Value": "The Heat"
+                }
+              ],
+              "Venue": "The King Edward",
+              "Date": "\/Date(1313190000000+0100)\/",
+              "StartTime": "20",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311708241000+0100)\/",
+              "Edited": "\/Date(1311708241000+0100)\/"
+            },
+            {
+              "Id": "gig/99372",
+              "BandNames": [
+                {
+                  "Value": "The Keytars"
+                }
+              ],
+              "Venue": "The Venue",
+              "Date": "\/Date(1313190000000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311708343000+0100)\/",
+              "Edited": "\/Date(1311708343000+0100)\/"
+            },
+            {
+              "Id": "gig/99403",
+              "BandNames": [
+                {
+                  "Value": "The ROCKiTS"
+                }
+              ],
+              "Venue": "The Sandhills",
+              "Date": "\/Date(1313190000000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311709329000+0100)\/",
+              "Edited": "\/Date(1311709329000+0100)\/"
+            },
+            {
+              "Id": "gig/99419",
+              "BandNames": [
+                {
+                  "Value": "Magic Trees"
+                }
+              ],
+              "Venue": "The Victoria",
+              "Date": "\/Date(1313190000000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": "Vicstock",
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311709948000+0100)\/",
+              "Edited": "\/Date(1311709948000+0100)\/"
+            },
+            {
+              "Id": "gig/103432",
+              "BandNames": [
+                {
+                  "Value": "Orin"
+                }
+              ],
+              "Venue": "The Raikes Hall",
+              "Date": "\/Date(1313190000000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311947246000+0100)\/",
+              "Edited": "\/Date(1311947246000+0100)\/"
+            },
+            {
+              "Id": "gig/103442",
+              "BandNames": [
+                {
+                  "Value": "The Roaring Boys"
+                }
+              ],
+              "Venue": "The Cedar Tavern",
+              "Date": "\/Date(1313190000000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311947659000+0100)\/",
+              "Edited": "\/Date(1311947659000+0100)\/"
+            },
+            {
+              "Id": "gig/105474",
+              "BandNames": [
+                {
+                  "Value": "Six10repeater"
+                },
+                {
+                  "Value": "Blind Kings"
+                },
+                {
+                  "Value": "Magic Trees"
+                },
+                {
+                  "Value": "Spiral Scouts"
+                },
+                {
+                  "Value": "Idol Minds"
+                },
+                {
+                  "Value": "The TC Allstars"
+                },
+                {
+                  "Value": "Alpha State Of Mind"
+                },
+                {
+                  "Value": "The Keytars"
+                },
+                {
+                  "Value": "Flip"
+                }
+              ],
+              "Venue": "The Victoria",
+              "Date": "\/Date(1313190000000+0100)\/",
+              "StartTime": "10:00",
+              "Price": "free",
+              "MoreInfo": "Open from 10am. First band from 12pm. This event on the anniversary of Woodstock is in aid of Teenage Cancer and RNLI (Lifeboats) your support would be much appreciated by attending for such a good cause.",
+              "GigTitle": "Vic-Stock",
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1312439791000+0100)\/",
+              "Edited": "\/Date(1312439791000+0100)\/"
+            },
+            {
+              "Id": "gig/106503",
+              "BandNames": [
+                {
+                  "Value": "Magic Trees"
+                }
+              ],
+              "Venue": "The Victoria",
+              "Date": "\/Date(1313190000000+0100)\/",
+              "StartTime": "19:00",
+              "Price": "unknown",
+              "MoreInfo": null,
+              "GigTitle": "Vicfest",
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1313046314000+0100)\/",
+              "Edited": "\/Date(1313046314000+0100)\/"
+            },
+            {
+              "Id": null,
+              "BandNames": [
+                {
+                  "Value": "The Nemesis Sound"
+                }
+              ],
+              "Venue": "The Galleon",
+              "Date": "\/Date(1313190000000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1307877053000+0100)\/",
+              "Edited": "\/Date(1307877053000+0100)\/"
+            }
+          ]
+        },
+        {
+          "Date": "\/Date(1313276400000+0100)\/",
+          "Gigs": [
+            {
+              "Id": "gig/99384",
+              "BandNames": [
+                {
+                  "Value": "James Luke"
+                }
+              ],
+              "Venue": "Halfway House",
+              "Date": "\/Date(1313276400000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311708663000+0100)\/",
+              "Edited": "\/Date(1311708663000+0100)\/"
+            },
+            {
+              "Id": "gig/99394",
+              "BandNames": [
+                {
+                  "Value": "The Keytars"
+                }
+              ],
+              "Venue": "The Edge",
+              "Date": "\/Date(1313276400000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": "The Keytars are Acoustic for this gig",
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311708925000+0100)\/",
+              "Edited": "\/Date(1311708925000+0100)\/"
+            },
+            {
+              "Id": "gig/103443",
+              "BandNames": [
+                {
+                  "Value": "Nick Unlimited"
+                }
+              ],
+              "Venue": "The Cedar Tavern",
+              "Date": "\/Date(1313276400000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311947686000+0100)\/",
+              "Edited": "\/Date(1311947686000+0100)\/"
+            },
+            {
+              "Id": "gig/99405",
+              "BandNames": [
+                {
+                  "Value": "The Heat"
+                },
+                {
+                  "Value": "A'Priori"
+                },
+                {
+                  "Value": "Lune Deep"
+                }
+              ],
+              "Venue": "Stanley Park",
+              "Date": "\/Date(1313276400000+0100)\/",
+              "StartTime": "13:00",
+              "Price": "free",
+              "MoreInfo": "Playing at the band stand",
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311709394000+0100)\/",
+              "Edited": "\/Date(1313133705000+0100)\/"
+            },
+            {
+              "Id": null,
+              "BandNames": [
+                {
+                  "Value": "The Nemesis Sound"
+                }
+              ],
+              "Venue": "The Galleon",
+              "Date": "\/Date(1313276400000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1307877053000+0100)\/",
+              "Edited": "\/Date(1307877053000+0100)\/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Entries": [
+        {
+          "Date": "\/Date(1313362800000+0100)\/",
+          "Gigs": [
+            {
+              "Id": "gig/94216",
+              "BandNames": [],
+              "Venue": "The Victoria",
+              "Date": "\/Date(1313362800000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": "OPEN MIC NIGHT - EVERYONE IS WELCOME - BRING YOUR FRIENDS!\r\nALL ABILITIES - ANY STYLE OF MUSIC - ANY INSTRUMENT\r\n...IF YOU ARE A BEGINNER THIS IS THE IDEAL NIGHT FOR YOU",
+              "GigTitle": "Singing By The Seaside",
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311140527000+0100)\/",
+              "Edited": "\/Date(1311140527000+0100)\/"
+            },
+            {
+              "Id": null,
+              "BandNames": [],
+              "Venue": "The Galleon",
+              "Date": "\/Date(1313362800000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": "We welcome ALL creative talent. Come along to our Mad Monday open Mic sessions - you could end up with a paid gig by the end of the week",
+              "GigTitle": "Mad Monday open Mic session",
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1307877103000+0100)\/",
+              "Edited": "\/Date(1307877103000+0100)\/"
+            }
+          ]
+        },
+        {
+          "Date": "\/Date(1313449200000+0100)\/",
+          "Gigs": [
+            {
+              "Id": "gig/103444",
+              "BandNames": [
+                {
+                  "Value": "Jon Brindley"
+                },
+                {
+                  "Value": "Cocoon"
+                }
+              ],
+              "Venue": "The Cedar Tavern",
+              "Date": "\/Date(1313449200000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311947764000+0100)\/",
+              "Edited": "\/Date(1311947764000+0100)\/"
+            },
+            {
+              "Id": "gig/106504",
+              "BandNames": [
+                {
+                  "Value": "Magic Trees"
+                }
+              ],
+              "Venue": "The Galleon",
+              "Date": "\/Date(1313449200000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1313046416000+0100)\/",
+              "Edited": "\/Date(1313046416000+0100)\/"
+            },
+            {
+              "Id": null,
+              "BandNames": [],
+              "Venue": "The Blue Room",
+              "Date": "\/Date(1313449200000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": "The Blue Room new Open Mic Night every Tuesday evening! There will be Acoustic and mics set up all night for players to get up!",
+              "GigTitle": "Open Mic Night!",
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1306484438000+0100)\/",
+              "Edited": "\/Date(1306484439000+0100)\/"
+            }
+          ]
+        },
+        {
+          "Date": "\/Date(1313535600000+0100)\/",
+          "Gigs": [
+            {
+              "Id": "gig/103445",
+              "BandNames": [
+                {
+                  "Value": "Heather Dee"
+                }
+              ],
+              "Venue": "The Cedar Tavern",
+              "Date": "\/Date(1313535600000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311947785000+0100)\/",
+              "Edited": "\/Date(1311947785000+0100)\/"
+            }
+          ]
+        },
+        {
+          "Date": "\/Date(1313622000000+0100)\/",
+          "Gigs": [
+            {
+              "Id": "gig/99334",
+              "BandNames": [
+                {
+                  "Value": "Billy Nomates"
+                }
+              ],
+              "Venue": "Uncle Toms Cabin",
+              "Date": "\/Date(1313622000000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311707384000+0100)\/",
+              "Edited": "\/Date(1311707384000+0100)\/"
+            },
+            {
+              "Id": "gig/103428",
+              "BandNames": [
+                {
+                  "Value": "Souled Out"
+                }
+              ],
+              "Venue": "The Edge",
+              "Date": "\/Date(1313622000000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311946565000+0100)\/",
+              "Edited": "\/Date(1311946565000+0100)\/"
+            },
+            {
+              "Id": "gig/103446",
+              "BandNames": [
+                {
+                  "Value": "Spitfire"
+                }
+              ],
+              "Venue": "The Cedar Tavern",
+              "Date": "\/Date(1313622000000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311947802000+0100)\/",
+              "Edited": "\/Date(1311947802000+0100)\/"
+            },
+            {
+              "Id": "gig/99395",
+              "BandNames": [
+                {
+                  "Value": "The Keytars"
+                }
+              ],
+              "Venue": "The Grapevine",
+              "Date": "\/Date(1313622000000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311708962000+0100)\/",
+              "Edited": "\/Date(1312440956000+0100)\/"
+            },
+            {
+              "Id": "gig/106498",
+              "BandNames": [
+                {
+                  "Value": "Alex McKown Band"
+                }
+              ],
+              "Venue": "Marine Hall",
+              "Date": "\/Date(1313622000000+0100)\/",
+              "StartTime": "20:30",
+              "Price": "unknown",
+              "MoreInfo": "Alex McKown is a young artist recently name checked by Paul Jones on Radio 2 as a \"blues prodigy\" and nominated for a British Blues Award 2011.\r\nAlex McKown Guitarist and Vocalist has just released his debut album \"Crossing Boundaries\" which is receiving great reviews. The band will have just returned from playing the Zinc Blues Festival in France - the start of a busy year on the blues circuit for this exciting trio.Alex was first brought to prominence when he guested with Hamilton Loomis from Texas on his 2009 and 2010 tours. In his short career Alex has already played the British Stage at Colne and performed on the main stages at Newark and Prestatyn Blues Festivals. The band fetaures Lee Buckle on Bass and Andy Williams on drums who have shared the stage with the likes of Walter Trout and Joe Bonamassa.",
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1313045396000+0100)\/",
+              "Edited": "\/Date(1313045396000+0100)\/"
+            },
+            {
+              "Id": "gig/106500",
+              "BandNames": [
+                {
+                  "Value": "George Weaver"
+                },
+                {
+                  "Value": "Stephanie Fraser"
+                },
+                {
+                  "Value": "Alex Hulme"
+                },
+                {
+                  "Value": "Payload"
+                },
+                {
+                  "Value": "OneFourThree"
+                }
+              ],
+              "Venue": "Stanley Park",
+              "Date": "\/Date(1313622000000+0100)\/",
+              "StartTime": "12:30",
+              "Price": "free",
+              "MoreInfo": "At the Bandstand, 12:30-6:30.",
+              "GigTitle": "CHARITY FESTIVAL - MACMILLAN CANCER CARE",
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1313045740000+0100)\/",
+              "Edited": "\/Date(1313045740000+0100)\/"
+            },
+            {
+              "Id": null,
+              "BandNames": [
+                {
+                  "Value": "The Nemesis Sound"
+                }
+              ],
+              "Venue": "The Galleon",
+              "Date": "\/Date(1313622000000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1307877053000+0100)\/",
+              "Edited": "\/Date(1307877053000+0100)\/"
+            }
+          ]
+        },
+        {
+          "Date": "\/Date(1313708400000+0100)\/",
+          "Gigs": [
+            {
+              "Id": "gig/61474",
+              "BandNames": [
+                {
+                  "Value": "The Kommitments"
+                }
+              ],
+              "Venue": "The Sands",
+              "Date": "\/Date(1313708400000+0100)\/",
+              "StartTime": "21:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1307104487000+0100)\/",
+              "Edited": "\/Date(1307104487000+0100)\/"
+            },
+            {
+              "Id": "gig/68609",
+              "BandNames": [
+                {
+                  "Value": "5th Element"
+                }
+              ],
+              "Venue": "Station Tavern",
+              "Date": "\/Date(1313708400000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1307880966000+0100)\/",
+              "Edited": "\/Date(1307880967000+0100)\/"
+            },
+            {
+              "Id": "gig/94209",
+              "BandNames": [
+                {
+                  "Value": "Veasey"
+                }
+              ],
+              "Venue": "Gillespies Bar",
+              "Date": "\/Date(1313708400000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311140174000+0100)\/",
+              "Edited": "\/Date(1311140175000+0100)\/"
+            },
+            {
+              "Id": "gig/95233",
+              "BandNames": [
+                {
+                  "Value": "Touch the Pearl"
+                }
+              ],
+              "Venue": "Uncle Toms Cabin",
+              "Date": "\/Date(1313708400000+0100)\/",
+              "StartTime": "21:30",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311234406000+0100)\/",
+              "Edited": "\/Date(1311234406000+0100)\/"
+            },
+            {
+              "Id": "gig/99346",
+              "BandNames": [
+                {
+                  "Value": "Magic Trees"
+                }
+              ],
+              "Venue": "The Hansom Cab",
+              "Date": "\/Date(1313708400000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311707745000+0100)\/",
+              "Edited": "\/Date(1311707745000+0100)\/"
+            },
+            {
+              "Id": "gig/99373",
+              "BandNames": [
+                {
+                  "Value": "On The Edge"
+                }
+              ],
+              "Venue": "The Venue",
+              "Date": "\/Date(1313708400000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311708363000+0100)\/",
+              "Edited": "\/Date(1311708363000+0100)\/"
+            },
+            {
+              "Id": "gig/99385",
+              "BandNames": [
+                {
+                  "Value": "James Luke"
+                }
+              ],
+              "Venue": "The Travellers Rest",
+              "Date": "\/Date(1313708400000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311708685000+0100)\/",
+              "Edited": "\/Date(1311708685000+0100)\/"
+            },
+            {
+              "Id": "gig/99396",
+              "BandNames": [
+                {
+                  "Value": "The Keytars"
+                }
+              ],
+              "Venue": "The Hop Inn",
+              "Date": "\/Date(1313708400000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311708978000+0100)\/",
+              "Edited": "\/Date(1311708978000+0100)\/"
+            },
+            {
+              "Id": "gig/99400",
+              "BandNames": [
+                {
+                  "Value": "The Monster Squad"
+                }
+              ],
+              "Venue": "Burlington",
+              "Date": "\/Date(1313708400000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311709093000+0100)\/",
+              "Edited": "\/Date(1311709093000+0100)\/"
+            },
+            {
+              "Id": "gig/99410",
+              "BandNames": [
+                {
+                  "Value": "The Deadbeats"
+                }
+              ],
+              "Venue": "The Cube",
+              "Date": "\/Date(1313708400000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": "Playing acoustic tonight.",
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311709690000+0100)\/",
+              "Edited": "\/Date(1311709690000+0100)\/"
+            },
+            {
+              "Id": "gig/103433",
+              "BandNames": [
+                {
+                  "Value": "Orin"
+                }
+              ],
+              "Venue": "The Cedar Tavern",
+              "Date": "\/Date(1313708400000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311947267000+0100)\/",
+              "Edited": "\/Date(1311947267000+0100)\/"
+            },
+            {
+              "Id": "gig/108545",
+              "BandNames": [
+                {
+                  "Value": "Secret Diablo"
+                },
+                {
+                  "Value": "The Drop-Out Wives"
+                }
+              ],
+              "Venue": "The Cedar Tavern",
+              "Date": "\/Date(1313708400000+0100)\/",
+              "StartTime": "20:30",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1313753010000+0100)\/",
+              "Edited": "\/Date(1313753011000+0100)\/"
+            },
+            {
+              "Id": null,
+              "BandNames": [
+                {
+                  "Value": "The Nemesis Sound"
+                }
+              ],
+              "Venue": "The Galleon",
+              "Date": "\/Date(1313708400000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1307877053000+0100)\/",
+              "Edited": "\/Date(1307877053000+0100)\/"
+            }
+          ]
+        },
+        {
+          "Date": "\/Date(1313794800000+0100)\/",
+          "Gigs": [
+            {
+              "Id": "gig/32779",
+              "BandNames": [
+                {
+                  "Value": "Monkberry"
+                }
+              ],
+              "Venue": "The North Euston",
+              "Date": "\/Date(1313794800000+0100)\/",
+              "StartTime": "21:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1305544152000+0100)\/",
+              "Edited": "\/Date(1305544152000+0100)\/"
+            },
+            {
+              "Id": "gig/8204",
+              "BandNames": [
+                {
+                  "Value": "Brother Rabbit"
+                }
+              ],
+              "Venue": "The Layton Institute",
+              "Date": "\/Date(1313794800000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "Free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1304118000000+0100)\/",
+              "Edited": "\/Date(1305648154000+0100)\/"
+            },
+            {
+              "Id": "gig/34827",
+              "BandNames": [
+                {
+                  "Value": "Goonies Never Say Die"
+                },
+                {
+                  "Value": "Monsters Build Mean Robots"
+                },
+                {
+                  "Value": "Friend?"
+                }
+              ],
+              "Venue": "The Blue Room",
+              "Date": "\/Date(1313794800000+0100)\/",
+              "StartTime": "20:30",
+              "Price": "£1.00",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1305654829000+0100)\/",
+              "Edited": "\/Date(1305655468000+0100)\/"
+            },
+            {
+              "Id": "gig/93185",
+              "BandNames": [
+                {
+                  "Value": "The Monster Squad"
+                }
+              ],
+              "Venue": "Belle View",
+              "Date": "\/Date(1313794800000+0100)\/",
+              "StartTime": "21:30",
+              "Price": "free",
+              "MoreInfo": "This will be the first time The Monster Squad have played at The Belle Vue and we're looking forward to putting on something very special for you all.I promise you now this one is not to be missed",
+              "GigTitle": "The Monster Squad's Debut @The Belle Vue",
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1310493916000+0100)\/",
+              "Edited": "\/Date(1310493917000+0100)\/"
+            },
+            {
+              "Id": "gig/99335",
+              "BandNames": [
+                {
+                  "Value": "The Good Machine"
+                }
+              ],
+              "Venue": "Uncle Toms Cabin",
+              "Date": "\/Date(1313794800000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311707402000+0100)\/",
+              "Edited": "\/Date(1311707402000+0100)\/"
+            },
+            {
+              "Id": "gig/99352",
+              "BandNames": [
+                {
+                  "Value": "Full Fat Boogie Band"
+                }
+              ],
+              "Venue": "The Raikes Hall",
+              "Date": "\/Date(1313794800000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311707856000+0100)\/",
+              "Edited": "\/Date(1311707856000+0100)\/"
+            },
+            {
+              "Id": "gig/99362",
+              "BandNames": [
+                {
+                  "Value": "Idle Promise"
+                }
+              ],
+              "Venue": "Station Tavern",
+              "Date": "\/Date(1313794800000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311708119000+0100)\/",
+              "Edited": "\/Date(1311708119000+0100)\/"
+            },
+            {
+              "Id": "gig/99368",
+              "BandNames": [
+                {
+                  "Value": "The Horn"
+                }
+              ],
+              "Venue": "The King Edward",
+              "Date": "\/Date(1313794800000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311708264000+0100)\/",
+              "Edited": "\/Date(1311708264000+0100)\/"
+            },
+            {
+              "Id": "gig/99374",
+              "BandNames": [
+                {
+                  "Value": "The Love Rats"
+                }
+              ],
+              "Venue": "The Venue",
+              "Date": "\/Date(1313794800000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311708379000+0100)\/",
+              "Edited": "\/Date(1311708379000+0100)\/"
+            },
+            {
+              "Id": "gig/99397",
+              "BandNames": [
+                {
+                  "Value": "The Keytars"
+                }
+              ],
+              "Venue": "The Steamer",
+              "Date": "\/Date(1313794800000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311709019000+0100)\/",
+              "Edited": "\/Date(1311709019000+0100)\/"
+            },
+            {
+              "Id": "gig/99401",
+              "BandNames": [
+                {
+                  "Value": "The Monster Squad"
+                }
+              ],
+              "Venue": "Belle View",
+              "Date": "\/Date(1313794800000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311709268000+0100)\/",
+              "Edited": "\/Date(1311709268000+0100)\/"
+            },
+            {
+              "Id": "gig/99406",
+              "BandNames": [
+                {
+                  "Value": "The Heat"
+                }
+              ],
+              "Venue": "The Royal Oak",
+              "Date": "\/Date(1313794800000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311709502000+0100)\/",
+              "Edited": "\/Date(1311709502000+0100)\/"
+            },
+            {
+              "Id": "gig/103448",
+              "BandNames": [
+                {
+                  "Value": "Revolver"
+                }
+              ],
+              "Venue": "The Cedar Tavern",
+              "Date": "\/Date(1313794800000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311947843000+0100)\/",
+              "Edited": "\/Date(1311947843000+0100)\/"
+            },
+            {
+              "Id": "gig/106502",
+              "BandNames": [
+                {
+                  "Value": "Venezuela Venezuela"
+                }
+              ],
+              "Venue": "Old Town Hall",
+              "Date": "\/Date(1313794800000+0100)\/",
+              "StartTime": "20:30",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1313046048000+0100)\/",
+              "Edited": "\/Date(1313046048000+0100)\/"
+            },
+            {
+              "Id": null,
+              "BandNames": [
+                {
+                  "Value": "The Nemesis Sound"
+                }
+              ],
+              "Venue": "The Galleon",
+              "Date": "\/Date(1313794800000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1307877053000+0100)\/",
+              "Edited": "\/Date(1307877053000+0100)\/"
+            }
+          ]
+        },
+        {
+          "Date": "\/Date(1313881200000+0100)\/",
+          "Gigs": [
+            {
+              "Id": "gig/99389",
+              "BandNames": [
+                {
+                  "Value": "Flip"
+                }
+              ],
+              "Venue": "The Edge",
+              "Date": "\/Date(1313881200000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311708799000+0100)\/",
+              "Edited": "\/Date(1311708799000+0100)\/"
+            },
+            {
+              "Id": "gig/103449",
+              "BandNames": [
+                {
+                  "Value": "Nick Unlimited"
+                }
+              ],
+              "Venue": "The Cedar Tavern",
+              "Date": "\/Date(1313881200000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311947866000+0100)\/",
+              "Edited": "\/Date(1311947866000+0100)\/"
+            },
+            {
+              "Id": "gig/106505",
+              "BandNames": [
+                {
+                  "Value": "Magic Trees"
+                }
+              ],
+              "Venue": "The Hop Inn",
+              "Date": "\/Date(1313881200000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1313046433000+0100)\/",
+              "Edited": "\/Date(1313046433000+0100)\/"
+            },
+            {
+              "Id": "gig/109570",
+              "BandNames": [
+                {
+                  "Value": "Rupert Fabulous"
+                }
+              ],
+              "Venue": "Stanley Park",
+              "Date": "\/Date(1313881200000+0100)\/",
+              "StartTime": "14:00",
+              "Price": "free",
+              "MoreInfo": "Playing at the bandstand today!",
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1313931997000+0100)\/",
+              "Edited": "\/Date(1313931997000+0100)\/"
+            },
+            {
+              "Id": null,
+              "BandNames": [
+                {
+                  "Value": "The Nemesis Sound"
+                }
+              ],
+              "Venue": "The Galleon",
+              "Date": "\/Date(1313881200000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1307877053000+0100)\/",
+              "Edited": "\/Date(1307877053000+0100)\/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Entries": [
+        {
+          "Date": "\/Date(1313967600000+0100)\/",
+          "Gigs": [
+            {
+              "Id": "gig/99363",
+              "BandNames": [],
+              "Venue": "Station Tavern",
+              "Date": "\/Date(1313967600000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": "Musicians Club - Jam Night",
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311708155000+0100)\/",
+              "Edited": "\/Date(1311708155000+0100)\/"
+            },
+            {
+              "Id": "gig/108546",
+              "BandNames": [
+                {
+                  "Value": "Fox Elipsus"
+                }
+              ],
+              "Venue": "San Marcos",
+              "Date": "\/Date(1313967600000+0100)\/",
+              "StartTime": "19:00",
+              "Price": "free",
+              "MoreInfo": "FOX ELIPSUS, LIVE IN BLACKPOOL, ALL AGES, FREE CONCERT :D ♥\r\n\r\n- Fox is coming all the way from New York for this\r\n- First ever Fox Elipsus concert in Blackpool!\r\n- Free to attend, no ticket required\r\n- Family friendly, all ages welcome :)\r\n- Fox's 26th of 69 UK shows!\r\n- Fox's only Blackpool performance on this tour :)\r\n- For the 7th time in a row I managed to start a sentence with \"F\"\r\n- How fantastic is that :)\r\n- Fail!\r\n\r\n- - Watch Music Videos: http://www.youtube.com/foxelipsus\r\n- - Hear More Music & Click \"Like\": http://www.facebook.com/foxelipsus\r\n- - Double CDs Cheap @ Official Website: http://www.elipsus.net/\r\n(Fox will sign and personalize your CDs if you bring them to the show!)\r\n(you can read more about Fox's mission on the elipsus.net website)\r\n\r\nFox is trying to help promote peace and saving the environment through his songs. He plays for free all over North America and Europe so that anyone can come and listen without having to pay. He even goes so far as to sleep in the rental car when on tour, to save money so he can keep going. The only way he can keep this going is by word of mouth. If you like what you hear or read, please click \"invite people to come\", select all your friends in the area, then \"send invitations\" so others can know about this. Alternatively, you could just watch Match Of The Day and forget you read this.\r\n\r\nIt means so much to Fox when lots of locals come to see the show. Some cities and areas are unbelievably welcoming and supporting, hopefully Blackpool will be one of those. We'll see, on the 22nd of August, it depends on how many people help out by sending out invites. Come if you can, and bring friends - remember it's free to come to the show, tipping, buying cds, and buying drinks from the cafe is all optional and Fox is only really interested in promoting peace and saving the environment - anything you buy from him online or at the show goes directly to petrol and food money - anything you buy from the cafe during the show is helping to support your local business :) Or you could stay home and watch The X-Factor because that lad from Luton that you like might still be in it.\r\n\r\n\r\nABOUT THE CONCERT & CONTACTING FOX\r\n\r\nThe messages of the music are serious and about issues that affect all of us, but the performance itself is also comical, and you'll probably laugh a lot. But as he often says, it's never quite clear if they're laughing at him, or with him - he doesn't seem to mind which it is :) Fox doesn't check facebook very often, so if you want to reach him fairly quickly, use his personal e-mail address - ELIPSUS@GMAIL.COM - he'd love to hear from you :) He'd also love to hear from John Lennon but that's sadly not on the cards, so perhaps you can write to him to make up for it :)\r\n\r\n\r\nOTHER UPCOMING SHOWS\r\n\r\nIf you're not in Blackpool, or travel a lot, you may want to look at this...\r\nFox is performing in every corner of the UK, Ireland, and Mainland Europe\r\nHere is a full list of concerts, every one of them is free, all ages and family friendly:\r\nhttp://www.facebook.com/note.php?note_id=135680143183024\r\n\r\n\r\nHere are the shows in the next few weeks:\r\n\r\nWeek of Mon 15th Aug\r\n\r\nMon 15th, 6pm - SWANSEA, WALES - Americano Jazz Caffe, Prince of Wales Dock, Kings Rd, SA1 8PP\r\n- http://www.facebook.com/event.php?eid=104302376338248\r\nTue 16th, 8pm - ABERYSTWYTH, WALES - The Scholars, Queen's Rd, SY23 2HH\r\n- http://www.facebook.com/event.php?eid=239431089424812\r\nWed 17th, 6pm - RHYL, WALES - Harkers Corner Cafe, 14 West Parade, LL18 1HE\r\n- http://www.facebook.com/event.php?eid=228482883861172\r\nThu 18th, 6pm - CHESTER - Costa Coffee, 40-42 Frodsham Square (inside Tesco), CH1 3JS\r\n- http://www.facebook.com/event.php?eid=174324119305103\r\nFri 19th, 6pm - WARRINGTON - The Lounge, 6 Springfield St, WA1 1BB\r\n- http://www.facebook.com/event.php?eid=157027224372943\r\nSat 20th, Noon - BOLTON - Starbucks, Bolton Market Place, Town Centre, BL1 2AR\r\n- http://www.facebook.com/event.php?eid=195734043820565\r\nSun 21st, 3.30pm - MANCHESTER - Nexus Art Cafe, 2 Dale St (opposite Vinyl Exchange), M1 1JW\r\n- http://www.facebook.com/event.php?eid=245657445456739\r\n\r\nWeek of Mon 22nd Aug\r\n\r\nMon 22nd, 7pm - BLACKPOOL - San Marco's, 513 Lytham Road, FY41TE\r\n- http://www.facebook.com/event.php?eid=181620918571041\r\nTue 23rd, 6pm - PRESTON - Mystery Tea House, 23 Cannon St, PR1 3NR\r\n- http://www.facebook.com/event.php?eid=248919695133066\r\nWed 24th, 7pm - LIVERPOOL - The Mocha Lounge, Flat 2, 20 Sir Thomas St, L1 6BA\r\n- http://www.facebook.com/event.php?eid=251880994830507\r\nThu 25th, 7pm - DUBLIN, IRELAND - Accents Coffee & Tea, 23 Stephen Street Lower, Dublin 2\r\n- http://www.facebook.com/event.php?eid=267429799940837\r\nFri 26th, 6pm - WATERFORD, IRELAND - The Book Centre, 25 John Roberts Square\r\n- http://www.facebook.com/event.php?eid=200000396721858\r\nSat 27th, Noon - DUNGARVAN, IRELAND - Nudefood Cafe, 86 O'Connell St\r\n- http://www.facebook.com/event.php?eid=252926214735151\r\nSat 27th, 7pm - CORK, IRELAND - Tribes Coffee Shop, 8 Tuckey Street\r\n- http://www.facebook.com/event.php?eid=252493568101762\r\nSun 28th, 6pm - LIMERICK, IRELAND - O'Connells Bar (formerly Old Quarter Pub & Cafe), Little Ellen St\r\n- http://www.facebook.com/event.php?eid=195543937172677\r\n\r\nWeek of Mon 29th Aug\r\n\r\nMon 29th, 6pm - GALWAY, IRELAND - The Grainstore Cafe, Ground Floor, Lower Abbeygate St\r\n- http://www.facebook.com/event.php?eid=254181474599855\r\nTue 30th, 6pm - BELFAST, IRELAND - Campbell's Caterers, 11 Arthur St, BT1 4GA\r\n- http://www.facebook.com/event.php?eid=238991419468416\r\nWed 31st, 6pm - INVERNESS, SCOTLAND - Gellions, 14 Bridge St, IV1 1HD\r\n- http://www.facebook.com/event.php?eid=254445854583381\r\n\r\nSeptember 2011\r\nScotland, North East, Midlands, and more\r\n\r\nThu 1st Sep, 7pm - ABERDEEN, SCOTLAND - Kilau Coffee, 9A Little Belmont St, AB10 1JG\r\n- http://www.facebook.com/event.php?eid=215995268451055\r\nFri 2nd, 7pm - PERTH, SCOTLAND - Willows Coffee Shop, 12-14 St Johns Place, PH1 5SZ\r\n- http://www.facebook.com/event.php?eid=156535967757273\r\nSat 3rd, Noon - DUNDEE, SCOTLAND - Cafe Buongiorno, 11 Bank St, DD1 1RL\r\n- http://www.facebook.com/event.php?eid=200469786676232\r\nSat 3rd, 6pm - GLASGOW, SCOTLAND - Rio Cafe, 27 Hyndland St, G11 5QF\r\n- http://www.facebook.com/event.php?eid=239926939380357\r\nSun 4th, 7pm - EDINBURGH, SCOTLAND - Beanscene, 95-97 Nicolson St, South Bridge, EH8 9BY\r\n- http://www.facebook.com/event.php?eid=137711716315764\r\n\r\nWeek of Mon 5th Sep\r\n\r\nMon 5th, 7pm - NEWCASTLE - The Blue Bunny Cafe, 11 St. Marys Place, NE1 7PG\r\n- http://www.facebook.com/event.php?eid=229841637051183\r\nTue 6th, 6pm - SUNDERLAND - Signatures, 34 West Sunniside, SR1 1BU\r\n- http://www.facebook.com/event.php?eid=132097436880210\r\nWed 7th, 6pm - MIDDLESBROUGH - Costa Coffee, Teeside Retail Park, Thornaby, Stockton-On-Tees, TS17 7BW\r\n- http://www.facebook.com/event.php?eid=181665001898719\r\nThu 8th, 7pm - SCARBOROUGH - The Nelson, 29 Victoria Rd, Town Centre, YO11 1SB\r\n- http://www.facebook.com/event.php?eid=254700717891583\r\nFri 9th, 6pm - YORK - Victor J Cafe, 1A Finkle St, YO1 8RW\r\n- http://www.facebook.com/event.php?eid=142360179181506\r\nSat 10th, 6pm - LEEDS - Urban Bean, 6 Commercial Rd, LS5 3AQ\r\n- http://www.facebook.com/event.php?eid=238965979467526\r\nSun 11th, 1pm - HARROGATE - Revolution, Royal Baths, 3 Montpellier Gardens, HG1 2WL\r\n- http://www.facebook.com/event.php?eid=189128677816103\r\nSun 11th, 6pm - BRADFORD - The Black Swan, 74 Frizinghall Rd, BD9 4LD\r\n- http://www.facebook.com/event.php?eid=190764847654433\r\n\r\nWeek of Mon 12th Sep\r\n\r\nMon 12th, 6pm - HUDDERSFIELD - Coffeevolution, 8 Church St, HD1 1DD\r\n- http://www.facebook.com/event.php?eid=240153459350899\r\nTue 13th, 7pm - DONCASTER - The White Swan, 34 French Gate, Town Centre, DN1 1QQ\r\n- http://www.facebook.com/event.php?eid=221097531270553\r\nWed 14th, 6pm - HULL - Cuckoos Coffee, 24 Princes Dock St, HU1 2LG\r\n- http://www.facebook.com/event.php?eid=189900194406247\r\nThu 15th, 6pm - LINCOLN - Coffee Aroma, 24 Guildhall St, LN1 1TR\r\n- http://www.facebook.com/event.php?eid=251132574912121\r\nFri 16th, 6pm - SHEFFIELD - The Blue Moon Cafe, 2 St. James St, S1 2EW\r\n- http://www.facebook.com/event.php?eid=185403394859704\r\nSat 17th, 7pm - NOTTINGHAM - Edin's Cafe, 15 Broad St, NG1 3AJ\r\n- http://www.facebook.com/event.php?eid=193515820707448\r\nSun 18th, 4pm - DERBY - Pitcher & Piano, 19-20 Friar Gate, DE1 1BX\r\n- http://www.facebook.com/event.php?eid=128223763939110\r\n\r\nWeek of Mon 19th Sep\r\n\r\nMon 19th, 6pm - STOKE-ON-TRENT - The Fat Cat Cafe, Trinity St, ST1 1HJ\r\n- http://www.facebook.com/event.php?eid=210828915632602\r\nTue 20th, 7pm - LEICESTER - The Crumblin' Cookie, 68 High St, LE1 5YP\r\n- http://www.facebook.com/event.php?eid=128330743926729\r\nWed 21st, 8pm - PETERBOROUGH - Charters, Town Bridge, Peterborough, PE1 1FP\r\n- http://www.facebook.com/event.php?eid=215912025126579\r\nThu 22nd, 6pm - NORTHAMPTON - Fat Cat Cafe Bar, 23 Bridge St, NN1 1NH\r\n- http://www.facebook.com/event.php?eid=213146475403788\r\nFri 23rd, 7.30pm - COVENTRY - Playwrights Cafe, 4-6 Hay Lane, Cathedral Quarter, CV1 5RF\r\n- http://www.facebook.com/event.php?eid=194555207270849\r\nSat 24th, 3pm - WOLVERHAMPTON - Starbucks Coffee, 31 Dudley St, Mander Centre, WV1 3ER\r\n- http://www.facebook.com/event.php?eid=259151737445006\r\nSun 25th, 3pm - BIRMINGHAM - Urban Coffee Company, 30 Church St, B3 2NP\r\n- http://www.facebook.com/event.php?eid=128227530604526\r\n\r\nWeek of Mon 26th Sep\r\n\r\nMon 26th, 7pm - WORCESTER - The Angel @ Worcester, 14 Angel Place, WR1 3QN\r\n- http://www.facebook.com/event.php?eid=253000338051383\r\nTue 27th, 7pm - GLOUCESTER - Cafe Rene, 31 Southgate Street, GL1 1TP\r\n- http://www.facebook.com/event.php?eid=199433950115240\r\nWed 28th, 6pm - SWINDON - Costa Coffee, 7 Havelock Square, SN1 1LE\r\n- http://www.facebook.com/event.php?eid=254729794556081\r\nFri 30th, 6pm - BRIGHTON - Moksha Caffe, 4-5 York Place, BN1 4GU\r\n- http://www.facebook.com/event.php?eid=192298770829434\r\nSat 1st Oct, 8pm - FOLKESTONE - Googies Art Cafe, 15 Rendezvous St, CT20 1EY\r\n- http://www.facebook.com/event.php?eid=132100923546439\r\n\r\nagain, to see a list of all 68 UK shows, go here:\r\nhttp://www.facebook.com/note.php?note_id=135680143183024\r\n\r\n\r\n\r\nSUPPORTING THE TOUR\r\n\r\nThe best way to support Fox's mission is to come to the concert in your area, and bring lots of friends and family (remember it's all ages and free for everyone, no tickets required). \r\n\r\nIf you can't make it, you can always get his CDs (he has 3 double disc CDs available, all for under ten pounds and all funds go towards tour expenses, petrol and food. Hotels are not financially possible so Fox sleeps in his car to continue the tour). The CDs in chronological order are \"Changing History\", \"Momentum\" and \"The Road\", sold online at http://www.elipsus.net/ with a credit card or PayPal. Isn't a PayPal a friend that is only your friend because you give them money?\r\n\r\nFor inquiries and comments, e-mail elipsus@gmail.com\r\n\r\nIf you want to make a donation, there is a button for that on http://www.elipsus.net/, or contact Fox at elipsus@gmail.com or simply PayPal them to elipsus@gmail.com - your donations have kept the music alive for 3 years now. THANK YOU! Read more about how you can help, here: http://bit.ly/BedBrigade - it's like the Fire Brigade, but Bedder.\r\n\r\nIf you want to lend a hand to help Fox spread messages of peace and love through music, email ELIPSUS@GMAIL.COM - This tour depends upon a lot of grass roots internet promotion, very simple tasks that Fox can tell you about one on one, tasks for all skill levels, 10 minutes a week and up helps more than you can imagine :) there's no heaven, it's easy if you try.\r\n\r\n\r\nFOX ELIPSUS, LIVE IN BLACKPOOL\r\nALL CONCERTS ARE FREE, FAMILIES WELCOME!\r\n\r\nFOX ELIPSUS coming all the way from New York\r\nThe only Blackpool performance of the tour...\r\nMonday 22nd August, 2011\r\n7pm until 9pm\r\nSan Marco's\r\n513 Lytham Road\r\nBlackpool, FY41TE, United Kingdom\r\n(01253) 404010\r\n\r\n(note: if you call ahead to this venue and they say they are not sure if or when Fox is coming... do not worry! :) Employees often don't inform all of the rest of the staff about free events. If you ask for the head manager, or whoever books shows, those individuals are more likely to be able to confirm this concert date and time. But remember - staff are very busy, and often forget. Fox will be there, at that address, on time, as advertised. Fox won't cancel shows or advertise the wrong venue or address. Fox will see you there, and is peeing his pants with excitement about this concert by the way) (ew) (I didn't mean it)\r\n\r\nThe 10 shows with the largest audience, the 10 shows with the most CD sales, and the 10 shows with the loudest people, will be immortalized on Fox's official website http://www.elipsus.net/ - so click \"invite people to come\", bring people if you can, spread the word, and enjoy the show... the word immortalized is a bit much so I will leave you with this instead:\r\n\r\nQ: what do you call a characteristic that is inherent with all people named Phillip?\r\nA: an in-Phil-trait",
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1313753099000+0100)\/",
+              "Edited": "\/Date(1313753099000+0100)\/"
+            },
+            {
+              "Id": null,
+              "BandNames": [],
+              "Venue": "The Galleon",
+              "Date": "\/Date(1313967600000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": "We welcome ALL creative talent. Come along to our Mad Monday open Mic sessions - you could end up with a paid gig by the end of the week",
+              "GigTitle": "Mad Monday open Mic session",
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1307877103000+0100)\/",
+              "Edited": "\/Date(1307877103000+0100)\/"
+            }
+          ]
+        },
+        {
+          "Date": "\/Date(1314054000000+0100)\/",
+          "Gigs": [
+            {
+              "Id": null,
+              "BandNames": [],
+              "Venue": "The Blue Room",
+              "Date": "\/Date(1314054000000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": "The Blue Room new Open Mic Night every Tuesday evening! There will be Acoustic and mics set up all night for players to get up!",
+              "GigTitle": "Open Mic Night!",
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1306484438000+0100)\/",
+              "Edited": "\/Date(1306484439000+0100)\/"
+            },
+            {
+              "Id": null,
+              "BandNames": [],
+              "Venue": "The Galleon",
+              "Date": "\/Date(1314054000000+0100)\/",
+              "StartTime": "21:00",
+              "Price": "Free",
+              "MoreInfo": null,
+              "GigTitle": "Various Guest Live Music Acts",
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1306061784000+0100)\/",
+              "Edited": "\/Date(1307974196000+0100)\/"
+            }
+          ]
+        },
+        {
+          "Date": "\/Date(1314140400000+0100)\/",
+          "Gigs": [
+            {
+              "Id": "gig/99382",
+              "BandNames": [
+                {
+                  "Value": "On The Edge"
+                }
+              ],
+              "Venue": "The Cedar Tavern",
+              "Date": "\/Date(1314140400000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311708607000+0100)\/",
+              "Edited": "\/Date(1311708607000+0100)\/"
+            }
+          ]
+        },
+        {
+          "Date": "\/Date(1314226800000+0100)\/",
+          "Gigs": [
+            {
+              "Id": "gig/99402",
+              "BandNames": [
+                {
+                  "Value": "Sherman Robertson"
+                },
+                {
+                  "Value": "The Monster Squad"
+                }
+              ],
+              "Venue": "Marine Hall",
+              "Date": "\/Date(1314226800000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "unknown",
+              "MoreInfo": "Blues/Soul Legend Sherman Robertson brings his Texas blues back to the U.K.Described as one part zydeco,one part swamp blues,one part electric blues and one part rhythm and blues Sherman Robertson is a class act in the blues/soul arena and a true showman.\r\n\r\nSupport comes from The Monster Squad.Fast getting the nickname The \"Mighty\" Monster Squad this local band of funk toting misfits will no doubt be coming out all guns blazing to give this very special occasion the kick start it deserves",
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311709294000+0100)\/",
+              "Edited": "\/Date(1311835768000+0100)\/"
+            },
+            {
+              "Id": "gig/35841",
+              "BandNames": [
+                {
+                  "Value": "Heavy Rain"
+                },
+                {
+                  "Value": "The Organisation"
+                }
+              ],
+              "Venue": "The Cedar Tavern",
+              "Date": "\/Date(1314226800000+0100)\/",
+              "StartTime": "20:30",
+              "Price": "Free",
+              "MoreInfo": null,
+              "GigTitle": "Heavy Rain @ The Cedar Tavern",
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1305660421000+0100)\/",
+              "Edited": "\/Date(1311947952000+0100)\/"
+            },
+            {
+              "Id": "gig/110593",
+              "BandNames": [
+                {
+                  "Value": "The Locals"
+                },
+                {
+                  "Value": "The Pretty Thunder"
+                }
+              ],
+              "Venue": "The Blue Room",
+              "Date": "\/Date(1314226800000+0100)\/",
+              "StartTime": "20:30",
+              "Price": "£1.00",
+              "MoreInfo": "THE LOCALS\r\nPunky-Indie from Blackpool\r\nhttp://www.facebook.com/thelocalsblackpool\r\n\r\nTHE PRETTY THUNDER\r\nIndie from Blackpool\r\nhttp://www.facebook.com/pages/The-Pretty-Thunder/198191879729\r\n\r\n+ another band tba",
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1313933070000+0100)\/",
+              "Edited": "\/Date(1313933070000+0100)\/"
+            },
+            {
+              "Id": "gig/111620",
+              "BandNames": [
+                {
+                  "Value": "Callighan & Wolski"
+                }
+              ],
+              "Venue": "The Lime Lounge",
+              "Date": "\/Date(1314226800000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": "Kicking off about 8.30 a good way to start your bank holiday weekend!!",
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1314190355000+0100)\/",
+              "Edited": "\/Date(1314190355000+0100)\/"
+            },
+            {
+              "Id": null,
+              "BandNames": [
+                {
+                  "Value": "The Nemesis Sound"
+                }
+              ],
+              "Venue": "The Galleon",
+              "Date": "\/Date(1314226800000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1307877053000+0100)\/",
+              "Edited": "\/Date(1307877053000+0100)\/"
+            }
+          ]
+        },
+        {
+          "Date": "\/Date(1314313200000+0100)\/",
+          "Gigs": [
+            {
+              "Id": "gig/61475",
+              "BandNames": [
+                {
+                  "Value": "The Kommitments"
+                }
+              ],
+              "Venue": "The Sands",
+              "Date": "\/Date(1314313200000+0100)\/",
+              "StartTime": "21:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1307104519000+0100)\/",
+              "Edited": "\/Date(1307104519000+0100)\/"
+            },
+            {
+              "Id": "gig/61494",
+              "BandNames": [
+                {
+                  "Value": "Wildkats Northwest"
+                }
+              ],
+              "Venue": "The Queens",
+              "Date": "\/Date(1314313200000+0100)\/",
+              "StartTime": "21:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1307105091000+0100)\/",
+              "Edited": "\/Date(1307105091000+0100)\/"
+            },
+            {
+              "Id": "gig/99336",
+              "BandNames": [
+                {
+                  "Value": "Lune Deep"
+                }
+              ],
+              "Venue": "Uncle Toms Cabin",
+              "Date": "\/Date(1314313200000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311707425000+0100)\/",
+              "Edited": "\/Date(1311707425000+0100)\/"
+            },
+            {
+              "Id": "gig/99347",
+              "BandNames": [
+                {
+                  "Value": "Smooth Chalk"
+                }
+              ],
+              "Venue": "The Hansom Cab",
+              "Date": "\/Date(1314313200000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311707763000+0100)\/",
+              "Edited": "\/Date(1311707763000+0100)\/"
+            },
+            {
+              "Id": "gig/99353",
+              "BandNames": [
+                {
+                  "Value": "Nick Unlimited"
+                }
+              ],
+              "Venue": "The Raikes Hall",
+              "Date": "\/Date(1314313200000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311707874000+0100)\/",
+              "Edited": "\/Date(1311707874000+0100)\/"
+            },
+            {
+              "Id": "gig/99364",
+              "BandNames": [
+                {
+                  "Value": "Twisted Romance"
+                }
+              ],
+              "Venue": "Station Tavern",
+              "Date": "\/Date(1314313200000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311708179000+0100)\/",
+              "Edited": "\/Date(1311708179000+0100)\/"
+            },
+            {
+              "Id": "gig/99375",
+              "BandNames": [
+                {
+                  "Value": "Rupert Fabulous"
+                }
+              ],
+              "Venue": "The Venue",
+              "Date": "\/Date(1314313200000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311708395000+0100)\/",
+              "Edited": "\/Date(1311708395000+0100)\/"
+            },
+            {
+              "Id": "gig/99377",
+              "BandNames": [
+                {
+                  "Value": "Glitterballs"
+                }
+              ],
+              "Venue": "Burlington",
+              "Date": "\/Date(1314313200000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311708430000+0100)\/",
+              "Edited": "\/Date(1311708430000+0100)\/"
+            },
+            {
+              "Id": "gig/99390",
+              "BandNames": [
+                {
+                  "Value": "Flip"
+                }
+              ],
+              "Venue": "Henrys Bar",
+              "Date": "\/Date(1314313200000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311708824000+0100)\/",
+              "Edited": "\/Date(1311708824000+0100)\/"
+            },
+            {
+              "Id": "gig/99398",
+              "BandNames": [
+                {
+                  "Value": "The Keytars"
+                }
+              ],
+              "Venue": "The Cube",
+              "Date": "\/Date(1314313200000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311709041000+0100)\/",
+              "Edited": "\/Date(1311709041000+0100)\/"
+            },
+            {
+              "Id": "gig/99409",
+              "BandNames": [
+                {
+                  "Value": "Gatorville"
+                }
+              ],
+              "Venue": "The Hop Inn",
+              "Date": "\/Date(1314313200000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311709625000+0100)\/",
+              "Edited": "\/Date(1311709625000+0100)\/"
+            },
+            {
+              "Id": "gig/99413",
+              "BandNames": [
+                {
+                  "Value": "The Jeps"
+                }
+              ],
+              "Venue": "The Dockers",
+              "Date": "\/Date(1314313200000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311709767000+0100)\/",
+              "Edited": "\/Date(1311709767000+0100)\/"
+            },
+            {
+              "Id": "gig/99424",
+              "BandNames": [
+                {
+                  "Value": "Kazoobian"
+                }
+              ],
+              "Venue": "Old Town Hall",
+              "Date": "\/Date(1314313200000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311710146000+0100)\/",
+              "Edited": "\/Date(1311710146000+0100)\/"
+            },
+            {
+              "Id": "gig/103450",
+              "BandNames": [
+                {
+                  "Value": "Mancalledhorse"
+                }
+              ],
+              "Venue": "The Cedar Tavern",
+              "Date": "\/Date(1314313200000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311947964000+0100)\/",
+              "Edited": "\/Date(1311947964000+0100)\/"
+            },
+            {
+              "Id": "gig/19467",
+              "BandNames": [
+                {
+                  "Value": "Ska Face"
+                },
+                {
+                  "Value": "On Parole"
+                }
+              ],
+              "Venue": "The Merrie England",
+              "Date": "\/Date(1314313200000+0100)\/",
+              "StartTime": "21:00",
+              "Price": "£5.00",
+              "MoreInfo": "ANOTHER DOUBLE HEADER with the best Clash Tribute in the land - sort of makes sense really... £5 in, tickets from North Pier or on the door.",
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1303772400000+0100)\/",
+              "Edited": "\/Date(1313132395000+0100)\/"
+            },
+            {
+              "Id": "gig/109569",
+              "BandNames": [
+                {
+                  "Value": "The Coustics"
+                }
+              ],
+              "Venue": "Lord Derby",
+              "Date": "\/Date(1314313200000+0100)\/",
+              "StartTime": "21:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1313931936000+0100)\/",
+              "Edited": "\/Date(1313931937000+0100)\/"
+            },
+            {
+              "Id": null,
+              "BandNames": [
+                {
+                  "Value": "The Nemesis Sound"
+                }
+              ],
+              "Venue": "The Galleon",
+              "Date": "\/Date(1314313200000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1307877053000+0100)\/",
+              "Edited": "\/Date(1307877053000+0100)\/"
+            }
+          ]
+        },
+        {
+          "Date": "\/Date(1314399600000+0100)\/",
+          "Gigs": [
+            {
+              "Id": "gig/32780",
+              "BandNames": [
+                {
+                  "Value": "The Jeps"
+                }
+              ],
+              "Venue": "The North Euston",
+              "Date": "\/Date(1314399600000+0100)\/",
+              "StartTime": "21:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1305544178000+0100)\/",
+              "Edited": "\/Date(1305544178000+0100)\/"
+            },
+            {
+              "Id": "gig/99337",
+              "BandNames": [
+                {
+                  "Value": "Twisted Romance"
+                }
+              ],
+              "Venue": "Uncle Toms Cabin",
+              "Date": "\/Date(1314399600000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311707446000+0100)\/",
+              "Edited": "\/Date(1311707446000+0100)\/"
+            },
+            {
+              "Id": "gig/99340",
+              "BandNames": [
+                {
+                  "Value": "Guns or Roses"
+                }
+              ],
+              "Venue": "Belle View",
+              "Date": "\/Date(1314399600000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311707539000+0100)\/",
+              "Edited": "\/Date(1311707539000+0100)\/"
+            },
+            {
+              "Id": "gig/99348",
+              "BandNames": [
+                {
+                  "Value": "The Coustics"
+                }
+              ],
+              "Venue": "The Hansom Cab",
+              "Date": "\/Date(1314399600000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311707784000+0100)\/",
+              "Edited": "\/Date(1311707784000+0100)\/"
+            },
+            {
+              "Id": "gig/99354",
+              "BandNames": [
+                {
+                  "Value": "The Organisation"
+                }
+              ],
+              "Venue": "The Raikes Hall",
+              "Date": "\/Date(1314399600000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311707892000+0100)\/",
+              "Edited": "\/Date(1311707892000+0100)\/"
+            },
+            {
+              "Id": "gig/99365",
+              "BandNames": [
+                {
+                  "Value": "DJ Tall Boy Slim"
+                }
+              ],
+              "Venue": "Station Tavern",
+              "Date": "\/Date(1314399600000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311708198000+0100)\/",
+              "Edited": "\/Date(1311708198000+0100)\/"
+            },
+            {
+              "Id": "gig/99376",
+              "BandNames": [
+                {
+                  "Value": "The Blue Pig Orchestra"
+                }
+              ],
+              "Venue": "The Venue",
+              "Date": "\/Date(1314399600000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311708413000+0100)\/",
+              "Edited": "\/Date(1311708413000+0100)\/"
+            },
+            {
+              "Id": "gig/99399",
+              "BandNames": [
+                {
+                  "Value": "The Keytars"
+                }
+              ],
+              "Venue": "Jacks Bistro",
+              "Date": "\/Date(1314399600000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311709064000+0100)\/",
+              "Edited": "\/Date(1311709064000+0100)\/"
+            },
+            {
+              "Id": "gig/99415",
+              "BandNames": [
+                {
+                  "Value": "Stiff"
+                }
+              ],
+              "Venue": "The Royal Oak",
+              "Date": "\/Date(1314399600000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311709807000+0100)\/",
+              "Edited": "\/Date(1311709807000+0100)\/"
+            },
+            {
+              "Id": "gig/99417",
+              "BandNames": [
+                {
+                  "Value": "The Horn"
+                }
+              ],
+              "Venue": "The Broadfield Arms",
+              "Date": "\/Date(1314399600000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311709854000+0100)\/",
+              "Edited": "\/Date(1311709854000+0100)\/"
+            },
+            {
+              "Id": "gig/99420",
+              "BandNames": [
+                {
+                  "Value": "Magic Trees"
+                }
+              ],
+              "Venue": "The Victoria",
+              "Date": "\/Date(1314399600000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311709986000+0100)\/",
+              "Edited": "\/Date(1311709986000+0100)\/"
+            },
+            {
+              "Id": "gig/103451",
+              "BandNames": [
+                {
+                  "Value": "Hooker"
+                }
+              ],
+              "Venue": "The Cedar Tavern",
+              "Date": "\/Date(1314399600000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311948004000+0100)\/",
+              "Edited": "\/Date(1311948004000+0100)\/"
+            },
+            {
+              "Id": "gig/106506",
+              "BandNames": [
+                {
+                  "Value": "Magic Trees"
+                }
+              ],
+              "Venue": "The Victoria",
+              "Date": "\/Date(1314399600000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1313046521000+0100)\/",
+              "Edited": "\/Date(1313046521000+0100)\/"
+            },
+            {
+              "Id": "gig/106508",
+              "BandNames": [
+                {
+                  "Value": "Backwater"
+                }
+              ],
+              "Venue": "Marton Institute",
+              "Date": "\/Date(1314399600000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1313047003000+0100)\/",
+              "Edited": "\/Date(1313047003000+0100)\/"
+            },
+            {
+              "Id": "gig/94210",
+              "BandNames": [
+                {
+                  "Value": "Inner Temple"
+                },
+                {
+                  "Value": "Veasey"
+                }
+              ],
+              "Venue": "The Blue Room",
+              "Date": "\/Date(1314399600000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "£1.00",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311140213000+0100)\/",
+              "Edited": "\/Date(1313933035000+0100)\/"
+            },
+            {
+              "Id": null,
+              "BandNames": [
+                {
+                  "Value": "The Nemesis Sound"
+                }
+              ],
+              "Venue": "The Galleon",
+              "Date": "\/Date(1314399600000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1307877053000+0100)\/",
+              "Edited": "\/Date(1307877053000+0100)\/"
+            }
+          ]
+        },
+        {
+          "Date": "\/Date(1314486000000+0100)\/",
+          "Gigs": [
+            {
+              "Id": "gig/31768",
+              "BandNames": [
+                {
+                  "Value": "Thistle"
+                }
+              ],
+              "Venue": "The Golden Ball",
+              "Date": "\/Date(1314486000000+0100)\/",
+              "StartTime": "21:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1305538345000+0100)\/",
+              "Edited": "\/Date(1305538345000+0100)\/"
+            },
+            {
+              "Id": "gig/16393",
+              "BandNames": [
+                {
+                  "Value": "The Versions"
+                }
+              ],
+              "Venue": "The Venue",
+              "Date": "\/Date(1314486000000+0100)\/",
+              "StartTime": "20:30",
+              "Price": "Free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1303772400000+0100)\/",
+              "Edited": "\/Date(1305653094000+0100)\/"
+            },
+            {
+              "Id": "gig/99408",
+              "BandNames": [
+                {
+                  "Value": "Twisted Romance"
+                }
+              ],
+              "Venue": "Happy Scots Bar",
+              "Date": "\/Date(1314486000000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311709590000+0100)\/",
+              "Edited": "\/Date(1311709590000+0100)\/"
+            },
+            {
+              "Id": "gig/99414",
+              "BandNames": [
+                {
+                  "Value": "The Jeps"
+                }
+              ],
+              "Venue": "The North Euston",
+              "Date": "\/Date(1314486000000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311709788000+0100)\/",
+              "Edited": "\/Date(1311709788000+0100)\/"
+            },
+            {
+              "Id": "gig/101377",
+              "BandNames": [
+                {
+                  "Value": "Smooth Chalk"
+                }
+              ],
+              "Venue": "The Grapevine",
+              "Date": "\/Date(1314486000000+0100)\/",
+              "StartTime": "21:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311835128000+0100)\/",
+              "Edited": "\/Date(1311835129000+0100)\/"
+            },
+            {
+              "Id": "gig/103427",
+              "BandNames": [
+                {
+                  "Value": "Chris Clancy"
+                }
+              ],
+              "Venue": "Jacks Bistro",
+              "Date": "\/Date(1314486000000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311946465000+0100)\/",
+              "Edited": "\/Date(1311946465000+0100)\/"
+            },
+            {
+              "Id": "gig/103452",
+              "BandNames": [
+                {
+                  "Value": "Nick Unlimited"
+                }
+              ],
+              "Venue": "The Cedar Tavern",
+              "Date": "\/Date(1314486000000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311948026000+0100)\/",
+              "Edited": "\/Date(1311948026000+0100)\/"
+            },
+            {
+              "Id": "gig/111619",
+              "BandNames": [
+                {
+                  "Value": "Orin"
+                }
+              ],
+              "Venue": "The Hop Inn",
+              "Date": "\/Date(1314486000000+0100)\/",
+              "StartTime": "21:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1314190325000+0100)\/",
+              "Edited": "\/Date(1314190325000+0100)\/"
+            },
+            {
+              "Id": null,
+              "BandNames": [
+                {
+                  "Value": "The Nemesis Sound"
+                }
+              ],
+              "Venue": "The Galleon",
+              "Date": "\/Date(1314486000000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1307877053000+0100)\/",
+              "Edited": "\/Date(1307877053000+0100)\/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Entries": [
+        {
+          "Date": "\/Date(1314572400000+0100)\/",
+          "Gigs": [
+            {
+              "Id": "gig/94217",
+              "BandNames": [],
+              "Venue": "The Victoria",
+              "Date": "\/Date(1314572400000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": "OPEN MIC NIGHT - EVERYONE IS WELCOME - BRING YOUR FRIENDS!\r\nALL ABILITIES - ANY STYLE OF MUSIC - ANY INSTRUMENT\r\n...IF YOU ARE A BEGINNER THIS IS THE IDEAL NIGHT FOR YOU",
+              "GigTitle": "Singing By The Seaside",
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311140556000+0100)\/",
+              "Edited": "\/Date(1311140556000+0100)\/"
+            },
+            {
+              "Id": "gig/61447",
+              "BandNames": [
+                {
+                  "Value": "Veasey"
+                },
+                {
+                  "Value": "Magic Trees"
+                }
+              ],
+              "Venue": "The Cedar Tavern",
+              "Date": "\/Date(1314572400000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1307102983000+0100)\/",
+              "Edited": "\/Date(1311141738000+0100)\/"
+            },
+            {
+              "Id": null,
+              "BandNames": [],
+              "Venue": "The Galleon",
+              "Date": "\/Date(1314572400000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": "We welcome ALL creative talent. Come along to our Mad Monday open Mic sessions - you could end up with a paid gig by the end of the week",
+              "GigTitle": "Mad Monday open Mic session",
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1307877103000+0100)\/",
+              "Edited": "\/Date(1307877103000+0100)\/"
+            }
+          ]
+        },
+        {
+          "Date": "\/Date(1314658800000+0100)\/",
+          "Gigs": [
+            {
+              "Id": "gig/103453",
+              "BandNames": [
+                {
+                  "Value": "Tony Avalon"
+                }
+              ],
+              "Venue": "The Cedar Tavern",
+              "Date": "\/Date(1314658800000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311948048000+0100)\/",
+              "Edited": "\/Date(1311948048000+0100)\/"
+            },
+            {
+              "Id": null,
+              "BandNames": [],
+              "Venue": "The Blue Room",
+              "Date": "\/Date(1314658800000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": "The Blue Room new Open Mic Night every Tuesday evening! There will be Acoustic and mics set up all night for players to get up!",
+              "GigTitle": "Open Mic Night!",
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1306484438000+0100)\/",
+              "Edited": "\/Date(1306484439000+0100)\/"
+            },
+            {
+              "Id": null,
+              "BandNames": [],
+              "Venue": "The Galleon",
+              "Date": "\/Date(1314658800000+0100)\/",
+              "StartTime": "21:00",
+              "Price": "Free",
+              "MoreInfo": null,
+              "GigTitle": "Various Guest Live Music Acts",
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1306061784000+0100)\/",
+              "Edited": "\/Date(1307974196000+0100)\/"
+            }
+          ]
+        },
+        {
+          "Date": "\/Date(1314745200000+0100)\/",
+          "Gigs": [
+            {
+              "Id": "gig/103454",
+              "BandNames": [
+                {
+                  "Value": "Eat The Menu"
+                }
+              ],
+              "Venue": "The Cedar Tavern",
+              "Date": "\/Date(1314745200000+0100)\/",
+              "StartTime": "20:00",
+              "Price": "free",
+              "MoreInfo": null,
+              "GigTitle": null,
+              "Source": "manually input by rhmg",
+              "Cancelled": false,
+              "Created": "\/Date(1311948072000+0100)\/",
+              "Edited": "\/Date(1311948072000+0100)\/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

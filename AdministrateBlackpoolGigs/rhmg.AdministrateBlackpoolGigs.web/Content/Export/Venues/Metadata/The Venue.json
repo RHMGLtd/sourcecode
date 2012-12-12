@@ -1,0 +1,22 @@
+{
+  "Id": "metadata/1025",
+  "VenueName": "The Venue",
+  "MainImageName": "The Venue.jpg",
+  "BarAndClubReviewsUrl": "http://www.bar-and-club-reviews.com/bars/77468-the-royal-venue",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 852143",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "North Promenade",
+      "Thornton Cleveleys"
+    ],
+    "Website": "http://www.thevenuecleveleys.co.uk",
+    "EmailAddress": "info@thevenuecleveleys.co.uk",
+    "PostCode": "FY5 1LW ",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.800651",
+    "Long": "-4.064941"
+  }
+}

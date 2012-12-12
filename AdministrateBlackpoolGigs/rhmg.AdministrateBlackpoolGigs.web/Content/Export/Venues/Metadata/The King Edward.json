@@ -1,0 +1,22 @@
+{
+  "Id": "metadata/5122",
+  "VenueName": "The King Edward",
+  "MainImageName": "The King Edward.jpg",
+  "BarAndClubReviewsUrl": "http://www.bar-and-club-reviews.com/bars/77459-the-king-edward-vii",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 623521",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "39 Central Drive",
+      "Blackpool"
+    ],
+    "Website": "http://www.kingedwardviipub.co.uk",
+    "EmailAddress": null,
+    "PostCode": "FY1 5QE",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.812949",
+    "Long": "-3.050988"
+  }
+}

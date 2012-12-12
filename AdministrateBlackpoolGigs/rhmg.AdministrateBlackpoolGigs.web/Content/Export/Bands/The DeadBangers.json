@@ -1,0 +1,187 @@
+{
+  "BandName": {
+    "Value": "The DeadBangers"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/64517",
+      "BandNames": [
+        {
+          "Value": "The DeadBangers"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1307919600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307536786000+0100)\/",
+      "Edited": "\/Date(1307536786000+0100)\/"
+    },
+    {
+      "Id": "gig/33793",
+      "BandNames": [
+        {
+          "Value": "The DeadBangers"
+        }
+      ],
+      "Venue": "The Raikes Hall",
+      "Date": "\/Date(1308956400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": "The DeadBangers Live at the Raikes ",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1305628239000+0100)\/",
+      "Edited": "\/Date(1305628239000+0100)\/"
+    },
+    {
+      "Id": "gig/72706",
+      "BandNames": [
+        {
+          "Value": "The DeadBangers"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1310166000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308247988000+0100)\/",
+      "Edited": "\/Date(1308247988000+0100)\/"
+    },
+    {
+      "Id": "gig/88065",
+      "BandNames": [
+        {
+          "Value": "The DeadBangers"
+        }
+      ],
+      "Venue": "The Raikes Hall",
+      "Date": "\/Date(1311375600000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1309850579000+0100)\/",
+      "Edited": "\/Date(1309850579000+0100)\/"
+    },
+    {
+      "Id": "gig/114693",
+      "BandNames": [
+        {
+          "Value": "The DeadBangers"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1315004400000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1314858407000+0100)\/",
+      "Edited": "\/Date(1314858407000+0100)\/"
+    },
+    {
+      "Id": "gig/114692",
+      "BandNames": [
+        {
+          "Value": "The DeadBangers"
+        }
+      ],
+      "Venue": "The Raikes Hall",
+      "Date": "\/Date(1315609200000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1314858361000+0100)\/",
+      "Edited": "\/Date(1314858361000+0100)\/"
+    },
+    {
+      "Id": "gig/72707",
+      "BandNames": [
+        {
+          "Value": "The DeadBangers"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1317423600000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308248093000+0100)\/",
+      "Edited": "\/Date(1308248093000+0100)\/"
+    },
+    {
+      "Id": "gig/72708",
+      "BandNames": [
+        {
+          "Value": "The DeadBangers"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1320451200000+0000)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308248127000+0100)\/",
+      "Edited": "\/Date(1308248127000+0100)\/"
+    },
+    {
+      "Id": "gig/72709",
+      "BandNames": [
+        {
+          "Value": "The DeadBangers"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1323993600000+0000)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308248153000+0100)\/",
+      "Edited": "\/Date(1308248153000+0100)\/"
+    },
+    {
+      "Id": "gig/133143",
+      "BandNames": [
+        {
+          "Value": "The DeadBangers"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1326326400000+0000)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326561170000+0000)\/",
+      "Edited": "\/Date(1326561170000+0000)\/"
+    }
+  ]
+}

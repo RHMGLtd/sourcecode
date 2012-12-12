@@ -1,0 +1,25 @@
+{
+  "BandName": {
+    "Value": "Del Rio Ramblers"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/143369",
+      "BandNames": [
+        {
+          "Value": "Del Rio Ramblers"
+        }
+      ],
+      "Venue": "The Prince Arthur",
+      "Date": "\/Date(1334271600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1328352134000+0000)\/",
+      "Edited": "\/Date(1328352134000+0000)\/"
+    }
+  ]
+}

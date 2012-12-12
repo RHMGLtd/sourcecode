@@ -1,0 +1,22 @@
+{
+  "Id": "metadata/2050",
+  "VenueName": "The Merrie England",
+  "MainImageName": "The Merrie England.jpg",
+  "BarAndClubReviewsUrl": "http://www.bar-and-club-reviews.com/bars/77461-the-merrie-england",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 621452",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "North Pier",
+      "Town Centre"
+    ],
+    "Website": "http://www.merrieengland.com/",
+    "EmailAddress": "merrieengland@hotmail.co.uk",
+    "PostCode": "FY1 1NE",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.818946",
+    "Long": "-3.057117"
+  }
+}

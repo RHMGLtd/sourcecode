@@ -1,0 +1,22 @@
+{
+  "Id": "metadata/18433",
+  "VenueName": "The Wainwright Club",
+  "MainImageName": null,
+  "BarAndClubReviewsUrl": "",
+  "ContactDetail": {
+    "MainPhoneNumber": null,
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "173 Hornby Road",
+      "Blackpool"
+    ],
+    "Website": "",
+    "EmailAddress": null,
+    "PostCode": null,
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": null,
+    "Long": null
+  }
+}

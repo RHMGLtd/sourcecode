@@ -1,0 +1,25 @@
+{
+  "IsNull": false,
+  "Venue": "The Bloomfield Hotel",
+  "Gigs": [
+    {
+      "Id": "gig/17",
+      "BandNames": [
+        {
+          "Value": "Twisted Romance"
+        }
+      ],
+      "Venue": "The Bloomfield Hotel",
+      "Date": "\/Date(1303513200000+0100)\/",
+      "StartTime": "19:00",
+      "Price": null,
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1304204400000+0100)\/",
+      "Edited": "\/Date(1304204400000+0100)\/"
+    }
+  ],
+  "Future": []
+}

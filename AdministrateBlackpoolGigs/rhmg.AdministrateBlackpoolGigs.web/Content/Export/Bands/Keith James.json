@@ -1,0 +1,25 @@
+{
+  "BandName": {
+    "Value": "Keith James"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/141313",
+      "BandNames": [
+        {
+          "Value": "Keith James"
+        }
+      ],
+      "Venue": "The Prince Arthur",
+      "Date": "\/Date(1328227200000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": "Performing the Songs of Nick Drake and Dave Arcari",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327996021000+0000)\/",
+      "Edited": "\/Date(1327996022000+0000)\/"
+    }
+  ]
+}

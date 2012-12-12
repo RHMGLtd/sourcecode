@@ -1,0 +1,28 @@
+{
+  "BandName": {
+    "Value": "The Nimmo Brothers"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/122883",
+      "BandNames": [
+        {
+          "Value": "The Nimmo Brothers"
+        },
+        {
+          "Value": "Hooker"
+        }
+      ],
+      "Venue": "Marine Hall",
+      "Date": "\/Date(1317250800000+0100)\/",
+      "StartTime": "20",
+      "Price": "£10-£12",
+      "MoreInfo": "Pile-driving blues rock from this fine band from Scotland, fronted by the twin guitar/vocals of Stevie and Alan Nimmo. The best in UK blues/rock, guaranteed to raise the roof.\r\nSupport band is Fleetwoods favourite rockers Hooker\r\nTickets £10 (adv) £12 (on door) from 01253 887693 or www.marinehall.co.uk.\r\n\r\nTwo bands with brothers in them on one night, what could possibly go wrong!!!!!!!!\r\n\r\nCheck out www.towerblues.co.uk for more gigs",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315752988000+0100)\/",
+      "Edited": "\/Date(1315752988000+0100)\/"
+    }
+  ]
+}

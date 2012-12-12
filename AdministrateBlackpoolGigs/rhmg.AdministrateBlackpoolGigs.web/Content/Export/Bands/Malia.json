@@ -1,0 +1,25 @@
+{
+  "BandName": {
+    "Value": "Malia"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/86017",
+      "BandNames": [
+        {
+          "Value": "Malia"
+        }
+      ],
+      "Venue": "Uncle Toms Cabin",
+      "Date": "\/Date(1309993200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": "Fantastic Girl Band",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1309619616000+0100)\/",
+      "Edited": "\/Date(1309619617000+0100)\/"
+    }
+  ]
+}

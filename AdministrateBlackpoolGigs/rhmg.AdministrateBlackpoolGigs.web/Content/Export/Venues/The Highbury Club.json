@@ -1,0 +1,80 @@
+{
+  "IsNull": false,
+  "Venue": "The Highbury Club",
+  "Gigs": [
+    {
+      "Id": "gig/140336",
+      "BandNames": [
+        {
+          "Value": "Lune Deep"
+        }
+      ],
+      "Venue": "The Highbury Club",
+      "Date": "\/Date(1330128000000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327837189000+0000)\/",
+      "Edited": "\/Date(1327837189000+0000)\/"
+    },
+    {
+      "Id": "gig/133164",
+      "BandNames": [
+        {
+          "Value": "The Blue Pig Orchestra"
+        }
+      ],
+      "Venue": "The Highbury Club",
+      "Date": "\/Date(1341010800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326562003000+0000)\/",
+      "Edited": "\/Date(1326562003000+0000)\/"
+    }
+  ],
+  "Future": [
+    {
+      "Id": "gig/140336",
+      "BandNames": [
+        {
+          "Value": "Lune Deep"
+        }
+      ],
+      "Venue": "The Highbury Club",
+      "Date": "\/Date(1330128000000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327837189000+0000)\/",
+      "Edited": "\/Date(1327837189000+0000)\/"
+    },
+    {
+      "Id": "gig/133164",
+      "BandNames": [
+        {
+          "Value": "The Blue Pig Orchestra"
+        }
+      ],
+      "Venue": "The Highbury Club",
+      "Date": "\/Date(1341010800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326562003000+0000)\/",
+      "Edited": "\/Date(1326562003000+0000)\/"
+    }
+  ]
+}

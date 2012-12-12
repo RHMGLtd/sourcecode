@@ -1,0 +1,23 @@
+{
+  "Id": "metadata/6148",
+  "VenueName": "Windy Harbour",
+  "MainImageName": null,
+  "BarAndClubReviewsUrl": "",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 883064",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "Windy Harbour Holiday Park",
+      "Windy Harbour Road",
+      "Poulton-Le-Fylde"
+    ],
+    "Website": "http://www.windyharbour.net",
+    "EmailAddress": null,
+    "PostCode": "FY6 8NB",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.851417",
+    "Long": "-2.9261"
+  }
+}

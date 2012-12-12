@@ -1,0 +1,73 @@
+{
+  "IsNull": false,
+  "Venue": "Bierkeller",
+  "Gigs": [
+    {
+      "Id": "gig/95234",
+      "BandNames": [
+        {
+          "Value": "Let's Go Eskimo"
+        },
+        {
+          "Value": "The Valvetronics"
+        },
+        {
+          "Value": "Dysphonia"
+        }
+      ],
+      "Venue": "Bierkeller",
+      "Date": "\/Date(1311202800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311234509000+0100)\/",
+      "Edited": "\/Date(1311234509000+0100)\/"
+    },
+    {
+      "Id": "gig/126977",
+      "BandNames": [
+        {
+          "Value": "Bill Orrick"
+        }
+      ],
+      "Venue": "Bierkeller",
+      "Date": "\/Date(1316646000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": "BLACKPOOL THIS THURSDAY NIGHT - I'm playing at The Bierkeller. It's a very nice place to be, it has good sound and it has steins",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1316503907000+0100)\/",
+      "Edited": "\/Date(1316503908000+0100)\/"
+    },
+    {
+      "Id": "gig/133131",
+      "BandNames": [
+        {
+          "Value": "Switchboard Spectacular"
+        },
+        {
+          "Value": "Makers Of Venice"
+        },
+        {
+          "Value": "Will Proctor"
+        }
+      ],
+      "Venue": "Bierkeller",
+      "Date": "\/Date(1319065200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326558860000+0000)\/",
+      "Edited": "\/Date(1326558860000+0000)\/"
+    }
+  ],
+  "Future": []
+}

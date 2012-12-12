@@ -1,0 +1,31 @@
+{
+  "BandName": {
+    "Value": "Will Proctor"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/133131",
+      "BandNames": [
+        {
+          "Value": "Switchboard Spectacular"
+        },
+        {
+          "Value": "Makers Of Venice"
+        },
+        {
+          "Value": "Will Proctor"
+        }
+      ],
+      "Venue": "Bierkeller",
+      "Date": "\/Date(1319065200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326558860000+0000)\/",
+      "Edited": "\/Date(1326558860000+0000)\/"
+    }
+  ]
+}

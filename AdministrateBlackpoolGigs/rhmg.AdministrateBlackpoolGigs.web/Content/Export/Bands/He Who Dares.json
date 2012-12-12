@@ -1,0 +1,115 @@
+{
+  "BandName": {
+    "Value": "He Who Dares"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/40964",
+      "BandNames": [
+        {
+          "Value": "The Blue Pig Orchestra"
+        },
+        {
+          "Value": "Ska Face"
+        },
+        {
+          "Value": "Happy Daize"
+        },
+        {
+          "Value": "The Jeps"
+        },
+        {
+          "Value": "Rupert Fabulous"
+        },
+        {
+          "Value": "The Versions"
+        },
+        {
+          "Value": "Tony Mitchell"
+        },
+        {
+          "Value": "Triple Threat"
+        },
+        {
+          "Value": "Brother Rabbit"
+        },
+        {
+          "Value": "3rd Step"
+        },
+        {
+          "Value": "Fleetwood High School"
+        },
+        {
+          "Value": "Stephanie Fraser"
+        },
+        {
+          "Value": "Penny Black"
+        },
+        {
+          "Value": "Paul Huson & Ayshea Manning"
+        },
+        {
+          "Value": "The Colours"
+        },
+        {
+          "Value": "Poison Apple"
+        },
+        {
+          "Value": "Gatorville"
+        },
+        {
+          "Value": "Roxyrama"
+        },
+        {
+          "Value": "Hot Vestry"
+        },
+        {
+          "Value": "Framed at the Crime Scene"
+        },
+        {
+          "Value": "He Who Dares"
+        },
+        {
+          "Value": "The Underachievers"
+        },
+        {
+          "Value": "Forever Autumn"
+        },
+        {
+          "Value": "Junk Box DJs"
+        },
+        {
+          "Value": "Elysium"
+        },
+        {
+          "Value": "Fatt Tuesday"
+        },
+        {
+          "Value": "Unresolved"
+        },
+        {
+          "Value": "Paige Howard"
+        },
+        {
+          "Value": "Remember Hillards"
+        },
+        {
+          "Value": "Ashes of Humanity"
+        },
+        {
+          "Value": "Shakers Blues Band"
+        }
+      ],
+      "Venue": "Marine Hall",
+      "Date": "\/Date(1310166000000+0100)\/",
+      "StartTime": "12:00",
+      "Price": "£5",
+      "MoreInfo": "Raising money for Yuto Rice.\r\n\r\nFor more info please visit www.charityconcert.co.uk\r\n\r\nEntry wrist bands will be sold on the day £5 each",
+      "GigTitle": "Yuto Fest",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306392515000+0100)\/",
+      "Edited": "\/Date(1306392515000+0100)\/"
+    }
+  ]
+}

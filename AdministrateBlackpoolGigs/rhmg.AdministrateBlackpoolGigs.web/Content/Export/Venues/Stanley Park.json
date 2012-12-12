@@ -1,0 +1,277 @@
+{
+  "IsNull": false,
+  "Venue": "Stanley Park",
+  "Gigs": [
+    {
+      "Id": "gig/51201",
+      "BandNames": [
+        {
+          "Value": "Megson"
+        },
+        {
+          "Value": "Stuart Angus"
+        },
+        {
+          "Value": "Vic and Andy"
+        },
+        {
+          "Value": "Neal Thompson"
+        },
+        {
+          "Value": "Anne-Marie Scott"
+        },
+        {
+          "Value": "Jay Thackery"
+        },
+        {
+          "Value": "Charlie Cartmell"
+        }
+      ],
+      "Venue": "Stanley Park",
+      "Date": "\/Date(1306710000000+0100)\/",
+      "StartTime": "13:00",
+      "Price": "free",
+      "MoreInfo": "FREE gig (though donations are welcome) at the bandstand featuring some of the area's finest acoustic solo/duo acts. Stanley Park is a designated alcolhol-free area - this included the bandstand!!",
+      "GigTitle": "Acoustic day at the bandstand",
+      "Source": "manually input by rhmg",
+      "Cancelled": true,
+      "Created": "\/Date(1306675357000+0100)\/",
+      "Edited": "\/Date(1306832299000+0100)\/"
+    },
+    {
+      "Id": "gig/53249",
+      "BandNames": [
+        {
+          "Value": "Charlie Cartmell"
+        },
+        {
+          "Value": "The TC Allstars"
+        },
+        {
+          "Value": "The Valvetronics"
+        },
+        {
+          "Value": "Alpha State Of Mind"
+        }
+      ],
+      "Venue": "Stanley Park",
+      "Date": "\/Date(1308438000000+0100)\/",
+      "StartTime": "13:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": "Gig at the Band Stand",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306747968000+0100)\/",
+      "Edited": "\/Date(1306747968000+0100)\/"
+    },
+    {
+      "Id": "gig/52226",
+      "BandNames": [
+        {
+          "Value": "Troubadour"
+        }
+      ],
+      "Venue": "Stanley Park",
+      "Date": "\/Date(1309647600000+0100)\/",
+      "StartTime": "16:00",
+      "Price": "free",
+      "MoreInfo": "T in the Park....Troubadour in Stanley Park that is, with our chums George, Andy and Kim from the Spiral Scouts.\r\n\r\nSo we got rained off last year...but after a good cloudburst the year before it brightened up nicely and a smashing time was had by all, so keep your fingers crossed, dust off your picnic baskets and join us for an afternoon of acoustic music in the great outdoors",
+      "GigTitle": "T in the Park II",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306695778000+0100)\/",
+      "Edited": "\/Date(1306695778000+0100)\/"
+    },
+    {
+      "Id": "gig/77829",
+      "BandNames": [
+        {
+          "Value": "Orin"
+        },
+        {
+          "Value": "Glam Doctors"
+        },
+        {
+          "Value": "Smokin Monkey"
+        }
+      ],
+      "Venue": "Stanley Park",
+      "Date": "\/Date(1310252400000+0100)\/",
+      "StartTime": "12:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": "Monkeyfest 4 + Motorbike show",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308851186000+0100)\/",
+      "Edited": "\/Date(1308917142000+0100)\/"
+    },
+    {
+      "Id": "gig/72710",
+      "BandNames": [
+        {
+          "Value": "The Valvetronics"
+        },
+        {
+          "Value": "Various Artists"
+        }
+      ],
+      "Venue": "Stanley Park",
+      "Date": "\/Date(1311375600000+0100)\/",
+      "StartTime": "13.00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": "Sunday Rock on the Bandstand > Valvetronics",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308248194000+0100)\/",
+      "Edited": "\/Date(1308248413000+0100)\/"
+    },
+    {
+      "Id": "gig/89089",
+      "BandNames": [
+        {
+          "Value": "AC/BC"
+        }
+      ],
+      "Venue": "Stanley Park",
+      "Date": "\/Date(1311462000000+0100)\/",
+      "StartTime": "12:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": "AC/BC - Poundin' the Park !",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1309868636000+0100)\/",
+      "Edited": "\/Date(1309868637000+0100)\/"
+    },
+    {
+      "Id": "gig/39949",
+      "BandNames": [
+        {
+          "Value": "Mauri Clash City Rocker"
+        }
+      ],
+      "Venue": "Stanley Park",
+      "Date": "\/Date(1312498800000+0100)\/",
+      "StartTime": "14:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": "Mauri Clash City Rocker - Acoustic Riot - Blackpool Tour 2011",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306335310000+0100)\/",
+      "Edited": "\/Date(1307877222000+0100)\/"
+    },
+    {
+      "Id": "gig/73729",
+      "BandNames": [
+        {
+          "Value": "John Gomm"
+        }
+      ],
+      "Venue": "Stanley Park",
+      "Date": "\/Date(1312671600000+0100)\/",
+      "StartTime": "14:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308310992000+0100)\/",
+      "Edited": "\/Date(1308310993000+0100)\/"
+    },
+    {
+      "Id": "gig/99405",
+      "BandNames": [
+        {
+          "Value": "The Heat"
+        },
+        {
+          "Value": "A'Priori"
+        },
+        {
+          "Value": "Lune Deep"
+        }
+      ],
+      "Venue": "Stanley Park",
+      "Date": "\/Date(1313276400000+0100)\/",
+      "StartTime": "13:00",
+      "Price": "free",
+      "MoreInfo": "Playing at the band stand",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311709394000+0100)\/",
+      "Edited": "\/Date(1313133705000+0100)\/"
+    },
+    {
+      "Id": "gig/106500",
+      "BandNames": [
+        {
+          "Value": "George Weaver"
+        },
+        {
+          "Value": "Stephanie Fraser"
+        },
+        {
+          "Value": "Alex Hulme"
+        },
+        {
+          "Value": "Payload"
+        },
+        {
+          "Value": "OneFourThree"
+        }
+      ],
+      "Venue": "Stanley Park",
+      "Date": "\/Date(1313622000000+0100)\/",
+      "StartTime": "12:30",
+      "Price": "free",
+      "MoreInfo": "At the Bandstand, 12:30-6:30.",
+      "GigTitle": "CHARITY FESTIVAL - MACMILLAN CANCER CARE",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1313045740000+0100)\/",
+      "Edited": "\/Date(1313045740000+0100)\/"
+    },
+    {
+      "Id": "gig/109570",
+      "BandNames": [
+        {
+          "Value": "Rupert Fabulous"
+        }
+      ],
+      "Venue": "Stanley Park",
+      "Date": "\/Date(1313881200000+0100)\/",
+      "StartTime": "14:00",
+      "Price": "free",
+      "MoreInfo": "Playing at the bandstand today!",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1313931997000+0100)\/",
+      "Edited": "\/Date(1313931997000+0100)\/"
+    },
+    {
+      "Id": "gig/116781",
+      "BandNames": [
+        {
+          "Value": "Flip"
+        }
+      ],
+      "Venue": "Stanley Park",
+      "Date": "\/Date(1315695600000+0100)\/",
+      "StartTime": "13:00",
+      "Price": "free",
+      "MoreInfo": "Playing at the Art Deco Cafe",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315140686000+0100)\/",
+      "Edited": "\/Date(1315140686000+0100)\/"
+    }
+  ],
+  "Future": []
+}

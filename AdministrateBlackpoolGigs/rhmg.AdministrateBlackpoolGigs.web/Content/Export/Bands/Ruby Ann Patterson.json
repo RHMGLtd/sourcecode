@@ -1,0 +1,25 @@
+{
+  "BandName": {
+    "Value": "Ruby Ann Patterson"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/107522",
+      "BandNames": [
+        {
+          "Value": "Ruby Ann Patterson"
+        }
+      ],
+      "Venue": "The Galleon",
+      "Date": "\/Date(1315868400000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": "Ruby Ann Patterson is a precocious Manchester-based singer songwriter dealing in reflective wisdom infused with natural optimism and unselfconscious emotion. Hers is a voice defying description. Powerfully soft; gentle yet fervent, driving delicate melodies with an intensity and complexity belying her youth. Ruby Anns soulful vocals are matched by her haunting talents on piano and guitar.\r\n\r\nAt just 18, Ruby Ann’s early achievements demonstrate a diverse creative force backed by assiduous dedication and an innate urge to perform. Awards for excellence in drama, writing, dance and expressive arts sit alongside the intricate drawings and fevered scribblings of a unique imagination. Already a seasoned artist, Ruby Ann has been a regular on the Manchester live scene since she was 15 years old.\r\n\r\nDrawing energy and inspiration from the close family and friends supporting her throughout her burgeoning career, Ruby Ann’s music is a testament to her passions. With broad influences including folk, blues and classical literature, the result is a sound that is hers alone.”\r\n\r\nhttp://www.rubyannpatterso​n.co.uk/",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1313132453000+0100)\/",
+      "Edited": "\/Date(1313132453000+0100)\/"
+    }
+  ]
+}

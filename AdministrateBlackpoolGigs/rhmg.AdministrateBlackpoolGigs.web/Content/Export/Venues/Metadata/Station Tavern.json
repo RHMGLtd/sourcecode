@@ -1,0 +1,22 @@
+{
+  "Id": "metadata/2073",
+  "VenueName": "Station Tavern",
+  "MainImageName": "Station Tavern.jpg",
+  "BarAndClubReviewsUrl": "http://www.bar-and-club-reviews.com/bars/52164-Station-Tavern-Lytham",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 734252",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "Station Square",
+      "Lytham"
+    ],
+    "Website": "http://https://www.facebook.com/group.php?gid=100329253079&v=info",
+    "EmailAddress": null,
+    "PostCode": "Lytham",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.739143",
+    "Long": "-2.964249"
+  }
+}

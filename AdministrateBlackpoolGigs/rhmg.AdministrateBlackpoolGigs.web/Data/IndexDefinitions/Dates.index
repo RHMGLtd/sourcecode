@@ -1,0 +1,13 @@
+{
+  "Name": "Dates",
+  "Map": "docs.gig\r\n\t.Select(doc => new {Month = doc.Date.Month, Year = doc.Date.Year})",
+  "Reduce": "results\r\n\t.GroupBy(result => new {Month = result.Month, Year = result.Year})\r\n\t.Select(g => new {Month = g.Key.Month, Year = g.Key.Year})",
+  "TransformResults": null,
+  "IsMapReduce": true,
+  "IsCompiled": false,
+  "Stores": {},
+  "Indexes": {},
+  "SortOptions": {},
+  "Analyzers": {},
+  "Type": "MapReduce"
+}

@@ -1,0 +1,23 @@
+{
+  "Id": "metadata/21505",
+  "VenueName": "The Ship and Royal",
+  "MainImageName": "The Ship and Royal.jpg",
+  "BarAndClubReviewsUrl": "",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 732867",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "91 Clifton Street",
+      "Lytham",
+      "St Annes"
+    ],
+    "Website": "",
+    "EmailAddress": null,
+    "PostCode": "FY8 5EH",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.737074",
+    "Long": "-2.962382"
+  }
+}

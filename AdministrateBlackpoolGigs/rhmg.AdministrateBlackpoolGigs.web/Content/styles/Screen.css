@@ -1,0 +1,95 @@
+body
+{
+    font-family: Tahoma;
+    font-size: 9pt;
+    margin: 0px;
+}
+em
+{
+    font-style: normal;
+    font-weight: bold;
+}
+.wrapper
+{
+    position: relative;
+    width: 750px;
+    margin: 0 auto;
+}
+.logo
+{
+    position: relative;
+    margin-top: -110px;
+    margin-left: 150px;
+    z-index: 1;
+}
+.pageTitle
+{
+    position: relative;
+    font-size: 3em;
+    z-index: 2;
+}
+.holder
+{
+    width: 100%;
+}
+.inputForm
+{
+    float: left;
+}
+.checkResults
+{
+    width: 400px;
+    height: 400px;
+    border: 1px solid black;
+    padding: 10px 10px;
+}
+.addItem
+{
+    overflow: auto;
+    line-height: 30px;
+}
+.addItem .venueName
+{
+    float: left;
+    width: 250px;
+}
+.addItem .metadataImages
+{
+    float: left;
+    width: 200px;
+}
+.bandName
+{
+    overflow: auto;
+}
+.label
+{
+    display: block;
+    width: 100px;
+    float: left;
+}
+.link
+{
+    border: 1px groove gray;
+    width: 100px;
+    height: 35px;
+    cursor: pointer;
+}
+.pager
+{
+}
+.pager .navLink
+{
+    padding: 0px 15px;
+}
+
+#slider-bg
+{
+    width: 228px;
+    height: 24px;
+    background: url(http://yui.yahooapis.com/2.9.0/build/slider/assets/bg-fader.gif) 5px 0 no-repeat;
+}
+#slider-thumb
+{
+    left: 0;
+}

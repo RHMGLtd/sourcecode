@@ -1,0 +1,25 @@
+{
+  "BandName": {
+    "Value": "Dean Casement Trio"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/116822",
+      "BandNames": [
+        {
+          "Value": "Dean Casement Trio"
+        }
+      ],
+      "Venue": "Station Tavern",
+      "Date": "\/Date(1315522800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315142299000+0100)\/",
+      "Edited": "\/Date(1315142299000+0100)\/"
+    }
+  ]
+}

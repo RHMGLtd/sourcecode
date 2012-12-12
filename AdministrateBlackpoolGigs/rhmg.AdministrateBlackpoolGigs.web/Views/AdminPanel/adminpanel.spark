@@ -1,0 +1,5 @@
+<viewdata model="AdminPanelViewModel model" />
+
+<content name="body">
+  <a href="!{new AddCreatedDatesUrl()}">Add created date to all existing records</a> || <a href="!{new DataCleanseSpacesUrl()}">Datacleanse spaces on gigs</a>
+</content>

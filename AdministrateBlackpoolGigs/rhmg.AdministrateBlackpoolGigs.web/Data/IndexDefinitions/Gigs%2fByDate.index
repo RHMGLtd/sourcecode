@@ -1,0 +1,13 @@
+{
+  "Name": "Gigs/ByDate",
+  "Map": "docs.gig\r\n\t.Select(doc => new {BandNames = doc.BandNames, Venue = doc.Venue, StartTime = doc.StartTime})",
+  "Reduce": null,
+  "TransformResults": null,
+  "IsMapReduce": false,
+  "IsCompiled": false,
+  "Stores": {},
+  "Indexes": {},
+  "SortOptions": {},
+  "Analyzers": {},
+  "Type": "Map"
+}

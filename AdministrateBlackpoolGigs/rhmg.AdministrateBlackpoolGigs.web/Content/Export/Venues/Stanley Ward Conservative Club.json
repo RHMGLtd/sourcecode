@@ -1,0 +1,548 @@
+{
+  "IsNull": false,
+  "Venue": "Stanley Ward Conservative Club",
+  "Gigs": [
+    {
+      "Id": "gig/19460",
+      "BandNames": [
+        {
+          "Value": "Ska Face"
+        }
+      ],
+      "Venue": "Stanley Ward Conservative Club",
+      "Date": "\/Date(1305327600000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "£2",
+      "MoreInfo": "This is a must be signed in gig. £2 non members. Extra staff on door checking membership cards from Vice Chairman",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1304031600000+0100)\/",
+      "Edited": "\/Date(1305309097000+0100)\/"
+    },
+    {
+      "Id": "gig/78880",
+      "BandNames": [
+        {
+          "Value": "The Monster Squad"
+        }
+      ],
+      "Venue": "Stanley Ward Conservative Club",
+      "Date": "\/Date(1310770800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308917527000+0100)\/",
+      "Edited": "\/Date(1308917527000+0100)\/"
+    },
+    {
+      "Id": "gig/106509",
+      "BandNames": [
+        {
+          "Value": "Backwater"
+        }
+      ],
+      "Venue": "Stanley Ward Conservative Club",
+      "Date": "\/Date(1315004400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1313047076000+0100)\/",
+      "Edited": "\/Date(1313047076000+0100)\/"
+    },
+    {
+      "Id": "gig/116799",
+      "BandNames": [
+        {
+          "Value": "The Heat"
+        }
+      ],
+      "Venue": "Stanley Ward Conservative Club",
+      "Date": "\/Date(1316214000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315141293000+0100)\/",
+      "Edited": "\/Date(1315141293000+0100)\/"
+    },
+    {
+      "Id": "gig/134167",
+      "BandNames": [
+        {
+          "Value": "The Deadbeats"
+        }
+      ],
+      "Venue": "Stanley Ward Conservative Club",
+      "Date": "\/Date(1326412800000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326569411000+0000)\/",
+      "Edited": "\/Date(1326569411000+0000)\/"
+    },
+    {
+      "Id": "gig/134188",
+      "BandNames": [
+        {
+          "Value": "Private Eye"
+        }
+      ],
+      "Venue": "Stanley Ward Conservative Club",
+      "Date": "\/Date(1326499200000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326570339000+0000)\/",
+      "Edited": "\/Date(1326570339000+0000)\/"
+    },
+    {
+      "Id": "gig/134162",
+      "BandNames": [
+        {
+          "Value": "The Heat"
+        }
+      ],
+      "Venue": "Stanley Ward Conservative Club",
+      "Date": "\/Date(1327104000000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326569248000+0000)\/",
+      "Edited": "\/Date(1326569248000+0000)\/"
+    },
+    {
+      "Id": "gig/134181",
+      "BandNames": [
+        {
+          "Value": "Kazoobian"
+        }
+      ],
+      "Venue": "Stanley Ward Conservative Club",
+      "Date": "\/Date(1327708800000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326569989000+0000)\/",
+      "Edited": "\/Date(1326569989000+0000)\/"
+    },
+    {
+      "Id": "gig/140356",
+      "BandNames": [
+        {
+          "Value": "Kiss Da Beat"
+        }
+      ],
+      "Venue": "Stanley Ward Conservative Club",
+      "Date": "\/Date(1328313600000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327838570000+0000)\/",
+      "Edited": "\/Date(1327838570000+0000)\/"
+    },
+    {
+      "Id": "gig/140357",
+      "BandNames": [
+        {
+          "Value": "Killing Time"
+        }
+      ],
+      "Venue": "Stanley Ward Conservative Club",
+      "Date": "\/Date(1328918400000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327838620000+0000)\/",
+      "Edited": "\/Date(1327838620000+0000)\/"
+    },
+    {
+      "Id": "gig/140304",
+      "BandNames": [
+        {
+          "Value": "On The Edge"
+        }
+      ],
+      "Venue": "Stanley Ward Conservative Club",
+      "Date": "\/Date(1329523200000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327835015000+0000)\/",
+      "Edited": "\/Date(1327835015000+0000)\/"
+    },
+    {
+      "Id": "gig/140358",
+      "BandNames": [
+        {
+          "Value": "Electric Dreams"
+        }
+      ],
+      "Venue": "Stanley Ward Conservative Club",
+      "Date": "\/Date(1330041600000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327838648000+0000)\/",
+      "Edited": "\/Date(1327838648000+0000)\/"
+    },
+    {
+      "Id": "gig/140323",
+      "BandNames": [
+        {
+          "Value": "The Jeps"
+        }
+      ],
+      "Venue": "Stanley Ward Conservative Club",
+      "Date": "\/Date(1330128000000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327836554000+0000)\/",
+      "Edited": "\/Date(1327836554000+0000)\/"
+    },
+    {
+      "Id": "gig/133132",
+      "BandNames": [
+        {
+          "Value": "Backwater"
+        }
+      ],
+      "Venue": "Stanley Ward Conservative Club",
+      "Date": "\/Date(1330732800000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326559539000+0000)\/",
+      "Edited": "\/Date(1326559539000+0000)\/"
+    },
+    {
+      "Id": "gig/133152",
+      "BandNames": [
+        {
+          "Value": "The Blue Pig Orchestra"
+        }
+      ],
+      "Venue": "Stanley Ward Conservative Club",
+      "Date": "\/Date(1331942400000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326561577000+0000)\/",
+      "Edited": "\/Date(1326561577000+0000)\/"
+    },
+    {
+      "Id": "gig/140292",
+      "BandNames": [
+        {
+          "Value": "Glitterballs"
+        }
+      ],
+      "Venue": "Stanley Ward Conservative Club",
+      "Date": "\/Date(1336777200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327834171000+0000)\/",
+      "Edited": "\/Date(1327834171000+0000)\/"
+    },
+    {
+      "Id": "gig/133191",
+      "BandNames": [
+        {
+          "Value": "Ska Face"
+        }
+      ],
+      "Venue": "Stanley Ward Conservative Club",
+      "Date": "\/Date(1342220400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326563056000+0000)\/",
+      "Edited": "\/Date(1326563056000+0000)\/"
+    },
+    {
+      "Id": "gig/140295",
+      "BandNames": [
+        {
+          "Value": "Glitterballs"
+        }
+      ],
+      "Venue": "Stanley Ward Conservative Club",
+      "Date": "\/Date(1343343600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327834282000+0000)\/",
+      "Edited": "\/Date(1327834282000+0000)\/"
+    },
+    {
+      "Id": "gig/137223",
+      "BandNames": [
+        {
+          "Value": "Backwater"
+        }
+      ],
+      "Venue": "Stanley Ward Conservative Club",
+      "Date": "\/Date(1353715200000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327313640000+0000)\/",
+      "Edited": "\/Date(1327313640000+0000)\/"
+    }
+  ],
+  "Future": [
+    {
+      "Id": "gig/140356",
+      "BandNames": [
+        {
+          "Value": "Kiss Da Beat"
+        }
+      ],
+      "Venue": "Stanley Ward Conservative Club",
+      "Date": "\/Date(1328313600000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327838570000+0000)\/",
+      "Edited": "\/Date(1327838570000+0000)\/"
+    },
+    {
+      "Id": "gig/140357",
+      "BandNames": [
+        {
+          "Value": "Killing Time"
+        }
+      ],
+      "Venue": "Stanley Ward Conservative Club",
+      "Date": "\/Date(1328918400000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327838620000+0000)\/",
+      "Edited": "\/Date(1327838620000+0000)\/"
+    },
+    {
+      "Id": "gig/140304",
+      "BandNames": [
+        {
+          "Value": "On The Edge"
+        }
+      ],
+      "Venue": "Stanley Ward Conservative Club",
+      "Date": "\/Date(1329523200000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327835015000+0000)\/",
+      "Edited": "\/Date(1327835015000+0000)\/"
+    },
+    {
+      "Id": "gig/140358",
+      "BandNames": [
+        {
+          "Value": "Electric Dreams"
+        }
+      ],
+      "Venue": "Stanley Ward Conservative Club",
+      "Date": "\/Date(1330041600000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327838648000+0000)\/",
+      "Edited": "\/Date(1327838648000+0000)\/"
+    },
+    {
+      "Id": "gig/140323",
+      "BandNames": [
+        {
+          "Value": "The Jeps"
+        }
+      ],
+      "Venue": "Stanley Ward Conservative Club",
+      "Date": "\/Date(1330128000000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327836554000+0000)\/",
+      "Edited": "\/Date(1327836554000+0000)\/"
+    },
+    {
+      "Id": "gig/133132",
+      "BandNames": [
+        {
+          "Value": "Backwater"
+        }
+      ],
+      "Venue": "Stanley Ward Conservative Club",
+      "Date": "\/Date(1330732800000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326559539000+0000)\/",
+      "Edited": "\/Date(1326559539000+0000)\/"
+    },
+    {
+      "Id": "gig/133152",
+      "BandNames": [
+        {
+          "Value": "The Blue Pig Orchestra"
+        }
+      ],
+      "Venue": "Stanley Ward Conservative Club",
+      "Date": "\/Date(1331942400000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326561577000+0000)\/",
+      "Edited": "\/Date(1326561577000+0000)\/"
+    },
+    {
+      "Id": "gig/140292",
+      "BandNames": [
+        {
+          "Value": "Glitterballs"
+        }
+      ],
+      "Venue": "Stanley Ward Conservative Club",
+      "Date": "\/Date(1336777200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327834171000+0000)\/",
+      "Edited": "\/Date(1327834171000+0000)\/"
+    },
+    {
+      "Id": "gig/133191",
+      "BandNames": [
+        {
+          "Value": "Ska Face"
+        }
+      ],
+      "Venue": "Stanley Ward Conservative Club",
+      "Date": "\/Date(1342220400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326563056000+0000)\/",
+      "Edited": "\/Date(1326563056000+0000)\/"
+    },
+    {
+      "Id": "gig/140295",
+      "BandNames": [
+        {
+          "Value": "Glitterballs"
+        }
+      ],
+      "Venue": "Stanley Ward Conservative Club",
+      "Date": "\/Date(1343343600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327834282000+0000)\/",
+      "Edited": "\/Date(1327834282000+0000)\/"
+    },
+    {
+      "Id": "gig/137223",
+      "BandNames": [
+        {
+          "Value": "Backwater"
+        }
+      ],
+      "Venue": "Stanley Ward Conservative Club",
+      "Date": "\/Date(1353715200000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327313640000+0000)\/",
+      "Edited": "\/Date(1327313640000+0000)\/"
+    }
+  ]
+}

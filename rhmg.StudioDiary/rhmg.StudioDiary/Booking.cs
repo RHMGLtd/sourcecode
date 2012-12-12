@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using OpenFileSystem.IO;
+using coolbunny.common.Extensions;
 
 namespace rhmg.StudioDiary
 {
@@ -116,6 +118,15 @@ namespace rhmg.StudioDiary
         public void CheckIn()
         {
             CheckedIn = true;
+        }
+
+        public void SaveAttachment(IFile file, IFileSystem fs, string rootDirectory)
+        {
+            if (string.IsNullOrEmpty(Id))
+                throw new IndexOutOfRangeException("You cannot add attachments when the booking is not saved");
+            var folder = fs.GetDirectory(rootDirectory.EnsureEndsWith("/") + Id) ??
+                         fs.CreateDirectory(rootDirectory.EnsureEndsWith("/") + Id);
+            folder.CopyTo(file);
         }
     }
 }

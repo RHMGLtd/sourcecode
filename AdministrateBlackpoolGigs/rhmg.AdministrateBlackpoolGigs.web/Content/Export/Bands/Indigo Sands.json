@@ -1,0 +1,115 @@
+{
+  "BandName": {
+    "Value": "Indigo Sands"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/64513",
+      "BandNames": [
+        {
+          "Value": "Indigo Sands"
+        },
+        {
+          "Value": "Laura Torkington"
+        },
+        {
+          "Value": "Joe Morgan"
+        },
+        {
+          "Value": "Henry Turner"
+        },
+        {
+          "Value": "Solvent Free"
+        },
+        {
+          "Value": "James Cameron"
+        },
+        {
+          "Value": "Jake Maher"
+        }
+      ],
+      "Venue": "Fleetwood Rugby Club",
+      "Date": "\/Date(1307746800000+0100)\/",
+      "StartTime": "17:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": "Fleetwood Rugby Club Presents... Band Night",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307536432000+0100)\/",
+      "Edited": "\/Date(1307536432000+0100)\/"
+    },
+    {
+      "Id": "gig/32775",
+      "BandNames": [
+        {
+          "Value": "Indigo Sands"
+        }
+      ],
+      "Venue": "The North Euston",
+      "Date": "\/Date(1311375600000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1305544039000+0100)\/",
+      "Edited": "\/Date(1305544039000+0100)\/"
+    },
+    {
+      "Id": "gig/116844",
+      "BandNames": [
+        {
+          "Value": "Indigo Sands"
+        }
+      ],
+      "Venue": "The Edge",
+      "Date": "\/Date(1316041200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315142892000+0100)\/",
+      "Edited": "\/Date(1315142892000+0100)\/"
+    },
+    {
+      "Id": "gig/32786",
+      "BandNames": [
+        {
+          "Value": "Indigo Sands"
+        }
+      ],
+      "Venue": "The North Euston",
+      "Date": "\/Date(1318633200000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1305544327000+0100)\/",
+      "Edited": "\/Date(1305544327000+0100)\/"
+    },
+    {
+      "Id": "gig/32793",
+      "BandNames": [
+        {
+          "Value": "Indigo Sands"
+        }
+      ],
+      "Venue": "The North Euston",
+      "Date": "\/Date(1324684800000+0000)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1305544791000+0100)\/",
+      "Edited": "\/Date(1305544791000+0100)\/"
+    }
+  ]
+}

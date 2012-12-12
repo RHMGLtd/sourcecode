@@ -1,0 +1,259 @@
+{
+  "BandName": {
+    "Value": "The TC Allstars"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/7170",
+      "BandNames": [
+        {
+          "Value": "The TC Allstars"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1304722800000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1304204400000+0100)\/",
+      "Edited": "\/Date(1304204400000+0100)\/"
+    },
+    {
+      "Id": "gig/26625",
+      "BandNames": [
+        {
+          "Value": "The TC Allstars"
+        },
+        {
+          "Value": "Alpha State Of Mind"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1307142000000+0100)\/",
+      "StartTime": "21:30",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1305308808000+0100)\/",
+      "Edited": "\/Date(1306933255000+0100)\/"
+    },
+    {
+      "Id": "gig/53249",
+      "BandNames": [
+        {
+          "Value": "Charlie Cartmell"
+        },
+        {
+          "Value": "The TC Allstars"
+        },
+        {
+          "Value": "The Valvetronics"
+        },
+        {
+          "Value": "Alpha State Of Mind"
+        }
+      ],
+      "Venue": "Stanley Park",
+      "Date": "\/Date(1308438000000+0100)\/",
+      "StartTime": "13:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": "Gig at the Band Stand",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306747968000+0100)\/",
+      "Edited": "\/Date(1306747968000+0100)\/"
+    },
+    {
+      "Id": "gig/63494",
+      "BandNames": [
+        {
+          "Value": "The TC Allstars"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1309561200000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307371494000+0100)\/",
+      "Edited": "\/Date(1307371494000+0100)\/"
+    },
+    {
+      "Id": "gig/102401",
+      "BandNames": [
+        {
+          "Value": "The TC Allstars"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1312585200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311933842000+0100)\/",
+      "Edited": "\/Date(1311933842000+0100)\/"
+    },
+    {
+      "Id": "gig/103439",
+      "BandNames": [
+        {
+          "Value": "The TC Allstars"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1312585200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311947554000+0100)\/",
+      "Edited": "\/Date(1311947554000+0100)\/"
+    },
+    {
+      "Id": "gig/105474",
+      "BandNames": [
+        {
+          "Value": "Six10repeater"
+        },
+        {
+          "Value": "Blind Kings"
+        },
+        {
+          "Value": "Magic Trees"
+        },
+        {
+          "Value": "Spiral Scouts"
+        },
+        {
+          "Value": "Idol Minds"
+        },
+        {
+          "Value": "The TC Allstars"
+        },
+        {
+          "Value": "Alpha State Of Mind"
+        },
+        {
+          "Value": "The Keytars"
+        },
+        {
+          "Value": "Flip"
+        }
+      ],
+      "Venue": "The Victoria",
+      "Date": "\/Date(1313190000000+0100)\/",
+      "StartTime": "10:00",
+      "Price": "free",
+      "MoreInfo": "Open from 10am. First band from 12pm. This event on the anniversary of Woodstock is in aid of Teenage Cancer and RNLI (Lifeboats) your support would be much appreciated by attending for such a good cause.",
+      "GigTitle": "Vic-Stock",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1312439791000+0100)\/",
+      "Edited": "\/Date(1312439791000+0100)\/"
+    },
+    {
+      "Id": "gig/114691",
+      "BandNames": [
+        {
+          "Value": "The TC Allstars"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1314918000000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1314858290000+0100)\/",
+      "Edited": "\/Date(1314858290000+0100)\/"
+    },
+    {
+      "Id": "gig/123905",
+      "BandNames": [
+        {
+          "Value": "The TC Allstars"
+        }
+      ],
+      "Venue": "The Victoria",
+      "Date": "\/Date(1316991600000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1316001766000+0100)\/",
+      "Edited": "\/Date(1316001767000+0100)\/"
+    },
+    {
+      "Id": "gig/123906",
+      "BandNames": [
+        {
+          "Value": "The TC Allstars"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1317855600000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1316001811000+0100)\/",
+      "Edited": "\/Date(1316001811000+0100)\/"
+    },
+    {
+      "Id": "gig/123907",
+      "BandNames": [
+        {
+          "Value": "The TC Allstars"
+        }
+      ],
+      "Venue": "The Victoria",
+      "Date": "\/Date(1319238000000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1316002192000+0100)\/",
+      "Edited": "\/Date(1316002192000+0100)\/"
+    },
+    {
+      "Id": "gig/123908",
+      "BandNames": [
+        {
+          "Value": "The TC Allstars"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1320969600000+0000)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1316002236000+0100)\/",
+      "Edited": "\/Date(1316002236000+0100)\/"
+    }
+  ]
+}

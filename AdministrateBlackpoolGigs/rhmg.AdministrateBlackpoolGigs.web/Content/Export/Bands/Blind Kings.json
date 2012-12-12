@@ -1,0 +1,49 @@
+{
+  "BandName": {
+    "Value": "Blind Kings"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/105474",
+      "BandNames": [
+        {
+          "Value": "Six10repeater"
+        },
+        {
+          "Value": "Blind Kings"
+        },
+        {
+          "Value": "Magic Trees"
+        },
+        {
+          "Value": "Spiral Scouts"
+        },
+        {
+          "Value": "Idol Minds"
+        },
+        {
+          "Value": "The TC Allstars"
+        },
+        {
+          "Value": "Alpha State Of Mind"
+        },
+        {
+          "Value": "The Keytars"
+        },
+        {
+          "Value": "Flip"
+        }
+      ],
+      "Venue": "The Victoria",
+      "Date": "\/Date(1313190000000+0100)\/",
+      "StartTime": "10:00",
+      "Price": "free",
+      "MoreInfo": "Open from 10am. First band from 12pm. This event on the anniversary of Woodstock is in aid of Teenage Cancer and RNLI (Lifeboats) your support would be much appreciated by attending for such a good cause.",
+      "GigTitle": "Vic-Stock",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1312439791000+0100)\/",
+      "Edited": "\/Date(1312439791000+0100)\/"
+    }
+  ]
+}

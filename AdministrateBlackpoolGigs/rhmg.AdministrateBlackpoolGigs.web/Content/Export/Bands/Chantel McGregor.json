@@ -1,0 +1,28 @@
+{
+  "BandName": {
+    "Value": "Chantel McGregor"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/83969",
+      "BandNames": [
+        {
+          "Value": "Chantel McGregor"
+        },
+        {
+          "Value": "Callighan & Wolski"
+        }
+      ],
+      "Venue": "Marine Hall",
+      "Date": "\/Date(1310598000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "£8 (adv) £10 (door)",
+      "MoreInfo": "Imagine the technique and tone of Robin Trower, the feel of Bonnie Raitt, the inspiration of Hendrix, the influence of SRV, the energy of Bonamassa and the intensity of Trout all rolled into one. \r\n\r\nChantel Mcgregor is one of the most exciting rock blues guitarists in the country.This is rock blues for the new age, played by a musician born with an effortless virtuosity, peppered by flights of incendiary guitar and flanked by moments of poise, grace and fluidity...\r\nChantel's debut album; Like No Other, showcases this, along with her genuine talent as a singer and songwriter.\r\n\r\nSupport from Callighan & Wolski.\r\n\r\nTickets £8 (adv) £10 (door) Tel 01253 887693",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1309329113000+0100)\/",
+      "Edited": "\/Date(1309329113000+0100)\/"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+<viewdata model="AddCreatedDatesViewModel model" />
+
+<content name="body">
+  !{model.Count} records updated with a semi-random created date.
+</content>

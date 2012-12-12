@@ -1,0 +1,73 @@
+{
+  "BandName": {
+    "Value": "Inner Temple"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/98306",
+      "BandNames": [
+        {
+          "Value": "Inner Temple"
+        }
+      ],
+      "Venue": "The Raikes Hall",
+      "Date": "\/Date(1311980400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311583019000+0100)\/",
+      "Edited": "\/Date(1311583019000+0100)\/"
+    },
+    {
+      "Id": "gig/101378",
+      "BandNames": [
+        {
+          "Value": "CSOD"
+        },
+        {
+          "Value": "Barnyard Masturbator"
+        },
+        {
+          "Value": "The Temps"
+        },
+        {
+          "Value": "Inner Temple"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1312585200000+0100)\/",
+      "StartTime": "19:30",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311835175000+0100)\/",
+      "Edited": "\/Date(1311835175000+0100)\/"
+    },
+    {
+      "Id": "gig/94210",
+      "BandNames": [
+        {
+          "Value": "Inner Temple"
+        },
+        {
+          "Value": "Veasey"
+        }
+      ],
+      "Venue": "The Blue Room",
+      "Date": "\/Date(1314399600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "£1.00",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311140213000+0100)\/",
+      "Edited": "\/Date(1313933035000+0100)\/"
+    }
+  ]
+}

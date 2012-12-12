@@ -1,0 +1,97 @@
+{
+  "BandName": {
+    "Value": "The Love Rats"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/11",
+      "BandNames": [
+        {
+          "Value": "The Love Rats"
+        }
+      ],
+      "Venue": "The Venue",
+      "Date": "\/Date(1303426800000+0100)\/",
+      "StartTime": "19:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303513200000+0100)\/",
+      "Edited": "\/Date(1305653128000+0100)\/"
+    },
+    {
+      "Id": "gig/66565",
+      "BandNames": [
+        {
+          "Value": "The Love Rats"
+        }
+      ],
+      "Venue": "The Venue",
+      "Date": "\/Date(1307660400000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307646392000+0100)\/",
+      "Edited": "\/Date(1307646392000+0100)\/"
+    },
+    {
+      "Id": "gig/79873",
+      "BandNames": [
+        {
+          "Value": "The Love Rats"
+        }
+      ],
+      "Venue": "The Venue",
+      "Date": "\/Date(1309561200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308920159000+0100)\/",
+      "Edited": "\/Date(1308920160000+0100)\/"
+    },
+    {
+      "Id": "gig/99421",
+      "BandNames": [
+        {
+          "Value": "The Love Rats"
+        }
+      ],
+      "Venue": "Burlington",
+      "Date": "\/Date(1313103600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311710059000+0100)\/",
+      "Edited": "\/Date(1311710059000+0100)\/"
+    },
+    {
+      "Id": "gig/99374",
+      "BandNames": [
+        {
+          "Value": "The Love Rats"
+        }
+      ],
+      "Venue": "The Venue",
+      "Date": "\/Date(1313794800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311708379000+0100)\/",
+      "Edited": "\/Date(1311708379000+0100)\/"
+    }
+  ]
+}

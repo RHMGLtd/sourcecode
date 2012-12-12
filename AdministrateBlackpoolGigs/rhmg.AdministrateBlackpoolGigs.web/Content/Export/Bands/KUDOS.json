@@ -1,0 +1,205 @@
+{
+  "BandName": {
+    "Value": "KUDOS"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/19458",
+      "BandNames": [
+        {
+          "Value": "KUDOS"
+        }
+      ],
+      "Venue": "Uncle Toms Cabin",
+      "Date": "\/Date(1305241200000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303772400000+0100)\/",
+      "Edited": "\/Date(1303772400000+0100)\/"
+    },
+    {
+      "Id": "gig/19459",
+      "BandNames": [
+        {
+          "Value": "KUDOS"
+        }
+      ],
+      "Venue": "Station Tavern",
+      "Date": "\/Date(1306623600000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303686000000+0100)\/",
+      "Edited": "\/Date(1303686000000+0100)\/"
+    },
+    {
+      "Id": "gig/77839",
+      "BandNames": [
+        {
+          "Value": "KUDOS"
+        }
+      ],
+      "Venue": "Uncle Toms Cabin",
+      "Date": "\/Date(1308870000000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308851652000+0100)\/",
+      "Edited": "\/Date(1308851652000+0100)\/"
+    },
+    {
+      "Id": "gig/88066",
+      "BandNames": [
+        {
+          "Value": "KUDOS"
+        }
+      ],
+      "Venue": "The Hansom Cab",
+      "Date": "\/Date(1310079600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1309850620000+0100)\/",
+      "Edited": "\/Date(1309850620000+0100)\/"
+    },
+    {
+      "Id": "gig/88067",
+      "BandNames": [
+        {
+          "Value": "KUDOS"
+        }
+      ],
+      "Venue": "Uncle Toms Cabin",
+      "Date": "\/Date(1310770800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1309850716000+0100)\/",
+      "Edited": "\/Date(1309850716000+0100)\/"
+    },
+    {
+      "Id": "gig/99333",
+      "BandNames": [
+        {
+          "Value": "KUDOS"
+        }
+      ],
+      "Venue": "Uncle Toms Cabin",
+      "Date": "\/Date(1313190000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311707364000+0100)\/",
+      "Edited": "\/Date(1311707364000+0100)\/"
+    },
+    {
+      "Id": "gig/116836",
+      "BandNames": [
+        {
+          "Value": "KUDOS"
+        }
+      ],
+      "Venue": "The Hansom Cab",
+      "Date": "\/Date(1315609200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315142667000+0100)\/",
+      "Edited": "\/Date(1315142667000+0100)\/"
+    },
+    {
+      "Id": "gig/116815",
+      "BandNames": [
+        {
+          "Value": "KUDOS"
+        }
+      ],
+      "Venue": "Uncle Toms Cabin",
+      "Date": "\/Date(1316732400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315141829000+0100)\/",
+      "Edited": "\/Date(1315141829000+0100)\/"
+    },
+    {
+      "Id": "gig/134170",
+      "BandNames": [
+        {
+          "Value": "KUDOS"
+        }
+      ],
+      "Venue": "The Ship and Royal",
+      "Date": "\/Date(1326499200000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326569547000+0000)\/",
+      "Edited": "\/Date(1326569547000+0000)\/"
+    },
+    {
+      "Id": "gig/137217",
+      "BandNames": [
+        {
+          "Value": "KUDOS"
+        }
+      ],
+      "Venue": "Station Tavern",
+      "Date": "\/Date(1328313600000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327312258000+0000)\/",
+      "Edited": "\/Date(1327312258000+0000)\/"
+    },
+    {
+      "Id": "gig/137218",
+      "BandNames": [
+        {
+          "Value": "KUDOS"
+        }
+      ],
+      "Venue": "The Royal Oak",
+      "Date": "\/Date(1328918400000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "unknown",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327312291000+0000)\/",
+      "Edited": "\/Date(1327312291000+0000)\/"
+    }
+  ]
+}

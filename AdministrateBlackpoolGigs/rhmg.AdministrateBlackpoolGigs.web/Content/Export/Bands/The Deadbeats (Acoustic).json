@@ -1,0 +1,97 @@
+{
+  "BandName": {
+    "Value": "The Deadbeats (Acoustic)"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/18439",
+      "BandNames": [
+        {
+          "Value": "The Deadbeats (Acoustic)"
+        }
+      ],
+      "Venue": "The Edge",
+      "Date": "\/Date(1305759600000+0100)\/",
+      "StartTime": "19.30",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1304118000000+0100)\/",
+      "Edited": "\/Date(1304118000000+0100)\/"
+    },
+    {
+      "Id": "gig/57345",
+      "BandNames": [
+        {
+          "Value": "The Deadbeats (Acoustic)"
+        }
+      ],
+      "Venue": "The Bull",
+      "Date": "\/Date(1306969200000+0100)\/",
+      "StartTime": "21:30",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306852135000+0100)\/",
+      "Edited": "\/Date(1306852136000+0100)\/"
+    },
+    {
+      "Id": "gig/78862",
+      "BandNames": [
+        {
+          "Value": "The Deadbeats (Acoustic)"
+        }
+      ],
+      "Venue": "The Cube",
+      "Date": "\/Date(1310684400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308916474000+0100)\/",
+      "Edited": "\/Date(1308916474000+0100)\/"
+    },
+    {
+      "Id": "gig/78864",
+      "BandNames": [
+        {
+          "Value": "The Deadbeats (Acoustic)"
+        }
+      ],
+      "Venue": "The Edge",
+      "Date": "\/Date(1312066800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308916652000+0100)\/",
+      "Edited": "\/Date(1312125784000+0100)\/"
+    },
+    {
+      "Id": "gig/116843",
+      "BandNames": [
+        {
+          "Value": "The Deadbeats (Acoustic)"
+        }
+      ],
+      "Venue": "The Edge",
+      "Date": "\/Date(1315695600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315142856000+0100)\/",
+      "Edited": "\/Date(1315142856000+0100)\/"
+    }
+  ]
+}

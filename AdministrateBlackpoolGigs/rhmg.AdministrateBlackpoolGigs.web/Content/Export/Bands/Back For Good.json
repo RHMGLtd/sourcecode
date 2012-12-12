@@ -1,0 +1,25 @@
+{
+  "BandName": {
+    "Value": "Back For Good"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/22",
+      "BandNames": [
+        {
+          "Value": "Back For Good"
+        }
+      ],
+      "Venue": "Blackpool Opera House",
+      "Date": "\/Date(1303599600000+0100)\/",
+      "StartTime": "19:30",
+      "Price": "£10",
+      "MoreInfo": "Recreating the magic of Take That in concert.",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303772400000+0100)\/",
+      "Edited": "\/Date(1303772400000+0100)\/"
+    }
+  ]
+}

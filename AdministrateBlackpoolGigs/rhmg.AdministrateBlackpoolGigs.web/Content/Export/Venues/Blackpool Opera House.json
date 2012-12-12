@@ -1,0 +1,115 @@
+{
+  "IsNull": false,
+  "Venue": "Blackpool Opera House",
+  "Gigs": [
+    {
+      "Id": "gig/22",
+      "BandNames": [
+        {
+          "Value": "Back For Good"
+        }
+      ],
+      "Venue": "Blackpool Opera House",
+      "Date": "\/Date(1303599600000+0100)\/",
+      "StartTime": "19:30",
+      "Price": "£10",
+      "MoreInfo": "Recreating the magic of Take That in concert.",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303772400000+0100)\/",
+      "Edited": "\/Date(1303772400000+0100)\/"
+    },
+    {
+      "Id": "gig/6",
+      "BandNames": [
+        {
+          "Value": "Engelbert Humperdinck"
+        }
+      ],
+      "Venue": "Blackpool Opera House",
+      "Date": "\/Date(1303945200000+0100)\/",
+      "StartTime": "19.30",
+      "Price": "unknown",
+      "MoreInfo": "Tickets Available From Blackpool Box Office",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303686000000+0100)\/",
+      "Edited": "\/Date(1303686000000+0100)\/"
+    },
+    {
+      "Id": "gig/2059",
+      "BandNames": [
+        {
+          "Value": "Olly Murs"
+        }
+      ],
+      "Venue": "Blackpool Opera House",
+      "Date": "\/Date(1304636400000+0100)\/",
+      "StartTime": "19:00",
+      "Price": "unknown",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1304204400000+0100)\/",
+      "Edited": "\/Date(1304204400000+0100)\/"
+    },
+    {
+      "Id": "gig/2060",
+      "BandNames": [
+        {
+          "Value": "Mike and The Mechanics"
+        }
+      ],
+      "Venue": "Blackpool Opera House",
+      "Date": "\/Date(1305932400000+0100)\/",
+      "StartTime": "19:00",
+      "Price": "unknown",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303599600000+0100)\/",
+      "Edited": "\/Date(1303599600000+0100)\/"
+    },
+    {
+      "Id": "gig/2061",
+      "BandNames": [
+        {
+          "Value": "Michael Ball"
+        }
+      ],
+      "Venue": "Blackpool Opera House",
+      "Date": "\/Date(1307228400000+0100)\/",
+      "StartTime": "19:00",
+      "Price": "unknown",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303945200000+0100)\/",
+      "Edited": "\/Date(1303945200000+0100)\/"
+    },
+    {
+      "Id": "gig/2063",
+      "BandNames": [
+        {
+          "Value": "Imelda May"
+        }
+      ],
+      "Venue": "Blackpool Opera House",
+      "Date": "\/Date(1321747200000+0000)\/",
+      "StartTime": "19:00",
+      "Price": "unknown",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303858800000+0100)\/",
+      "Edited": "\/Date(1303858800000+0100)\/"
+    }
+  ],
+  "Future": []
+}

@@ -1,0 +1,25 @@
+{
+  "BandName": {
+    "Value": "The Team"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/5",
+      "BandNames": [
+        {
+          "Value": "The Team"
+        }
+      ],
+      "Venue": "The Sands",
+      "Date": "\/Date(1303513200000+0100)\/",
+      "StartTime": "19.00",
+      "Price": "unknown",
+      "MoreInfo": "7 piece band THE TEAM backed the late great Edwin Starr of which Edwin's brother ANGELO STARR was an integral part.\r\n",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303599600000+0100)\/",
+      "Edited": "\/Date(1303599600000+0100)\/"
+    }
+  ]
+}

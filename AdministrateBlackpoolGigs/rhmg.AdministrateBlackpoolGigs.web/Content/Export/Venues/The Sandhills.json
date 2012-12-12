@@ -1,0 +1,147 @@
+{
+  "IsNull": false,
+  "Venue": "The Sandhills",
+  "Gigs": [
+    {
+      "Id": "gig/8193",
+      "BandNames": [
+        {
+          "Value": "Huggy and the Bears"
+        }
+      ],
+      "Venue": "The Sandhills",
+      "Date": "\/Date(1304722800000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1304118000000+0100)\/",
+      "Edited": "\/Date(1306835189000+0100)\/"
+    },
+    {
+      "Id": "gig/31752",
+      "BandNames": [
+        {
+          "Value": "The Keytars"
+        }
+      ],
+      "Venue": "The Sandhills",
+      "Date": "\/Date(1305846000000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1305537139000+0100)\/",
+      "Edited": "\/Date(1305537139000+0100)\/"
+    },
+    {
+      "Id": "gig/37891",
+      "BandNames": [],
+      "Venue": "The Sandhills",
+      "Date": "\/Date(1306623600000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": "Starfish Live",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306149434000+0100)\/",
+      "Edited": "\/Date(1306149434000+0100)\/"
+    },
+    {
+      "Id": "gig/75777",
+      "BandNames": [
+        {
+          "Value": "The Keytars"
+        }
+      ],
+      "Venue": "The Sandhills",
+      "Date": "\/Date(1308351600000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308480299000+0100)\/",
+      "Edited": "\/Date(1308480415000+0100)\/"
+    },
+    {
+      "Id": "gig/97281",
+      "BandNames": [
+        {
+          "Value": "The Keytars"
+        }
+      ],
+      "Venue": "The Sandhills",
+      "Date": "\/Date(1311462000000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": "St Annes Music Festival",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311511067000+0100)\/",
+      "Edited": "\/Date(1311511067000+0100)\/"
+    },
+    {
+      "Id": "gig/78868",
+      "BandNames": [
+        {
+          "Value": "Twisted Romance"
+        }
+      ],
+      "Venue": "The Sandhills",
+      "Date": "\/Date(1311980400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308916824000+0100)\/",
+      "Edited": "\/Date(1308916824000+0100)\/"
+    },
+    {
+      "Id": "gig/99403",
+      "BandNames": [
+        {
+          "Value": "The ROCKiTS"
+        }
+      ],
+      "Venue": "The Sandhills",
+      "Date": "\/Date(1313190000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311709329000+0100)\/",
+      "Edited": "\/Date(1311709329000+0100)\/"
+    },
+    {
+      "Id": "gig/116795",
+      "BandNames": [
+        {
+          "Value": "Twisted Romance"
+        }
+      ],
+      "Venue": "The Sandhills",
+      "Date": "\/Date(1316214000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315141195000+0100)\/",
+      "Edited": "\/Date(1315141195000+0100)\/"
+    }
+  ],
+  "Future": []
+}

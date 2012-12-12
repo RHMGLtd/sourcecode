@@ -1,0 +1,673 @@
+{
+  "BandName": {
+    "Value": "The Versions"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/15361",
+      "BandNames": [
+        {
+          "Value": "The Versions"
+        }
+      ],
+      "Venue": "The Red Lion",
+      "Date": "\/Date(1305241200000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": "Two extended sets in another new venue for us, so if you want some decent food and beer and an extended set from The Versions, come on down!!!\r\n\r\nwww.the-versions.co.uk\r\nwww.facebook.com/theversions.band",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303686000000+0100)\/",
+      "Edited": "\/Date(1303686000000+0100)\/"
+    },
+    {
+      "Id": "gig/15362",
+      "BandNames": [
+        {
+          "Value": "The Versions"
+        }
+      ],
+      "Venue": "The Queens",
+      "Date": "\/Date(1305846000000+0100)\/",
+      "StartTime": "20:30",
+      "Price": "free",
+      "MoreInfo": "Another week, another venue, another Versions debut. Anyone from round the area we'd love to see you there!!!!!!",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303858800000+0100)\/",
+      "Edited": "\/Date(1303858800000+0100)\/"
+    },
+    {
+      "Id": "gig/15363",
+      "BandNames": [
+        {
+          "Value": "The Versions"
+        }
+      ],
+      "Venue": "The Venue",
+      "Date": "\/Date(1305932400000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": "The Versions are making their return to The Venue.\r\n\r\nOn stage at 9.30pm and we'll showcasing some new tunes too for you too!\r\n\r\nSee you there!",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303513200000+0100)\/",
+      "Edited": "\/Date(1305653151000+0100)\/"
+    },
+    {
+      "Id": "gig/21505",
+      "BandNames": [
+        {
+          "Value": "The Versions"
+        }
+      ],
+      "Venue": "The Grapevine",
+      "Date": "\/Date(1306623600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1304204400000+0100)\/",
+      "Edited": "\/Date(1304204400000+0100)\/"
+    },
+    {
+      "Id": "gig/16391",
+      "BandNames": [
+        {
+          "Value": "The Versions"
+        }
+      ],
+      "Venue": "The Venue",
+      "Date": "\/Date(1308265200000+0100)\/",
+      "StartTime": "20:30",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303599600000+0100)\/",
+      "Edited": "\/Date(1305653083000+0100)\/"
+    },
+    {
+      "Id": "gig/40964",
+      "BandNames": [
+        {
+          "Value": "The Blue Pig Orchestra"
+        },
+        {
+          "Value": "Ska Face"
+        },
+        {
+          "Value": "Happy Daize"
+        },
+        {
+          "Value": "The Jeps"
+        },
+        {
+          "Value": "Rupert Fabulous"
+        },
+        {
+          "Value": "The Versions"
+        },
+        {
+          "Value": "Tony Mitchell"
+        },
+        {
+          "Value": "Triple Threat"
+        },
+        {
+          "Value": "Brother Rabbit"
+        },
+        {
+          "Value": "3rd Step"
+        },
+        {
+          "Value": "Fleetwood High School"
+        },
+        {
+          "Value": "Stephanie Fraser"
+        },
+        {
+          "Value": "Penny Black"
+        },
+        {
+          "Value": "Paul Huson & Ayshea Manning"
+        },
+        {
+          "Value": "The Colours"
+        },
+        {
+          "Value": "Poison Apple"
+        },
+        {
+          "Value": "Gatorville"
+        },
+        {
+          "Value": "Roxyrama"
+        },
+        {
+          "Value": "Hot Vestry"
+        },
+        {
+          "Value": "Framed at the Crime Scene"
+        },
+        {
+          "Value": "He Who Dares"
+        },
+        {
+          "Value": "The Underachievers"
+        },
+        {
+          "Value": "Forever Autumn"
+        },
+        {
+          "Value": "Junk Box DJs"
+        },
+        {
+          "Value": "Elysium"
+        },
+        {
+          "Value": "Fatt Tuesday"
+        },
+        {
+          "Value": "Unresolved"
+        },
+        {
+          "Value": "Paige Howard"
+        },
+        {
+          "Value": "Remember Hillards"
+        },
+        {
+          "Value": "Ashes of Humanity"
+        },
+        {
+          "Value": "Shakers Blues Band"
+        }
+      ],
+      "Venue": "Marine Hall",
+      "Date": "\/Date(1310166000000+0100)\/",
+      "StartTime": "12:00",
+      "Price": "£5",
+      "MoreInfo": "Raising money for Yuto Rice.\r\n\r\nFor more info please visit www.charityconcert.co.uk\r\n\r\nEntry wrist bands will be sold on the day £5 each",
+      "GigTitle": "Yuto Fest",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306392515000+0100)\/",
+      "Edited": "\/Date(1306392515000+0100)\/"
+    },
+    {
+      "Id": "gig/32774",
+      "BandNames": [
+        {
+          "Value": "The Versions"
+        }
+      ],
+      "Venue": "The North Euston",
+      "Date": "\/Date(1310770800000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1305543902000+0100)\/",
+      "Edited": "\/Date(1305543902000+0100)\/"
+    },
+    {
+      "Id": "gig/78870",
+      "BandNames": [
+        {
+          "Value": "The Versions"
+        }
+      ],
+      "Venue": "The North Euston",
+      "Date": "\/Date(1310857200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308916880000+0100)\/",
+      "Edited": "\/Date(1308916880000+0100)\/"
+    },
+    {
+      "Id": "gig/78871",
+      "BandNames": [
+        {
+          "Value": "The Versions"
+        }
+      ],
+      "Venue": "Uncle Toms Cabin",
+      "Date": "\/Date(1311807600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308916904000+0100)\/",
+      "Edited": "\/Date(1308916904000+0100)\/"
+    },
+    {
+      "Id": "gig/61452",
+      "BandNames": [
+        {
+          "Value": "The Versions"
+        }
+      ],
+      "Venue": "The Hansom Cab",
+      "Date": "\/Date(1311980400000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307103312000+0100)\/",
+      "Edited": "\/Date(1307103312000+0100)\/"
+    },
+    {
+      "Id": "gig/16392",
+      "BandNames": [
+        {
+          "Value": "The Versions"
+        }
+      ],
+      "Venue": "The Hop Inn",
+      "Date": "\/Date(1312498800000+0100)\/",
+      "StartTime": "20:30",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1304290800000+0100)\/",
+      "Edited": "\/Date(1305538092000+0100)\/"
+    },
+    {
+      "Id": "gig/61453",
+      "BandNames": [
+        {
+          "Value": "The Versions"
+        }
+      ],
+      "Venue": "The Newton Arms",
+      "Date": "\/Date(1312585200000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307103349000+0100)\/",
+      "Edited": "\/Date(1307103349000+0100)\/"
+    },
+    {
+      "Id": "gig/16393",
+      "BandNames": [
+        {
+          "Value": "The Versions"
+        }
+      ],
+      "Venue": "The Venue",
+      "Date": "\/Date(1314486000000+0100)\/",
+      "StartTime": "20:30",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303772400000+0100)\/",
+      "Edited": "\/Date(1305653094000+0100)\/"
+    },
+    {
+      "Id": "gig/16394",
+      "BandNames": [
+        {
+          "Value": "The Versions"
+        }
+      ],
+      "Venue": "The Venue",
+      "Date": "\/Date(1314918000000+0100)\/",
+      "StartTime": "20:30",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303772400000+0100)\/",
+      "Edited": "\/Date(1305653105000+0100)\/"
+    },
+    {
+      "Id": "gig/107523",
+      "BandNames": [
+        {
+          "Value": "The Versions"
+        }
+      ],
+      "Venue": "Uncle Toms Cabin",
+      "Date": "\/Date(1315004400000+0100)\/",
+      "StartTime": "21:30",
+      "Price": "free",
+      "MoreInfo": "After our brilliant debut in July, we'll be back at the Cabin for another belting gig on 3rd September, we can't wait, come along and enjoy the great food, ales and music!\r\n\r\nwww.the-versions.co.uk\r\n\r\nhttps://www.facebook.com/#​!/group.php?gid=1688320873​80&v=wall",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1313132531000+0100)\/",
+      "Edited": "\/Date(1313132531000+0100)\/"
+    },
+    {
+      "Id": "gig/115714",
+      "BandNames": [
+        {
+          "Value": "The Versions"
+        }
+      ],
+      "Venue": "Lowther Pavillion",
+      "Date": "\/Date(1316214000000+0100)\/",
+      "StartTime": "12:00",
+      "Price": "£3.00 / £1.00 / free",
+      "MoreInfo": "What more could you want?! An obscene amount of beers & ciders, to be enjoyed with lashings of Steely Dan, Fleetwood Mac, The Who, The Stones, Roxy Music and more, courtesy of us!\r\n\r\n£3 ON THE DOOR, £1 WITH NUS, FREE FOR CAMRA MEMBERS\r\n12PM-11PM, SET TIME TBC\r\n\r\nwww.the-versions.co.uk\r\nhttp://www.blackpoolcamra.org.uk/index.php?id=157&sid",
+      "GigTitle": "Lytham Beer Festival",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315040379000+0100)\/",
+      "Edited": "\/Date(1315138220000+0100)\/"
+    },
+    {
+      "Id": "gig/16395",
+      "BandNames": [
+        {
+          "Value": "The Versions"
+        }
+      ],
+      "Venue": "The Edge",
+      "Date": "\/Date(1316646000000+0100)\/",
+      "StartTime": "20:30",
+      "Price": "Free",
+      "MoreInfo": "Our first time back since January, and we can't wait to unleash hits by Steely Dan, Fleetwood Mac, The Rolling Stones, The Eagles, The Who, Talking Heads, Roxy Music, Blondie, Adele, and more on the residents of Poulton!\r\n\r\nJoin us!\r\n\r\nwww.the-versions.co.uk",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1304031600000+0100)\/",
+      "Edited": "\/Date(1315377412000+0100)\/"
+    },
+    {
+      "Id": "gig/61454",
+      "BandNames": [
+        {
+          "Value": "The Versions"
+        }
+      ],
+      "Venue": "Belle View",
+      "Date": "\/Date(1316818800000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307103417000+0100)\/",
+      "Edited": "\/Date(1307103417000+0100)\/"
+    },
+    {
+      "Id": "gig/61455",
+      "BandNames": [
+        {
+          "Value": "The Versions"
+        }
+      ],
+      "Venue": "The Red Lion",
+      "Date": "\/Date(1317423600000+0100)\/",
+      "StartTime": "20:30",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307103449000+0100)\/",
+      "Edited": "\/Date(1307103449000+0100)\/"
+    },
+    {
+      "Id": "gig/116742",
+      "BandNames": [
+        {
+          "Value": "The Versions"
+        }
+      ],
+      "Venue": "The Grapevine",
+      "Date": "\/Date(1318114800000+0100)\/",
+      "StartTime": "20:30",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315138292000+0100)\/",
+      "Edited": "\/Date(1315138292000+0100)\/"
+    },
+    {
+      "Id": "gig/16396",
+      "BandNames": [
+        {
+          "Value": "The Versions"
+        }
+      ],
+      "Venue": "The North Euston",
+      "Date": "\/Date(1319238000000+0100)\/",
+      "StartTime": "20:30",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303945200000+0100)\/",
+      "Edited": "\/Date(1303945200000+0100)\/"
+    },
+    {
+      "Id": "gig/61456",
+      "BandNames": [
+        {
+          "Value": "The Versions"
+        }
+      ],
+      "Venue": "Burlington",
+      "Date": "\/Date(1320969600000+0000)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307103482000+0100)\/",
+      "Edited": "\/Date(1307103482000+0100)\/"
+    },
+    {
+      "Id": "gig/61457",
+      "BandNames": [
+        {
+          "Value": "The Versions"
+        }
+      ],
+      "Venue": "Belle View",
+      "Date": "\/Date(1321056000000+0000)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307103512000+0100)\/",
+      "Edited": "\/Date(1307103512000+0100)\/"
+    },
+    {
+      "Id": "gig/16390",
+      "BandNames": [
+        {
+          "Value": "The Versions"
+        }
+      ],
+      "Venue": "Old Town Hall",
+      "Date": "\/Date(1322784000000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303599600000+0100)\/",
+      "Edited": "\/Date(1303599600000+0100)\/"
+    },
+    {
+      "Id": "gig/61458",
+      "BandNames": [
+        {
+          "Value": "The Versions"
+        }
+      ],
+      "Venue": "The Newton Arms",
+      "Date": "\/Date(1322870400000+0000)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307103617000+0100)\/",
+      "Edited": "\/Date(1307103617000+0100)\/"
+    },
+    {
+      "Id": "gig/16397",
+      "BandNames": [
+        {
+          "Value": "The Versions"
+        }
+      ],
+      "Venue": "The North Euston",
+      "Date": "\/Date(1324080000000+0000)\/",
+      "StartTime": "20:30",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303945200000+0100)\/",
+      "Edited": "\/Date(1303945200000+0100)\/"
+    },
+    {
+      "Id": "gig/16398",
+      "BandNames": [
+        {
+          "Value": "The Versions"
+        }
+      ],
+      "Venue": "The Venue",
+      "Date": "\/Date(1324684800000+0000)\/",
+      "StartTime": "20:30",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1304204400000+0100)\/",
+      "Edited": "\/Date(1305653117000+0100)\/"
+    },
+    {
+      "Id": "gig/16399",
+      "BandNames": [
+        {
+          "Value": "The Versions"
+        }
+      ],
+      "Venue": "The Red Lion",
+      "Date": "\/Date(1325289600000+0000)\/",
+      "StartTime": "20:30",
+      "Price": "Unknown",
+      "MoreInfo": null,
+      "GigTitle": "New Years Eve Gig",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1304118000000+0100)\/",
+      "Edited": "\/Date(1304118000000+0100)\/"
+    },
+    {
+      "Id": "gig/134149",
+      "BandNames": [
+        {
+          "Value": "The Versions"
+        }
+      ],
+      "Venue": "Uncle Toms Cabin",
+      "Date": "\/Date(1327104000000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326568677000+0000)\/",
+      "Edited": "\/Date(1326568677000+0000)\/"
+    },
+    {
+      "Id": "gig/140329",
+      "BandNames": [
+        {
+          "Value": "The Versions"
+        }
+      ],
+      "Venue": "Marine Hall",
+      "Date": "\/Date(1328832000000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "unk",
+      "MoreInfo": null,
+      "GigTitle": "Fleetwood Beer Festival",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327836759000+0000)\/",
+      "Edited": "\/Date(1327836759000+0000)\/"
+    },
+    {
+      "Id": "gig/134150",
+      "BandNames": [
+        {
+          "Value": "The Versions"
+        }
+      ],
+      "Venue": "Uncle Toms Cabin",
+      "Date": "\/Date(1331251200000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326568699000+0000)\/",
+      "Edited": "\/Date(1326568699000+0000)\/"
+    },
+    {
+      "Id": "gig/136199",
+      "BandNames": [
+        {
+          "Value": "The Versions"
+        }
+      ],
+      "Venue": "The Shovels",
+      "Date": "\/Date(1342220400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326637059000+0000)\/",
+      "Edited": "\/Date(1326637059000+0000)\/"
+    }
+  ]
+}

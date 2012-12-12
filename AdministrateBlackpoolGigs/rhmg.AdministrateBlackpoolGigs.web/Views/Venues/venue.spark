@@ -1,0 +1,75 @@
+<viewdata model="VenueViewModel model" />
+<content name="title">
+  Administrate Blackpool Gigs : Edit Venue Metadata
+</content>
+<content name="scripts">
+  <script src="~/Content/Scripts/venue.js" type="text/javascript"></script>
+</content>
+<content name="body">
+  <div>
+    <a href="!{new HomeUrl()}">HOME</a>
+    <hr />
+    <div>You are editing metadata for <em>!{model.Name.Value}</em>.</div>
+    <a href="javascript:void(0)" onclick="my_delete('!{model.Id.Replace('metadata/','')}')">delete</a>
+    <form  method="post" enctype="multipart/form-data">
+      <input type="HIDDEN" name="Id" value="!{model.Id}" />
+      <input type="HIDDEN" name="MainImageName" value="!{model.MainImageName}" />
+      <div>
+        Main Image :: <input id="MainImage" type="file" name="MainImage" class="input" minlength="2"/>
+      </div>
+      <div if="!string.IsNullOrEmpty(model.MainImageName)">
+        Currently Saved Image: <a href="!{new VenueMainImageUrl(model.Name.Value)}">!{model.MainImageName}</a>
+      </div>
+      <div>
+        Bar And Club Reviews Url (fully qualified please) :: <input id="BarAndClubReviewsUrl" type="text" name="BarAndClubReviewsUrl" value="!{model.BarAndClubReviewsUrl}" class="input" minlength="2"/>
+      </div>
+      <hr />
+      <div>
+        Contact Name :: <input id="ContactName" type="text" name="ContactName" value="!{model.ContactName}" class="input" minlength="2"/>
+      </div>
+      <div>
+        Main Phone Number :: <input id="MainPhoneNumber" type="text" name="MainPhoneNumber" value="!{model.MainPhoneNumber}" class="input" minlength="2"/>
+      </div>
+      <div id="PhoneNumbers">
+        <div each ="var number in model.SecondaryPhoneNumbers">
+          Secondary Phone Number :: <input id="SecondaryPhoneNumbers" type="text" name="SecondaryPhoneNumbers" value="!{number}" class="input" minlength="2"/>
+          :: <button onclick="remove(this); return false;">remove</button>
+        </div>
+      </div>
+      <button id="AddPhoneNumber">add secondary phone number</button>
+      <div id="Address">
+        <div each ="var line in model.AddressLines">
+          Address Line :: <input id="AddressLines" type="text" name="AddressLines" value="!{line}" class="input" minlength="2"/>
+          :: <button onclick="remove(this); return false;">remove</button>
+        </div>
+      </div>
+      <button id="AddAddressLine">add another address line</button>
+      <div>
+        Postcode :: <input id="PostCode" type="text" name="PostCode" value="!{model.PostCode}" class="input" minlength="2"/>
+      </div>
+      <div>
+        Website (fully qualified please) :: <input id="Website" type="text" name="Website" value="!{model.Website}" class="input" minlength="2"/>
+      </div>
+      <div>
+        Email Address :: <input id="EmailAddress" type="text" name="EmailAddress" value="!{model.EmailAddress}" class="input" minlength="2"/>
+      </div>
+      <hr />
+      <div>
+        Google Map Latitude :: <input id="Lat" type="text" name="Lat" value="!{model.Lat}" class="input" minlength="2"/>
+      </div>
+      <div>
+        Google Map Longitude :: <input id="Long" type="text" name="Long" value="!{model.Long}" class="input" minlength="2"/>
+      </div>
+      <button type="submit">Save.</button>
+    </form>
+    <hr />
+
+    <div class="addItem" each ="var gig in model.Gigs">
+      <span>!{gig.Date.ToString("dd MMM yyyy")}</span>
+      <span>!{gig.StartTime}</span>
+      <span>!{gig.Summary}</span>
+      <a href="!{new EditUrl(){RecordId = gig.Id.Replace('gig/', '')}}">edit</a>
+      <a href="javascript:void(0)" onclick="my_delete('!{gig.Id}')">delete</a>
+    </div>
+  </div>
+</content>

@@ -1,0 +1,25 @@
+{
+  "BandName": {
+    "Value": "Supercharger"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/48129",
+      "BandNames": [
+        {
+          "Value": "Supercharger"
+        }
+      ],
+      "Venue": "The Royal Oak",
+      "Date": "\/Date(1307055600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306499323000+0100)\/",
+      "Edited": "\/Date(1306695584000+0100)\/"
+    }
+  ]
+}

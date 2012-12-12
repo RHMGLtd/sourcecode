@@ -1,0 +1,43 @@
+{
+  "BandName": {
+    "Value": "Boomin"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/140348",
+      "BandNames": [
+        {
+          "Value": "Boomin"
+        }
+      ],
+      "Venue": "Old Town Hall",
+      "Date": "\/Date(1328227200000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327838032000+0000)\/",
+      "Edited": "\/Date(1327838032000+0000)\/"
+    },
+    {
+      "Id": "gig/143372",
+      "BandNames": [
+        {
+          "Value": "Boomin"
+        }
+      ],
+      "Venue": "The Prince Arthur",
+      "Date": "\/Date(1336086000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1328352333000+0000)\/",
+      "Edited": "\/Date(1328352333000+0000)\/"
+    }
+  ]
+}

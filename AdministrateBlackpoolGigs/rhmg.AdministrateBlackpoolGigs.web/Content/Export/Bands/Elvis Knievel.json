@@ -1,0 +1,37 @@
+{
+  "BandName": {
+    "Value": "Elvis Knievel"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/92161",
+      "BandNames": [
+        {
+          "Value": "Triple Threat"
+        },
+        {
+          "Value": "Escape Artist"
+        },
+        {
+          "Value": "The Invaders"
+        },
+        {
+          "Value": "Elvis Knievel"
+        },
+        {
+          "Value": "Hooker"
+        }
+      ],
+      "Venue": "The Tank",
+      "Date": "\/Date(1310857200000+0100)\/",
+      "StartTime": "14:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": "TRAM SUNDAY BAND FEST",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1310456016000+0100)\/",
+      "Edited": "\/Date(1310456017000+0100)\/"
+    }
+  ]
+}

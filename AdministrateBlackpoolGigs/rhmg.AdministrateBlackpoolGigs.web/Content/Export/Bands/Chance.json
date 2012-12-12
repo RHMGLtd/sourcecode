@@ -1,0 +1,25 @@
+{
+  "BandName": {
+    "Value": "Chance"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/140318",
+      "BandNames": [
+        {
+          "Value": "Chance"
+        }
+      ],
+      "Venue": "The Hilton",
+      "Date": "\/Date(1329523200000+0000)\/",
+      "StartTime": "19:00",
+      "Price": "£12.50",
+      "MoreInfo": "Auction of Promises, Raffles and Hot Supper (Reduced bar prices and free parking). Tickets available on 07810 007713 or phi@blackpool.ac.uk or available online at www.chance.me.uk and www.fyldeadvertiser.co.uk",
+      "GigTitle": "Charity Event in aid of Trinity Hospice and Brian House",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327836218000+0000)\/",
+      "Edited": "\/Date(1327836218000+0000)\/"
+    }
+  ]
+}

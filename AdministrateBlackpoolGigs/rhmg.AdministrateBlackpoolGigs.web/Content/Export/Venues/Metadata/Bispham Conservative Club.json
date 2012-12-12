@@ -1,0 +1,22 @@
+{
+  "Id": "metadata/20484",
+  "VenueName": "Bispham Conservative Club",
+  "MainImageName": "Bispham Conservative Club.jpg",
+  "BarAndClubReviewsUrl": "",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 352594",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "70 Redbank Road",
+      "Blackpool"
+    ],
+    "Website": "http://www.bisphamconclub.co.uk/",
+    "EmailAddress": "bispcons@btconnect.com",
+    "PostCode": "FY2 9HY",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.849938",
+    "Long": "-3.048964"
+  }
+}

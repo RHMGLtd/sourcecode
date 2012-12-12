@@ -1,0 +1,25 @@
+{
+  "BandName": {
+    "Value": "Northern Riot"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/18447",
+      "BandNames": [
+        {
+          "Value": "Northern Riot"
+        }
+      ],
+      "Venue": "Station Tavern",
+      "Date": "\/Date(1306450800000+0100)\/",
+      "StartTime": "19.30",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303945200000+0100)\/",
+      "Edited": "\/Date(1303945200000+0100)\/"
+    }
+  ]
+}

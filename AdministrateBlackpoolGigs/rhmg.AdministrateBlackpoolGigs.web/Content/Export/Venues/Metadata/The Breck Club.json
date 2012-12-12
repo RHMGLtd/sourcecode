@@ -1,0 +1,22 @@
+{
+  "Id": "metadata/2056",
+  "VenueName": "The Breck Club",
+  "MainImageName": null,
+  "BarAndClubReviewsUrl": "http://www.bar-and-club-reviews.com/bars/77453-the-breck-club",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 898856",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "28a Breck Road",
+      "Poulton-le-Fylde"
+    ],
+    "Website": "",
+    "EmailAddress": "thebreckclub@yahoo.co.uk",
+    "PostCode": "FY6 7AA",
+    "ContactName": "Lynn Ratcliffe"
+  },
+  "MapCoords": {
+    "Lat": "53.848894",
+    "Long": "-2.990663"
+  }
+}

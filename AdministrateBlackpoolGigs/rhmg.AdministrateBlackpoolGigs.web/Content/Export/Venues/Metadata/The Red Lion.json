@@ -1,0 +1,22 @@
+{
+  "Id": "metadata/2061",
+  "VenueName": "The Red Lion",
+  "MainImageName": "The Red Lion.jpg",
+  "BarAndClubReviewsUrl": "http://www.bar-and-club-reviews.com/bars/69084-The-Red-Lion-Bispham",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 354942",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "Devonshire Road",
+      "Bispham"
+    ],
+    "Website": "",
+    "EmailAddress": "redlion.blackpool@Whitbread.Com",
+    "PostCode": "FY2 0AR",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.855064",
+    "Long": "-3.040713"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "Id": "metadata/20483",
+  "VenueName": "Birley Arms",
+  "MainImageName": "Birley Arms.jpg",
+  "BarAndClubReviewsUrl": "",
+  "ContactDetail": {
+    "MainPhoneNumber": "01772 679988",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "Bryning Lane",
+      "Warton"
+    ],
+    "Website": "http://www.thebirleyarmshotel.co.uk/",
+    "EmailAddress": null,
+    "PostCode": "PR4 1TN",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.755876",
+    "Long": "-2.904516"
+  }
+}

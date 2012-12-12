@@ -1,0 +1,99 @@
+{
+  "IsNull": false,
+  "Venue": "The Breck Club",
+  "Gigs": [
+    {
+      "Id": "gig/6145",
+      "BandNames": [
+        {
+          "Value": "Various Artists"
+        }
+      ],
+      "Venue": "The Breck Club",
+      "Date": "\/Date(1304463600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "Free",
+      "MoreInfo": "Get your bot bots down for some real good acoustic fun. Come and Play or just listen, everyone is welcome.",
+      "GigTitle": "Acoustic Jam Night",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1304031600000+0100)\/",
+      "Edited": "\/Date(1304031600000+0100)\/"
+    },
+    {
+      "Id": "gig/54273",
+      "BandNames": [],
+      "Venue": "The Breck Club",
+      "Date": "\/Date(1306882800000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": "It's a bit last minute i know, but it will be a cracking night. As usuall everyone is welcome to play or just watch. I would also like to ask any comedians or poets to come down and perform. It's an open mic so the more the merrier, come and express yourself. If you are definitely wanting to perform let me know so i can make sure you get a spot. If you just turn up on the night i will do my best to fit you in. Peace and love. Andy Hall xxx",
+      "GigTitle": "Acoustic open mic night",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306827832000+0100)\/",
+      "Edited": "\/Date(1306827832000+0100)\/"
+    },
+    {
+      "Id": "gig/88068",
+      "BandNames": [],
+      "Venue": "The Breck Club",
+      "Date": "\/Date(1309906800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": "All Styles and abilities welcome, or just come and watch. Going to start at 8-8:30 this time so if you play early you'll get a free drinky poos. If you are definitely wanting to play let me know so i can work out a rough running order.\r\n\r\nAndy Hall",
+      "GigTitle": "Andys Acoustic Open Mic Night",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1309850963000+0100)\/",
+      "Edited": "\/Date(1309850963000+0100)\/"
+    },
+    {
+      "Id": "gig/93186",
+      "BandNames": [],
+      "Venue": "The Breck Club",
+      "Date": "\/Date(1312326000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": "Acoustic/open mic nights. 1st Weds in every month. Free admission 8pm until 12am. This event, run by Andy Hall is becoming very popular, so get there early to reserve your spot!",
+      "GigTitle": "Jam Night at The Breck Club",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1310494365000+0100)\/",
+      "Edited": "\/Date(1310494365000+0100)\/"
+    },
+    {
+      "Id": "gig/93187",
+      "BandNames": [],
+      "Venue": "The Breck Club",
+      "Date": "\/Date(1315350000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": "Acoustic/open mic nights. 1st Weds in every month. Free admission 8pm until 12am. This event, run by Andy Hall is becoming very popular, so get there early to reserve your spot!",
+      "GigTitle": "Jam Night at The Breck Club",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1310494439000+0100)\/",
+      "Edited": "\/Date(1310494439000+0100)\/"
+    },
+    {
+      "Id": "gig/116785",
+      "BandNames": [
+        {
+          "Value": "The Blue Pig Orchestra"
+        }
+      ],
+      "Venue": "The Breck Club",
+      "Date": "\/Date(1316818800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": "Charity Function",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315140791000+0100)\/",
+      "Edited": "\/Date(1315140791000+0100)\/"
+    }
+  ],
+  "Future": []
+}

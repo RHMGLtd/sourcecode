@@ -1,0 +1,24 @@
+{
+  "Id": "metadata/23553",
+  "VenueName": "Rock Hard Studios",
+  "MainImageName": "Rock Hard Studios.gif",
+  "BarAndClubReviewsUrl": "",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 749761",
+    "SecondaryPhoneNumbers": [
+      "07837 411768"
+    ],
+    "AddressLines": [
+      "Unit 4, Cocker Street Trading Estate",
+      "Blackpool"
+    ],
+    "Website": "http://www.rhmg.co.uk",
+    "EmailAddress": "enquiries@rhmg.co.uk",
+    "PostCode": "FY1 2EP",
+    "ContactName": "Dan Atkinson / Andrew Cox"
+  },
+  "MapCoords": {
+    "Lat": "53.825210",
+    "Long": "-3.049140"
+  }
+}

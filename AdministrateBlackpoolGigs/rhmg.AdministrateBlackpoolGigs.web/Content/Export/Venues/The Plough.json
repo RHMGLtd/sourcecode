@@ -1,0 +1,43 @@
+{
+  "IsNull": false,
+  "Venue": "The Plough",
+  "Gigs": [
+    {
+      "Id": "gig/36867",
+      "BandNames": [
+        {
+          "Value": "Shakers Blues Band"
+        }
+      ],
+      "Venue": "The Plough",
+      "Date": "\/Date(1307142000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1305983243000+0100)\/",
+      "Edited": "\/Date(1305983243000+0100)\/"
+    },
+    {
+      "Id": "gig/116814",
+      "BandNames": [
+        {
+          "Value": "Shakers Blues Band"
+        }
+      ],
+      "Venue": "The Plough",
+      "Date": "\/Date(1315609200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315141710000+0100)\/",
+      "Edited": "\/Date(1315141710000+0100)\/"
+    }
+  ],
+  "Future": []
+}

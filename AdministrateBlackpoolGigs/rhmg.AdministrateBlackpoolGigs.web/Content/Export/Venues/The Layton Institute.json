@@ -1,0 +1,145 @@
+{
+  "IsNull": false,
+  "Venue": "The Layton Institute",
+  "Gigs": [
+    {
+      "Id": "gig/1025",
+      "BandNames": [
+        {
+          "Value": "A'Priori"
+        },
+        {
+          "Value": "Ashes of Humanity"
+        },
+        {
+          "Value": "Killshot"
+        },
+        {
+          "Value": "Pangaea"
+        }
+      ],
+      "Venue": "The Layton Institute",
+      "Date": "\/Date(1303599600000+0100)\/",
+      "StartTime": "18.00",
+      "Price": "£3",
+      "MoreInfo": "Layton Institute is set to rock on Easter Sunday when the Westcliffe Drive venue features its first heavy rock concert for some time.",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303513200000+0100)\/",
+      "Edited": "\/Date(1306834979000+0100)\/"
+    },
+    {
+      "Id": "gig/20481",
+      "BandNames": [
+        {
+          "Value": "The Blue Pig Orchestra"
+        }
+      ],
+      "Venue": "The Layton Institute",
+      "Date": "\/Date(1305327600000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1304118000000+0100)\/",
+      "Edited": "\/Date(1304118000000+0100)\/"
+    },
+    {
+      "Id": "gig/27651",
+      "BandNames": [
+        {
+          "Value": "Callighan & Wolski"
+        }
+      ],
+      "Venue": "The Layton Institute",
+      "Date": "\/Date(1305932400000+0100)\/",
+      "StartTime": "20:30",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1305458077000+0100)\/",
+      "Edited": "\/Date(1305537374000+0100)\/"
+    },
+    {
+      "Id": "gig/61496",
+      "BandNames": [
+        {
+          "Value": "Kazoobian"
+        }
+      ],
+      "Venue": "The Layton Institute",
+      "Date": "\/Date(1308956400000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307105183000+0100)\/",
+      "Edited": "\/Date(1307105183000+0100)\/"
+    },
+    {
+      "Id": "gig/39944",
+      "BandNames": [
+        {
+          "Value": "The Blue Pig Orchestra"
+        }
+      ],
+      "Venue": "The Layton Institute",
+      "Date": "\/Date(1313190000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306334911000+0100)\/",
+      "Edited": "\/Date(1306334911000+0100)\/"
+    },
+    {
+      "Id": "gig/8204",
+      "BandNames": [
+        {
+          "Value": "Brother Rabbit"
+        }
+      ],
+      "Venue": "The Layton Institute",
+      "Date": "\/Date(1313794800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1304118000000+0100)\/",
+      "Edited": "\/Date(1305648154000+0100)\/"
+    },
+    {
+      "Id": "gig/116737",
+      "BandNames": [
+        {
+          "Value": "Ska Face"
+        },
+        {
+          "Value": "The Selector"
+        }
+      ],
+      "Venue": "The Layton Institute",
+      "Date": "\/Date(1321056000000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": "First Original Tunes Gig",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315137743000+0100)\/",
+      "Edited": "\/Date(1315137743000+0100)\/"
+    }
+  ],
+  "Future": []
+}

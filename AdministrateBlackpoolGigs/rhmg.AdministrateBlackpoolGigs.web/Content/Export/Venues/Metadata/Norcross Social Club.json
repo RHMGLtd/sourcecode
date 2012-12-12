@@ -1,0 +1,22 @@
+{
+  "Id": "metadata/2054",
+  "VenueName": "Norcross Social Club",
+  "MainImageName": null,
+  "BarAndClubReviewsUrl": "http://www.bar-and-club-reviews.com/bars/77449-norcross-social-club",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 852415",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "Norcross Lane",
+      "Thornton-Cleveleys"
+    ],
+    "Website": "http://https://www.facebook.com/pages/Norcross-Social-Club/323875159586",
+    "EmailAddress": null,
+    "PostCode": "FY5 3DE",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.862094",
+    "Long": "-3.018494"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "IsNull": false,
+  "Venue": "Windy Harbour",
+  "Gigs": [
+    {
+      "Id": "gig/20487",
+      "BandNames": [
+        {
+          "Value": "The ROCKiTS"
+        }
+      ],
+      "Venue": "Windy Harbour",
+      "Date": "\/Date(1305327600000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1304031600000+0100)\/",
+      "Edited": "\/Date(1307098775000+0100)\/"
+    },
+    {
+      "Id": "gig/31758",
+      "BandNames": [
+        {
+          "Value": "On The Edge"
+        }
+      ],
+      "Venue": "Windy Harbour",
+      "Date": "\/Date(1305932400000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1305537514000+0100)\/",
+      "Edited": "\/Date(1305537514000+0100)\/"
+    }
+  ],
+  "Future": []
+}

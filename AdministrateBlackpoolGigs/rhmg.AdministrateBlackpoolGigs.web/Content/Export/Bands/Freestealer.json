@@ -1,0 +1,25 @@
+{
+  "BandName": {
+    "Value": "Freestealer"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/37895",
+      "BandNames": [
+        {
+          "Value": "Freestealer"
+        }
+      ],
+      "Venue": "The Royal Oak",
+      "Date": "\/Date(1306450800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "£1",
+      "MoreInfo": "Free & Bad Company Tribute",
+      "GigTitle": "Freestealer Live",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306150181000+0100)\/",
+      "Edited": "\/Date(1306150181000+0100)\/"
+    }
+  ]
+}

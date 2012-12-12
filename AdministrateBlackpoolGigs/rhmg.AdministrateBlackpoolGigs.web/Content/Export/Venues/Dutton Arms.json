@@ -1,0 +1,25 @@
+{
+  "IsNull": false,
+  "Venue": "Dutton Arms",
+  "Gigs": [
+    {
+      "Id": "gig/77848",
+      "BandNames": [
+        {
+          "Value": "Spitfire"
+        }
+      ],
+      "Venue": "Dutton Arms",
+      "Date": "\/Date(1309474800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "£5.00",
+      "MoreInfo": "We are holding a charity night on Frifay 1st July in aid of Christies featuring local band Spitfire. Tickets are £5 including a champagne reception and canapes. All ticket proceeds are going directly to The Christie Charity. Starts at 8pm.",
+      "GigTitle": "Charity Night in aid of Christies",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308852416000+0100)\/",
+      "Edited": "\/Date(1308852416000+0100)\/"
+    }
+  ],
+  "Future": []
+}

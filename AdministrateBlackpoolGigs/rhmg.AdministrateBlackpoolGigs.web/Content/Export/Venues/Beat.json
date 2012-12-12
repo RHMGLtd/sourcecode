@@ -1,0 +1,271 @@
+{
+  "IsNull": false,
+  "Venue": "Beat",
+  "Gigs": [
+    {
+      "Id": "gig/3073",
+      "BandNames": [
+        {
+          "Value": "Matt Stevens"
+        },
+        {
+          "Value": "Also Eden"
+        },
+        {
+          "Value": "Credo"
+        }
+      ],
+      "Venue": "Beat",
+      "Date": "\/Date(1305759600000+0100)\/",
+      "StartTime": "19:00",
+      "Price": "£31 weekend, £7 each day",
+      "MoreInfo": "The North West of England had a pioneering role in the growth and development of Progressive Rock music. From Jethro Tull to Jon Anderson of Yes, the area was a hotbed of music for both bands and fans alike. What's more, there is a massive latent audience starved of this pioneering and innovative musical genre.\r\n\r\nThe Electric Garden Progressive Rock festival will (for the first year) be a 3 day celebration of Progressive Rock in May 2011. Starting on the Thursday night we'll have 12 of the best UK and Overseas acts to entertain you with an excellent sound system and convivial atmosphere",
+      "GigTitle": "The Electric Garden Progressive Rock Festival",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1304031600000+0100)\/",
+      "Edited": "\/Date(1304031600000+0100)\/"
+    },
+    {
+      "Id": "gig/3074",
+      "BandNames": [
+        {
+          "Value": "The Watch"
+        },
+        {
+          "Value": "Nerve Toy Trio"
+        },
+        {
+          "Value": "Dropshard"
+        }
+      ],
+      "Venue": "Beat",
+      "Date": "\/Date(1305846000000+0100)\/",
+      "StartTime": "19:00",
+      "Price": "£31 weekend, £7 each day",
+      "MoreInfo": "The North West of England had a pioneering role in the growth and development of Progressive Rock music. From Jethro Tull to Jon Anderson of Yes, the area was a hotbed of music for both bands and fans alike. What's more, there is a massive latent audience starved of this pioneering and innovative musical genre.\r\n\r\nThe Electric Garden Progressive Rock festival will (for the first year) be a 3 day celebration of Progressive Rock in May 2011. Starting on the Thursday night we'll have 12 of the best UK and Overseas acts to entertain you with an excellent sound system and convivial atmosphere",
+      "GigTitle": "The Electric Garden Progressive Rock Festival",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303858800000+0100)\/",
+      "Edited": "\/Date(1303858800000+0100)\/"
+    },
+    {
+      "Id": "gig/3075",
+      "BandNames": [
+        {
+          "Value": "The Tangent"
+        },
+        {
+          "Value": "IT"
+        },
+        {
+          "Value": "Abel Ganz"
+        },
+        {
+          "Value": "Godsticks"
+        },
+        {
+          "Value": "SeYes"
+        },
+        {
+          "Value": "Earthling Society"
+        }
+      ],
+      "Venue": "Beat",
+      "Date": "\/Date(1305932400000+0100)\/",
+      "StartTime": "14:00",
+      "Price": "£31 weekend, £7 each day",
+      "MoreInfo": "The North West of England had a pioneering role in the growth and development of Progressive Rock music. From Jethro Tull to Jon Anderson of Yes, the area was a hotbed of music for both bands and fans alike. What's more, there is a massive latent audience starved of this pioneering and innovative musical genre.\r\n\r\nThe Electric Garden Progressive Rock festival will (for the first year) be a 3 day celebration of Progressive Rock in May 2011. Starting on the Thursday night we'll have 12 of the best UK and Overseas acts to entertain you with an excellent sound system and convivial atmosphere",
+      "GigTitle": "The Electric Garden Progressive Rock Festival",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303599600000+0100)\/",
+      "Edited": "\/Date(1305537208000+0100)\/"
+    },
+    {
+      "Id": "gig/2053",
+      "BandNames": [
+        {
+          "Value": "Inner Terrestrials"
+        },
+        {
+          "Value": "Drongos for Europe"
+        },
+        {
+          "Value": "2 Sick Monkeys"
+        },
+        {
+          "Value": "Rasta4Eyes"
+        }
+      ],
+      "Venue": "Beat",
+      "Date": "\/Date(1312326000000+0100)\/",
+      "StartTime": "19:00",
+      "Price": "£5.00",
+      "MoreInfo": "Foot Loose Promo presents:\r\n\r\nREBELLION FESTIVAL WARM-UP SHOW!\r\nAs usual, we're doing our annual warm-up to Rebellion the day before Rebellion in Blackpool for everyone who travels up early.\r\nThis year so far we have confirmed:\r\n\r\nINNER TERRESTRIALS\r\nAll the way from Devon(/London), perhaps the best dub-punk band this country has ever seen. Singer Jay plays in Suicide Bid.\r\n\r\nDRONGOS FOR EUROPE\r\nNeed no introduction, legends in their own right.\r\n\r\n2 SICK MONKEYS\r\nOne bass player and one drummer never sounded so good. Comical punk duo who tour so hard they are one of the hardest working bands in the UK\r\n\r\nRASTA4EYES\r\nSt. Helens based ska band on Do The Dog Records\r\n\r\n+more TBC",
+      "GigTitle": "Rebellion Festival Warm-up Party",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1304290800000+0100)\/",
+      "Edited": "\/Date(1304290800000+0100)\/"
+    },
+    {
+      "Id": "gig/2054",
+      "BandNames": [
+        {
+          "Value": "UFX"
+        },
+        {
+          "Value": "Cyanide Pills"
+        },
+        {
+          "Value": "Litterbug"
+        },
+        {
+          "Value": "Tight Finks"
+        }
+      ],
+      "Venue": "Beat",
+      "Date": "\/Date(1312412400000+0100)\/",
+      "StartTime": "22:00",
+      "Price": "unknown",
+      "MoreInfo": null,
+      "GigTitle": "Rebellion Festival After Show Party",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1304290800000+0100)\/",
+      "Edited": "\/Date(1304290800000+0100)\/"
+    },
+    {
+      "Id": "gig/2055",
+      "BandNames": [
+        {
+          "Value": "The Dead Class"
+        },
+        {
+          "Value": "Population"
+        },
+        {
+          "Value": "Radio Dead Ones"
+        },
+        {
+          "Value": "Billy Liar"
+        }
+      ],
+      "Venue": "Beat",
+      "Date": "\/Date(1312498800000+0100)\/",
+      "StartTime": "22:00",
+      "Price": "unknown",
+      "MoreInfo": null,
+      "GigTitle": "Rebellion Festival After Show Party",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303772400000+0100)\/",
+      "Edited": "\/Date(1303772400000+0100)\/"
+    },
+    {
+      "Id": "gig/2056",
+      "BandNames": [
+        {
+          "Value": "The Senton Bombs"
+        },
+        {
+          "Value": "Pete Bentham & the Dinner Ladies"
+        },
+        {
+          "Value": "Monica & the Explosion"
+        },
+        {
+          "Value": "The Duel"
+        }
+      ],
+      "Venue": "Beat",
+      "Date": "\/Date(1312585200000+0100)\/",
+      "StartTime": "22:00",
+      "Price": "unknown",
+      "MoreInfo": null,
+      "GigTitle": "Rebellion Festival After Show Party",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1304031600000+0100)\/",
+      "Edited": "\/Date(1304031600000+0100)\/"
+    },
+    {
+      "Id": "gig/2057",
+      "BandNames": [
+        {
+          "Value": "Church of Confidence"
+        },
+        {
+          "Value": "Sedated"
+        },
+        {
+          "Value": "The Blame"
+        }
+      ],
+      "Venue": "Beat",
+      "Date": "\/Date(1312671600000+0100)\/",
+      "StartTime": "23:00",
+      "Price": "unknown",
+      "MoreInfo": null,
+      "GigTitle": "Rebellion Festival After Show Party",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1304031600000+0100)\/",
+      "Edited": "\/Date(1307098857000+0100)\/"
+    },
+    {
+      "Id": "gig/106499",
+      "BandNames": [
+        {
+          "Value": "The Tapestry"
+        },
+        {
+          "Value": "The Pretty Thunder"
+        },
+        {
+          "Value": "Stephen Chadwick"
+        }
+      ],
+      "Venue": "Beat",
+      "Date": "\/Date(1313103600000+0100)\/",
+      "StartTime": "19.30",
+      "Price": "unknown",
+      "MoreInfo": "\"The Tapestry are a new band from Manchester who release their debut single on the 22nd of April.\r\nRode Your Luck (Tapestry records 001) , comes on all Suzy Quattro glam rock drums with impossibly catchy guitars before smashing into a huge boy/girl sing a long, terrace chant of a chorus.\r\nThe band have sold out Night and Day in Manchester , have a front man called Liam, and name Pixies, Pavement, The Clash and Television as influences…got your attention yet ?\r\nThe single is available for download from all the usual places and is available on cd from Piccadilly Records or from the band through their facebook\"\r\n\r\nLouder Than War, 15/04/2011\r\n\r\nThe Pretty Thunder are a raucous new sound emanating from Blackpool on Sea. If you like your rock hard and sweet - these guys will take some lickin!\r\n\r\nStephen Chadwick is a singer/songwriter from Manchester - destined for fame and fortune.\r\n\r\nFollowing the Gig, everyone will have queue jump ticket for Nellie Deans - just 2 mins along the prom where we can PARTY the night away!",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1313045431000+0100)\/",
+      "Edited": "\/Date(1313045431000+0100)\/"
+    },
+    {
+      "Id": "gig/95235",
+      "BandNames": [
+        {
+          "Value": "Inca Babies"
+        },
+        {
+          "Value": "Dysphonia"
+        },
+        {
+          "Value": "Party Faithful"
+        },
+        {
+          "Value": "Army of Walking Corpses"
+        }
+      ],
+      "Venue": "Beat",
+      "Date": "\/Date(1314918000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "unknown",
+      "MoreInfo": "Misery Of Sound is back for September the 2nd 2011, and with a wonderful little line up for you as well. We have the INCA BABIES or the Manchester Cramps as there often reffered to, or if you need a little more deffinaition , swampy trash n Blues with a bit a GothPost-punk as well ;]\r\n\r\nwww.myspace.com/incababies\r\n\r\nWe also have the Blackpool debut of Ed Tuke [Banshee's] new project PARTLY FAITHFUL who played a great gig supporting March Violets in Leeds in June\r\n\r\nhttp://www.facebook.com/?ref=mb&sk=inbox#!/home.php?sk=group_205515186148447\r\n\r\nAnother Misery of Sound debut will be for Ashfields ARMY OF WALKING CORPSES, think Michael Graves era Misfits with the best instrument in the world, a double bass ;] they have previously released 2 EP's\r\n\r\nwww.myspace.com/armyofwalkingcorpses\r\n\r\nFinal act confirmed are Blackpool Punk/Post-Punks DYSPHONIA and its also their bebut gig at Misery Of sound.\r\n\r\nhttp://www.facebook.com/?ref=mb&sk=inbox#!/pages/Dysphonia/172102612817880\r\n\r\nhope to see you all there folks ;] Stay Ghoul",
+      "GigTitle": "Misery of Sound",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311234565000+0100)\/",
+      "Edited": "\/Date(1314443157000+0100)\/"
+    }
+  ],
+  "Future": []
+}

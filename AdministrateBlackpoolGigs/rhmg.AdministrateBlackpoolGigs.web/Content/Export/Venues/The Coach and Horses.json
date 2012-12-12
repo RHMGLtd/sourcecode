@@ -1,0 +1,80 @@
+{
+  "IsNull": false,
+  "Venue": "The Coach and Horses",
+  "Gigs": [
+    {
+      "Id": "gig/37890",
+      "BandNames": [
+        {
+          "Value": "Starfish"
+        }
+      ],
+      "Venue": "The Coach and Horses",
+      "Date": "\/Date(1306623600000+0100)\/",
+      "StartTime": "17:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306149321000+0100)\/",
+      "Edited": "\/Date(1306149321000+0100)\/"
+    },
+    {
+      "Id": "gig/140333",
+      "BandNames": [
+        {
+          "Value": "Starfish"
+        }
+      ],
+      "Venue": "The Coach and Horses",
+      "Date": "\/Date(1328227200000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": "Unplugged",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327837046000+0000)\/",
+      "Edited": "\/Date(1327837046000+0000)\/"
+    },
+    {
+      "Id": "gig/138243",
+      "BandNames": [
+        {
+          "Value": "Stiff"
+        }
+      ],
+      "Venue": "The Coach and Horses",
+      "Date": "\/Date(1333148400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327745198000+0000)\/",
+      "Edited": "\/Date(1327745198000+0000)\/"
+    }
+  ],
+  "Future": [
+    {
+      "Id": "gig/138243",
+      "BandNames": [
+        {
+          "Value": "Stiff"
+        }
+      ],
+      "Venue": "The Coach and Horses",
+      "Date": "\/Date(1333148400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327745198000+0000)\/",
+      "Edited": "\/Date(1327745198000+0000)\/"
+    }
+  ]
+}

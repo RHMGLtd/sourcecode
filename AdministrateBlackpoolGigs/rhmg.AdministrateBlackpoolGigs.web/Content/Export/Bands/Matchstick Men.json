@@ -1,0 +1,97 @@
+{
+  "BandName": {
+    "Value": "Matchstick Men"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/25",
+      "BandNames": [
+        {
+          "Value": "Dysphonia"
+        },
+        {
+          "Value": "Dirty Hearts Club"
+        },
+        {
+          "Value": "Cowards"
+        },
+        {
+          "Value": "The 10 of Spades"
+        },
+        {
+          "Value": "Matchstick Men"
+        },
+        {
+          "Value": "Marionette"
+        },
+        {
+          "Value": "The Lemontops"
+        },
+        {
+          "Value": "The Retrospective"
+        },
+        {
+          "Value": "Every Effort Made"
+        },
+        {
+          "Value": "The Valvetronics"
+        }
+      ],
+      "Venue": "The Blue Room",
+      "Date": "\/Date(1306623600000+0100)\/",
+      "StartTime": "19.00",
+      "Price": "£2",
+      "MoreInfo": "Later At The Blue Room \r\n\r\nwww.facebook.com/theblueroomblackpool\r\nyou can follow us on twitter at www.twitter.com/blueroombpl",
+      "GigTitle": "Later At The Blue Room",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303686000000+0100)\/",
+      "Edited": "\/Date(1303686000000+0100)\/"
+    },
+    {
+      "Id": "gig/94211",
+      "BandNames": [
+        {
+          "Value": "Dirty Daggers"
+        },
+        {
+          "Value": "The Gekko"
+        },
+        {
+          "Value": "Veasey"
+        },
+        {
+          "Value": "Matchstick Men"
+        }
+      ],
+      "Venue": "The Blue Room",
+      "Date": "\/Date(1315004400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "£1.00",
+      "MoreInfo": "THE DIRTY DAGGERS\r\nRock from Blackpool\r\nhttp://www.facebook.com/pages/The-Dirty-Daggers/77379020190\r\n\r\nTHE GEKKO\r\nHard Rock from Chorley\r\nhttp://www.facebook.com/pages/The-Gekko/185008254854111\r\n\r\nVEASEY\r\nIndie Rock N Roll from Blackpool\r\nhttp://www.facebook.com/pages/VEASEY/29324796184\r\n\r\nMatchstickmen\r\nAlternative Rock from Liverpool\r\nhttp://www.facebook.com/Matchstickmen.band",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311140239000+0100)\/",
+      "Edited": "\/Date(1313933225000+0100)\/"
+    },
+    {
+      "Id": "gig/143373",
+      "BandNames": [
+        {
+          "Value": "Matchstick Men"
+        }
+      ],
+      "Venue": "The Prince Arthur",
+      "Date": "\/Date(1336690800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1328352666000+0000)\/",
+      "Edited": "\/Date(1328352666000+0000)\/"
+    }
+  ]
+}

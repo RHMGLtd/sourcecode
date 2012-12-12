@@ -1,0 +1,80 @@
+{
+  "IsNull": false,
+  "Venue": "The Dockers",
+  "Gigs": [
+    {
+      "Id": "gig/99413",
+      "BandNames": [
+        {
+          "Value": "The Jeps"
+        }
+      ],
+      "Venue": "The Dockers",
+      "Date": "\/Date(1314313200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311709767000+0100)\/",
+      "Edited": "\/Date(1311709767000+0100)\/"
+    },
+    {
+      "Id": "gig/134156",
+      "BandNames": [
+        {
+          "Value": "On The Edge"
+        }
+      ],
+      "Venue": "The Dockers",
+      "Date": "\/Date(1327622400000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326568985000+0000)\/",
+      "Edited": "\/Date(1326568985000+0000)\/"
+    },
+    {
+      "Id": "gig/133186",
+      "BandNames": [
+        {
+          "Value": "Ska Face"
+        }
+      ],
+      "Venue": "The Dockers",
+      "Date": "\/Date(1336258800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326562897000+0000)\/",
+      "Edited": "\/Date(1326562897000+0000)\/"
+    }
+  ],
+  "Future": [
+    {
+      "Id": "gig/133186",
+      "BandNames": [
+        {
+          "Value": "Ska Face"
+        }
+      ],
+      "Venue": "The Dockers",
+      "Date": "\/Date(1336258800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326562897000+0000)\/",
+      "Edited": "\/Date(1326562897000+0000)\/"
+    }
+  ]
+}

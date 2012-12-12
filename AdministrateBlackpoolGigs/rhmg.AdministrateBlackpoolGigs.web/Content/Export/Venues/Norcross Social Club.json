@@ -1,0 +1,116 @@
+{
+  "IsNull": false,
+  "Venue": "Norcross Social Club",
+  "Gigs": [
+    {
+      "Id": "gig/8194",
+      "BandNames": [
+        {
+          "Value": "Huggy and the Bears"
+        }
+      ],
+      "Venue": "Norcross Social Club",
+      "Date": "\/Date(1304550000000+0100)\/",
+      "StartTime": "19:00",
+      "Price": "Free",
+      "MoreInfo": "Charity night this Thursday at Norcross Social Club in aid of Autistic Kids. Raffle , casino, chippendale style dancers and the band.",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303945200000+0100)\/",
+      "Edited": "\/Date(1306835176000+0100)\/"
+    },
+    {
+      "Id": "gig/78893",
+      "BandNames": [
+        {
+          "Value": "The Blue Pig Orchestra"
+        }
+      ],
+      "Venue": "Norcross Social Club",
+      "Date": "\/Date(1311807600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": "The Blue Pigs are playing at Norcross Social Club on the 28th of July next week in aid of Trinity Hospice in memory of Jo's Dad, Gerry Byrne. Everyone is welcome - but we have to sign people in so if you can come please let me know and we will put you on the list. We are also looking for raffle prizes and bottles - all donations gratefully received - We can pick up any donations :)",
+      "GigTitle": "Trinity Hospice Charity Night (In Memory of Jo's Dad, Gerry Byrne)",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308918045000+0100)\/",
+      "Edited": "\/Date(1311234377000+0100)\/"
+    },
+    {
+      "Id": "gig/133148",
+      "BandNames": [
+        {
+          "Value": "The Blue Pig Orchestra"
+        }
+      ],
+      "Venue": "Norcross Social Club",
+      "Date": "\/Date(1329350400000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": "Valentine Party Night",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326561455000+0000)\/",
+      "Edited": "\/Date(1326561455000+0000)\/"
+    },
+    {
+      "Id": "gig/140313",
+      "BandNames": [
+        {
+          "Value": "The Blue Pig Orchestra"
+        }
+      ],
+      "Venue": "Norcross Social Club",
+      "Date": "\/Date(1329436800000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": "Valentine Party Night",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327835819000+0000)\/",
+      "Edited": "\/Date(1327835819000+0000)\/"
+    }
+  ],
+  "Future": [
+    {
+      "Id": "gig/133148",
+      "BandNames": [
+        {
+          "Value": "The Blue Pig Orchestra"
+        }
+      ],
+      "Venue": "Norcross Social Club",
+      "Date": "\/Date(1329350400000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": "Valentine Party Night",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326561455000+0000)\/",
+      "Edited": "\/Date(1326561455000+0000)\/"
+    },
+    {
+      "Id": "gig/140313",
+      "BandNames": [
+        {
+          "Value": "The Blue Pig Orchestra"
+        }
+      ],
+      "Venue": "Norcross Social Club",
+      "Date": "\/Date(1329436800000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": "Valentine Party Night",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327835819000+0000)\/",
+      "Edited": "\/Date(1327835819000+0000)\/"
+    }
+  ]
+}

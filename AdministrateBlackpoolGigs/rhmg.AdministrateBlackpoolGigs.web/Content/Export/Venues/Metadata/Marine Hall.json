@@ -1,0 +1,24 @@
+{
+  "Id": "metadata/11265",
+  "VenueName": "Marine Hall",
+  "MainImageName": "Marine Hall.jpg",
+  "BarAndClubReviewsUrl": "",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 887693",
+    "SecondaryPhoneNumbers": [
+      "01253 770547"
+    ],
+    "AddressLines": [
+      "The Esplanade",
+      "Fleetwood"
+    ],
+    "Website": "http://http://www.marinehall.co.uk/",
+    "EmailAddress": "info@marinehall.co.uk",
+    "PostCode": "FY7 6HF",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.926329",
+    "Long": "-3.01652"
+  }
+}

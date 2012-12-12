@@ -1,0 +1,31 @@
+{
+  "BandName": {
+    "Value": "Sleeping With The Fishes"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/110597",
+      "BandNames": [
+        {
+          "Value": "The Colours"
+        },
+        {
+          "Value": "Bill Orrick"
+        },
+        {
+          "Value": "Sleeping With The Fishes"
+        }
+      ],
+      "Venue": "The Blue Room",
+      "Date": "\/Date(1319842800000+0100)\/",
+      "StartTime": "20:30",
+      "Price": "£1.00",
+      "MoreInfo": "THE COLOURS\r\nIndie/Dance from Blackpool\r\nhttp://www.facebook.com/pages/The-Colours/326694636484\r\n\r\nBILL ORRICK\r\nAtmospheric Acoustic Folky Rock Pop from Preston\r\nhttp://www.facebook.com/billorrickonline\r\n\r\nSLEEPING WITH THE FISHES\r\nIndie from Liverpool\r\nhttp://www.facebook.com/pages/Sleeping-With-The-Fishes/138136866269031",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1313933560000+0100)\/",
+      "Edited": "\/Date(1313933560000+0100)\/"
+    }
+  ]
+}

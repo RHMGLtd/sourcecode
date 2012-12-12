@@ -1,0 +1,25 @@
+{
+  "BandName": {
+    "Value": "Engelbert Humperdinck"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/6",
+      "BandNames": [
+        {
+          "Value": "Engelbert Humperdinck"
+        }
+      ],
+      "Venue": "Blackpool Opera House",
+      "Date": "\/Date(1303945200000+0100)\/",
+      "StartTime": "19.30",
+      "Price": "unknown",
+      "MoreInfo": "Tickets Available From Blackpool Box Office",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303686000000+0100)\/",
+      "Edited": "\/Date(1303686000000+0100)\/"
+    }
+  ]
+}

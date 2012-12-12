@@ -68,3 +68,32 @@ C:\business websites\blackpoolgigs\blackpoolgigs.web\bin\Raven.Abstractions.dll
 C:\business websites\blackpoolgigs\blackpoolgigs.web\bin\Raven.Json.dll
 C:\business websites\blackpoolgigs\blackpoolgigs.web\bin\Raven.Abstractions.pdb
 C:\business websites\blackpoolgigs\blackpoolgigs.web\bin\Raven.Json.pdb
+C:\_src\sourcecode\blackpoolgigs\blackpoolgigs.web\bin\blackpoolgigs.web.dll
+C:\_src\sourcecode\blackpoolgigs\blackpoolgigs.web\bin\blackpoolgigs.common.dll
+C:\_src\sourcecode\blackpoolgigs\blackpoolgigs.web\bin\blackpoolgigs.filedal.dll
+C:\_src\sourcecode\blackpoolgigs\blackpoolgigs.web\bin\coolbunny.common.dll
+C:\_src\sourcecode\blackpoolgigs\blackpoolgigs.web\bin\coolbunny.web.common.dll
+C:\_src\sourcecode\blackpoolgigs\blackpoolgigs.web\bin\Raven.Abstractions.dll
+C:\_src\sourcecode\blackpoolgigs\blackpoolgigs.web\bin\log4net.dll
+C:\_src\sourcecode\blackpoolgigs\blackpoolgigs.web\bin\Mono.Posix.dll
+C:\_src\sourcecode\blackpoolgigs\blackpoolgigs.web\bin\Raven.Json.dll
+C:\_src\sourcecode\blackpoolgigs\blackpoolgigs.web\bin\blackpoolgigs.filedal.pdb
+C:\_src\sourcecode\blackpoolgigs\blackpoolgigs.web\bin\coolbunny.common.pdb
+C:\_src\sourcecode\blackpoolgigs\blackpoolgigs.web\bin\coolbunny.web.common.pdb
+C:\_src\sourcecode\blackpoolgigs\blackpoolgigs.web\bin\blackpoolgigs.common.pdb
+C:\_src\sourcecode\blackpoolgigs\blackpoolgigs.web\bin\Castle.Core.pdb
+C:\_src\sourcecode\blackpoolgigs\blackpoolgigs.web\bin\Castle.Core.xml
+C:\_src\sourcecode\blackpoolgigs\blackpoolgigs.web\bin\Castle.Windsor.pdb
+C:\_src\sourcecode\blackpoolgigs\blackpoolgigs.web\bin\Castle.Windsor.xml
+C:\_src\sourcecode\blackpoolgigs\blackpoolgigs.web\bin\Castle.Windsor.Lifestyles.pdb
+C:\_src\sourcecode\blackpoolgigs\blackpoolgigs.web\bin\Newtonsoft.Json.pdb
+C:\_src\sourcecode\blackpoolgigs\blackpoolgigs.web\bin\Newtonsoft.Json.xml
+C:\_src\sourcecode\blackpoolgigs\blackpoolgigs.web\bin\OpenFileSystem.pdb
+C:\_src\sourcecode\blackpoolgigs\blackpoolgigs.web\bin\Snooze.pdb
+C:\_src\sourcecode\blackpoolgigs\blackpoolgigs.web\bin\Spark.pdb
+C:\_src\sourcecode\blackpoolgigs\blackpoolgigs.web\bin\Spark.Web.Mvc.pdb
+C:\_src\sourcecode\blackpoolgigs\blackpoolgigs.web\bin\Raven.Abstractions.pdb
+C:\_src\sourcecode\blackpoolgigs\blackpoolgigs.web\bin\log4net.xml
+C:\_src\sourcecode\blackpoolgigs\blackpoolgigs.web\bin\Raven.Json.pdb
+C:\_src\sourcecode\blackpoolgigs\blackpoolgigs.web\obj\Release\ResolveAssemblyReference.cache
+C:\_src\sourcecode\blackpoolgigs\blackpoolgigs.web\obj\Release\blackpoolgigs.web.dll

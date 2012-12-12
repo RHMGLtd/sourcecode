@@ -1,0 +1,28 @@
+{
+  "BandName": {
+    "Value": "On Parole"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/19467",
+      "BandNames": [
+        {
+          "Value": "Ska Face"
+        },
+        {
+          "Value": "On Parole"
+        }
+      ],
+      "Venue": "The Merrie England",
+      "Date": "\/Date(1314313200000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "£5.00",
+      "MoreInfo": "ANOTHER DOUBLE HEADER with the best Clash Tribute in the land - sort of makes sense really... £5 in, tickets from North Pier or on the door.",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303772400000+0100)\/",
+      "Edited": "\/Date(1313132395000+0100)\/"
+    }
+  ]
+}

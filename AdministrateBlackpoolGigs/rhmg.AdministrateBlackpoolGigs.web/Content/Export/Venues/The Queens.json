@@ -1,0 +1,79 @@
+{
+  "IsNull": false,
+  "Venue": "The Queens",
+  "Gigs": [
+    {
+      "Id": "gig/15362",
+      "BandNames": [
+        {
+          "Value": "The Versions"
+        }
+      ],
+      "Venue": "The Queens",
+      "Date": "\/Date(1305846000000+0100)\/",
+      "StartTime": "20:30",
+      "Price": "free",
+      "MoreInfo": "Another week, another venue, another Versions debut. Anyone from round the area we'd love to see you there!!!!!!",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303858800000+0100)\/",
+      "Edited": "\/Date(1303858800000+0100)\/"
+    },
+    {
+      "Id": "gig/58370",
+      "BandNames": [
+        {
+          "Value": "The Kasuals"
+        }
+      ],
+      "Venue": "The Queens",
+      "Date": "\/Date(1307574000000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307038976000+0100)\/",
+      "Edited": "\/Date(1307038976000+0100)\/"
+    },
+    {
+      "Id": "gig/61491",
+      "BandNames": [
+        {
+          "Value": "Wildkats Northwest"
+        }
+      ],
+      "Venue": "The Queens",
+      "Date": "\/Date(1309474800000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307104952000+0100)\/",
+      "Edited": "\/Date(1307105129000+0100)\/"
+    },
+    {
+      "Id": "gig/61494",
+      "BandNames": [
+        {
+          "Value": "Wildkats Northwest"
+        }
+      ],
+      "Venue": "The Queens",
+      "Date": "\/Date(1314313200000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307105091000+0100)\/",
+      "Edited": "\/Date(1307105091000+0100)\/"
+    }
+  ],
+  "Future": []
+}

@@ -1,0 +1,5 @@
+<viewdata model="DataCleanseSpacesViewModel model" />
+
+<content name="body">
+  Spaces removed from front and end of band names, venue, start time and price.
+</content>

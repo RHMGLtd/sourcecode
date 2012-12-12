@@ -1,0 +1,355 @@
+{
+  "BandName": {
+    "Value": "The Monster Squad"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/13",
+      "BandNames": [
+        {
+          "Value": "The Monster Squad"
+        }
+      ],
+      "Venue": "The Raikes Hall",
+      "Date": "\/Date(1303513200000+0100)\/",
+      "StartTime": "19:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1304031600000+0100)\/",
+      "Edited": "\/Date(1308852566000+0100)\/"
+    },
+    {
+      "Id": "gig/18441",
+      "BandNames": [
+        {
+          "Value": "The Monster Squad"
+        }
+      ],
+      "Venue": "The Venue",
+      "Date": "\/Date(1305241200000+0100)\/",
+      "StartTime": "19.30",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303599600000+0100)\/",
+      "Edited": "\/Date(1305653016000+0100)\/"
+    },
+    {
+      "Id": "gig/18442",
+      "BandNames": [
+        {
+          "Value": "The Monster Squad"
+        }
+      ],
+      "Venue": "The King Edward",
+      "Date": "\/Date(1305327600000+0100)\/",
+      "StartTime": "19.30",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1304290800000+0100)\/",
+      "Edited": "\/Date(1304290800000+0100)\/"
+    },
+    {
+      "Id": "gig/63493",
+      "BandNames": [
+        {
+          "Value": "The Monster Squad"
+        }
+      ],
+      "Venue": "Uncle Toms Cabin",
+      "Date": "\/Date(1307746800000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1307371468000+0100)\/",
+      "Edited": "\/Date(1308852575000+0100)\/"
+    },
+    {
+      "Id": "gig/77842",
+      "BandNames": [
+        {
+          "Value": "The Monster Squad"
+        }
+      ],
+      "Venue": "Burlington",
+      "Date": "\/Date(1308870000000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308852101000+0100)\/",
+      "Edited": "\/Date(1308852583000+0100)\/"
+    },
+    {
+      "Id": "gig/78876",
+      "BandNames": [
+        {
+          "Value": "The Monster Squad"
+        }
+      ],
+      "Venue": "Old Town Hall",
+      "Date": "\/Date(1309561200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308917173000+0100)\/",
+      "Edited": "\/Date(1308917173000+0100)\/"
+    },
+    {
+      "Id": "gig/78877",
+      "BandNames": [
+        {
+          "Value": "The Monster Squad"
+        }
+      ],
+      "Venue": "Burlington",
+      "Date": "\/Date(1310079600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308917262000+0100)\/",
+      "Edited": "\/Date(1308917262000+0100)\/"
+    },
+    {
+      "Id": "gig/78878",
+      "BandNames": [
+        {
+          "Value": "The Monster Squad"
+        },
+        {
+          "Value": "Chameleon Jazz Band"
+        }
+      ],
+      "Venue": "Victorian Sunlounge",
+      "Date": "\/Date(1310166000000+0100)\/",
+      "StartTime": "19:00",
+      "Price": "£10.00",
+      "MoreInfo": "Yes people, it's that time of year again! Ladies get your frocks at the ready and gents dust off your tuxedos 'cause Blackpool LIFE are holding yet another extravigant SUMMER BALL!!!\r\n\r\nIf you attended last year's Enchantment Over the Sea Dance then you'll know just what to expect. A classy evening compered by the dazzling ANNE NOLAN with live music from the Chameleon Jazz Band and the amazing MONSTER SQUAD!!\r\n\r\nSet in the stunning, beautifully lit Victorian Sunlounge on the end of the north pier, this sophisticated evening promises to be filled with wonder and surprise as guests dance the night away in truly enchanting surroundings.\r\n\r\nDelicious canapes will be served throughout the evening and the champagne will flow like wine!!\r\n\r\nThe shuttle bus will carry guests in true style from one end of the pier to the next where the red carpet will be rolled out!\r\n\r\nAll this for just £10 a ticket!!\r\n\r\nFor reservations either contact Laura on 07790280065 or go to The North Pier Box office.",
+      "GigTitle": "The Enchantment Over the Sea Dance",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308917288000+0100)\/",
+      "Edited": "\/Date(1308917288000+0100)\/"
+    },
+    {
+      "Id": "gig/78879",
+      "BandNames": [
+        {
+          "Value": "The Monster Squad"
+        }
+      ],
+      "Venue": "The Venue",
+      "Date": "\/Date(1310684400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308917499000+0100)\/",
+      "Edited": "\/Date(1308917499000+0100)\/"
+    },
+    {
+      "Id": "gig/78880",
+      "BandNames": [
+        {
+          "Value": "The Monster Squad"
+        }
+      ],
+      "Venue": "Stanley Ward Conservative Club",
+      "Date": "\/Date(1310770800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308917527000+0100)\/",
+      "Edited": "\/Date(1308917527000+0100)\/"
+    },
+    {
+      "Id": "gig/77847",
+      "BandNames": [
+        {
+          "Value": "The Monster Squad"
+        }
+      ],
+      "Venue": "The Royal Oak",
+      "Date": "\/Date(1311289200000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "£1.00",
+      "MoreInfo": "The Mighty Monsters at the Riotous Royal.South Shore get ready!!!",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": true,
+      "Created": "\/Date(1308852295000+0100)\/",
+      "Edited": "\/Date(1310482758000+0100)\/"
+    },
+    {
+      "Id": "gig/34824",
+      "BandNames": [
+        {
+          "Value": "The Monster Squad"
+        }
+      ],
+      "Venue": "The Blue Room",
+      "Date": "\/Date(1311980400000+0100)\/",
+      "StartTime": "20:30",
+      "Price": "£1.00",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1305654715000+0100)\/",
+      "Edited": "\/Date(1308852590000+0100)\/"
+    },
+    {
+      "Id": "gig/99400",
+      "BandNames": [
+        {
+          "Value": "The Monster Squad"
+        }
+      ],
+      "Venue": "Burlington",
+      "Date": "\/Date(1313708400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311709093000+0100)\/",
+      "Edited": "\/Date(1311709093000+0100)\/"
+    },
+    {
+      "Id": "gig/93185",
+      "BandNames": [
+        {
+          "Value": "The Monster Squad"
+        }
+      ],
+      "Venue": "Belle View",
+      "Date": "\/Date(1313794800000+0100)\/",
+      "StartTime": "21:30",
+      "Price": "free",
+      "MoreInfo": "This will be the first time The Monster Squad have played at The Belle Vue and we're looking forward to putting on something very special for you all.I promise you now this one is not to be missed",
+      "GigTitle": "The Monster Squad's Debut @The Belle Vue",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1310493916000+0100)\/",
+      "Edited": "\/Date(1310493917000+0100)\/"
+    },
+    {
+      "Id": "gig/99401",
+      "BandNames": [
+        {
+          "Value": "The Monster Squad"
+        }
+      ],
+      "Venue": "Belle View",
+      "Date": "\/Date(1313794800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311709268000+0100)\/",
+      "Edited": "\/Date(1311709268000+0100)\/"
+    },
+    {
+      "Id": "gig/99402",
+      "BandNames": [
+        {
+          "Value": "Sherman Robertson"
+        },
+        {
+          "Value": "The Monster Squad"
+        }
+      ],
+      "Venue": "Marine Hall",
+      "Date": "\/Date(1314226800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "unknown",
+      "MoreInfo": "Blues/Soul Legend Sherman Robertson brings his Texas blues back to the U.K.Described as one part zydeco,one part swamp blues,one part electric blues and one part rhythm and blues Sherman Robertson is a class act in the blues/soul arena and a true showman.\r\n\r\nSupport comes from The Monster Squad.Fast getting the nickname The \"Mighty\" Monster Squad this local band of funk toting misfits will no doubt be coming out all guns blazing to give this very special occasion the kick start it deserves",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311709294000+0100)\/",
+      "Edited": "\/Date(1311835768000+0100)\/"
+    },
+    {
+      "Id": "gig/110596",
+      "BandNames": [
+        {
+          "Value": "The Monster Squad"
+        }
+      ],
+      "Venue": "The Blue Room",
+      "Date": "\/Date(1316818800000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "£1.00",
+      "MoreInfo": "THE MONSTER SQUAD\r\nHigh Octane Funk & Rock Party Band\r\nhttp://www.facebook.com/groups/293983537383/",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1313933502000+0100)\/",
+      "Edited": "\/Date(1313933502000+0100)\/"
+    },
+    {
+      "Id": "gig/116776",
+      "BandNames": [
+        {
+          "Value": "The Monster Squad"
+        }
+      ],
+      "Venue": "Burlington",
+      "Date": "\/Date(1317337200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315140555000+0100)\/",
+      "Edited": "\/Date(1315140555000+0100)\/"
+    },
+    {
+      "Id": "gig/133142",
+      "BandNames": [
+        {
+          "Value": "The Monster Squad"
+        }
+      ],
+      "Venue": "The Shovels",
+      "Date": "\/Date(1337382000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326560774000+0000)\/",
+      "Edited": "\/Date(1326560774000+0000)\/"
+    }
+  ]
+}

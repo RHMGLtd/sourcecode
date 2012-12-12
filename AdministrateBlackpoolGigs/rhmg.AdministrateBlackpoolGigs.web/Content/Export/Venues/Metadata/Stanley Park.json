@@ -1,0 +1,19 @@
+{
+  "Id": "metadata/15364",
+  "VenueName": "Stanley Park",
+  "MainImageName": null,
+  "BarAndClubReviewsUrl": "",
+  "ContactDetail": {
+    "MainPhoneNumber": null,
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [],
+    "Website": "",
+    "EmailAddress": null,
+    "PostCode": null,
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.813575",
+    "Long": "-3.022549"
+  }
+}

@@ -1,0 +1,373 @@
+{
+  "BandName": {
+    "Value": "Rupert Fabulous"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/19477",
+      "BandNames": [
+        {
+          "Value": "Rupert Fabulous"
+        }
+      ],
+      "Venue": "The Royal Oak",
+      "Date": "\/Date(1305241200000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1304290800000+0100)\/",
+      "Edited": "\/Date(1304290800000+0100)\/"
+    },
+    {
+      "Id": "gig/55297",
+      "BandNames": [
+        {
+          "Value": "Rupert Fabulous"
+        },
+        {
+          "Value": "Smokin Monkey"
+        },
+        {
+          "Value": "Lucas Fletcher"
+        }
+      ],
+      "Venue": "The Golden Eagle",
+      "Date": "\/Date(1307746800000+0100)\/",
+      "StartTime": "19:00",
+      "Price": "free",
+      "MoreInfo": "FAMILY FUN DAY - GOLDEN EAGLE, CLEVELEYS - SATURDAY 11th JUNE\r\n\r\nEVENT TIMES\r\n\r\nOUTSIDE STAGE\r\n\r\n12:30 EVENT OPENS\r\n\r\n12:45 JEKYLL\r\n\r\n1:40 BRYONI DUNSTON\r\n\r\n2:10 THE DIFFERENCE\r\n\r\n3:05 MATTHEW PEEL\r\n\r\n3:30 ANCHORSHOLME CHOIR\r\n\r\n4:10 BLACK PEARL ft DYLAN CUNNAH\r\n\r\n5:00 BLACK PEARL ft LUCAS FLETCHER\r\n\r\n5:10 LUCAS FLETCHER\r\n\r\n5:30 CHILDRENS PRIZE GIVE-AWAY\r\n\r\n\r\nINSIDE STAGE\r\n\r\n6:30 LUCAS FLETCHER (ACOUSTIC SET)\r\n\r\n7:10 SMOKIN MONKEY\r\n\r\n8:10 RUPERT FABULOUS\r\n\r\n9:00 CHRIS EVANS (RADIO WAVE 96.5 DJ) \r\n\r\n(DISCO, KARAOKE, RAFFLE AND AUCTIONS)\r\n\r\n12:00 CLOSE\r\n\r\n\r\nAUCTION ITEMS\r\n\r\nBlackpool FC signed 2011 Premiership shirt\r\nJimmy Armfield 1956 signed shirt\r\nCharlie Adam signed boots (match worn Tottenham game)\r\nDJ Campbell signed football boots (match worn Bolton game)\r\nIan Evatt signed shirt (match worn Arsenal game)\r\nMatt Philips signed shirt (match worn)\r\nReal Madrid 2011 signed shirt\r\nEverton signed picture\r\nBlackburn signed picture\r\nJason Robinson (world cup winner) Signed shirt with a personal meet and greet\r\nRickie Hatton signed picture\r\nLloyd Honeyghan signed picture\r\n4 x Liverpool FC stadium and museum tour\r\n2 x Status Quo tickets at Lytham proms\r\n2 x Katherine Jenkins tickets at Lytham proms\r\n2 x Boyzone tickets at Lytham proms\r\nNorth Shore golf club 18 holes for 4 people\r\nRoy Chubby Brown tickets for 4 plus a personal meet and greet\r\n\r\n\r\nRAFFLE PRIZES\r\n\r\nBoys cycle with helmet (9yrs +) £180\r\nGirls cycle with helmet (9yrs +) £180\r\nAcoustic guitar with lessons £120\r\nSouth Shore wall climb for 6 £80\r\nDay out on the prom (sub zero, vue cinema, pizza hut) £80\r\n2 x De-Vere Leisure Pass with back massage for 1 month £80\r\n1 x De·Vere Leisure Pass with head massage for 1 month £75\r\n6 months leisure pass and VIP day out at Moorpark Leisure centre £180\r\n4 x Fin-spa fish pedicures £12 each\r\nSandcastle Family pass £30\r\nBlackpool tower circus family pass £30\r\nSub zero family pass with skate hire £40\r\n6 months adult membership Blackpool zoo £40\r\nOdeon Tickets £15\r\nBooshooz voucher £ 1 0\r\nBookidz voucher £10\r\nFredericks voucher £10\r\nCaroline Taylor Indian Head massage £10\r\nMp3 Player\r\nPulchinella meal voucher £25\r\nMichaels meal voucher\r\nElectric guitar with lessons £120\r\nBass guitar with lessons £140\r\nMark Shuttleworth Photo sitting and print\r\n\r\nMore prizes to be announced on the day",
+      "GigTitle": "FAMILY FUN DAY",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306843175000+0100)\/",
+      "Edited": "\/Date(1307270953000+0100)\/"
+    },
+    {
+      "Id": "gig/77843",
+      "BandNames": [
+        {
+          "Value": "Rupert Fabulous"
+        }
+      ],
+      "Venue": "The Venue",
+      "Date": "\/Date(1308870000000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308852122000+0100)\/",
+      "Edited": "\/Date(1308852122000+0100)\/"
+    },
+    {
+      "Id": "gig/40964",
+      "BandNames": [
+        {
+          "Value": "The Blue Pig Orchestra"
+        },
+        {
+          "Value": "Ska Face"
+        },
+        {
+          "Value": "Happy Daize"
+        },
+        {
+          "Value": "The Jeps"
+        },
+        {
+          "Value": "Rupert Fabulous"
+        },
+        {
+          "Value": "The Versions"
+        },
+        {
+          "Value": "Tony Mitchell"
+        },
+        {
+          "Value": "Triple Threat"
+        },
+        {
+          "Value": "Brother Rabbit"
+        },
+        {
+          "Value": "3rd Step"
+        },
+        {
+          "Value": "Fleetwood High School"
+        },
+        {
+          "Value": "Stephanie Fraser"
+        },
+        {
+          "Value": "Penny Black"
+        },
+        {
+          "Value": "Paul Huson & Ayshea Manning"
+        },
+        {
+          "Value": "The Colours"
+        },
+        {
+          "Value": "Poison Apple"
+        },
+        {
+          "Value": "Gatorville"
+        },
+        {
+          "Value": "Roxyrama"
+        },
+        {
+          "Value": "Hot Vestry"
+        },
+        {
+          "Value": "Framed at the Crime Scene"
+        },
+        {
+          "Value": "He Who Dares"
+        },
+        {
+          "Value": "The Underachievers"
+        },
+        {
+          "Value": "Forever Autumn"
+        },
+        {
+          "Value": "Junk Box DJs"
+        },
+        {
+          "Value": "Elysium"
+        },
+        {
+          "Value": "Fatt Tuesday"
+        },
+        {
+          "Value": "Unresolved"
+        },
+        {
+          "Value": "Paige Howard"
+        },
+        {
+          "Value": "Remember Hillards"
+        },
+        {
+          "Value": "Ashes of Humanity"
+        },
+        {
+          "Value": "Shakers Blues Band"
+        }
+      ],
+      "Venue": "Marine Hall",
+      "Date": "\/Date(1310166000000+0100)\/",
+      "StartTime": "12:00",
+      "Price": "£5",
+      "MoreInfo": "Raising money for Yuto Rice.\r\n\r\nFor more info please visit www.charityconcert.co.uk\r\n\r\nEntry wrist bands will be sold on the day £5 each",
+      "GigTitle": "Yuto Fest",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306392515000+0100)\/",
+      "Edited": "\/Date(1306392515000+0100)\/"
+    },
+    {
+      "Id": "gig/99404",
+      "BandNames": [
+        {
+          "Value": "Rupert Fabulous"
+        }
+      ],
+      "Venue": "The Royal Oak",
+      "Date": "\/Date(1312585200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311709375000+0100)\/",
+      "Edited": "\/Date(1311709375000+0100)\/"
+    },
+    {
+      "Id": "gig/109570",
+      "BandNames": [
+        {
+          "Value": "Rupert Fabulous"
+        }
+      ],
+      "Venue": "Stanley Park",
+      "Date": "\/Date(1313881200000+0100)\/",
+      "StartTime": "14:00",
+      "Price": "free",
+      "MoreInfo": "Playing at the bandstand today!",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1313931997000+0100)\/",
+      "Edited": "\/Date(1313931997000+0100)\/"
+    },
+    {
+      "Id": "gig/99375",
+      "BandNames": [
+        {
+          "Value": "Rupert Fabulous"
+        }
+      ],
+      "Venue": "The Venue",
+      "Date": "\/Date(1314313200000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311708395000+0100)\/",
+      "Edited": "\/Date(1311708395000+0100)\/"
+    },
+    {
+      "Id": "gig/116778",
+      "BandNames": [
+        {
+          "Value": "Rupert Fabulous"
+        }
+      ],
+      "Venue": "The Venue",
+      "Date": "\/Date(1316818800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315140617000+0100)\/",
+      "Edited": "\/Date(1315140617000+0100)\/"
+    },
+    {
+      "Id": "gig/131073",
+      "BandNames": [
+        {
+          "Value": "Rupert Fabulous"
+        }
+      ],
+      "Venue": "Carleton Bowling and Social Club",
+      "Date": "\/Date(1317423600000+0100)\/",
+      "StartTime": "20:30",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1317030290000+0100)\/",
+      "Edited": "\/Date(1317030290000+0100)\/"
+    },
+    {
+      "Id": "gig/118785",
+      "BandNames": [
+        {
+          "Value": "Rupert Fabulous"
+        }
+      ],
+      "Venue": "The Royal Oak",
+      "Date": "\/Date(1318028400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315155081000+0100)\/",
+      "Edited": "\/Date(1315155081000+0100)\/"
+    },
+    {
+      "Id": "gig/118786",
+      "BandNames": [
+        {
+          "Value": "Rupert Fabulous"
+        }
+      ],
+      "Venue": "The Venue",
+      "Date": "\/Date(1319238000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315155100000+0100)\/",
+      "Edited": "\/Date(1315155100000+0100)\/"
+    },
+    {
+      "Id": "gig/118787",
+      "BandNames": [
+        {
+          "Value": "Rupert Fabulous"
+        }
+      ],
+      "Venue": "Belle View",
+      "Date": "\/Date(1319842800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": "Halloween Spectacle",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315155119000+0100)\/",
+      "Edited": "\/Date(1315155119000+0100)\/"
+    },
+    {
+      "Id": "gig/134163",
+      "BandNames": [
+        {
+          "Value": "Rupert Fabulous"
+        }
+      ],
+      "Venue": "The Venue",
+      "Date": "\/Date(1326412800000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326569273000+0000)\/",
+      "Edited": "\/Date(1326569273000+0000)\/"
+    },
+    {
+      "Id": "gig/134164",
+      "BandNames": [
+        {
+          "Value": "Rupert Fabulous"
+        }
+      ],
+      "Venue": "Carleton Bowling and Social Club",
+      "Date": "\/Date(1327104000000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326569318000+0000)\/",
+      "Edited": "\/Date(1326569318000+0000)\/"
+    },
+    {
+      "Id": "gig/140314",
+      "BandNames": [
+        {
+          "Value": "Rupert Fabulous"
+        }
+      ],
+      "Venue": "The Venue",
+      "Date": "\/Date(1330128000000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327835924000+0000)\/",
+      "Edited": "\/Date(1327835924000+0000)\/"
+    }
+  ]
+}

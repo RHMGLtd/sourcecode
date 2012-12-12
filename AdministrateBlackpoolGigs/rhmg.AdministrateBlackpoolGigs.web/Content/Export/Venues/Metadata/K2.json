@@ -1,0 +1,24 @@
+{
+  "Id": "metadata/20489",
+  "VenueName": "K2",
+  "MainImageName": "K2.jpg",
+  "BarAndClubReviewsUrl": "",
+  "ContactDetail": {
+    "MainPhoneNumber": null,
+    "SecondaryPhoneNumbers": [
+      "07729302162"
+    ],
+    "AddressLines": [
+      "115 Church Street",
+      "Blackpool"
+    ],
+    "Website": "",
+    "EmailAddress": null,
+    "PostCode": "FY1 1HZ",
+    "ContactName": "Mat Black"
+  },
+  "MapCoords": {
+    "Lat": "53.817851",
+    "Long": "-3.049892"
+  }
+}

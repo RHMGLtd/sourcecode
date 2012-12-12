@@ -1,0 +1,116 @@
+{
+  "IsNull": false,
+  "Venue": "The Royal Venue",
+  "Gigs": [
+    {
+      "Id": "gig/140291",
+      "BandNames": [
+        {
+          "Value": "Glitterballs"
+        }
+      ],
+      "Venue": "The Royal Venue",
+      "Date": "\/Date(1336690800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327834086000+0000)\/",
+      "Edited": "\/Date(1327834086000+0000)\/"
+    },
+    {
+      "Id": "gig/140296",
+      "BandNames": [
+        {
+          "Value": "Glitterballs"
+        }
+      ],
+      "Venue": "The Royal Venue",
+      "Date": "\/Date(1344639600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327834325000+0000)\/",
+      "Edited": "\/Date(1327834325000+0000)\/"
+    },
+    {
+      "Id": "gig/140299",
+      "BandNames": [
+        {
+          "Value": "Glitterballs"
+        }
+      ],
+      "Venue": "The Royal Venue",
+      "Date": "\/Date(1356307200000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327834499000+0000)\/",
+      "Edited": "\/Date(1327834499000+0000)\/"
+    }
+  ],
+  "Future": [
+    {
+      "Id": "gig/140291",
+      "BandNames": [
+        {
+          "Value": "Glitterballs"
+        }
+      ],
+      "Venue": "The Royal Venue",
+      "Date": "\/Date(1336690800000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327834086000+0000)\/",
+      "Edited": "\/Date(1327834086000+0000)\/"
+    },
+    {
+      "Id": "gig/140296",
+      "BandNames": [
+        {
+          "Value": "Glitterballs"
+        }
+      ],
+      "Venue": "The Royal Venue",
+      "Date": "\/Date(1344639600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327834325000+0000)\/",
+      "Edited": "\/Date(1327834325000+0000)\/"
+    },
+    {
+      "Id": "gig/140299",
+      "BandNames": [
+        {
+          "Value": "Glitterballs"
+        }
+      ],
+      "Venue": "The Royal Venue",
+      "Date": "\/Date(1356307200000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1327834499000+0000)\/",
+      "Edited": "\/Date(1327834499000+0000)\/"
+    }
+  ]
+}

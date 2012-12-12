@@ -13,6 +13,7 @@
     <RootNamespace>rhmg.StudioDiary.InternalWeb</RootNamespace>
     <AssemblyName>rhmg.StudioDiary.InternalWeb</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <UseIISExpress>false</UseIISExpress>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -39,6 +40,12 @@
       <HintPath>..\packages\Castle.Windsor.3.1.0\lib\net40\Castle.Windsor.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Mono.Posix">
+      <HintPath>..\packages\openfilesystem.1.0.0.61263243\lib\Mono.Posix.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenFileSystem">
+      <HintPath>..\packages\openfilesystem.1.0.0.61263243\lib\OpenFileSystem.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Core" />

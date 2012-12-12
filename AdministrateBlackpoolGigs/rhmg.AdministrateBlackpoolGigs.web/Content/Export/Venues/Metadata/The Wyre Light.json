@@ -1,0 +1,22 @@
+{
+  "Id": "metadata/11271",
+  "VenueName": "The Wyre Light",
+  "MainImageName": "The Wyre Light.jpg",
+  "BarAndClubReviewsUrl": "",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 877777",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "20 London Street",
+      "Fleetwood"
+    ],
+    "Website": "",
+    "EmailAddress": null,
+    "PostCode": "FY7 6JE",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.92178",
+    "Long": "-3.011541"
+  }
+}

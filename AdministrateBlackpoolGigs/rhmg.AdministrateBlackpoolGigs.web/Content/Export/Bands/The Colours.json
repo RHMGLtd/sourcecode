@@ -1,0 +1,301 @@
+{
+  "BandName": {
+    "Value": "The Colours"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/3",
+      "BandNames": [
+        {
+          "Value": "Carpe Diem"
+        },
+        {
+          "Value": "Driven Overboard"
+        },
+        {
+          "Value": "Mitford Rebel"
+        },
+        {
+          "Value": "Dirty Daggers"
+        },
+        {
+          "Value": "Kinchinlay"
+        },
+        {
+          "Value": "The Privileged Few"
+        },
+        {
+          "Value": "Escort Knights"
+        },
+        {
+          "Value": "The Temps"
+        },
+        {
+          "Value": "The Colours"
+        },
+        {
+          "Value": "Go Ban Jo Wolski"
+        }
+      ],
+      "Venue": "The Blue Room",
+      "Date": "\/Date(1303513200000+0100)\/",
+      "StartTime": "19.30",
+      "Price": "£2",
+      "MoreInfo": "Later At The Blue Room is an mini indoor festival that runs over both the consecutive bank holiday weekends at the end of April at the Blue Room pub in Blackpool from Thursday 21st April to Sunday 24th April and Thursday 28th April to Sunday 1st May.\r\n\r\nThere will be 80 bands performing over both weekends with 10 acts performing each night, there will be performances from Goonies Never Say Die, The Senton Bombs, Escape Artist, Ides Of March, My Preserver, Idol Minds, Makers Of Venice, Northern Structure, Hammer No More The Fingers, The Colours, Metonia, Bill Orrick, The Drop-Out Wives and many more\r\n\r\nThe format of the event is set up in the same way the 'Later with Jools Holland' programme works, there are 2 stages set up in the venue, as soon as one band finishes at one end of the pub the next band starts at the other end, they even have a 'fake Jools' to compere the night.\r\n\r\nIt runs from 7pm until late every night and is only £2 to get in\r\nits all happening at The Blue Room, Church Street, Blackpool\r\nupdated listings can be found at www.facebook.com/theblueroomblackpool\r\nyou can follow us on twitter at www.twitter.com/blueroombpl",
+      "GigTitle": "Later At The Blue Room",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303686000000+0100)\/",
+      "Edited": "\/Date(1303686000000+0100)\/"
+    },
+    {
+      "Id": "gig/16389",
+      "BandNames": [
+        {
+          "Value": "OneFourThree"
+        },
+        {
+          "Value": "Jake Mulgrew"
+        },
+        {
+          "Value": "The Delerium"
+        },
+        {
+          "Value": "Solvent Free"
+        },
+        {
+          "Value": "Sour Sunrise"
+        },
+        {
+          "Value": "Lauren Hope"
+        },
+        {
+          "Value": "Daniel Chadwick"
+        },
+        {
+          "Value": "Rumour Of The Aces"
+        },
+        {
+          "Value": "Danny King"
+        },
+        {
+          "Value": "The Colours"
+        },
+        {
+          "Value": "Sam King"
+        },
+        {
+          "Value": "Finesse"
+        },
+        {
+          "Value": "Don't Start Fires"
+        },
+        {
+          "Value": "Phoenixx"
+        }
+      ],
+      "Venue": "The Cedar Tavern",
+      "Date": "\/Date(1306710000000+0100)\/",
+      "StartTime": "13.00",
+      "Price": "£3.00",
+      "MoreInfo": "'All Inclusive' gig (in aid of Phoenix Youth Theatre) Monday 30 May 2011 from 1.00pm onwards at The Cedar Tavern Blackpool Looking for something different to do on Bank Holiday Monday? Why not come along to the Cedar Tavern in Blackpool and give your support to some of our local young bands and artists as they fundraise for Phoenix Youth Theatre? The days events kick off at 1pm and bands such as OneFourThree, The Colours, Triple Threat, Solvent Free and others will be giving their time to perform. Entry to the event is just £3.00 (£3.50 on the door). Tickets can be purchased from the performing bands or direct from the venue. For further info, or if you have a band that would like to play, please contact Tina on 07891552480 or leave us a message. Look forward to seeing you all there! :D",
+      "GigTitle": "Phoenix Youth Theatre Gig",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1304118000000+0100)\/",
+      "Edited": "\/Date(1310494048000+0100)\/"
+    },
+    {
+      "Id": "gig/40964",
+      "BandNames": [
+        {
+          "Value": "The Blue Pig Orchestra"
+        },
+        {
+          "Value": "Ska Face"
+        },
+        {
+          "Value": "Happy Daize"
+        },
+        {
+          "Value": "The Jeps"
+        },
+        {
+          "Value": "Rupert Fabulous"
+        },
+        {
+          "Value": "The Versions"
+        },
+        {
+          "Value": "Tony Mitchell"
+        },
+        {
+          "Value": "Triple Threat"
+        },
+        {
+          "Value": "Brother Rabbit"
+        },
+        {
+          "Value": "3rd Step"
+        },
+        {
+          "Value": "Fleetwood High School"
+        },
+        {
+          "Value": "Stephanie Fraser"
+        },
+        {
+          "Value": "Penny Black"
+        },
+        {
+          "Value": "Paul Huson & Ayshea Manning"
+        },
+        {
+          "Value": "The Colours"
+        },
+        {
+          "Value": "Poison Apple"
+        },
+        {
+          "Value": "Gatorville"
+        },
+        {
+          "Value": "Roxyrama"
+        },
+        {
+          "Value": "Hot Vestry"
+        },
+        {
+          "Value": "Framed at the Crime Scene"
+        },
+        {
+          "Value": "He Who Dares"
+        },
+        {
+          "Value": "The Underachievers"
+        },
+        {
+          "Value": "Forever Autumn"
+        },
+        {
+          "Value": "Junk Box DJs"
+        },
+        {
+          "Value": "Elysium"
+        },
+        {
+          "Value": "Fatt Tuesday"
+        },
+        {
+          "Value": "Unresolved"
+        },
+        {
+          "Value": "Paige Howard"
+        },
+        {
+          "Value": "Remember Hillards"
+        },
+        {
+          "Value": "Ashes of Humanity"
+        },
+        {
+          "Value": "Shakers Blues Band"
+        }
+      ],
+      "Venue": "Marine Hall",
+      "Date": "\/Date(1310166000000+0100)\/",
+      "StartTime": "12:00",
+      "Price": "£5",
+      "MoreInfo": "Raising money for Yuto Rice.\r\n\r\nFor more info please visit www.charityconcert.co.uk\r\n\r\nEntry wrist bands will be sold on the day £5 each",
+      "GigTitle": "Yuto Fest",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306392515000+0100)\/",
+      "Edited": "\/Date(1306392515000+0100)\/"
+    },
+    {
+      "Id": "gig/96257",
+      "BandNames": [
+        {
+          "Value": "Liam Bland"
+        },
+        {
+          "Value": "The Colours"
+        },
+        {
+          "Value": "Jekyll"
+        },
+        {
+          "Value": "Last Breath"
+        },
+        {
+          "Value": "The Original Zip"
+        },
+        {
+          "Value": "The Underachievers"
+        },
+        {
+          "Value": "DJ Moyma"
+        }
+      ],
+      "Venue": "Marine Hall",
+      "Date": "\/Date(1311375600000+0100)\/",
+      "StartTime": "19:00",
+      "Price": "£6.00",
+      "MoreInfo": null,
+      "GigTitle": "Battle of the Bands",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311271475000+0100)\/",
+      "Edited": "\/Date(1311272282000+0100)\/"
+    },
+    {
+      "Id": "gig/34825",
+      "BandNames": [
+        {
+          "Value": "The Colours"
+        },
+        {
+          "Value": "Mitford Rebel"
+        },
+        {
+          "Value": "Rockburn"
+        }
+      ],
+      "Venue": "The Blue Room",
+      "Date": "\/Date(1312585200000+0100)\/",
+      "StartTime": "20:30",
+      "Price": "£1.00",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1305654752000+0100)\/",
+      "Edited": "\/Date(1305655442000+0100)\/"
+    },
+    {
+      "Id": "gig/110597",
+      "BandNames": [
+        {
+          "Value": "The Colours"
+        },
+        {
+          "Value": "Bill Orrick"
+        },
+        {
+          "Value": "Sleeping With The Fishes"
+        }
+      ],
+      "Venue": "The Blue Room",
+      "Date": "\/Date(1319842800000+0100)\/",
+      "StartTime": "20:30",
+      "Price": "£1.00",
+      "MoreInfo": "THE COLOURS\r\nIndie/Dance from Blackpool\r\nhttp://www.facebook.com/pages/The-Colours/326694636484\r\n\r\nBILL ORRICK\r\nAtmospheric Acoustic Folky Rock Pop from Preston\r\nhttp://www.facebook.com/billorrickonline\r\n\r\nSLEEPING WITH THE FISHES\r\nIndie from Liverpool\r\nhttp://www.facebook.com/pages/Sleeping-With-The-Fishes/138136866269031",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1313933560000+0100)\/",
+      "Edited": "\/Date(1313933560000+0100)\/"
+    }
+  ]
+}

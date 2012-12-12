@@ -1,0 +1,44 @@
+{
+  "IsNull": false,
+  "Venue": "Seasiders Bar",
+  "Gigs": [
+    {
+      "Id": "gig/133188",
+      "BandNames": [
+        {
+          "Value": "Ska Face"
+        }
+      ],
+      "Venue": "Seasiders Bar",
+      "Date": "\/Date(1337900400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "unknown",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326562962000+0000)\/",
+      "Edited": "\/Date(1326562962000+0000)\/"
+    }
+  ],
+  "Future": [
+    {
+      "Id": "gig/133188",
+      "BandNames": [
+        {
+          "Value": "Ska Face"
+        }
+      ],
+      "Venue": "Seasiders Bar",
+      "Date": "\/Date(1337900400000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "unknown",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326562962000+0000)\/",
+      "Edited": "\/Date(1326562962000+0000)\/"
+    }
+  ]
+}

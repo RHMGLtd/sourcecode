@@ -84,3 +84,30 @@ E:\laptop save\business websites\coolbunny\coolbunny.tests.common\bin\Debug\Snoo
 E:\laptop save\business websites\coolbunny\coolbunny.tests.common\obj\Debug\ResolveAssemblyReference.cache
 E:\laptop save\business websites\coolbunny\coolbunny.tests.common\obj\Debug\coolbunny.tests.common.dll
 E:\laptop save\business websites\coolbunny\coolbunny.tests.common\obj\Debug\coolbunny.tests.common.pdb
+C:\_src\sourcecode\coolbunny\coolbunny.tests.common\bin\Debug\coolbunny.tests.common.dll
+C:\_src\sourcecode\coolbunny\coolbunny.tests.common\bin\Debug\coolbunny.tests.common.pdb
+C:\_src\sourcecode\coolbunny\coolbunny.tests.common\bin\Debug\coolbunny.common.dll
+C:\_src\sourcecode\coolbunny\coolbunny.tests.common\bin\Debug\Mono.Posix.dll
+C:\_src\sourcecode\coolbunny\coolbunny.tests.common\bin\Debug\StructureMap.dll
+C:\_src\sourcecode\coolbunny\coolbunny.tests.common\bin\Debug\coolbunny.common.pdb
+C:\_src\sourcecode\coolbunny\coolbunny.tests.common\bin\Debug\Castle.Core.pdb
+C:\_src\sourcecode\coolbunny\coolbunny.tests.common\bin\Debug\Castle.Core.xml
+C:\_src\sourcecode\coolbunny\coolbunny.tests.common\bin\Debug\Castle.Windsor.pdb
+C:\_src\sourcecode\coolbunny\coolbunny.tests.common\bin\Debug\Castle.Windsor.xml
+C:\_src\sourcecode\coolbunny\coolbunny.tests.common\bin\Debug\Castle.Windsor.Lifestyles.pdb
+C:\_src\sourcecode\coolbunny\coolbunny.tests.common\bin\Debug\log4net.xml
+C:\_src\sourcecode\coolbunny\coolbunny.tests.common\bin\Debug\Machine.Specifications.pdb
+C:\_src\sourcecode\coolbunny\coolbunny.tests.common\bin\Debug\Moq.pdb
+C:\_src\sourcecode\coolbunny\coolbunny.tests.common\bin\Debug\Moq.xml
+C:\_src\sourcecode\coolbunny\coolbunny.tests.common\bin\Debug\MvcContrib.pdb
+C:\_src\sourcecode\coolbunny\coolbunny.tests.common\bin\Debug\MvcContrib.xml
+C:\_src\sourcecode\coolbunny\coolbunny.tests.common\bin\Debug\MvcContrib.Castle.pdb
+C:\_src\sourcecode\coolbunny\coolbunny.tests.common\bin\Debug\MvcContrib.Castle.xml
+C:\_src\sourcecode\coolbunny\coolbunny.tests.common\bin\Debug\MvcContrib.TestHelper.pdb
+C:\_src\sourcecode\coolbunny\coolbunny.tests.common\bin\Debug\MvcContrib.TestHelper.xml
+C:\_src\sourcecode\coolbunny\coolbunny.tests.common\bin\Debug\OpenFileSystem.pdb
+C:\_src\sourcecode\coolbunny\coolbunny.tests.common\bin\Debug\Rhino.Mocks.xml
+C:\_src\sourcecode\coolbunny\coolbunny.tests.common\bin\Debug\Snooze.pdb
+C:\_src\sourcecode\coolbunny\coolbunny.tests.common\obj\Debug\ResolveAssemblyReference.cache
+C:\_src\sourcecode\coolbunny\coolbunny.tests.common\obj\Debug\coolbunny.tests.common.dll
+C:\_src\sourcecode\coolbunny\coolbunny.tests.common\obj\Debug\coolbunny.tests.common.pdb

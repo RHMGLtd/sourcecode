@@ -1,0 +1,31 @@
+{
+  "BandName": {
+    "Value": "The Blame"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/2057",
+      "BandNames": [
+        {
+          "Value": "Church of Confidence"
+        },
+        {
+          "Value": "Sedated"
+        },
+        {
+          "Value": "The Blame"
+        }
+      ],
+      "Venue": "Beat",
+      "Date": "\/Date(1312671600000+0100)\/",
+      "StartTime": "23:00",
+      "Price": "unknown",
+      "MoreInfo": null,
+      "GigTitle": "Rebellion Festival After Show Party",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1304031600000+0100)\/",
+      "Edited": "\/Date(1307098857000+0100)\/"
+    }
+  ]
+}

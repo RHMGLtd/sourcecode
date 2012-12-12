@@ -1,0 +1,61 @@
+{
+  "BandName": {
+    "Value": "Catdog"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/99366",
+      "BandNames": [
+        {
+          "Value": "Catdog"
+        }
+      ],
+      "Venue": "The King Edward",
+      "Date": "\/Date(1313103600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311708221000+0100)\/",
+      "Edited": "\/Date(1311708221000+0100)\/"
+    },
+    {
+      "Id": "gig/8208",
+      "BandNames": [
+        {
+          "Value": "Catdog"
+        }
+      ],
+      "Venue": "The Royal Oak",
+      "Date": "\/Date(1318633200000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "Free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1303686000000+0100)\/",
+      "Edited": "\/Date(1326559031000+0000)\/"
+    },
+    {
+      "Id": "gig/134183",
+      "BandNames": [
+        {
+          "Value": "Catdog"
+        }
+      ],
+      "Venue": "Belle View",
+      "Date": "\/Date(1327708800000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326570154000+0000)\/",
+      "Edited": "\/Date(1326570154000+0000)\/"
+    }
+  ]
+}

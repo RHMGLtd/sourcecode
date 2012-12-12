@@ -1,0 +1,72 @@
+<viewdata model="ManageViewModel model" />
+<content name="title">
+  Administrate Blackpool Gigs : Manage Gig Metadata
+</content>
+<content name="scripts">
+  <script src="~/Content/Scripts/common.js" type="text/javascript"></script>
+  <script src="~/Content/Scripts/jquery.tmpl.js" type="text/javascript"></script>
+  <script src="~/Content/Scripts/jquery.validate.min.js" type="text/javascript"></script>
+  <script src="~/Content/Scripts/knockout.js" type="text/javascript"></script>
+  <script src="~/Content/Scripts/jquery-ui-1.8.7.custom.min.js" type="text/javascript"></script>
+  <script src="~/Content/Scripts/manage.js" type="text/javascript"></script>
+  <script src="~/Content/Scripts/checkDate.js" type="text/javascript"></script>
+  <script type="text/javascript">
+    dateCheckModel = !{new JavaScriptSerializer().Serialize(new DateCheckModel())};
+
+    $(document).ready(function () {
+    checkDate();
+    $('.Date').datepicker(
+      {
+        onClose: function (dateText, inst) { $('.Date').val(dateText) },
+        dateFormat: 'dd-M-yy'
+      });
+    });
+  </script>
+</content>
+<content name="body">
+  <div>
+    <a href="!{new HomeUrl()}">HOME</a> :: <a href="!{new ListUrl()}">LIST</a>
+    <hr />
+    <form method="post">
+      <input type="HIDDEN" name="Id" value="!{model.Id}" />
+      <input type="HIDDEN" name="Source" value="manually input by rhmg" />
+      <input type="HIDDEN" name="Created" value="!{model.Created}" />
+      <input type="HIDDEN" name="Edited" value="!{DateTime.Now}" />
+      <div>
+        Date :: <input id="Date" type="text" class="Date input" name="Date" value="!{model.SafeDateString()}"  minlength="2"/>
+        <a href="javascript:void(0)" onclick="checkDate();">Check Date</a>
+      </div>
+      <div id="Bands">
+        <div each ="var band in model.BandNames">
+          Band Name :: <input id="BandName" type="text" name="BandNames" value="!{band}" class="input" minlength="2"/>
+          :: <button onclick="remove(this); return false;">remove</button> :: <span>we don't need to put start times on for each band</span>
+        </div>
+      </div>
+      <button id="AddBand">add band to this gig</button>
+      <div>
+        Venue :: <input id="Venue" type="text" name="Venue" value="!{model.Venue}" class="input" minlength="2"/> :: <span>type ahead kicks in after 2 characters. If you have to qualify a pub name with the town, use a comma eg The Royal Oak, Blackpool</span>
+      </div>
+      <div>
+        Start Time :: <input id="StartTime" type="text" name="StartTime" value="!{model.StartTime}" class="input" minlength="2"/>  :: <span>this should be in 24hr clock eg 18:00</span>
+      </div>
+      <div>
+        Price :: <input id="Price" type="text" name="Price" value="!{model.Price}" class="input" minlength="2"/>  :: <span>either "free", "unknown" or include the £ sign eg £3.00</span>
+      </div>
+      <hr />
+      <div>
+        Gig Title :: <input id="GigTitle" type="text" name="GigTitle" value="!{model.GigTitle}" class="input" minlength="2"/>
+      </div>
+      <div>
+        Additional Info :: <textarea id="MoreInfo" type="text" name="MoreInfo" class="input" rows="5" cols="60" >!{model.MoreInfo}</textarea>
+      </div>
+      <div>
+        Cancelled :: <input type="checkbox" Name="Cancelled" checked="?{model.Cancelled}" value="true" /> <input type="hidden" Name="Cancelled" value="false"></input>
+      </div>
+      <button type="submit">Save</button>
+    </form>
+  </div>
+  <hr />
+  <div class="checkResults" id="checkResults">
+
+  </div>
+</content>

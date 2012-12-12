@@ -1,0 +1,23 @@
+{
+  "Id": "metadata/20481",
+  "VenueName": "Ashley Conservative Club",
+  "MainImageName": "Ashley Conservative Club.jpg",
+  "BarAndClubReviewsUrl": "",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 854284",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "68 Victoria Road East",
+      "Thornton Cleveleys",
+      "Lancashire"
+    ],
+    "Website": "",
+    "EmailAddress": null,
+    "PostCode": "FY5 5HQ",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.871672",
+    "Long": "-3.007116"
+  }
+}

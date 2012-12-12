@@ -1,0 +1,118 @@
+{
+  "BandName": {
+    "Value": "Bill Orrick"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/1",
+      "BandNames": [
+        {
+          "Value": "Daniel Mahon"
+        },
+        {
+          "Value": "Lost In Last Week"
+        },
+        {
+          "Value": "Sky Valley Mistress"
+        },
+        {
+          "Value": "We Come In Pieces"
+        },
+        {
+          "Value": "Bill Orrick"
+        },
+        {
+          "Value": "Go Heeled"
+        },
+        {
+          "Value": "Dododeaddead"
+        },
+        {
+          "Value": "Goonies Never Say Die"
+        },
+        {
+          "Value": "Apache Viking"
+        },
+        {
+          "Value": "The Senton Bombs"
+        }
+      ],
+      "Venue": "The Blue Room",
+      "Date": "\/Date(1303340400000+0100)\/",
+      "StartTime": "19.30",
+      "Price": "£2",
+      "MoreInfo": "Later At The Blue Room is an mini indoor festival that runs over both the consecutive bank holiday weekends at the end of April at the Blue Room pub in Blackpool from Thursday 21st April to Sunday 24th April and Thursday 28th April to Sunday 1st May.\r\n\r\nThere will be 80 bands performing over both weekends with 10 acts performing each night, there will be performances from Goonies Never Say Die, The Senton Bombs, Escape Artist, Ides Of March, My Preserver, Idol Minds, Makers Of Venice, Northern Structure, Hammer No More The Fingers, The Colours, Metonia, Bill Orrick, The Drop-Out Wives and many more\r\n\r\nThe format of the event is set up in the same way the 'Later with Jools Holland' programme works, there are 2 stages set up in the venue, as soon as one band finishes at one end of the pub the next band starts at the other end, they even have a 'fake Jools' to compere the night.\r\n\r\nIt runs from 7pm until late every night and is only £2 to get in\r\nits all happening at The Blue Room, Church Street, Blackpool\r\nupdated listings can be found at www.facebook.com/theblueroomblackpool\r\nyou can follow us on twitter at www.twitter.com/blueroombpl",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1304118000000+0100)\/",
+      "Edited": "\/Date(1314445768000+0100)\/"
+    },
+    {
+      "Id": "gig/32769",
+      "BandNames": [
+        {
+          "Value": "Neocoma"
+        },
+        {
+          "Value": "Kraul"
+        },
+        {
+          "Value": "Bill Orrick"
+        }
+      ],
+      "Venue": "The Blue Room",
+      "Date": "\/Date(1311375600000+0100)\/",
+      "StartTime": "20:30",
+      "Price": "£1.00",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1305543509000+0100)\/",
+      "Edited": "\/Date(1308247827000+0100)\/"
+    },
+    {
+      "Id": "gig/126977",
+      "BandNames": [
+        {
+          "Value": "Bill Orrick"
+        }
+      ],
+      "Venue": "Bierkeller",
+      "Date": "\/Date(1316646000000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": "BLACKPOOL THIS THURSDAY NIGHT - I'm playing at The Bierkeller. It's a very nice place to be, it has good sound and it has steins",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1316503907000+0100)\/",
+      "Edited": "\/Date(1316503908000+0100)\/"
+    },
+    {
+      "Id": "gig/110597",
+      "BandNames": [
+        {
+          "Value": "The Colours"
+        },
+        {
+          "Value": "Bill Orrick"
+        },
+        {
+          "Value": "Sleeping With The Fishes"
+        }
+      ],
+      "Venue": "The Blue Room",
+      "Date": "\/Date(1319842800000+0100)\/",
+      "StartTime": "20:30",
+      "Price": "£1.00",
+      "MoreInfo": "THE COLOURS\r\nIndie/Dance from Blackpool\r\nhttp://www.facebook.com/pages/The-Colours/326694636484\r\n\r\nBILL ORRICK\r\nAtmospheric Acoustic Folky Rock Pop from Preston\r\nhttp://www.facebook.com/billorrickonline\r\n\r\nSLEEPING WITH THE FISHES\r\nIndie from Liverpool\r\nhttp://www.facebook.com/pages/Sleeping-With-The-Fishes/138136866269031",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1313933560000+0100)\/",
+      "Edited": "\/Date(1313933560000+0100)\/"
+    }
+  ]
+}

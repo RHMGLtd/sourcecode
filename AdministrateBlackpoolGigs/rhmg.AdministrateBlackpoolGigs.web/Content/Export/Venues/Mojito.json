@@ -1,0 +1,97 @@
+{
+  "IsNull": false,
+  "Venue": "Mojito",
+  "Gigs": [
+    {
+      "Id": "gig/39950",
+      "BandNames": [
+        {
+          "Value": "Charlese"
+        }
+      ],
+      "Venue": "Mojito",
+      "Date": "\/Date(1307574000000+0100)\/",
+      "StartTime": "20:30",
+      "Price": "Free",
+      "MoreInfo": "https://www.facebook.com/CharleseMusic?sk=events",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306335342000+0100)\/",
+      "Edited": "\/Date(1306335342000+0100)\/"
+    },
+    {
+      "Id": "gig/39951",
+      "BandNames": [
+        {
+          "Value": "Charlese"
+        }
+      ],
+      "Venue": "Mojito",
+      "Date": "\/Date(1308783600000+0100)\/",
+      "StartTime": "20:30",
+      "Price": "Free",
+      "MoreInfo": "https://www.facebook.com/CharleseMusic?sk=events",
+      "GigTitle": "Charlese Live!",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306335650000+0100)\/",
+      "Edited": "\/Date(1306393745000+0100)\/"
+    },
+    {
+      "Id": "gig/39952",
+      "BandNames": [
+        {
+          "Value": "Charlese"
+        }
+      ],
+      "Venue": "Mojito",
+      "Date": "\/Date(1309993200000+0100)\/",
+      "StartTime": "20:30",
+      "Price": "Free",
+      "MoreInfo": "https://www.facebook.com/CharleseMusic?sk=events",
+      "GigTitle": "Charlese Live!",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306335695000+0100)\/",
+      "Edited": "\/Date(1306335695000+0100)\/"
+    },
+    {
+      "Id": "gig/39953",
+      "BandNames": [
+        {
+          "Value": "Charlese"
+        }
+      ],
+      "Venue": "Mojito",
+      "Date": "\/Date(1311202800000+0100)\/",
+      "StartTime": "20:30",
+      "Price": "Free",
+      "MoreInfo": "https://www.facebook.com/CharleseMusic?sk=events",
+      "GigTitle": "Charlese Live!",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306335729000+0100)\/",
+      "Edited": "\/Date(1306335729000+0100)\/"
+    },
+    {
+      "Id": "gig/119809",
+      "BandNames": [
+        {
+          "Value": "Charlese"
+        }
+      ],
+      "Venue": "Mojito",
+      "Date": "\/Date(1316646000000+0100)\/",
+      "StartTime": "20:30",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": "JEFJAM",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315290784000+0100)\/",
+      "Edited": "\/Date(1315290785000+0100)\/"
+    }
+  ],
+  "Future": []
+}

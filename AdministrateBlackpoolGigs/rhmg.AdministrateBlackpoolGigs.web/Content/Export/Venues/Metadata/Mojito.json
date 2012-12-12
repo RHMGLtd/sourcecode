@@ -1,0 +1,23 @@
+{
+  "Id": "metadata/11268",
+  "VenueName": "Mojito",
+  "MainImageName": null,
+  "BarAndClubReviewsUrl": "",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 795890",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "Portofino Restaurant & Mojito Bar and Tapas",
+      "Henry Street",
+      "Lytham St Annes"
+    ],
+    "Website": "",
+    "EmailAddress": null,
+    "PostCode": "FY8 5LE",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.736477",
+    "Long": "-2.964184"
+  }
+}

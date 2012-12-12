@@ -1,0 +1,90 @@
+<viewdata model="RepeatingGigViewModel model" />
+<content name="title">
+  Administrate Blackpool Gigs : Manage Repeating Gig Metadata
+</content>
+<content name="scripts">
+  <script src="~/Content/Scripts/common.js" type="text/javascript"></script>
+  <script src="~/Content/Scripts/jquery.tmpl.js" type="text/javascript"></script>
+  <script src="~/Content/Scripts/jquery.validate.min.js" type="text/javascript"></script>
+  <script src="~/Content/Scripts/knockout.js" type="text/javascript"></script>
+  <script src="~/Content/Scripts/jquery-ui-1.8.7.custom.min.js" type="text/javascript"></script>
+  <script src="~/Content/Scripts/repeatinggig.js" type="text/javascript"></script>
+  <script type="text/javascript">
+    $(document).ready(function () {
+    $('#SequenceStartFrom').datepicker(
+    {
+    onClose: function (dateText, inst) { $('.SequenceStartFrom').val(dateText) },
+    dateFormat: 'dd-M-yy'
+    });
+    $('#SequenceEndOn').datepicker(
+    {
+    onClose: function (dateText, inst) { $('.SequenceEndOn').val(dateText) },
+    dateFormat: 'dd-M-yy'
+    });
+    });
+  </script>
+</content>
+<content name="body">
+  <div>
+    <a href="!{new HomeUrl()}">HOME</a> :: <a href="!{new RepeatingGigsUrl()}">LIST</a>
+    <hr />
+    <form method="post">
+      <input type="HIDDEN" name="Id" value="!{model.Id}" />
+      <input type="HIDDEN" name="Source" value="manually input by rhmg" />
+      <input type="HIDDEN" name="Created" value="!{model.Created}" />
+      <input type="HIDDEN" name="Edited" value="!{DateTime.Now}" />
+      <div>
+        Date Sequence Starts From :: <input id="SequenceStartFrom" type="text" class="Date input" name="SequenceStartFrom" value="!{model.SequenceStartFrom.SafeDate()}"  minlength="2"/>
+      </div>
+      <div>
+        Date Sequence Ends From :: <input id="SequenceEndOn" type="text" class="Date input" name="SequenceEndOn" value="!{model.SequenceEndOn.SafeDate()}"  minlength="2"/> (optional)
+      </div>
+      <div>
+        Mondays :: <input type="checkbox" Name="Mondays" checked="?{model.Mondays}" value="true" /> <input type="hidden" Name="Mondays" value="false"></input>
+      </div> 
+      <div>
+        Tuesdays :: <input type="checkbox" Name="Tuesdays" checked="?{model.Tuesdays}"  value="true"/> <input type="hidden" Name="Tuesdays" value="false"></input>
+      </div>
+      <div>
+        Wednesdays :: <input type="checkbox" Name="Wednesdays" checked="?{model.Wednesdays}"  value="true"/> <input type="hidden" Name="Wednesdays" value="false"></input>
+      </div>
+      <div>
+        Thursdays :: <input type="checkbox" Name="Thursdays" checked="?{model.Thursdays}"  value="true"/> <input type="hidden" Name="Thursdays" value="false"></input>
+      </div>
+      <div>
+        Fridays :: <input type="checkbox" Name="Fridays" checked="?{model.Fridays}"  value="true"/> <input type="hidden" Name="Fridays" value="false"></input>
+      </div>
+      <div>
+        Saturdays :: <input type="checkbox" Name="Saturdays" checked="?{model.Saturdays}"  value="true"/> <input type="hidden" Name="Saturdays" value="false"></input>
+      </div>
+      <div>
+        Sundays :: <input type="checkbox" Name="Sundays" checked="?{model.Sundays}"  value="true"/> <input type="hidden" Name="Sundays" value="false"></input>
+      </div>
+      <hr />
+      <div id="Bands">
+        <div each ="var band in model.BandNames">
+          Band Name :: <input id="BandName" type="text" name="BandNames" value="!{band}" class="input" minlength="2"/>
+          :: <button onclick="remove(this); return false;">remove</button> :: <span>we don't need to put start times on for each band</span>
+        </div>
+      </div>
+      <button id="AddBand">add band to this gig</button>
+      <div>
+        Venue :: <input id="Venue" type="text" name="Venue" value="!{model.Venue}" class="input" minlength="2"/> :: <span>type ahead kicks in after 2 characters. If you have to qualify a pub name with the town, use a comma eg The Royal Oak, Blackpool</span>
+      </div>
+      <div>
+        Start Time :: <input id="StartTime" type="text" name="StartTime" value="!{model.StartTime}" class="input" minlength="2"/>  :: <span>this should be in 24hr clock eg 18:00</span>
+      </div>
+      <div>
+        Price :: <input id="Price" type="text" name="Price" value="!{model.Price}" class="input" minlength="2"/>  :: <span>either "free", "unknown" or include the £ sign eg £3.00</span>
+      </div>
+      <hr />
+      <div>
+        Gig Title :: <input id="GigTitle" type="text" name="GigTitle" value="!{model.GigTitle}" class="input" minlength="2"/>
+      </div>
+      <div>
+        Additional Info :: <textarea id="MoreInfo" type="text" name="MoreInfo" class="input" rows="5" cols="60" >!{model.MoreInfo}</textarea>
+      </div>
+      <button type="submit">Save</button>
+    </form>
+  </div>
+</content>

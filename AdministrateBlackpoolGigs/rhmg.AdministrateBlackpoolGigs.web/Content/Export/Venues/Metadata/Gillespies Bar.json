@@ -1,0 +1,22 @@
+{
+  "Id": "metadata/8193",
+  "VenueName": "Gillespies Bar",
+  "MainImageName": "Gillespies Bar.jpg",
+  "BarAndClubReviewsUrl": "http://www.bar-and-club-reviews.com/bars/47587-Gillespies-Blackpool",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 627882",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "87 Topping Street",
+      "Blackpool"
+    ],
+    "Website": "",
+    "EmailAddress": "btribick01@yahoo.co.uk",
+    "PostCode": "FY1 3AX",
+    "ContactName": "Barry Tribick"
+  },
+  "MapCoords": {
+    "Lat": "53.818355",
+    "Long": "-3.049804"
+  }
+}

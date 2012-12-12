@@ -1,0 +1,39 @@
+{
+  "IsNull": false,
+  "Venue": "Yates",
+  "Gigs": [
+    {
+      "Id": "gig/92163",
+      "BandNames": [
+        {
+          "Value": "Spitfire"
+        }
+      ],
+      "Venue": "Yates",
+      "Date": "\/Date(1310684400000+0100)\/",
+      "StartTime": "19:30",
+      "Price": "free",
+      "MoreInfo": "We are couple 3 in Rock FM's Bride Wars - John & Nicola and WE NEED YOUR SUPPORT. Please join us for a great night!!!\r\n\r\nGet yourselves down to Yates, Southshore in Blackpool and help us raise as much money as we can for ROCK FM's Cash for Kids!!!\r\n\r\nIt will be a brilliant night with a local band Spitfire Live performing between 7.30pm - 9.30pm followed by Yates' Karaoke Competition. NOT TO BE MISSED!!\r\n\r\nPlease donate generously as this is for a great charity that supports sick and disadvantaged children across Lancashire.\r\n\r\nListen out for the event being publicised on Rock FM and drum up some support. Come down with your friends for a great night and be sure to join in the Karaoke and have a great laugh!!!",
+      "GigTitle": "Spitfire Live followed by Karaoke Competition",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1310456643000+0100)\/",
+      "Edited": "\/Date(1310456643000+0100)\/"
+    },
+    {
+      "Id": "gig/124929",
+      "BandNames": [],
+      "Venue": "Yates",
+      "Date": "\/Date(1316559600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "free",
+      "MoreInfo": "Open to all instruments and levels",
+      "GigTitle": "Songs By The Beach - Open Mic Night",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1316445163000+0100)\/",
+      "Edited": "\/Date(1316445232000+0100)\/"
+    }
+  ],
+  "Future": []
+}

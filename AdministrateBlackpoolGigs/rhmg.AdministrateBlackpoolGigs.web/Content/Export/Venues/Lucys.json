@@ -1,0 +1,25 @@
+{
+  "IsNull": false,
+  "Venue": "Lucys",
+  "Gigs": [
+    {
+      "Id": "gig/114689",
+      "BandNames": [
+        {
+          "Value": "Spitfire"
+        }
+      ],
+      "Venue": "Lucys",
+      "Date": "\/Date(1315609200000+0100)\/",
+      "StartTime": "16:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1314858209000+0100)\/",
+      "Edited": "\/Date(1314858210000+0100)\/"
+    }
+  ],
+  "Future": []
+}

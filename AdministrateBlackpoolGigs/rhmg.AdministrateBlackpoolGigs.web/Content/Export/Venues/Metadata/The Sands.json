@@ -1,0 +1,23 @@
+{
+  "Id": "metadata/2057",
+  "VenueName": "The Sands",
+  "MainImageName": "The Sands.jpg",
+  "BarAndClubReviewsUrl": "http://www.bar-and-club-reviews.com/bars/77470-the-sands",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 625262",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "Old Palace Discothèque",
+      "Palatine Buildings",
+      "Promenade"
+    ],
+    "Website": "http://www.the-sands-blackpool.co.uk/",
+    "EmailAddress": "events@the-sands.co.uk",
+    "PostCode": "FY1 4TQ",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.814817",
+    "Long": "-3.054993"
+  }
+}

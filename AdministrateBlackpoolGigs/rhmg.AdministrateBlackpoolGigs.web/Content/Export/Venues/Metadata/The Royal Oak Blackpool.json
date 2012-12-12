@@ -1,0 +1,23 @@
+{
+  "Id": "metadata/1",
+  "VenueName": "The Royal Oak, Blackpool",
+  "MainImageName": null,
+  "BarAndClubReviewsUrl": "",
+  "ContactDetail": {
+    "MainPhoneNumber": null,
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "322 Lytham Road",
+      "Blackpool",
+      "Lancashire"
+    ],
+    "Website": "",
+    "EmailAddress": null,
+    "PostCode": "FY1 6EY",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.745099",
+    "Long": "-3.050348"
+  }
+}

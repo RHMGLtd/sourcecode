@@ -18,7 +18,8 @@ namespace coolbunny.tests.common.Fakes
             return new FakeFile
                        {
                            Name = name,
-                           NameWithoutExtension = name.Split('.')[0]
+                           NameWithoutExtension = name.Split('.')[0],
+                           LastModifiedTimeUtc = DateTime.Today
                        };
         }
 

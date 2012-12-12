@@ -1,0 +1,22 @@
+{
+  "Id": "metadata/20497",
+  "VenueName": "Silantro",
+  "MainImageName": "Silantro.jpg",
+  "BarAndClubReviewsUrl": "",
+  "ContactDetail": {
+    "MainPhoneNumber": "07950 644572",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "2a Wood Street",
+      "St. Annes-On-Sea"
+    ],
+    "Website": "http://silantro.co.uk/",
+    "EmailAddress": null,
+    "PostCode": "FY8 1QS",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.751654",
+    "Long": "-3.027881"
+  }
+}

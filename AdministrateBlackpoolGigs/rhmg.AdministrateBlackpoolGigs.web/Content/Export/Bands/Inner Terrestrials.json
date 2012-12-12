@@ -1,0 +1,34 @@
+{
+  "BandName": {
+    "Value": "Inner Terrestrials"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/2053",
+      "BandNames": [
+        {
+          "Value": "Inner Terrestrials"
+        },
+        {
+          "Value": "Drongos for Europe"
+        },
+        {
+          "Value": "2 Sick Monkeys"
+        },
+        {
+          "Value": "Rasta4Eyes"
+        }
+      ],
+      "Venue": "Beat",
+      "Date": "\/Date(1312326000000+0100)\/",
+      "StartTime": "19:00",
+      "Price": "£5.00",
+      "MoreInfo": "Foot Loose Promo presents:\r\n\r\nREBELLION FESTIVAL WARM-UP SHOW!\r\nAs usual, we're doing our annual warm-up to Rebellion the day before Rebellion in Blackpool for everyone who travels up early.\r\nThis year so far we have confirmed:\r\n\r\nINNER TERRESTRIALS\r\nAll the way from Devon(/London), perhaps the best dub-punk band this country has ever seen. Singer Jay plays in Suicide Bid.\r\n\r\nDRONGOS FOR EUROPE\r\nNeed no introduction, legends in their own right.\r\n\r\n2 SICK MONKEYS\r\nOne bass player and one drummer never sounded so good. Comical punk duo who tour so hard they are one of the hardest working bands in the UK\r\n\r\nRASTA4EYES\r\nSt. Helens based ska band on Do The Dog Records\r\n\r\n+more TBC",
+      "GigTitle": "Rebellion Festival Warm-up Party",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1304290800000+0100)\/",
+      "Edited": "\/Date(1304290800000+0100)\/"
+    }
+  ]
+}

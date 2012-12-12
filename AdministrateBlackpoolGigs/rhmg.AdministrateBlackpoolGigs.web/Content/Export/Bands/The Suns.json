@@ -1,0 +1,25 @@
+{
+  "BandName": {
+    "Value": "The Suns"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/77849",
+      "BandNames": [
+        {
+          "Value": "The Suns"
+        }
+      ],
+      "Venue": "The Hop Inn",
+      "Date": "\/Date(1310079600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "unknown",
+      "MoreInfo": "\"The Suns\" are signed to Plain Sound Records.",
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1308852734000+0100)\/",
+      "Edited": "\/Date(1308852734000+0100)\/"
+    }
+  ]
+}

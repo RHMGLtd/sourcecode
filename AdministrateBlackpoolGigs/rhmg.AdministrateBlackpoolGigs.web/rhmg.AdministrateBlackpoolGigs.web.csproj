@@ -1,0 +1,348 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5B1409B7-5690-468F-AED5-2D05A1C28152}</ProjectGuid>
+    <ProjectTypeGuids>{F85E285D-A4E0-4152-9332-AB1D724D3325};{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>rhmg.AdministrateBlackpoolGigs.web</RootNamespace>
+    <AssemblyName>rhmg.AdministrateBlackpoolGigs.web</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <MvcBuildViews>false</MvcBuildViews>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AutoMapper">
+      <HintPath>..\..\lib\auto_mapper\AutoMapper.dll</HintPath>
+    </Reference>
+    <Reference Include="Castle.Core">
+      <HintPath>..\..\lib\castle_windsor\Castle.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Castle.Windsor">
+      <HintPath>..\..\lib\castle_windsor\Castle.Windsor.dll</HintPath>
+    </Reference>
+    <Reference Include="Castle.Windsor.Lifestyles">
+      <HintPath>..\..\lib\castle_windsor\Castle.Windsor.Lifestyles.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Newtonsoft.Json, Version=4.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL" />
+    <Reference Include="Raven.Abstractions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=37f41c7f99471593, processorArchitecture=MSIL" />
+    <Reference Include="Raven.Json, Version=1.0.0.0, Culture=neutral, PublicKeyToken=37f41c7f99471593, processorArchitecture=MSIL" />
+    <Reference Include="Snooze">
+      <HintPath>..\..\lib\snooze\Snooze.dll</HintPath>
+    </Reference>
+    <Reference Include="Spark">
+      <HintPath>..\..\lib\spark\Spark.dll</HintPath>
+    </Reference>
+    <Reference Include="Spark.Web.Mvc">
+      <HintPath>..\..\lib\spark\Spark.Web.Mvc.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web.Mvc, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web.Abstractions" />
+    <Reference Include="System.Web.Routing" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Configuration\BaseConfig.cs" />
+    <Compile Include="Configuration\Development.cs" />
+    <Compile Include="Configuration\Live.cs" />
+    <Compile Include="Configuration\Local.cs" />
+    <Compile Include="Controllers\AdminPanelController.cs" />
+    <Compile Include="Controllers\BandController.cs" />
+    <Compile Include="Controllers\ExportController.cs" />
+    <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\LookupController.cs" />
+    <Compile Include="Controllers\ManageGigsController.cs" />
+    <Compile Include="Controllers\StolenGearController.cs" />
+    <Compile Include="Controllers\VenuesController.cs" />
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Models\DateCheckModel.cs" />
+    <Compile Include="Models\ViewModels\AddCreatedDatesViewModel.cs" />
+    <Compile Include="Models\ViewModels\AdminPanelViewModel.cs" />
+    <Compile Include="Models\ViewModels\BandsViewModel.cs" />
+    <Compile Include="Models\ViewModels\BandViewModel.cs" />
+    <Compile Include="Models\ViewModels\DataCleanseSpacesViewModel.cs" />
+    <Compile Include="Models\ViewModels\DateCheckViewModel.cs" />
+    <Compile Include="Models\ViewModels\ExportViewModel.cs" />
+    <Compile Include="Models\ViewModels\HomeViewModel.cs" />
+    <Compile Include="Models\ViewModels\ListContainerViewModel.cs" />
+    <Compile Include="Models\ViewModels\ListViewModel.cs" />
+    <Compile Include="Models\ViewModels\LookupViewModel.cs" />
+    <Compile Include="Models\ViewModels\ManageViewModel.cs" />
+    <Compile Include="Models\ViewModels\RepeatingGigsViewModel.cs" />
+    <Compile Include="Models\ViewModels\RepeatingGigViewModel.cs" />
+    <Compile Include="Models\ViewModels\VenuesViewModel.cs" />
+    <Compile Include="Models\ViewModels\VenueViewModel.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RouteRegistration.cs" />
+    <Compile Include="Services\AutoMapperConfiguration.cs" />
+    <Compile Include="Urls\AddCreatedDatesUrl.cs" />
+    <Compile Include="Urls\AddRepeatingGigUrl.cs" />
+    <Compile Include="Urls\AddStolenGearUrl.cs" />
+    <Compile Include="Urls\AddUrl.cs" />
+    <Compile Include="Urls\AdminPanelUrl.cs" />
+    <Compile Include="Urls\BandsUrl.cs" />
+    <Compile Include="Urls\BandUrl.cs" />
+    <Compile Include="Urls\CheckDateUrl.cs" />
+    <Compile Include="Urls\DataCleanseSpacesUrl.cs" />
+    <Compile Include="Urls\EditUrl.cs" />
+    <Compile Include="Urls\EditVenueUrl.cs" />
+    <Compile Include="Urls\ExportUrl.cs" />
+    <Compile Include="Urls\HomeUrl.cs" />
+    <Compile Include="Urls\ListUrl.cs" />
+    <Compile Include="Urls\LookupUrl.cs" />
+    <Compile Include="Urls\MetadataUrl.cs" />
+    <Compile Include="Urls\RepeatingGigsUrl.cs" />
+    <Compile Include="Urls\RepeatingGigUrl.cs" />
+    <Compile Include="Urls\StolenGearListUrl.cs" />
+    <Compile Include="Urls\StolenGearUrl.cs" />
+    <Compile Include="Urls\VenueMainImageUrl.cs" />
+    <Compile Include="Urls\VenuesUrl.cs" />
+    <Compile Include="WindsorControllerFactory.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Content\Images\Blackpool Gigs Logo - The place to find out about gigs in Blackpool Lancashire.png" />
+    <Content Include="Content\Images\icons\little-camera.png" />
+    <Content Include="Content\Images\icons\little-contact-person.png" />
+    <Content Include="Content\Images\icons\little-email.png" />
+    <Content Include="Content\Images\icons\little-house.png" />
+    <Content Include="Content\Images\icons\little-phone.png" />
+    <Content Include="Content\Images\icons\little-tick.png" />
+    <Content Include="Content\Images\icons\little-www.png" />
+    <Content Include="Content\Scripts\common.js" />
+    <Content Include="Content\Scripts\checkDate.js" />
+    <Content Include="Content\Scripts\band.js" />
+    <Content Include="Content\Scripts\stolengear.js" />
+    <Content Include="Content\Scripts\stolengearlist.js" />
+    <Content Include="Content\Scripts\repeatinggigs.js" />
+    <Content Include="Content\Scripts\repeatinggig.js" />
+    <Content Include="Content\Scripts\manage.js" />
+    <Content Include="Content\Scripts\venue.js" />
+    <Content Include="Content\Scripts\jquery-1.4.4.min.js" />
+    <Content Include="Content\Scripts\jquery-ui-1.8.7.custom.min.js" />
+    <Content Include="Content\Scripts\jquery.tmpl.js" />
+    <Content Include="Content\Scripts\jquery.validate.min.js" />
+    <Content Include="Content\Scripts\knockout.js" />
+    <Content Include="Content\Scripts\list.js" />
+    <Content Include="Content\styles\images\ui-bg_diagonals-thick_18_b81900_40x40.png" />
+    <Content Include="Content\styles\images\ui-bg_diagonals-thick_20_666666_40x40.png" />
+    <Content Include="Content\styles\images\ui-bg_flat_10_000000_40x100.png" />
+    <Content Include="Content\styles\images\ui-bg_glass_100_f6f6f6_1x400.png" />
+    <Content Include="Content\styles\images\ui-bg_glass_100_fdf5ce_1x400.png" />
+    <Content Include="Content\styles\images\ui-bg_glass_65_ffffff_1x400.png" />
+    <Content Include="Content\styles\images\ui-bg_gloss-wave_35_f6a828_500x100.png" />
+    <Content Include="Content\styles\images\ui-bg_highlight-soft_100_eeeeee_1x100.png" />
+    <Content Include="Content\styles\images\ui-bg_highlight-soft_75_ffe45c_1x100.png" />
+    <Content Include="Content\styles\images\ui-icons_222222_256x240.png" />
+    <Content Include="Content\styles\images\ui-icons_228ef1_256x240.png" />
+    <Content Include="Content\styles\images\ui-icons_ef8c08_256x240.png" />
+    <Content Include="Content\styles\images\ui-icons_ffd27a_256x240.png" />
+    <Content Include="Content\styles\images\ui-icons_ffffff_256x240.png" />
+    <Content Include="Content\styles\jquery-ui-1.8.6.custom.css" />
+    <Content Include="Content\styles\Screen.css" />
+    <Content Include="Content\yahoo stuff\dragdrop-min.js" />
+    <Content Include="Content\yahoo stuff\fonts-min.css" />
+    <Content Include="Content\yahoo stuff\slider-min.js" />
+    <Content Include="Content\yahoo stuff\slider.css" />
+    <Content Include="Content\yahoo stuff\yahoo-dom-event.js" />
+    <Content Include="Global.asax" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\Layouts\Application.spark" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\blackpoolgigs\blackpoolgigs.common\blackpoolgigs.common.csproj">
+      <Project>{6F03BB72-0E24-4AAD-980C-59E1AB04FECA}</Project>
+      <Name>blackpoolgigs.common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\blackpoolgigs\blackpoolgigs.dal\blackpoolgigs.ravendal.csproj">
+      <Project>{E164BB7D-41E8-4160-B5A3-8958AE8E7E0B}</Project>
+      <Name>blackpoolgigs.ravendal</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\coolbunny\coolbunny.common\coolbunny.common.csproj">
+      <Project>{E9309763-E4F0-448D-85CD-F8ABD7A53FAF}</Project>
+      <Name>coolbunny.common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\coolbunny\coolbunny.ravendal\coolbunny.ravendal.csproj">
+      <Project>{00AC31E6-8CE2-468B-8989-895EBD9ED836}</Project>
+      <Name>coolbunny.ravendal</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\blackpoolgigs.filedal\blackpoolgigs.filedal.csproj">
+      <Project>{42A895D9-DA47-41DA-9D8C-F7CA92BFE188}</Project>
+      <Name>blackpoolgigs.filedal</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\Home\home.spark">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\Shared\_global.spark">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Content\Export\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\Export\export.spark">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\ManageGigs\list.spark">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\ManageGigs\boolean.spark">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\Venues\venues.spark">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\Venues\venue.spark">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\ManageGigs\manage.spark">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\AdminPanel\adminpanel.spark">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\AdminPanel\addcreateddates.spark">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\AdminPanel\datacleansespaces.spark">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\ManageGigs\repeatinggig.spark">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\ManageGigs\repeatinggigs.spark">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\StolenGear\stolengearlist.spark">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\StolenGear\stolengear.spark">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\Band\bands.spark">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\Band\band.spark">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target> -->
+  <Target Name="AfterBuild" Condition="'$(MvcBuildViews)'=='true'">
+    <AspNetCompiler VirtualPath="temp" PhysicalPath="$(ProjectDir)" />
+  </Target>
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>4203</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

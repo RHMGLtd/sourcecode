@@ -1,0 +1,22 @@
+{
+  "Id": "metadata/16385",
+  "VenueName": "Fleetwood Rugby Club",
+  "MainImageName": null,
+  "BarAndClubReviewsUrl": "",
+  "ContactDetail": {
+    "MainPhoneNumber": null,
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "Melbourne Avenue",
+      "Fleetwood "
+    ],
+    "Website": "",
+    "EmailAddress": null,
+    "PostCode": "FY7 8AY ",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.904679",
+    "Long": "-3.035284"
+  }
+}

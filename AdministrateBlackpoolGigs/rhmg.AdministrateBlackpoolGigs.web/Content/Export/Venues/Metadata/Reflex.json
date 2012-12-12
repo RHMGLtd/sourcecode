@@ -1,0 +1,22 @@
+{
+  "Id": "metadata/20495",
+  "VenueName": "Reflex",
+  "MainImageName": "Reflex.jpg",
+  "BarAndClubReviewsUrl": "",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 622391",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "193-197 Promenade",
+      "Blackpool"
+    ],
+    "Website": "http://www.reflexbars.co.uk/reflexblackpool/",
+    "EmailAddress": null,
+    "PostCode": "FY1 5DL",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.808061",
+    "Long": "-3.055084"
+  }
+}

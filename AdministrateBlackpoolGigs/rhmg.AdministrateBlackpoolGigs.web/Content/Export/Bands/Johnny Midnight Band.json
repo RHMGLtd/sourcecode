@@ -1,0 +1,25 @@
+{
+  "BandName": {
+    "Value": "Johnny Midnight Band"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/99344",
+      "BandNames": [
+        {
+          "Value": "Johnny Midnight Band"
+        }
+      ],
+      "Venue": "The Hansom Cab",
+      "Date": "\/Date(1313103600000+0100)\/",
+      "StartTime": "20:00",
+      "Price": "unknown",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1311707700000+0100)\/",
+      "Edited": "\/Date(1311707700000+0100)\/"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "BandName": {
+    "Value": "Monkberry"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/32779",
+      "BandNames": [
+        {
+          "Value": "Monkberry"
+        }
+      ],
+      "Venue": "The North Euston",
+      "Date": "\/Date(1313794800000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1305544152000+0100)\/",
+      "Edited": "\/Date(1305544152000+0100)\/"
+    },
+    {
+      "Id": "gig/32792",
+      "BandNames": [
+        {
+          "Value": "Monkberry"
+        }
+      ],
+      "Venue": "The North Euston",
+      "Date": "\/Date(1323475200000+0000)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1305544770000+0100)\/",
+      "Edited": "\/Date(1305544770000+0100)\/"
+    }
+  ]
+}

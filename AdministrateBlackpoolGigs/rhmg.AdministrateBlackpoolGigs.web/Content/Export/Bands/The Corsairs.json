@@ -1,0 +1,52 @@
+{
+  "BandName": {
+    "Value": "The Corsairs"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/120834",
+      "BandNames": [
+        {
+          "Value": "Lune Deep"
+        },
+        {
+          "Value": "Hooker"
+        },
+        {
+          "Value": "The Corsairs"
+        }
+      ],
+      "Venue": "The Tank",
+      "Date": "\/Date(1315522800000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "\"2",
+      "MoreInfo": "LUNE DEEP, HOOKER, corsairs to name but a few bands.\r\nBut the young talent of LUNE DEEP, and the imfamous experience of HOOKER on the same BILL.. absolutely buzzzzzin!\r\n\r\nFriday 9th September\r\n9PM Start\r\n\r\n£2 on the door for Baggy's family's charity/ Cancer research!\r\n\r\nR.I.P Graham\r\nGonna be a night to remember! ♥",
+      "GigTitle": "Charity Night",
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1315377515000+0100)\/",
+      "Edited": "\/Date(1315377515000+0100)\/"
+    },
+    {
+      "Id": "gig/135173",
+      "BandNames": [
+        {
+          "Value": "The Good Suns"
+        },
+        {
+          "Value": "The Corsairs"
+        }
+      ],
+      "Venue": "The Blue Room",
+      "Date": "\/Date(1329177600000+0000)\/",
+      "StartTime": "20:00",
+      "Price": "£2.00",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1326588119000+0000)\/",
+      "Edited": "\/Date(1326588119000+0000)\/"
+    }
+  ]
+}

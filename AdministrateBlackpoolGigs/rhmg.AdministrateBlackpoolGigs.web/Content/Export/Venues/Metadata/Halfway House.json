@@ -1,0 +1,23 @@
+{
+  "Id": "metadata/15363",
+  "VenueName": "Halfway House",
+  "MainImageName": "Halfway House.jpg",
+  "BarAndClubReviewsUrl": "",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 401699",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "St Annes Road",
+      "South Shore",
+      "Blackpool"
+    ],
+    "Website": "",
+    "EmailAddress": null,
+    "PostCode": "FY4 2QL",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.780783",
+    "Long": "-3.033814"
+  }
+}

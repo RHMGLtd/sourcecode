@@ -1,0 +1,25 @@
+{
+  "BandName": {
+    "Value": "Dave the Drag Artist"
+  },
+  "Gigs": [
+    {
+      "Id": "gig/55302",
+      "BandNames": [
+        {
+          "Value": "Dave the Drag Artist"
+        }
+      ],
+      "Venue": "The Royal Oak",
+      "Date": "\/Date(1308870000000+0100)\/",
+      "StartTime": "21:00",
+      "Price": "free",
+      "MoreInfo": null,
+      "GigTitle": null,
+      "Source": "manually input by rhmg",
+      "Cancelled": false,
+      "Created": "\/Date(1306844042000+0100)\/",
+      "Edited": "\/Date(1306844042000+0100)\/"
+    }
+  ]
+}

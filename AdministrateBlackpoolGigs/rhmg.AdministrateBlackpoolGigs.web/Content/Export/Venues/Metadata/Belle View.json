@@ -1,0 +1,22 @@
+{
+  "Id": "metadata/2078",
+  "VenueName": "Belle View",
+  "MainImageName": "Belle View.jpg",
+  "BarAndClubReviewsUrl": "http://www.bar-and-club-reviews.com/bars/77445-the-belle-view",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 394702",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "Whitegate Drive",
+      "Blackpool"
+    ],
+    "Website": "",
+    "EmailAddress": null,
+    "PostCode": "FY3 9DQ",
+    "ContactName": "David Whitehead"
+  },
+  "MapCoords": {
+    "Lat": "53.815944",
+    "Long": "-3.036325"
+  }
+}

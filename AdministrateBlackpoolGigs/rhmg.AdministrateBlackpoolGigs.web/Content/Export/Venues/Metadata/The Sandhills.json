@@ -1,0 +1,23 @@
+{
+  "Id": "metadata/2065",
+  "VenueName": "The Sandhills",
+  "MainImageName": "The Sandhills.jpg",
+  "BarAndClubReviewsUrl": "http://www.bar-and-club-reviews.com/bars/77469-the-sandhills",
+  "ContactDetail": {
+    "MainPhoneNumber": "01253 712515",
+    "SecondaryPhoneNumbers": [],
+    "AddressLines": [
+      "18-20 St Annes Road",
+      "West Lytham",
+      "St Annes "
+    ],
+    "Website": "http://www.barracudagroup.co.uk/pubs/sandhills.html",
+    "EmailAddress": null,
+    "PostCode": "FY8 1RF",
+    "ContactName": null
+  },
+  "MapCoords": {
+    "Lat": "53.751451",
+    "Long": "-3.031089"
+  }
+}
