@@ -7,7 +7,7 @@ using rhmg.StudioDiary.Tests.Contexts;
 using rhmg.StudioDiary.Tests.Contexts.test_entities;
 
 namespace rhmg.StudioDiary.Tests
-{
+{/*
     public class when_an_unsaved_booking_attempts_to_save_an_attachment
     {
         static Booking booking;
@@ -37,5 +37,5 @@ namespace rhmg.StudioDiary.Tests
         Because of = () => booking.SaveAttachment(new FakeFile().Create("testfile1.pdf"), fs, "test/");
 
         It has_saved_a_file = () => fs.GetFile("testfile1.pdf").Exists.ShouldBeTrue();
-    }
+    }*/
 }

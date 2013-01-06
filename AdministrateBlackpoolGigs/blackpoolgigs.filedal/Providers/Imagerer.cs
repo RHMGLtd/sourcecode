@@ -33,7 +33,7 @@ namespace blackpoolgigs.filedal.Providers
                 var image = Image.FromStream(images[i].InputStream).Resize(180);
                 image.Save(path + names[i]);
             }
-            foreach (var file in files.Files(path).Where(file => !keepNames.Where(f => f == file.Name).Any()))
+            foreach (var file in files.Files(path).Where(file => keepNames.All(f => f != file.Name)))
             {
                 file.Delete();
             }

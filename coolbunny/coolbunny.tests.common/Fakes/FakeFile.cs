@@ -38,11 +38,11 @@ namespace coolbunny.tests.common.Fakes
             throw new NotImplementedException();
         }
 
-        public Path Path { get; private set; }
-        public IDirectory Parent { get; private set; }
-        public IFileSystem FileSystem { get; private set; }
-        public bool Exists { get; private set; }
-        public string Name { get; private set; }
+        public Path Path { get; set; }
+        public IDirectory Parent { get; set; }
+        public IFileSystem FileSystem { get; set; }
+        public bool Exists { get; set; }
+        public string Name { get; set; }
 
         
         public Stream Open(FileMode fileMode, FileAccess fileAccess, FileShare fileShare)
@@ -50,9 +50,9 @@ namespace coolbunny.tests.common.Fakes
             throw new NotImplementedException();
         }
 
-        public string NameWithoutExtension { get; private set; }
-        public string Extension { get; private set; }
-        public long Size { get; private set; }
-        public DateTime? LastModifiedTimeUtc { get; private set; }
+        public string NameWithoutExtension { get; set; }
+        public string Extension { get; set; }
+        public long Size { get; set; }
+        public DateTime? LastModifiedTimeUtc { get; set; }
     }
 }

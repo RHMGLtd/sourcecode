@@ -120,13 +120,15 @@ namespace rhmg.StudioDiary
             CheckedIn = true;
         }
 
-        public void SaveAttachment(IFile file, IFileSystem fs, string rootDirectory)
+        /*public void SaveAttachment(IFile file, IFileSystem fs, string rootDirectory)
         {
             if (string.IsNullOrEmpty(Id))
                 throw new IndexOutOfRangeException("You cannot add attachments when the booking is not saved");
             var folder = fs.GetDirectory(rootDirectory.EnsureEndsWith("/") + Id) ??
                          fs.CreateDirectory(rootDirectory.EnsureEndsWith("/") + Id);
+
+            var bob = fs.GetFile()
             folder.CopyTo(file);
-        }
+        }*/
     }
 }
