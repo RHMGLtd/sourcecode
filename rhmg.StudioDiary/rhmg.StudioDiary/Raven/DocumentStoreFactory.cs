@@ -1,6 +1,9 @@
+using System.Reflection;
 using Raven.Client;
 using Raven.Client.Document;
 using Raven.Client.Embedded;
+using Raven.Client.Indexes;
+using rhmg.StudioDiary.Raven.Indexes;
 
 namespace rhmg.StudioDiary.Raven
 {
@@ -40,6 +43,7 @@ namespace rhmg.StudioDiary.Raven
                                 UseEmbeddedHttpServer = false
                             };
             store.Initialize();
+            IndexCreation.CreateIndexes(Assembly.GetAssembly(typeof(CustomerArrears)), store);
 
             return store;
         }

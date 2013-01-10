@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using System.Threading;
 using Machine.Specifications;
 using Raven.Client;
 using Raven.Client.Embedded;
@@ -53,6 +54,16 @@ namespace rhmg.StudioDiary.Tests.Contexts
         {
             if (existing != null)
                 session.Advanced.Evict(existing);
+        }
+        public static EmbeddableDocumentStore wait()
+        {
+            store.DocumentDatabase.SpinBackgroundWorkers();
+
+            while (store.DocumentDatabase.Statistics.StaleIndexes.Length > 0)
+            {
+                Thread.Sleep(5);
+            }
+            return store;
         }
     }
 }

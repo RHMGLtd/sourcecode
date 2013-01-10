@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using OpenFileSystem.IO;
-using coolbunny.common.Extensions;
 
 namespace rhmg.StudioDiary
 {
@@ -10,6 +8,7 @@ namespace rhmg.StudioDiary
     {
         public bool HasOutstandingOwings { get; set; }
         public bool IsCancelled { get; set; }
+        public double CurrentlyOwed { get; set; }
 
         public List<Contact> Contacts { get; set; }
         public DateTime Date { get; set; }
@@ -56,6 +55,8 @@ namespace rhmg.StudioDiary
             // set flags for searching
             HasOutstandingOwings = Outstanding() > 0;
             IsCancelled = Cancellation != null;
+            CurrentlyOwed = Outstanding();
+
             return repo.Put(this);
         }
 

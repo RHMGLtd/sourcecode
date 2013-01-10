@@ -8,6 +8,7 @@
             {
                 return new Contact
                 {
+                    Id = "contact/1",
                     Name = "The Beatles",
                     PhoneNumber = "ScouseLandSomewhere"
                 };

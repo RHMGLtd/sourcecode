@@ -14,6 +14,7 @@ namespace rhmg.StudioDiary
         T Put(T entity);
         bool Exists(Expression<Func<T, bool>> compareOn);
         List<T> GetLazily(Expression<Func<T, bool>> compareOn);
+        List<Z> IndexGet<Z>(string indexName);
     }
 
     public class Repository<T> : IRepository<T> where T : Entity
@@ -48,6 +49,11 @@ namespace rhmg.StudioDiary
         public List<T> GetLazily(Expression<Func<T, bool>> compareOn)
         {
             return _session.Query<T>().Where(compareOn).Lazily().Value.ToList();
+        }
+
+        public List<Z> IndexGet<Z>(string indexName)
+        {
+            return _session.Query<Z>(indexName).ToList();
         }
     }
 }

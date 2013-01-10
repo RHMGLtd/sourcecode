@@ -1,6 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
+using System.Threading;
 using Machine.Specifications;
+using rhmg.StudioDiary.Raven.Indexes;
 using rhmg.StudioDiary.Tests.Contexts;
 using rhmg.StudioDiary.Tests.Contexts.test_entities;
 
@@ -268,5 +271,103 @@ namespace rhmg.StudioDiary.Tests
             () => sixPmOnAMondayForFourHours.IsInWeekdayPeakTime().ShouldBeTrue();
         It works_out_seven_pm_for_four_hours_is_peak_time =
             () => sevenPmOnAMonday.IsInWeekdayPeakTime().ShouldBeTrue();
+    }
+
+    public class getting_a_list_of_amounts_owing : with_raven_integration<Booking, Booking>
+    {
+        static Booking twoWeeksAgoAndCancelledWithNoNotice;
+        static Booking oneWeekAgoAndComplete;
+        static Booking thisWeekAndCancelledWithOneDayNotice;
+        static List<Booking> result;
+
+        Establish context = () =>
+                                {
+                                    twoWeeksAgoAndCancelledWithNoNotice =
+                                        Booking.Create(new List<Contact> {Contacts.TheBeatles},
+                                                       DateTime.Now.AddDays(-14),
+                                                       new TimePart {Hour = 18},
+                                                       new TimeSpan(4, 0, 0), Rooms.room4, Rates.standardEveningRate);
+                                    twoWeeksAgoAndCancelledWithNoNotice.Cancel(CancellationType.FullCost, "nobbers", twoWeeksAgoAndCancelledWithNoNotice.Date);
+                                    twoWeeksAgoAndCancelledWithNoNotice.Save(new Repository<Booking>(session));
+
+                                    oneWeekAgoAndComplete =
+                                        Booking.Create(new List<Contact> { Contacts.TheBeatles },
+                                                       DateTime.Now.AddDays(-7),
+                                                       new TimePart { Hour = 18 },
+                                                       new TimeSpan(4, 0, 0), Rooms.room4, Rates.standardEveningRate);
+                                    oneWeekAgoAndComplete.Save(new Repository<Booking>(session));
+
+                                    thisWeekAndCancelledWithOneDayNotice =
+                                        Booking.Create(new List<Contact> { Contacts.TheBeatles },
+                                                       DateTime.Now,
+                                                       new TimePart { Hour = 18 },
+                                                       new TimeSpan(4, 0, 0), Rooms.room4, Rates.standardEveningRate);
+                                    thisWeekAndCancelledWithOneDayNotice.Cancel(CancellationType.HalfCost, "nobbers", twoWeeksAgoAndCancelledWithNoNotice.Date.AddDays(-1));
+                                    thisWeekAndCancelledWithOneDayNotice.Save(new Repository<Booking>(session));
+                                };
+
+        Because of = () => result = AccountsJobby.BookingsWithOutstandingOwings(new Repository<Booking>(session));
+
+        It has_returned_two_results = () => result.Count.ShouldEqual(2);
+    }
+
+    public class getting_a_list_of_customer_arrears : with_raven_integration<Booking, Booking>
+    {
+        static Booking twoWeeksAgoAndCancelledWithNoNotice;
+        static Booking oneWeekAgoAndComplete;
+        static Booking thisWeekAndCancelledWithOneDayNotice;
+        static List<CustomerArrears.Result> result;
+
+        Establish context = () =>
+        {
+            twoWeeksAgoAndCancelledWithNoNotice =
+                Booking.Create(new List<Contact> { Contacts.TheBeatles },
+                               DateTime.Now.AddDays(-14),
+                               new TimePart { Hour = 18 },
+                               new TimeSpan(4, 0, 0), Rooms.room4, Rates.standardEveningRate);
+            twoWeeksAgoAndCancelledWithNoNotice.Cancel(CancellationType.FullCost, "nobbers", twoWeeksAgoAndCancelledWithNoNotice.Date);
+            twoWeeksAgoAndCancelledWithNoNotice.Save(new Repository<Booking>(session));
+
+            oneWeekAgoAndComplete =
+                Booking.Create(new List<Contact> { Contacts.TheBeatles },
+                               DateTime.Now.AddDays(-7),
+                               new TimePart { Hour = 18 },
+                               new TimeSpan(4, 0, 0), Rooms.room4, Rates.standardEveningRate);
+            oneWeekAgoAndComplete.Save(new Repository<Booking>(session));
+
+            thisWeekAndCancelledWithOneDayNotice =
+                Booking.Create(new List<Contact> { Contacts.TheBeatles },
+                               DateTime.Now,
+                               new TimePart { Hour = 18 },
+                               new TimeSpan(4, 0, 0), Rooms.room4, Rates.standardEveningRate);
+            thisWeekAndCancelledWithOneDayNotice.Cancel(CancellationType.HalfCost, "nobbers", twoWeeksAgoAndCancelledWithNoNotice.Date.AddDays(-1));
+            thisWeekAndCancelledWithOneDayNotice.Save(new Repository<Booking>(session));
+            wait();
+        };
+
+        Because of = () =>
+                        {
+                            result = AccountsJobby.CustomerArrears(new Repository<Booking>(session));
+                            twoWeeksAgoAndCancelledWithNoNotice = new Repository<Booking>(session).Get("booking/1");
+                            oneWeekAgoAndComplete = new Repository<Booking>(session).Get("booking/2");
+                            thisWeekAndCancelledWithOneDayNotice = new Repository<Booking>(session).Get("booking/3");
+                        };
+
+        It has_returned_one_customer_result = () => result.Count.ShouldEqual(1);
+        It has_bob = () => twoWeeksAgoAndCancelledWithNoNotice.ShouldNotBeNull();
+        It has_bob2 = () => oneWeekAgoAndComplete.ShouldNotBeNull();
+        It has_bob3 = () => thisWeekAndCancelledWithOneDayNotice.ShouldNotBeNull();
+
+        It has_cancelled_first_one = () => twoWeeksAgoAndCancelledWithNoNotice.IsCancelled.ShouldBeTrue();
+        It has_owings_on_first_one = () => twoWeeksAgoAndCancelledWithNoNotice.HasOutstandingOwings.ShouldBeTrue();
+
+        It has_customer_id_on_first_one =
+            () => twoWeeksAgoAndCancelledWithNoNotice.Contacts.First().Id.ShouldEqual("contact/1");
+        It has_customer_id_on_second_one =
+            () => oneWeekAgoAndComplete.Contacts.First().Id.ShouldEqual("contact/1");
+        It has_customer_id_on_third_one =
+            () => thisWeekAndCancelledWithOneDayNotice.Contacts.First().Id.ShouldEqual("contact/1");
+
+        It has_created_the_index = () => store.DocumentDatabase.GetIndexDefinition("CustomerArrears").IsMapReduce.ShouldBeTrue();
     }
 }
