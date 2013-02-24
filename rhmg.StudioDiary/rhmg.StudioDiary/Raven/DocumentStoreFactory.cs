@@ -1,3 +1,4 @@
+using System;
 using System.Reflection;
 using Raven.Client;
 using Raven.Client.Document;
@@ -33,7 +34,24 @@ namespace rhmg.StudioDiary.Raven
             return store;
         }
 
-        public static IDocumentStore GetInMemoryDocumentStoreForUnitTest()
+
+        public static DocumentStore GetInMemoryPersistedDocumentStore()
+        {
+            var store = new EmbeddableDocumentStore
+            {
+                RunInMemory = false,
+                DataDirectory = AppDomain.CurrentDomain.BaseDirectory + "App_Data\\Raven\\",
+                Conventions = DocumentConventionFactory.getConvention(),
+                Configuration = { Port = 3136 },
+                UseEmbeddedHttpServer = true
+
+            };
+            store.Initialize();
+            IndexCreation.CreateIndexes(Assembly.GetAssembly(typeof(CustomerArrears)), store);
+            return store;
+        }
+
+        public static EmbeddableDocumentStore GetInMemoryDocumentStoreForUnitTest()
         {
             var store = new EmbeddableDocumentStore
                             {
@@ -47,5 +65,33 @@ namespace rhmg.StudioDiary.Raven
 
             return store;
         }
+    }
+    public interface IRavenSessionProvider
+    {
+        IDocumentSession GetSession();
+    }
+
+    public class RavenSessionProvider : IRavenSessionProvider
+    {
+        private static DocumentStore _documentStore;
+
+        public static DocumentStore DocumentStore
+        {
+            get { return (_documentStore ?? (_documentStore = CreateDocumentStore())); }
+        }
+
+        private static DocumentStore CreateDocumentStore()
+        {
+
+            return DocumentStoreFactory.GetInMemoryPersistedDocumentStore();
+        }
+
+        public IDocumentSession GetSession()
+        {
+            var session = DocumentStore.OpenSession();
+            return session;
+        }
+
+
     }
 }

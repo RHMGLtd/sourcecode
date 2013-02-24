@@ -1,0 +1,49 @@
+﻿<viewdata model="rhmg.StudioDiary.InternalWeb.ViewModels.AdminIndexModel" />
+
+<content name="head">
+  <title>Admin Index</title>
+</content>
+
+<content name="body">
+  <div class="header">
+    <h1>Admin pages</h1>
+  </div>
+  <h1>
+    Current rooms in the system:
+  </h1>
+  <p if="Model.Rooms.Count == 0">No rooms to display</p>
+  <div each="var room in Model.Rooms">
+    <span>!{room.Name}</span>
+    <span>
+      <a href="/Admin/!{room.Id}">edit...</a>
+    </span>
+  </div>
+  <hr />
+  <a href="/Admin/Rooms/Add">Add a new room...</a>
+  <hr />
+  <h1>
+    Current rates in the system:
+  </h1>
+  <p if="Model.Rates.Count == 0">No rates to display</p>
+  <div each="var rate in Model.Rates">
+    <span>!{rate.Description}</span>
+    <span>
+      <a href="/Admin/!{rate.Id}">edit...</a>
+    </span>
+  </div>
+  <hr />
+  <a href="/Admin/Rates/Add">Add a new rate...</a>
+  <hr />
+  <h1>
+    Current additional equipment in the system:
+  </h1>
+  <p if="Model.AdditionalEquipment.Count == 0">No additional equipment to display</p>
+  <div each="var ae in Model.AdditionalEquipment">
+    <span>!{ae.Description}</span>
+    <span>
+      <a href="/Admin/!{ae.Id}">edit...</a>
+    </span>
+  </div>
+  <hr />
+  <a href="/Admin/AdditionalEquipment/Add">Add a new additional equipment...</a>
+</content>

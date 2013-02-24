@@ -1,8 +1,9 @@
 using System;
+using Raven.Client;
 
 namespace rhmg.StudioDiary
 {
-    public class Rate
+    public class Rate : Entity
     {
         public TimeSpan Per { get; set; }
         public double PoundsAmount { get; set; }
@@ -12,6 +13,13 @@ namespace rhmg.StudioDiary
         {
             var factor = length.TotalHours / Per.TotalHours;
             return PoundsAmount*factor;
+        }
+
+        public Rate Save(IDocumentSession session)
+        {
+            session.Store(this);
+            session.SaveChanges();
+            return this;
         }
     }
 }

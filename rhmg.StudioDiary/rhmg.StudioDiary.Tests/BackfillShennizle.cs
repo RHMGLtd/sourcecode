@@ -21,7 +21,7 @@ namespace rhmg.StudioDiary.Tests
 
         Establish context = () => backFill = BackFills.standardBackFill;
 
-        Because of = () => backFill = backFill.Save(new Repository<BackFill>(session));
+        Because of = () => backFill = backFill.Save(session);
 
         It has_provided_an_id = () => backFill.Id.ShouldEqual("backfill/1");
     }
@@ -33,10 +33,10 @@ namespace rhmg.StudioDiary.Tests
         Establish context = () =>
                                 {
                                     var bob = BackFills.standardBackFill;
-                                    bob.Save(new Repository<BackFill>(session));
+                                    bob.Save(session);
                                 };
 
-        Because of = () => backfill = BackFill.Get("backfill/1", new Repository<BackFill>(session));
+        Because of = () => backfill = BackFill.Get("backfill/1", session);
 
         It has_loaded = () => backfill.ShouldNotBeNull();
     }
@@ -48,9 +48,9 @@ namespace rhmg.StudioDiary.Tests
         Establish context = () =>
         {
             var bob = BackFills.standardBackFill;
-            bob.Save(new Repository<BackFill>(session));
+            bob.Save(session);
         };
-        Because of = () => backfills = BackFill.Get(BackFills.standardBackFill.Date, new Repository<BackFill>(session));
+        Because of = () => backfills = BackFill.Get(BackFills.standardBackFill.Date, session);
 
         It finds_some = () => backfills.ShouldNotBeEmpty();
     }

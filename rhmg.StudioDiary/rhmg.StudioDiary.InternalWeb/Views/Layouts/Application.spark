@@ -1,0 +1,18 @@
+﻿<html>
+  <head>
+    <use content="head"/>
+    <link href="~/Content/Site.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/Custom.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/jquery.ui.timepicker.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/dark-hive/jquery-ui-1.10.1.custom.min.css" rel="stylesheet" type="text/css" />
+    <script src="~/Content/Scripts/jquery-1.9.1.js" type="text/javascript"></script>
+    <script src="~/Content/Scripts/jquery-ui-1.10.1.custom.min.js" type="text/javascript"></script>
+    <script src="~/Content/Scripts/jquery.ui.timepicker.js" type="text/javascript"></script>
+      <use content="scripts">
+      </use>
+  </head>
+  <body class="page">
+    <use content="body"/>
+    <use content="tail"/>
+  </body>
+</html>

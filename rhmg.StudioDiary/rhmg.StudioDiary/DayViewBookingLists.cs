@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 using System.Linq;
 
@@ -6,41 +7,12 @@ namespace rhmg.StudioDiary
     public class DayViewBookingLists
     {
         public List<Booking> Bookings { get; set; }
+        public DateTime Date { get; set; }
 
-        public List<Booking> Room2
+        public List<Booking> ForRoom(Room toCheck)
         {
-            get
-            {
-                return Bookings.Where(x => x.Room.Name == "Room 2").ToList();
-            }
-        }
-        public List<Booking> Room3
-        {
-            get
-            {
-                return Bookings.Where(x => x.Room.Name == "Room 3").ToList();
-            }
-        }
-        public List<Booking> Room4
-        {
-            get
-            {
-                return Bookings.Where(x => x.Room.Name == "Room 4").ToList();
-            }
-        }
-        public List<Booking> LiveRoom
-        {
-            get
-            {
-                return Bookings.Where(x => x.Room.Name == "Live Room").ToList();
-            }
-        }
-        public List<Booking> ControlRoom
-        {
-            get
-            {
-                return Bookings.Where(x => x.Room.Name == "Control Room").ToList();
-            }
+            var result = Bookings.Where(x => x.Room.Id == toCheck.Id).ToList();
+            return !result.Any() ? new List<Booking>() : result;
         }
 
         public DayViewBookingLists()

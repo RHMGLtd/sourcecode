@@ -26,29 +26,32 @@ namespace rhmg.StudioDiary.Tests
                 var fridayBooking = Booking.Create(new List<Contact> { Contacts.TheBeatles }, Dates.friday, st, new TimeSpan(4, 0, 0), Rooms.room4, Rates.standardEveningRate);
                 var saturdayBooking = Booking.Create(new List<Contact> { Contacts.TheBeatles }, Dates.saturday, st, new TimeSpan(4, 0, 0), Rooms.room4, Rates.standardEveningRate);
                 var sundayBooking = Booking.Create(new List<Contact> { Contacts.TheBeatles }, Dates.sunday, st, new TimeSpan(4, 0, 0), Rooms.room4, Rates.standardEveningRate);
-                mondayBooking.Save(new Repository<Booking>(session));
-                tuesdayBooking.Save(new Repository<Booking>(session));
-                wednesdayBooking.Save(new Repository<Booking>(session));
-                thursdayBooking.Save(new Repository<Booking>(session));
-                fridayBooking.Save(new Repository<Booking>(session));
-                saturdayBooking.Save(new Repository<Booking>(session));
-                sundayBooking.Save(new Repository<Booking>(session));
+                mondayBooking.Save(session);
+                tuesdayBooking.Save(session);
+                wednesdayBooking.Save(session);
+                thursdayBooking.Save(session);
+                fridayBooking.Save(session);
+                saturdayBooking.Save(session);
+                sundayBooking.Save(session);
             };
 
             Because and_we_ask_for_the_week_to_a_view = () =>
                                                             {
                                                                 thisWeek =
                                                                     DiaryManager.WeekToAViewFor(
-                                                                        Dates.monday, new Repository<Booking>(session));
+                                                                        Dates.monday, session);
                                                             };
 
             It has_an_entry_for_monday = () => thisWeek.Monday.Bookings.ShouldNotBeEmpty();
+            It has_the_correct_date_for_monday = () => thisWeek.Monday.Date.ShouldEqual(Dates.monday);
             It has_an_entry_for_tuesday = () => thisWeek.Tuesday.Bookings.ShouldNotBeEmpty();
             It has_an_entry_for_wednesday = () => thisWeek.Wednesday.Bookings.ShouldNotBeEmpty();
             It has_an_entry_for_thursday = () => thisWeek.Thursday.Bookings.ShouldNotBeEmpty();
+            It has_the_correct_date_for_thursday = () => thisWeek.Thursday.Date.ShouldEqual(Dates.thursday);
             It has_an_entry_for_friday = () => thisWeek.Friday.Bookings.ShouldNotBeEmpty();
             It has_an_entry_for_saturday = () => thisWeek.Saturday.Bookings.ShouldNotBeEmpty();
             It has_an_entry_for_sunday = () => thisWeek.Sunday.Bookings.ShouldNotBeEmpty();
+            It has_the_correct_date_for_sunday = () => thisWeek.Sunday.Date.ShouldEqual(Dates.sunday);
         }
 
         public class when_we_are_full_on_one_day : with_raven_integration<Booking, Booking>
@@ -65,25 +68,25 @@ namespace rhmg.StudioDiary.Tests
                 var room3Booking = Booking.Create(new List<Contact> { Contacts.TheBeatles }, Dates.monday, st, new TimeSpan(4, 0, 0), Rooms.room3, Rates.standardEveningRate);
                 var room4Booking = Booking.Create(new List<Contact> { Contacts.TheBeatles }, Dates.monday, st, new TimeSpan(4, 0, 0), Rooms.room4, Rates.standardEveningRate);
                 var liveRoomBooking = Booking.Create(new List<Contact> { Contacts.TheBeatles }, Dates.monday, st, new TimeSpan(4, 0, 0), Rooms.liveRoom, Rates.liveRoomEveningRate);
-                room2Booking.Save(new Repository<Booking>(session));
-                room3Booking.Save(new Repository<Booking>(session));
-                room4Booking.Save(new Repository<Booking>(session));
-                liveRoomBooking.Save(new Repository<Booking>(session));
+                room2Booking.Save(session);
+                room3Booking.Save(session);
+                room4Booking.Save(session);
+                liveRoomBooking.Save(session);
             };
 
             Because and_we_ask_for_the_week_to_a_view = () =>
             {
                 thisWeek =
                     DiaryManager.WeekToAViewFor(
-                        Dates.monday, new Repository<Booking>(session));
+                        Dates.monday, session);
             };
 
             It has_an_entry_for_monday = () => thisWeek.Monday.Bookings.ShouldNotBeEmpty();
-            It has_an_entry_for_room_2_on_the_monday = () => thisWeek.Monday.Room2.ShouldNotBeEmpty();
-            It has_an_entry_for_room_3_on_the_monday = () => thisWeek.Monday.Room3.ShouldNotBeEmpty();
-            It has_an_entry_for_room_4_on_the_monday = () => thisWeek.Monday.Room4.ShouldNotBeEmpty();
-            It has_an_entry_for_live_room_on_the_monday = () => thisWeek.Monday.LiveRoom.ShouldNotBeEmpty();
-            It has_an_entry_for_control_room_on_the_monday = () => thisWeek.Monday.ControlRoom.ShouldBeEmpty();
+            It has_an_entry_for_room_2_on_the_monday = () => thisWeek.Monday.ForRoom(Rooms.room2).ShouldNotBeEmpty();
+            It has_an_entry_for_room_3_on_the_monday = () => thisWeek.Monday.ForRoom(Rooms.room3).ShouldNotBeEmpty();
+            It has_an_entry_for_room_4_on_the_monday = () => thisWeek.Monday.ForRoom(Rooms.room4).ShouldNotBeEmpty();
+            It has_an_entry_for_live_room_on_the_monday = () => thisWeek.Monday.ForRoom(Rooms.liveRoom).ShouldNotBeEmpty();
+            It has_an_entry_for_control_room_on_the_monday = () => thisWeek.Monday.ForRoom(Rooms.controlRoom).ShouldBeEmpty();
         }
     }
 
@@ -110,17 +113,17 @@ namespace rhmg.StudioDiary.Tests
 
                 var tuesdayRoom3Booking = Booking.Create(new List<Contact> { Contacts.TheBeatles }, Dates.tuesday, sevenPM, new TimeSpan(4, 0, 0), Rooms.room3, Rates.standardEveningRate);
 
-                room2Booking.Save(new Repository<Booking>(session));
-                room3Booking.Save(new Repository<Booking>(session));
-                room4Booking.Save(new Repository<Booking>(session));
-                liveRoomBooking.Save(new Repository<Booking>(session));
-                tuesdayRoom3Booking.Save(new Repository<Booking>(session));
+                room2Booking.Save(session);
+                room3Booking.Save(session);
+                room4Booking.Save(session);
+                liveRoomBooking.Save(session);
+                tuesdayRoom3Booking.Save(session);
             };
             Because and_we_ask_for_the_month_to_a_view = () =>
             {
                 monthToAView =
                     DiaryManager.MonthToAViewFor(
-                        Dates.monday, new Repository<Booking>(session));
+                        Dates.monday, session);
             };
 
             It has_no_availability_for_the_monday =
@@ -141,13 +144,13 @@ namespace rhmg.StudioDiary.Tests
                 };
                 var liveRoomBooking = Booking.Create(new List<Contact> { Contacts.TheBeatles }, Dates.saturday, time, new TimeSpan(8, 0, 0), Rooms.liveRoom, Rates.liveRoomEveningRate);
 
-                liveRoomBooking.Save(new Repository<Booking>(session));
+                liveRoomBooking.Save(session);
             };
             Because and_we_ask_for_the_month_to_a_view = () =>
             {
                 monthToAView =
                     DiaryManager.MonthToAViewFor(
-                        Dates.monday, new Repository<Booking>(session));
+                        Dates.monday, session);
             };
             It has_no_availability_for_the_saturday =
                 () => monthToAView.WithPeakAvailability.FirstOrDefault(x => x.Date == Dates.saturday).HasAvailability.ShouldBeFalse();
@@ -164,13 +167,13 @@ namespace rhmg.StudioDiary.Tests
                 };
                 var liveRoomBooking = Booking.Create(new List<Contact> { Contacts.TheBeatles }, Dates.saturday, time, new TimeSpan(4, 0, 0), Rooms.liveRoom, Rates.liveRoomEveningRate);
 
-                liveRoomBooking.Save(new Repository<Booking>(session));
+                liveRoomBooking.Save(session);
             };
             Because and_we_ask_for_the_month_to_a_view = () =>
             {
                 monthToAView =
                     DiaryManager.MonthToAViewFor(
-                        Dates.monday, new Repository<Booking>(session));
+                        Dates.monday, session);
             };
             It has_no_availability_for_the_saturday =
                 () => monthToAView.WithPeakAvailability.FirstOrDefault(x => x.Date == Dates.saturday).HasAvailability.ShouldBeTrue();
@@ -192,16 +195,16 @@ namespace rhmg.StudioDiary.Tests
                 };
                 var liveRoomBooking1 = Booking.Create(new List<Contact> { Contacts.TheBeatles }, Dates.saturday, ten, new TimeSpan(4, 0, 0), Rooms.liveRoom, Rates.liveRoomEveningRate);
 
-                liveRoomBooking1.Save(new Repository<Booking>(session));
+                liveRoomBooking1.Save(session);
                 var liveRoomBooking2 = Booking.Create(new List<Contact> { Contacts.TheBeatles }, Dates.saturday, four, new TimeSpan(4, 0, 0), Rooms.liveRoom, Rates.liveRoomEveningRate);
 
-                liveRoomBooking2.Save(new Repository<Booking>(session));
+                liveRoomBooking2.Save(session);
             };
             Because and_we_ask_for_the_month_to_a_view = () =>
             {
                 monthToAView =
                     DiaryManager.MonthToAViewFor(
-                        Dates.monday, new Repository<Booking>(session));
+                        Dates.monday, session);
             };
             It has_no_availability_for_the_saturday =
                 () => monthToAView.WithPeakAvailability.FirstOrDefault(x => x.Date == Dates.saturday).HasAvailability.ShouldBeTrue();

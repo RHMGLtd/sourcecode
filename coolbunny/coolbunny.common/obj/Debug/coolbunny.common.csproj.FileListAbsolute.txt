@@ -14,12 +14,12 @@ C:\business websites\coolbunny\coolbunny.common\obj\Debug\coolbunny.common.dll
 C:\business websites\coolbunny\coolbunny.common\obj\Debug\coolbunny.common.pdb
 C:\_src\sourcecode\coolbunny\coolbunny.common\bin\Debug\coolbunny.common.dll
 C:\_src\sourcecode\coolbunny\coolbunny.common\bin\Debug\coolbunny.common.pdb
-C:\_src\sourcecode\coolbunny\coolbunny.common\bin\Debug\Castle.Core.pdb
 C:\_src\sourcecode\coolbunny\coolbunny.common\bin\Debug\Castle.Core.xml
-C:\_src\sourcecode\coolbunny\coolbunny.common\bin\Debug\Castle.Windsor.pdb
 C:\_src\sourcecode\coolbunny\coolbunny.common\bin\Debug\Castle.Windsor.xml
 C:\_src\sourcecode\coolbunny\coolbunny.common\bin\Debug\Newtonsoft.Json.pdb
 C:\_src\sourcecode\coolbunny\coolbunny.common\bin\Debug\Newtonsoft.Json.xml
 C:\_src\sourcecode\coolbunny\coolbunny.common\obj\Debug\ResolveAssemblyReference.cache
 C:\_src\sourcecode\coolbunny\coolbunny.common\obj\Debug\coolbunny.common.dll
 C:\_src\sourcecode\coolbunny\coolbunny.common\obj\Debug\coolbunny.common.pdb
+C:\_src\sourcecode\coolbunny\coolbunny.common\bin\Debug\Castle.Core.dll
+C:\_src\sourcecode\coolbunny\coolbunny.common\bin\Debug\Castle.Windsor.dll

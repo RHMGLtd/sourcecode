@@ -1,7 +1,7 @@
 $(document).ready(function () {
     $("#AddBand").click(function () {
-        var date = new Date()
-        var ticks = date.getTime()
+        var date = new Date();
+        var ticks = date.getTime();
         $('#Bands').append('<div>Band Name :: <input id="BandName' + ticks.toString() + '" type="text" name="BandNames" class="input" minlength="2"/> :: <button onclick="remove(this); return false;">remove</button></div> :: <span>we don&apos;t need to put start times on for each band</span>');
         autoBobbins($('#BandName' + ticks.toString()), "BandNames");
         return false;

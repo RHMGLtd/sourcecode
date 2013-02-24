@@ -1,0 +1,47 @@
+﻿/* Tables
+----------------------------------------------------------*/
+
+.roomNames 
+{
+    text-align: left
+}
+
+.dayLine.odd {
+    background-color: gainsboro;
+}
+
+.dayLine .dayLineDay {
+    vertical-align: top;
+}
+
+.dayList {
+    font-size: 0.7em;
+    text-align: left;
+}
+.dayList .hourLine .hour {
+    width: 31px;
+}
+.dayList .hourLine .entry {
+    width: 140px;
+    float: right;
+}
+.entry.booked {
+    background-color: firebrick;
+    color: white;
+    white-space: nowrap;
+    width: 140px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+
+
+.datepickerStuff {
+    float: right;
+}
+
+.informationPanel {
+    border: 1px firebrick dotted;
+    padding: 4px;
+    margin: 4px;
+    font-size: 1.2em;
+}

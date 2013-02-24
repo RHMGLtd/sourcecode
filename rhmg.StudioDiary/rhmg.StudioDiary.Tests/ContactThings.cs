@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using Machine.Specifications;
 using rhmg.StudioDiary.Tests.Contexts;
 using rhmg.StudioDiary.Tests.Contexts.test_entities;
@@ -11,9 +12,20 @@ namespace rhmg.StudioDiary.Tests
 
         Establish context = () => contact = Contacts.TheBeatles;
 
-        Because of = () => contact = contact.Save(new Repository<Contact>(session));
+        Because of = () => contact = contact.Save(session);
 
         It has_provided_an_id = () => contact.Id.ShouldEqual("contact/1");
+    }
+
+    public class getting_a_contact_by_phone_number : with_raven_integration<Contact, Contact>
+    {
+        static Contact contact;
+
+        Establish context = () => Contacts.TheBeatles.Save(session);
+
+        Because of = () => contact = Contact.GetByPhone(Contacts.TheBeatles.PhoneNumber, session);
+        It is_the_correct_contact = () => contact.Name.ShouldEqual("The Beatles");
+
     }
 
     public class getting_bookings_for_a_contact : with_raven_integration<Contact, Contact>
@@ -22,15 +34,64 @@ namespace rhmg.StudioDiary.Tests
 
         Establish context = () =>
                                 {
-                                    var contact = Contacts.TheBeatles.Save(new Repository<Contact>(session));
+                                    var contact = Contacts.TheBeatles.Save(session);
                                     var booking = Bookings.standard_4_hour_evening_rehearsal_booking;
                                     booking.Contacts = new List<Contact> { contact };
-                                    booking.Save(new Repository<Booking>(session));
+                                    booking.Save(session);
+                                    wait();
                                 };
 
-        Because of = () => contact = Contact.Get("contact/1", new Repository<Contact>(session), new Repository<Booking>(session));
+        Because of = () => contact = Contact.Get("contact/1", session);
 
-        It has_one_booking = () => contact.Bookings.Count.ShouldEqual(1);
-        It has_a_total_currently_owed_for_all_bookings = () => contact.CurrentlyOwed(new Repository<Booking>(session)).ShouldEqual(25.00);
+        It is_the_correct_contact = () => contact.Name.ShouldEqual("The Beatles");
+        It has_the_bookings_loaded = () => contact.Bookings.Count.ShouldEqual(1);
+    }
+
+
+
+    public class applying_a_refund_to_a_contact_which_is_less_than_the_owings_on_last_cancelled_booking :
+        with_raven_integration<Contact, Contact>
+    {
+        static Booking twoWeeksAgoAndCancelledWithNoNotice;
+        static Booking oneWeekAgoAndComplete;
+        static Booking thisWeekAndCancelledWithOneDayNotice;
+
+        Establish context = () =>
+                                {
+                                    Contacts.TheBeatles.Save(session);
+                                    twoWeeksAgoAndCancelledWithNoNotice =
+                                        Booking.Create(new List<Contact> { Contacts.TheBeatles },
+                                                       DateTime.Now.AddDays(-14),
+                                                       new TimePart { Hour = 18 },
+                                                       new TimeSpan(4, 0, 0), Rooms.room4, Rates.standardEveningRate);
+                                    twoWeeksAgoAndCancelledWithNoNotice.Cancel(CancellationType.FullCost, "nobbers",
+                                                                               twoWeeksAgoAndCancelledWithNoNotice.Date);
+                                    twoWeeksAgoAndCancelledWithNoNotice.Save(session);
+
+                                    oneWeekAgoAndComplete = Booking.Create(new List<Contact> { Contacts.TheBeatles },
+                                                                           DateTime.Now.AddDays(-7),
+                                                                           new TimePart { Hour = 18 },
+                                                                           new TimeSpan(4, 0, 0), Rooms.room4,
+                                                                           Rates.standardEveningRate);
+                                    oneWeekAgoAndComplete.Save(session);
+
+                                    thisWeekAndCancelledWithOneDayNotice =
+                                        Booking.Create(new List<Contact> { Contacts.TheBeatles },
+                                                       DateTime.Now,
+                                                       new TimePart { Hour = 18 },
+                                                       new TimeSpan(4, 0, 0), Rooms.room4, Rates.standardEveningRate);
+                                    thisWeekAndCancelledWithOneDayNotice.Cancel(CancellationType.HalfCost, "nobbers",
+                                                                                twoWeeksAgoAndCancelledWithNoNotice.Date
+                                                                                    .AddDays(-1));
+                                    thisWeekAndCancelledWithOneDayNotice.Save(session);
+                                    wait();
+                                };
+
+        Because of = () =>
+        {
+            Contacts.TheBeatles.ApplyRefund(10.00, session);
+            wait();
+        };
+        It has_reduced_the_owings = () => Contacts.TheBeatles.CurrentlyOverdue(session).ShouldEqual(27.50);
     }
 }

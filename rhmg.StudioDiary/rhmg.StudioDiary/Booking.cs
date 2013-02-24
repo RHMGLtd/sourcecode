@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using Raven.Client;
 
 namespace rhmg.StudioDiary
 {
@@ -20,6 +21,7 @@ namespace rhmg.StudioDiary
 
         public Cancellation Cancellation { get; set; }
         public List<Payment> Payments { get; set; }
+        public List<Payment> Refunds { get; set; }
 
         public List<AdditionalEquipment> AdditionalEquipment { get; set; }
 
@@ -38,26 +40,29 @@ namespace rhmg.StudioDiary
                        };
         }
 
-        public static Booking Get(string id, IRepository<Booking> repo)
+        public static Booking Get(string id, IDocumentSession session)
         {
-            return repo.Get(id);
+            return session.Load<Booking>(id);
         }
 
         public Booking()
         {
             Payments = new List<Payment>();
+            Refunds = new List<Payment>();
             AdditionalEquipment = new List<AdditionalEquipment>();
             Notes = new List<Note>();
         }
 
-        public Booking Save(IRepository<Booking> repo)
+        public Booking Save(IDocumentSession session)
         {
             // set flags for searching
             HasOutstandingOwings = Outstanding() > 0;
             IsCancelled = Cancellation != null;
             CurrentlyOwed = Outstanding();
 
-            return repo.Put(this);
+            session.Store(this);
+            session.SaveChanges();
+            return this;
         }
 
         public double Value()
@@ -67,12 +72,17 @@ namespace rhmg.StudioDiary
 
         public double Outstanding()
         {
+            return CalculateValueBeforeRefunds() + Refunds.Sum(x => x.Amount);
+        }
+
+        double CalculateValueBeforeRefunds()
+        {
             if (Cancellation != null)
             {
                 if (Cancellation.Type == CancellationType.NoCost)
                     return 0.00;
                 if (Cancellation.Type == CancellationType.HalfCost)
-                    return Value() / 2 - Payments.Sum(x => x.Amount);
+                    return Value()/2 - Payments.Sum(x => x.Amount);
             }
             return Value() - Payments.Sum(x => x.Amount);
         }
@@ -80,6 +90,10 @@ namespace rhmg.StudioDiary
         public void ApplyPayment(Payment payment)
         {
             Payments.Add(payment);
+        }
+        public void ApplyRefund(Payment refund)
+        {
+            Refunds.Add(refund);
         }
 
         public void Cancel(CancellationType cancellationType, string reason, DateTime madeOn)

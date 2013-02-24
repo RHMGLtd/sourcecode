@@ -3,7 +3,8 @@ namespace rhmg.StudioDiary
     public enum PaymentType
     {
         Deposit,
-        Standard
+        Standard,
+        Refund
     }
 
     public enum PaymentMethod

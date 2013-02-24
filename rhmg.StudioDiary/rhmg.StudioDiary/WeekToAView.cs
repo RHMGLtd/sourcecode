@@ -5,15 +5,17 @@ namespace rhmg.StudioDiary
 {
     public class WeekToAView
     {
-        public WeekToAView(IEnumerable<Booking> bookings)
+        public WeekToAView(IEnumerable<Booking> bookings, DateTime mondayDate, DateTime sundayDate)
         {
-            Monday = new DayViewBookingLists();
-            Tuesday = new DayViewBookingLists();
-            Wednesday = new DayViewBookingLists();
-            Thursday = new DayViewBookingLists();
-            Friday = new DayViewBookingLists();
-            Saturday = new DayViewBookingLists();
-            Sunday = new DayViewBookingLists();
+            MondayDate = mondayDate;
+            SundayDate = sundayDate;
+            Monday = new DayViewBookingLists { Date = mondayDate };
+            Tuesday = new DayViewBookingLists { Date = mondayDate.AddDays(1) };
+            Wednesday = new DayViewBookingLists { Date = mondayDate.AddDays(2) };
+            Thursday = new DayViewBookingLists { Date = mondayDate.AddDays(3) };
+            Friday = new DayViewBookingLists { Date = mondayDate.AddDays(4) };
+            Saturday = new DayViewBookingLists { Date = mondayDate.AddDays(5) };
+            Sunday = new DayViewBookingLists { Date = sundayDate };
             Init(bookings);
         }
 
@@ -45,5 +47,7 @@ namespace rhmg.StudioDiary
         public DayViewBookingLists Friday { get; set; }
         public DayViewBookingLists Saturday { get; set; }
         public DayViewBookingLists Sunday { get; set; }
+        public DateTime MondayDate { get; set; }
+        public DateTime SundayDate { get; set; }
     }
 }

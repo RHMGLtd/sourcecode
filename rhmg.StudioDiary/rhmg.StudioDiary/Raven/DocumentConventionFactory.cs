@@ -16,6 +16,8 @@ namespace rhmg.StudioDiary.Raven
                                    return "backfill";
                                if (typeof(Contact).IsAssignableFrom(type))
                                    return "contact";
+                               if (typeof(AdditionalEquipment).IsAssignableFrom(type))
+                                   return "additionalequipment";
                                return null;
                            }
                        };

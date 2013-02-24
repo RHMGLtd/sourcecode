@@ -13,6 +13,18 @@
                     PhoneNumber = "ScouseLandSomewhere"
                 };
             }
+        }
+        public static Contact TheStones
+        {
+            get
+            {
+                return new Contact
+                {
+                    Id = "contact/2",
+                    Name = "The Stones",
+                    PhoneNumber = "RockNRollersRUs"
+                };
+            }
         } 
     }
 }

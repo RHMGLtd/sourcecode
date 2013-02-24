@@ -1,0 +1,4 @@
+﻿  <tr class="roomNames">
+    <th width="100px;" if="showDayName"></th>
+    <th width="172px;" each="var room in rooms2">!{room.Name}</th>
+  </tr>

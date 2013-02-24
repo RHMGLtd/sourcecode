@@ -1,13 +1,9 @@
 ﻿<RecentFiles>
   <RecentFiles>
-    <File id="E9309763-E4F0-448D-85CD-F8ABD7A53FAF/d:Interfaces/f:IWindsorApplication.cs" caret="65" fromTop="3" />
-    <File id="7CEE7A03-0060-4506-A86F-CF32063A2102/f:WindsorControllerFactory.cs" caret="1683" fromTop="45" />
-    <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/f:Global.asax.cs" caret="1504" fromTop="20" />
     <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/f:RouteRegistration.cs" caret="853" fromTop="21" />
     <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Views/d:Band/f:claimband.spark" caret="720" fromTop="13" />
     <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Controllers/f:BandController.cs" caret="2632" fromTop="45" />
     <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Views/d:Venue/f:venue.spark" caret="0" fromTop="0" />
-    <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Content/f:diary.css" caret="0" fromTop="0" />
     <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Models/d:ViewModels/f:BandViewModel.cs" caret="219" fromTop="9" />
     <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Views/d:Shared/f:_venueMetaData.spark" caret="478" fromTop="7" />
     <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Content/f:metadata.css" caret="0" fromTop="0" />
@@ -30,6 +26,10 @@
     <File id="42A895D9-DA47-41DA-9D8C-F7CA92BFE188/d:Providers/f:Backuperer.cs" caret="0" fromTop="0" />
     <File id="E9309763-E4F0-448D-85CD-F8ABD7A53FAF/d:Extensions/f:imageExtensions.cs" caret="2314" fromTop="24" />
     <File id="42A895D9-DA47-41DA-9D8C-F7CA92BFE188/d:Providers/f:Imagerer.cs" caret="1158" fromTop="12" />
+    <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Views/d:Layouts/f:Application.spark" caret="2300" fromTop="38" />
+    <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Views/d:Diary/f:month.spark" caret="289" fromTop="0" />
+    <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Content/f:diary.css" caret="0" fromTop="0" />
+    <File id="166A65C9-04B3-4628-9293-FE3D03D4A99D/d:Content/f:common.css" caret="192" fromTop="0" />
   </RecentFiles>
   <RecentEdits>
     <File id="6E90B152-151B-4DC7-9A05-6F0BC0436FB1/f:ExtendingStrings.cs" caret="2380" fromTop="36" />

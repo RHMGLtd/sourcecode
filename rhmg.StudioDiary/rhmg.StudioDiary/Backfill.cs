@@ -1,5 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
+using Raven.Client;
+using Raven.Client.Linq;
 
 namespace rhmg.StudioDiary
 {
@@ -20,18 +23,20 @@ namespace rhmg.StudioDiary
                        };
         }
 
-        public BackFill Save(IRepository<BackFill> repo)
+        public BackFill Save(IDocumentSession session)
         {
-            return repo.Put(this);
+            session.Store(this);
+            session.SaveChanges();
+            return this;
         }
 
-        public static BackFill Get(string id, IRepository<BackFill> repo)
+        public static BackFill Get(string id, IDocumentSession session)
         {
-            return repo.Get(id);
+            return session.Load<BackFill>(id);
         }
-        public static List<BackFill> Get(DateTime effectiveDate, IRepository<BackFill> repo)
+        public static List<BackFill> Get(DateTime effectiveDate, IDocumentSession session)
         {
-            return repo.Get(x => x.Date == effectiveDate);
+            return session.Query<BackFill>().Where(x => x.Date == effectiveDate).ToList();
         }
 
         public void Upgrade()

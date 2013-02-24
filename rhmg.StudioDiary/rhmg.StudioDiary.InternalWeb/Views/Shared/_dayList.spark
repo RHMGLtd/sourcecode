@@ -1,0 +1,7 @@
+﻿<use namespace="System.Linq"/>
+<div class="dayList">
+  <div class="hourLine" each="var thing in Enumerable.Range(10,14)">
+    <span class="hour">!{thing}:00</span>
+    <div class="entry"></div>
+  </div>
+</div>

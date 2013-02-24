@@ -226,7 +226,7 @@ namespace rhmg.StudioDiary.Tests
 
         Establish context = () => booking = Bookings.standard_4_hour_evening_rehearsal_booking;
 
-        Because of = () => booking = booking.Save(new Repository<Booking>(session));
+        Because of = () => booking = booking.Save(session);
 
         It has_provided_an_id = () => booking.Id.ShouldEqual("booking/1");
     }
@@ -238,10 +238,10 @@ namespace rhmg.StudioDiary.Tests
         Establish context = () =>
                                 {
                                     var bob = Bookings.standard_4_hour_evening_rehearsal_booking;
-                                    bob.Save(new Repository<Booking>(session));
+                                    bob.Save(session);
                                 };
 
-        Because of = () => booking = Booking.Get("booking/1", new Repository<Booking>(session));
+        Because of = () => booking = Booking.Get("booking/1", session);
 
         It has_loaded = () => booking.ShouldNotBeNull();
     }
@@ -283,19 +283,19 @@ namespace rhmg.StudioDiary.Tests
         Establish context = () =>
                                 {
                                     twoWeeksAgoAndCancelledWithNoNotice =
-                                        Booking.Create(new List<Contact> {Contacts.TheBeatles},
+                                        Booking.Create(new List<Contact> { Contacts.TheBeatles },
                                                        DateTime.Now.AddDays(-14),
-                                                       new TimePart {Hour = 18},
+                                                       new TimePart { Hour = 18 },
                                                        new TimeSpan(4, 0, 0), Rooms.room4, Rates.standardEveningRate);
                                     twoWeeksAgoAndCancelledWithNoNotice.Cancel(CancellationType.FullCost, "nobbers", twoWeeksAgoAndCancelledWithNoNotice.Date);
-                                    twoWeeksAgoAndCancelledWithNoNotice.Save(new Repository<Booking>(session));
+                                    twoWeeksAgoAndCancelledWithNoNotice.Save(session);
 
                                     oneWeekAgoAndComplete =
                                         Booking.Create(new List<Contact> { Contacts.TheBeatles },
                                                        DateTime.Now.AddDays(-7),
                                                        new TimePart { Hour = 18 },
                                                        new TimeSpan(4, 0, 0), Rooms.room4, Rates.standardEveningRate);
-                                    oneWeekAgoAndComplete.Save(new Repository<Booking>(session));
+                                    oneWeekAgoAndComplete.Save(session);
 
                                     thisWeekAndCancelledWithOneDayNotice =
                                         Booking.Create(new List<Contact> { Contacts.TheBeatles },
@@ -303,10 +303,10 @@ namespace rhmg.StudioDiary.Tests
                                                        new TimePart { Hour = 18 },
                                                        new TimeSpan(4, 0, 0), Rooms.room4, Rates.standardEveningRate);
                                     thisWeekAndCancelledWithOneDayNotice.Cancel(CancellationType.HalfCost, "nobbers", twoWeeksAgoAndCancelledWithNoNotice.Date.AddDays(-1));
-                                    thisWeekAndCancelledWithOneDayNotice.Save(new Repository<Booking>(session));
+                                    thisWeekAndCancelledWithOneDayNotice.Save(session);
                                 };
 
-        Because of = () => result = AccountsJobby.BookingsWithOutstandingOwings(new Repository<Booking>(session));
+        Because of = () => result = AccountsJobby.BookingsWithOutstandingOwings(session);
 
         It has_returned_two_results = () => result.Count.ShouldEqual(2);
     }
@@ -319,44 +319,45 @@ namespace rhmg.StudioDiary.Tests
         static List<CustomerArrears.Result> result;
 
         Establish context = () =>
-        {
-            twoWeeksAgoAndCancelledWithNoNotice =
-                Booking.Create(new List<Contact> { Contacts.TheBeatles },
-                               DateTime.Now.AddDays(-14),
-                               new TimePart { Hour = 18 },
-                               new TimeSpan(4, 0, 0), Rooms.room4, Rates.standardEveningRate);
-            twoWeeksAgoAndCancelledWithNoNotice.Cancel(CancellationType.FullCost, "nobbers", twoWeeksAgoAndCancelledWithNoNotice.Date);
-            twoWeeksAgoAndCancelledWithNoNotice.Save(new Repository<Booking>(session));
+                                {
+                                    Contacts.TheBeatles.Save(session);
 
-            oneWeekAgoAndComplete =
-                Booking.Create(new List<Contact> { Contacts.TheBeatles },
-                               DateTime.Now.AddDays(-7),
-                               new TimePart { Hour = 18 },
-                               new TimeSpan(4, 0, 0), Rooms.room4, Rates.standardEveningRate);
-            oneWeekAgoAndComplete.Save(new Repository<Booking>(session));
+                                    twoWeeksAgoAndCancelledWithNoNotice =
+                                        Booking.Create(new List<Contact> { Contacts.TheBeatles },
+                                                       DateTime.Now.AddDays(-14),
+                                                       new TimePart { Hour = 18 },
+                                                       new TimeSpan(4, 0, 0), Rooms.room4, Rates.standardEveningRate);
+                                    twoWeeksAgoAndCancelledWithNoNotice.Cancel(CancellationType.FullCost, "nobbers", twoWeeksAgoAndCancelledWithNoNotice.Date);
+                                    twoWeeksAgoAndCancelledWithNoNotice.Save(session);
 
-            thisWeekAndCancelledWithOneDayNotice =
-                Booking.Create(new List<Contact> { Contacts.TheBeatles },
-                               DateTime.Now,
-                               new TimePart { Hour = 18 },
-                               new TimeSpan(4, 0, 0), Rooms.room4, Rates.standardEveningRate);
-            thisWeekAndCancelledWithOneDayNotice.Cancel(CancellationType.HalfCost, "nobbers", twoWeeksAgoAndCancelledWithNoNotice.Date.AddDays(-1));
-            thisWeekAndCancelledWithOneDayNotice.Save(new Repository<Booking>(session));
-            wait();
-        };
+                                    oneWeekAgoAndComplete =
+                                        Booking.Create(new List<Contact> { Contacts.TheBeatles },
+                                                       DateTime.Now.AddDays(-7),
+                                                       new TimePart { Hour = 18 },
+                                                       new TimeSpan(4, 0, 0), Rooms.room4, Rates.standardEveningRate);
+                                    oneWeekAgoAndComplete.Save(session);
+
+                                    thisWeekAndCancelledWithOneDayNotice =
+                                        Booking.Create(new List<Contact> { Contacts.TheBeatles },
+                                                       DateTime.Now,
+                                                       new TimePart { Hour = 18 },
+                                                       new TimeSpan(4, 0, 0), Rooms.room4, Rates.standardEveningRate);
+                                    thisWeekAndCancelledWithOneDayNotice.Cancel(CancellationType.HalfCost, "nobbers", twoWeeksAgoAndCancelledWithNoNotice.Date.AddDays(-1));
+                                    thisWeekAndCancelledWithOneDayNotice.Save(session);
+                                    wait();
+                                };
 
         Because of = () =>
                         {
-                            result = AccountsJobby.CustomerArrears(new Repository<Booking>(session));
-                            twoWeeksAgoAndCancelledWithNoNotice = new Repository<Booking>(session).Get("booking/1");
-                            oneWeekAgoAndComplete = new Repository<Booking>(session).Get("booking/2");
-                            thisWeekAndCancelledWithOneDayNotice = new Repository<Booking>(session).Get("booking/3");
+                            result = AccountsJobby.CustomerArrears(session);
+                            twoWeeksAgoAndCancelledWithNoNotice = session.Load<Booking>("booking/1");
+                            oneWeekAgoAndComplete = session.Load<Booking>("booking/2");
+                            thisWeekAndCancelledWithOneDayNotice = session.Load<Booking>("booking/3");
                         };
 
         It has_returned_one_customer_result = () => result.Count.ShouldEqual(1);
-        It has_bob = () => twoWeeksAgoAndCancelledWithNoNotice.ShouldNotBeNull();
-        It has_bob2 = () => oneWeekAgoAndComplete.ShouldNotBeNull();
-        It has_bob3 = () => thisWeekAndCancelledWithOneDayNotice.ShouldNotBeNull();
+        It has_returned_the_correct_customer = () => result.First().Contact.Id.ShouldEqual("contact/1");
+        It has_returned_the_correct_owings = () => result.First().AmountOwed.ShouldEqual(37.50);
 
         It has_cancelled_first_one = () => twoWeeksAgoAndCancelledWithNoNotice.IsCancelled.ShouldBeTrue();
         It has_owings_on_first_one = () => twoWeeksAgoAndCancelledWithNoNotice.HasOutstandingOwings.ShouldBeTrue();
@@ -370,4 +371,144 @@ namespace rhmg.StudioDiary.Tests
 
         It has_created_the_index = () => store.DocumentDatabase.GetIndexDefinition("CustomerArrears").IsMapReduce.ShouldBeTrue();
     }
+
+    public class getting_arrears_for_one_customer : with_raven_integration<Booking, Booking>
+    {
+        static Booking twoWeeksAgoAndCancelledWithNoNotice;
+        static Booking oneWeekAgoAndComplete;
+        static Booking thisWeekAndCancelledWithOneDayNotice;
+        static CustomerArrears.Result result;
+
+        Establish context = () =>
+        {
+            Contacts.TheBeatles.Save(session);
+
+            twoWeeksAgoAndCancelledWithNoNotice =
+                Booking.Create(new List<Contact> { Contacts.TheBeatles },
+                               DateTime.Now.AddDays(-14),
+                               new TimePart { Hour = 18 },
+                               new TimeSpan(4, 0, 0), Rooms.room4, Rates.standardEveningRate);
+            twoWeeksAgoAndCancelledWithNoNotice.Cancel(CancellationType.FullCost, "nobbers", twoWeeksAgoAndCancelledWithNoNotice.Date);
+            twoWeeksAgoAndCancelledWithNoNotice.Save(session);
+
+            oneWeekAgoAndComplete =
+                Booking.Create(new List<Contact> { Contacts.TheBeatles },
+                               DateTime.Now.AddDays(-7),
+                               new TimePart { Hour = 18 },
+                               new TimeSpan(4, 0, 0), Rooms.room4, Rates.standardEveningRate);
+            oneWeekAgoAndComplete.Save(session);
+
+            thisWeekAndCancelledWithOneDayNotice =
+                Booking.Create(new List<Contact> { Contacts.TheBeatles },
+                               DateTime.Now,
+                               new TimePart { Hour = 18 },
+                               new TimeSpan(4, 0, 0), Rooms.room4, Rates.standardEveningRate);
+            thisWeekAndCancelledWithOneDayNotice.Cancel(CancellationType.HalfCost, "nobbers", twoWeeksAgoAndCancelledWithNoNotice.Date.AddDays(-1));
+            thisWeekAndCancelledWithOneDayNotice.Save(session);
+            wait();
+        };
+
+        Because of = () => result = Contacts.TheBeatles.GetArrears(session);
+
+        It has_returned_the_correct_customer = () => result.Contact.Id.ShouldEqual("contact/1");
+        It has_returned_the_correct_owings = () => result.AmountOwed.ShouldEqual(37.50);
+    }
+
+    public class when_arrears_are_shared_between_multiple_customers : with_raven_integration<Booking, Booking>
+    {
+        static Booking twoWeeksAgoAndCancelledWithNoNotice;
+        static Booking oneWeekAgoAndComplete;
+        static Booking thisWeekAndCancelledWithOneDayNotice;
+        static List<CustomerArrears.Result> result;
+
+        Establish context = () =>
+        {
+            Contacts.TheBeatles.Save(session);
+            Contacts.TheStones.Save(session);
+
+            twoWeeksAgoAndCancelledWithNoNotice =
+                Booking.Create(new List<Contact> { Contacts.TheBeatles, Contacts.TheStones },
+                               DateTime.Now.AddDays(-14),
+                               new TimePart { Hour = 18 },
+                               new TimeSpan(4, 0, 0), Rooms.room4, Rates.standardEveningRate);
+            twoWeeksAgoAndCancelledWithNoNotice.Cancel(CancellationType.FullCost, "nobbers", twoWeeksAgoAndCancelledWithNoNotice.Date);
+            twoWeeksAgoAndCancelledWithNoNotice.Save(session);
+
+            oneWeekAgoAndComplete =
+                Booking.Create(new List<Contact> { Contacts.TheBeatles, Contacts.TheStones },
+                               DateTime.Now.AddDays(-7),
+                               new TimePart { Hour = 18 },
+                               new TimeSpan(4, 0, 0), Rooms.room4, Rates.standardEveningRate);
+            oneWeekAgoAndComplete.Save(session);
+
+            thisWeekAndCancelledWithOneDayNotice =
+                Booking.Create(new List<Contact> { Contacts.TheBeatles, Contacts.TheStones },
+                               DateTime.Now,
+                               new TimePart { Hour = 18 },
+                               new TimeSpan(4, 0, 0), Rooms.room4, Rates.standardEveningRate);
+            thisWeekAndCancelledWithOneDayNotice.Cancel(CancellationType.HalfCost, "nobbers", twoWeeksAgoAndCancelledWithNoNotice.Date.AddDays(-1));
+            thisWeekAndCancelledWithOneDayNotice.Save(session);
+            wait();
+        };
+
+        Because of = () => result = AccountsJobby.CustomerArrears(session);
+
+        It has_returned_two_customer_results = () => result.Count.ShouldEqual(2);
+        It has_returned_the_correct_first_customer = () => result.First().Contact.Id.ShouldEqual("contact/1");
+        It has_returned_the_correct_first_owings = () => result.First().AmountOwed.ShouldEqual(37.50);
+        It has_returned_the_correct_second_customer = () => result.Last().Contact.Id.ShouldEqual("contact/2");
+        It has_returned_the_correct_second_owings = () => result.Last().AmountOwed.ShouldEqual(37.50);
+    }
+
+    public class getting_bookings_by_contact : with_raven_integration<Booking, Booking>
+    {
+        static Booking twoWeeksAgoAndCancelledWithNoNotice;
+        static Booking oneWeekAgoAndComplete;
+        static Booking thisWeekAndCancelledWithOneDayNotice;
+        static List<Bookings_ByContact.Result> result;
+        static List<Booking> beatlesBookings;
+        static List<Booking> stonesBookings;
+
+        Establish context = () =>
+        {
+            Contacts.TheBeatles.Save(session);
+            Contacts.TheStones.Save(session);
+            twoWeeksAgoAndCancelledWithNoNotice =
+            Booking.Create(new List<Contact> { Contacts.TheBeatles },
+                           DateTime.Now.AddDays(-14),
+                           new TimePart { Hour = 18 },
+                           new TimeSpan(4, 0, 0), Rooms.room4, Rates.standardEveningRate);
+            twoWeeksAgoAndCancelledWithNoNotice.Save(session);
+
+            oneWeekAgoAndComplete =
+                Booking.Create(new List<Contact> { Contacts.TheBeatles, Contacts.TheStones },
+                               DateTime.Now.AddDays(-7),
+                               new TimePart { Hour = 18 },
+                               new TimeSpan(4, 0, 0), Rooms.room4, Rates.standardEveningRate);
+            oneWeekAgoAndComplete.Save(session);
+
+            thisWeekAndCancelledWithOneDayNotice =
+                Booking.Create(new List<Contact> { Contacts.TheStones },
+                               DateTime.Now,
+                               new TimePart { Hour = 18 },
+                               new TimeSpan(4, 0, 0), Rooms.room4, Rates.standardEveningRate);
+            thisWeekAndCancelledWithOneDayNotice.Save(session);
+            wait();
+        };
+
+        Because of = () =>
+                         {
+                             result = session.Query<Bookings_ByContact.Result>("bookings/bycontact").ToList();
+                             beatlesBookings = Contact.Get(Contacts.TheBeatles.Id, session).Bookings;
+                             stonesBookings = Contact.Get(Contacts.TheStones.Id, session).Bookings;
+                         };
+
+        It has_got_two_results = () => result.Count.ShouldEqual(2);
+        It each_bookings_has_two_bookings = () => result.First().BookingIds.Length.ShouldEqual(2);
+        It beatles_have_two_bookings = () => beatlesBookings.Count.ShouldEqual(2);
+        It stones_have_two_bookings = () => stonesBookings.Count.ShouldEqual(2);
+
+    }
 }
+
+/*docs.Where(x => x.Contacts.Any(y => y.Id == contact.Id))*/

@@ -57,7 +57,7 @@ namespace rhmg.StudioDiary.Tests.Contexts
         }
         public static EmbeddableDocumentStore wait()
         {
-            store.DocumentDatabase.SpinBackgroundWorkers();
+            //store.DocumentDatabase.SpinBackgroundWorkers();
 
             while (store.DocumentDatabase.Statistics.StaleIndexes.Length > 0)
             {

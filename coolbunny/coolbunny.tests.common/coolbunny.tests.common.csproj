@@ -48,12 +48,6 @@
     <OutputPath>bin\Web site\</OutputPath>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Castle.Core">
-      <HintPath>..\..\lib\castle_windsor\Castle.Core.dll</HintPath>
-    </Reference>
-    <Reference Include="Castle.Windsor">
-      <HintPath>..\..\lib\castle_windsor\Castle.Windsor.dll</HintPath>
-    </Reference>
     <Reference Include="Castle.Windsor.Lifestyles">
       <HintPath>..\..\lib\castle_windsor\Castle.Windsor.Lifestyles.dll</HintPath>
     </Reference>
@@ -128,12 +122,6 @@
     <Compile Include="contexts\with_auto_mocking.cs" />
     <Compile Include="contexts\with_controller.cs" />
     <Compile Include="contexts\with_service.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\coolbunny.common\coolbunny.common.csproj">
-      <Project>{E9309763-E4F0-448D-85CD-F8ABD7A53FAF}</Project>
-      <Name>coolbunny.common</Name>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <Content Include="IMG_0655.JPG" />

@@ -1,0 +1,42 @@
+﻿<viewdata model="rhmg.StudioDiary.InternalWeb.ViewModels.EditRateModel" />
+
+<content name="head">
+  <title>Edit a Rate</title>
+</content>
+
+<content name="body">
+  <div class="header">
+    <h1>Edit a Rate</h1>
+  </div>
+  <form method="post">
+    <input type="hidden" name="RateId" value="!{Model.RateId}" />
+    <div id="description">
+      Please provide a description for this rate:
+      <input type="text" name="Description" id="DescriptionInput" value="!{Model.Description}"/>
+    </div>
+    <div id="perAmount">
+      Please provide the "per days" 
+      <input type="text" name="DaysPer" id="DaysPerInput" value="!{Model.DaysPer}"/>
+      , "per hours" 
+      <input type="text" name="HoursPer" id="HoursPerInput" value="!{Model.HoursPer}"/>
+      and "per minutes" for this rate
+      <input type="text" name="MinutesPer" id="MinutesPerInput" value="!{Model.MinutesPer}"/>
+    </div>
+    <div id="poundsAmount">
+      How much should the charge be for the specified time?
+      <input type="text" name="PoundsAmount" id="PoundsAmountInput" value="!{Model.PoundsAmount}"/>
+    </div>
+    <button type="submit">save</button>
+  </form>
+  <hr />
+  <h1>
+    Current rates in the system:
+  </h1>
+  <p if="Model.CurrentRates.Count == 0">No rates to display</p>
+  <div each="var rate in Model.CurrentRates">
+    <span>!{rate.Description}</span>
+    <span>
+      <a href="/Admin/Rates/!{rate.Id}">edit...</a>
+    </span>
+  </div>
+</content>

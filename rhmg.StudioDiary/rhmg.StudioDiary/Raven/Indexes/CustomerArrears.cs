@@ -7,8 +7,10 @@ namespace rhmg.StudioDiary.Raven.Indexes
     {
         public class Result
         {
-            public string Contact { get; set; }
+            public string ContactId { get; set; }
             public double AmountOwed { get; set; }
+            public Contact Contact { get; set; }
+            public string[] BookingIds { get; set; }
         }
 
         public CustomerArrears()
@@ -18,21 +20,32 @@ namespace rhmg.StudioDiary.Raven.Indexes
                           from contact in booking.Contacts
                           select new
                                      {
-                                         Contact = contact.Id,
-                                         AmountOwed = booking.CurrentlyOwed
+                                         ContactId = contact.Id,
+                                         AmountOwed = booking.CurrentlyOwed,
+                                         BookingIds = new[] { booking.Id }
                                      };
             Reduce = results => from result in results
-                                group result by
-                                new
-                                {
-                                    result.Contact
-                                }
+                                group result by result.ContactId
                                     into g
                                     select new
                                            {
-                                               g.Key.Contact,
-                                               AmountOwed = g.Sum(x => x.AmountOwed)
+                                               ContactId = g.Key,
+                                               AmountOwed = g.Sum(x => x.AmountOwed),
+                                               BookingIds = from b in g.SelectMany(x => x.BookingIds)
+                                                            group b by b
+                                                                into b2
+                                                                select b2.Key
                                            };
+            TransformResults =
+            (database, results) => from result in results
+                                   let contact = database.Load<Contact>(result.ContactId)
+                                     select new
+                                     {
+                                         result.ContactId,
+                                         result.AmountOwed,
+                                         Contact = contact,
+                                         result.BookingIds
+                                     };
         }
     }
 }

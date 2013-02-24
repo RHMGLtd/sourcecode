@@ -20,10 +20,8 @@ namespace rhmg.StudioDiary
             var dateInMonth = new DateTime(date.Year, date.Month, 1);
             while (dateInMonth.Month == date.Month)
             {
-
                 // get any bookings for this date which are peak time
                 var thisDaysBookings = bookings.Where(x => x.Date == dateInMonth);
-                // if we have four or more bookings then we are full
                 WithPeakAvailability.Add(new DaySummary(dateInMonth, thisDaysBookings));
                 dateInMonth = dateInMonth.AddDays(1);
             }

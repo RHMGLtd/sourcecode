@@ -20,7 +20,7 @@ _ReSharper.*
 ~$*
 **/*.orig
 .sass-cache
-*App_Data/attachments/*
+*App_Data/*
 *.Publish.xml
 *.crunchproject.local.xml
 *.crunchsolution.local.xml
