@@ -1,9 +1,0 @@
-<div if="!Model.Metadata.IsEmpty()" class="metadata">
-  <content name="css">
-    <link href="~/content/metadata.css" rel="stylesheet" type="text/css" />
-  </content>
-  <venueContactDetails />
-  <img if="!string.IsNullOrEmpty(Model.Metadata.MainImageName)" src="~/Content/Export/Venues/Images/!{Model.Metadata.MainImageName}" alt="picture of venue !{Model.Metadata.VenueName}" title="picture of venue !{Model.Metadata.VenueName}" width="180px"></img>
-  <venueMap />
-</div>
-<div class="metadataClear"></div>

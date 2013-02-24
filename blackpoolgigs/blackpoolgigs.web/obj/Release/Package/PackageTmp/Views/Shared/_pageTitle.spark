@@ -1,5 +1,0 @@
-  <div class="pageTitle">
-    <a href="!{new HomeUrl()}" alt="click to go to the home page of blackpool gigs, for gigs and events in blackpool, lancashire" title="click to go to the home page of blackpool gigs, for gigs and events in blackpool, lancashire">
-      <img src="~/content/images/Blackpool-Gigs-Logo---The-place-to-find-out-about-gigs-in-Blackpool-Lancashire.png" alt="Blackpool Gigs - The place for live music and events in Blackpool, Lancashire" title="Blackpool Gigs - The place for live music and events in Blackpool, Lancashire"></img>
-    </a>
-  </div>

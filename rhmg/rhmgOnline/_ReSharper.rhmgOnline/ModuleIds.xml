@@ -1,7 +1,0 @@
-<Modules>
-  <Module PersistentId="9D063728-F4D9-4B7D-9703-ACDF42CD9FE8" ModuleId="rhmgOnline" />
-  <Module PersistentId="E9309763-E4F0-448D-85CD-F8ABD7A53FAF" ModuleId="coolbunny.common" />
-  <Module PersistentId="7CEE7A03-0060-4506-A86F-CF32063A2102" ModuleId="coolbunny.web.common" />
-  <Module PersistentId="3F840DDA-AFFD-46B4-BB70-B57465D6B0BD" ModuleId="rhmgOnline.tests" />
-  <Module PersistentId="6E90B152-151B-4DC7-9A05-6F0BC0436FB1" ModuleId="coolbunny.tests.common" />
-</Modules>

@@ -1,9 +1,0 @@
-R# version: 5.1.1766.4
-assembly Machine.Specifications, Version=0.3.0.0, Culture=neutral, PublicKeyToken=5c474de7a495cff1
-  file C:\business websites\lib\mspec\Machine.Specifications.dll mtime 04/02/2011 16:00:56
-referenced assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
-  file C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorlib.dll mtime 18/03/2010 12:16:28
-referenced assembly System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
-  file C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll mtime 18/03/2010 18:31:26
-referenced assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
-  file C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll mtime 18/03/2010 18:31:26

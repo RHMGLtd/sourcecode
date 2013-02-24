@@ -1,1 +1,0 @@
-<a href="!{new DayUrl(date)}" alt="click to see all gigs taking place in Blackpool on !{date.ToString('dd MMM yyyy')}" title="click to see all gigs taking place in Blackpool on !{date.ToString('dd MMM yyyy')}">!{date.ToString("dd MMM yyyy")}</a>
