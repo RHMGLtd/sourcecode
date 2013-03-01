@@ -1,0 +1,10 @@
+﻿<h1>
+  Current additional equipment in the system:
+</h1>
+<p if="equipment.Count == 0">No additional equipment to display</p>
+<div each="var eq in equipment">
+  <span>!{eq.Description}</span>
+  <span>
+    <a href="/Admin/!{eq.Id}">edit...</a>
+  </span>
+</div>

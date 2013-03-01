@@ -10,26 +10,7 @@
   </div>
   <form method="post">
     <input type="hidden" name="RoomId" value="!{Model.RoomId}" />
-    <div id="phoneNumber">
-      Please provide a name for this room:
-      <input type="text" name="Name" id="NameInput" value="!{Model.Name}"/>
-    </div>
-    <div id="rates">
-      Please select all rates you want to apply for this room:
-      <select name="RateIds" multiple="multiple" size="5" >
-        <option each="var rate in Model.AvailableRates" value="!{rate.Id}" selected="?{Model.RateIds.Contains(rate.Id)}">!{rate.Description}</option>
-      </select>
-    </div>
-    <button type="submit">save</button>
+    <room />
   </form>
-  <h1>
-    Current rooms in the system:
-  </h1>
-  <p if="Model.CurrentRooms.Count == 0">No rooms to display</p>
-  <div each="var room in Model.CurrentRooms">
-    <span>!{room.Name}</span>
-    <span>
-      <a href="/Admin/!{room.Id}">edit...</a>
-    </span>
-  </div>
+  <existingRooms rooms="Model.CurrentRooms" />
 </content>

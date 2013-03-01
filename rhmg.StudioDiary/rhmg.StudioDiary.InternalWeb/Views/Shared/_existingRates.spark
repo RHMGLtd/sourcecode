@@ -1,0 +1,10 @@
+﻿<h1>
+  Current rates in the system:
+</h1>
+<p if="rates.Count == 0">No rates to display</p>
+<div each="var rate in rates">
+  <span>!{rate.Description}</span>
+  <span>
+    <a href="/Admin/!{rate.Id}">edit...</a>
+  </span>
+</div>

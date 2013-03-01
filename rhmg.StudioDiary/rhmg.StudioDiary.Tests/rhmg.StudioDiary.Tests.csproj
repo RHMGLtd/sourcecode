@@ -134,7 +134,7 @@
     <Compile Include="Contexts\test_entities\Contacts.cs" />
     <Compile Include="Contexts\test_entities\Dates.cs" />
     <Compile Include="Contexts\test_entities\Rates.cs" />
-    <Compile Include="Contexts\test_entities\Rooms.cs" />
+    <Compile Include="Contexts\test_entities\TestRooms.cs" />
     <Compile Include="Contexts\with_auto_mocking.cs" />
     <Compile Include="Contexts\with_booking.cs" />
     <Compile Include="Contexts\with_contact.cs" />
@@ -142,6 +142,7 @@
     <Compile Include="Contexts\with_service.cs" />
     <Compile Include="DoingBookingStuff.cs" />
     <Compile Include="ExtensionTests.cs" />
+    <Compile Include="MakeBookingModelTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="DiaryViewGubbins.cs" />
     <Compile Include="TimePartTests.cs" />

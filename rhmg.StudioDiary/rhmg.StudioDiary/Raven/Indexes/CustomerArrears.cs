@@ -17,10 +17,9 @@ namespace rhmg.StudioDiary.Raven.Indexes
         {
             Map = docs => from booking in docs
                           where booking.IsCancelled && booking.HasOutstandingOwings
-                          from contact in booking.Contacts
                           select new
                                      {
-                                         ContactId = contact.Id,
+                                         ContactId = booking.MainContactId,
                                          AmountOwed = booking.CurrentlyOwed,
                                          BookingIds = new[] { booking.Id }
                                      };

@@ -14,26 +14,28 @@ namespace rhmg.StudioDiary.Tests
             static WeekToAView thisWeek;
 
             Establish context = () =>
-            {
-                var st = new TimePart
-                {
-                    Hour = 12
-                };
-                var mondayBooking = Booking.Create(new List<Contact> { Contacts.TheBeatles }, Dates.monday, st, new TimeSpan(4, 0, 0), Rooms.room4, Rates.standardEveningRate);
-                var tuesdayBooking = Booking.Create(new List<Contact> { Contacts.TheBeatles }, Dates.tuesday, st, new TimeSpan(4, 0, 0), Rooms.room4, Rates.standardEveningRate);
-                var wednesdayBooking = Booking.Create(new List<Contact> { Contacts.TheBeatles }, Dates.wednesday, st, new TimeSpan(4, 0, 0), Rooms.room4, Rates.standardEveningRate);
-                var thursdayBooking = Booking.Create(new List<Contact> { Contacts.TheBeatles }, Dates.thursday, st, new TimeSpan(4, 0, 0), Rooms.room4, Rates.standardEveningRate);
-                var fridayBooking = Booking.Create(new List<Contact> { Contacts.TheBeatles }, Dates.friday, st, new TimeSpan(4, 0, 0), Rooms.room4, Rates.standardEveningRate);
-                var saturdayBooking = Booking.Create(new List<Contact> { Contacts.TheBeatles }, Dates.saturday, st, new TimeSpan(4, 0, 0), Rooms.room4, Rates.standardEveningRate);
-                var sundayBooking = Booking.Create(new List<Contact> { Contacts.TheBeatles }, Dates.sunday, st, new TimeSpan(4, 0, 0), Rooms.room4, Rates.standardEveningRate);
-                mondayBooking.Save(session);
-                tuesdayBooking.Save(session);
-                wednesdayBooking.Save(session);
-                thursdayBooking.Save(session);
-                fridayBooking.Save(session);
-                saturdayBooking.Save(session);
-                sundayBooking.Save(session);
-            };
+                                    {
+                                        var theBeatles = Contacts.TheBeatles;
+                                        theBeatles.Save(session);
+                                        var st = new TimePart
+                                        {
+                                            Hour = 12
+                                        };
+                                        var mondayBooking = Booking.Create(theBeatles.Id, Dates.monday, st, new TimeSpan(4, 0, 0), TestRooms.room4, Rates.standardEveningRate);
+                                        var tuesdayBooking = Booking.Create(theBeatles.Id, Dates.tuesday, st, new TimeSpan(4, 0, 0), TestRooms.room4, Rates.standardEveningRate);
+                                        var wednesdayBooking = Booking.Create(theBeatles.Id, Dates.wednesday, st, new TimeSpan(4, 0, 0), TestRooms.room4, Rates.standardEveningRate);
+                                        var thursdayBooking = Booking.Create(theBeatles.Id, Dates.thursday, st, new TimeSpan(4, 0, 0), TestRooms.room4, Rates.standardEveningRate);
+                                        var fridayBooking = Booking.Create(theBeatles.Id, Dates.friday, st, new TimeSpan(4, 0, 0), TestRooms.room4, Rates.standardEveningRate);
+                                        var saturdayBooking = Booking.Create(theBeatles.Id, Dates.saturday, st, new TimeSpan(4, 0, 0), TestRooms.room4, Rates.standardEveningRate);
+                                        var sundayBooking = Booking.Create(theBeatles.Id, Dates.sunday, st, new TimeSpan(4, 0, 0), TestRooms.room4, Rates.standardEveningRate);
+                                        mondayBooking.Save(session);
+                                        tuesdayBooking.Save(session);
+                                        wednesdayBooking.Save(session);
+                                        thursdayBooking.Save(session);
+                                        fridayBooking.Save(session);
+                                        saturdayBooking.Save(session);
+                                        sundayBooking.Save(session);
+                                    };
 
             Because and_we_ask_for_the_week_to_a_view = () =>
                                                             {
@@ -42,21 +44,25 @@ namespace rhmg.StudioDiary.Tests
                                                                         Dates.monday, session);
                                                             };
 
-            It has_an_entry_for_monday = () => thisWeek.Monday.Bookings.ShouldNotBeEmpty();
+            It has_the_contact_on_the_booking_on_monday =
+                () => thisWeek.Monday.Bookings.Bookings.First().MainContact.ShouldNotBeNull();
+
+            It has_an_entry_for_monday = () => thisWeek.Monday.Bookings.Bookings.ShouldNotBeEmpty();
             It has_the_correct_date_for_monday = () => thisWeek.Monday.Date.ShouldEqual(Dates.monday);
-            It has_an_entry_for_tuesday = () => thisWeek.Tuesday.Bookings.ShouldNotBeEmpty();
-            It has_an_entry_for_wednesday = () => thisWeek.Wednesday.Bookings.ShouldNotBeEmpty();
-            It has_an_entry_for_thursday = () => thisWeek.Thursday.Bookings.ShouldNotBeEmpty();
+            It has_an_entry_for_tuesday = () => thisWeek.Tuesday.Bookings.Bookings.ShouldNotBeEmpty();
+            It has_an_entry_for_wednesday = () => thisWeek.Wednesday.Bookings.Bookings.ShouldNotBeEmpty();
+            It has_an_entry_for_thursday = () => thisWeek.Thursday.Bookings.Bookings.ShouldNotBeEmpty();
             It has_the_correct_date_for_thursday = () => thisWeek.Thursday.Date.ShouldEqual(Dates.thursday);
-            It has_an_entry_for_friday = () => thisWeek.Friday.Bookings.ShouldNotBeEmpty();
-            It has_an_entry_for_saturday = () => thisWeek.Saturday.Bookings.ShouldNotBeEmpty();
-            It has_an_entry_for_sunday = () => thisWeek.Sunday.Bookings.ShouldNotBeEmpty();
+            It has_an_entry_for_friday = () => thisWeek.Friday.Bookings.Bookings.ShouldNotBeEmpty();
+            It has_an_entry_for_saturday = () => thisWeek.Saturday.Bookings.Bookings.ShouldNotBeEmpty();
+            It has_an_entry_for_sunday = () => thisWeek.Sunday.Bookings.Bookings.ShouldNotBeEmpty();
             It has_the_correct_date_for_sunday = () => thisWeek.Sunday.Date.ShouldEqual(Dates.sunday);
         }
 
         public class when_we_are_full_on_one_day : with_raven_integration<Booking, Booking>
         {
             static WeekToAView thisWeek;
+            static Contact _theBeatles;
 
             Establish context = () =>
             {
@@ -64,10 +70,11 @@ namespace rhmg.StudioDiary.Tests
                 {
                     Hour = 19
                 };
-                var room2Booking = Booking.Create(new List<Contact> { Contacts.TheBeatles }, Dates.monday, st, new TimeSpan(4, 0, 0), Rooms.room2, Rates.standardEveningRate);
-                var room3Booking = Booking.Create(new List<Contact> { Contacts.TheBeatles }, Dates.monday, st, new TimeSpan(4, 0, 0), Rooms.room3, Rates.standardEveningRate);
-                var room4Booking = Booking.Create(new List<Contact> { Contacts.TheBeatles }, Dates.monday, st, new TimeSpan(4, 0, 0), Rooms.room4, Rates.standardEveningRate);
-                var liveRoomBooking = Booking.Create(new List<Contact> { Contacts.TheBeatles }, Dates.monday, st, new TimeSpan(4, 0, 0), Rooms.liveRoom, Rates.liveRoomEveningRate);
+                _theBeatles = Contacts.TheBeatles.Save(session);
+                var room2Booking = Booking.Create(_theBeatles.Id, Dates.monday, st, new TimeSpan(4, 0, 0), TestRooms.room2, Rates.standardEveningRate);
+                var room3Booking = Booking.Create(_theBeatles.Id, Dates.monday, st, new TimeSpan(4, 0, 0), TestRooms.room3, Rates.standardEveningRate);
+                var room4Booking = Booking.Create(_theBeatles.Id, Dates.monday, st, new TimeSpan(4, 0, 0), TestRooms.room4, Rates.standardEveningRate);
+                var liveRoomBooking = Booking.Create(_theBeatles.Id, Dates.monday, st, new TimeSpan(4, 0, 0), TestRooms.liveRoom, Rates.liveRoomEveningRate);
                 room2Booking.Save(session);
                 room3Booking.Save(session);
                 room4Booking.Save(session);
@@ -81,12 +88,12 @@ namespace rhmg.StudioDiary.Tests
                         Dates.monday, session);
             };
 
-            It has_an_entry_for_monday = () => thisWeek.Monday.Bookings.ShouldNotBeEmpty();
-            It has_an_entry_for_room_2_on_the_monday = () => thisWeek.Monday.ForRoom(Rooms.room2).ShouldNotBeEmpty();
-            It has_an_entry_for_room_3_on_the_monday = () => thisWeek.Monday.ForRoom(Rooms.room3).ShouldNotBeEmpty();
-            It has_an_entry_for_room_4_on_the_monday = () => thisWeek.Monday.ForRoom(Rooms.room4).ShouldNotBeEmpty();
-            It has_an_entry_for_live_room_on_the_monday = () => thisWeek.Monday.ForRoom(Rooms.liveRoom).ShouldNotBeEmpty();
-            It has_an_entry_for_control_room_on_the_monday = () => thisWeek.Monday.ForRoom(Rooms.controlRoom).ShouldBeEmpty();
+            It has_an_entry_for_monday = () => thisWeek.Monday.Bookings.Bookings.ShouldNotBeEmpty();
+            It has_an_entry_for_room_2_on_the_monday = () => thisWeek.Monday.ForRoom(TestRooms.room2).Bookings.ShouldNotBeEmpty();
+            It has_an_entry_for_room_3_on_the_monday = () => thisWeek.Monday.ForRoom(TestRooms.room3).Bookings.ShouldNotBeEmpty();
+            It has_an_entry_for_room_4_on_the_monday = () => thisWeek.Monday.ForRoom(TestRooms.room4).Bookings.ShouldNotBeEmpty();
+            It has_an_entry_for_live_room_on_the_monday = () => thisWeek.Monday.ForRoom(TestRooms.liveRoom).Bookings.ShouldNotBeEmpty();
+            It has_an_entry_for_control_room_on_the_monday = () => thisWeek.Monday.ForRoom(TestRooms.controlRoom).Bookings.ShouldBeEmpty();
         }
     }
 
@@ -106,12 +113,12 @@ namespace rhmg.StudioDiary.Tests
                 {
                     Hour = 19
                 };
-                var room2Booking = Booking.Create(new List<Contact> { Contacts.TheBeatles }, Dates.monday, sixPM, new TimeSpan(4, 0, 0), Rooms.room2, Rates.standardEveningRate);
-                var room3Booking = Booking.Create(new List<Contact> { Contacts.TheBeatles }, Dates.monday, sevenPM, new TimeSpan(4, 0, 0), Rooms.room3, Rates.standardEveningRate);
-                var room4Booking = Booking.Create(new List<Contact> { Contacts.TheBeatles }, Dates.monday, sevenPM, new TimeSpan(4, 0, 0), Rooms.room4, Rates.standardEveningRate);
-                var liveRoomBooking = Booking.Create(new List<Contact> { Contacts.TheBeatles }, Dates.monday, sevenPM, new TimeSpan(4, 0, 0), Rooms.liveRoom, Rates.liveRoomEveningRate);
+                var room2Booking = Booking.Create(Contacts.TheBeatles.Id, Dates.monday, sixPM, new TimeSpan(4, 0, 0), TestRooms.room2, Rates.standardEveningRate);
+                var room3Booking = Booking.Create(Contacts.TheBeatles.Id, Dates.monday, sevenPM, new TimeSpan(4, 0, 0), TestRooms.room3, Rates.standardEveningRate);
+                var room4Booking = Booking.Create(Contacts.TheBeatles.Id, Dates.monday, sevenPM, new TimeSpan(4, 0, 0), TestRooms.room4, Rates.standardEveningRate);
+                var liveRoomBooking = Booking.Create(Contacts.TheBeatles.Id, Dates.monday, sevenPM, new TimeSpan(4, 0, 0), TestRooms.liveRoom, Rates.liveRoomEveningRate);
 
-                var tuesdayRoom3Booking = Booking.Create(new List<Contact> { Contacts.TheBeatles }, Dates.tuesday, sevenPM, new TimeSpan(4, 0, 0), Rooms.room3, Rates.standardEveningRate);
+                var tuesdayRoom3Booking = Booking.Create(Contacts.TheBeatles.Id, Dates.tuesday, sevenPM, new TimeSpan(4, 0, 0), TestRooms.room3, Rates.standardEveningRate);
 
                 room2Booking.Save(session);
                 room3Booking.Save(session);
@@ -142,7 +149,7 @@ namespace rhmg.StudioDiary.Tests
                 {
                     Hour = 10
                 };
-                var liveRoomBooking = Booking.Create(new List<Contact> { Contacts.TheBeatles }, Dates.saturday, time, new TimeSpan(8, 0, 0), Rooms.liveRoom, Rates.liveRoomEveningRate);
+                var liveRoomBooking = Booking.Create(Contacts.TheBeatles.Id, Dates.saturday, time, new TimeSpan(8, 0, 0), TestRooms.liveRoom, Rates.liveRoomEveningRate);
 
                 liveRoomBooking.Save(session);
             };
@@ -165,7 +172,7 @@ namespace rhmg.StudioDiary.Tests
                 {
                     Hour = 10
                 };
-                var liveRoomBooking = Booking.Create(new List<Contact> { Contacts.TheBeatles }, Dates.saturday, time, new TimeSpan(4, 0, 0), Rooms.liveRoom, Rates.liveRoomEveningRate);
+                var liveRoomBooking = Booking.Create(Contacts.TheBeatles.Id, Dates.saturday, time, new TimeSpan(4, 0, 0), TestRooms.liveRoom, Rates.liveRoomEveningRate);
 
                 liveRoomBooking.Save(session);
             };
@@ -193,10 +200,10 @@ namespace rhmg.StudioDiary.Tests
                 {
                     Hour = 16
                 };
-                var liveRoomBooking1 = Booking.Create(new List<Contact> { Contacts.TheBeatles }, Dates.saturday, ten, new TimeSpan(4, 0, 0), Rooms.liveRoom, Rates.liveRoomEveningRate);
+                var liveRoomBooking1 = Booking.Create(Contacts.TheBeatles.Id, Dates.saturday, ten, new TimeSpan(4, 0, 0), TestRooms.liveRoom, Rates.liveRoomEveningRate);
 
                 liveRoomBooking1.Save(session);
-                var liveRoomBooking2 = Booking.Create(new List<Contact> { Contacts.TheBeatles }, Dates.saturday, four, new TimeSpan(4, 0, 0), Rooms.liveRoom, Rates.liveRoomEveningRate);
+                var liveRoomBooking2 = Booking.Create(Contacts.TheBeatles.Id, Dates.saturday, four, new TimeSpan(4, 0, 0), TestRooms.liveRoom, Rates.liveRoomEveningRate);
 
                 liveRoomBooking2.Save(session);
             };

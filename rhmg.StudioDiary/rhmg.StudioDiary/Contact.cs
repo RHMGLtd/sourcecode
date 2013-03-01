@@ -41,7 +41,7 @@ namespace rhmg.StudioDiary
         public static Contact GetByPhone(string phoneNumber, IDocumentSession session)
         {
             var result = session.Advanced.LuceneQuery<Contact>()
-                .WhereEquals(x => x.PhoneNumber, phoneNumber).FirstOrDefault();
+                .WhereEquals(x => x.PhoneNumber, phoneNumber).WaitForNonStaleResults().FirstOrDefault();
             if (result != null)
                 AddBookingsToContactLazily(session, result);
             return result;

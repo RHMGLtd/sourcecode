@@ -1,0 +1,10 @@
+﻿<h1>
+  Current rooms in the system:
+</h1>
+<p if="rooms.Count == 0">No rooms to display</p>
+<div each="var room in rooms">
+  <span>!{room.Name} (!{room.DisplayOrder})</span>
+  <span>
+    <a href="/Admin/!{room.Id}">edit...</a>
+  </span>
+</div>

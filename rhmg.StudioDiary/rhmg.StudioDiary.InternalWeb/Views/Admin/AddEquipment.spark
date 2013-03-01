@@ -9,25 +9,8 @@
     <h1>Add Additional Equipment</h1>
   </div>
   <form method="post">
-    <div id="description">
-      Please provide a description for this equipment:
-      <input type="text" name="Description" id="DescriptionInput"/>
-    </div>
-    <div id="unitCost">
-      What is the unit cost of this equipment?
-      <input type="text" name="UnitCost" id="UnitCostInput"/>
-    </div>
-    <button type="submit">save</button>
+    <equipment />
   </form>
   <hr />
-  <h1>
-    Current additional equipment in the system:
-  </h1>
-  <p if="Model.CurrentEquipment.Count == 0">No additional equipment to display</p>
-  <div each="var equipment in Model.CurrentEquipment">
-    <span>!{equipment.Description}</span>
-    <span>
-      <a href="/Admin/Rates/!{equipment.Id}">edit...</a>
-    </span>
-  </div>
+  <existingEquipment equipment="Model.CurrentEquipment" />
 </content>

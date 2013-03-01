@@ -1,13 +1,15 @@
 ﻿using System;
 using System.Web;
+using Nancy;
 
 namespace rhmg.StudioDiary.InternalWeb
 {
     public class Global : HttpApplication
     {
-
         void Application_Start(object sender, EventArgs e)
         {
+            StaticConfiguration.Caching.EnableRuntimeViewUpdates = true;
+            //StaticConfiguration.Caching.EnableRuntimeViewDiscovery = true;
         }
 
         void Application_End(object sender, EventArgs e)

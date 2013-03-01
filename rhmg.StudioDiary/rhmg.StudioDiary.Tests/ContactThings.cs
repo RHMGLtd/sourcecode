@@ -34,9 +34,9 @@ namespace rhmg.StudioDiary.Tests
 
         Establish context = () =>
                                 {
-                                    var contact = Contacts.TheBeatles.Save(session);
+                                    var bob = Contacts.TheBeatles.Save(session);
                                     var booking = Bookings.standard_4_hour_evening_rehearsal_booking;
-                                    booking.Contacts = new List<Contact> { contact };
+                                    booking.MainContactId = bob.Id;
                                     booking.Save(session);
                                     wait();
                                 };
@@ -55,31 +55,33 @@ namespace rhmg.StudioDiary.Tests
         static Booking twoWeeksAgoAndCancelledWithNoNotice;
         static Booking oneWeekAgoAndComplete;
         static Booking thisWeekAndCancelledWithOneDayNotice;
+        static Contact _theBeatles;
 
         Establish context = () =>
                                 {
-                                    Contacts.TheBeatles.Save(session);
+                                    _theBeatles = Contacts.TheBeatles.Save(session);
+                                    _theBeatles.Save(session);
                                     twoWeeksAgoAndCancelledWithNoNotice =
-                                        Booking.Create(new List<Contact> { Contacts.TheBeatles },
+                                        Booking.Create(_theBeatles.Id,
                                                        DateTime.Now.AddDays(-14),
                                                        new TimePart { Hour = 18 },
-                                                       new TimeSpan(4, 0, 0), Rooms.room4, Rates.standardEveningRate);
+                                                       new TimeSpan(4, 0, 0), TestRooms.room4, Rates.standardEveningRate);
                                     twoWeeksAgoAndCancelledWithNoNotice.Cancel(CancellationType.FullCost, "nobbers",
                                                                                twoWeeksAgoAndCancelledWithNoNotice.Date);
                                     twoWeeksAgoAndCancelledWithNoNotice.Save(session);
 
-                                    oneWeekAgoAndComplete = Booking.Create(new List<Contact> { Contacts.TheBeatles },
+                                    oneWeekAgoAndComplete = Booking.Create(_theBeatles.Id,
                                                                            DateTime.Now.AddDays(-7),
                                                                            new TimePart { Hour = 18 },
-                                                                           new TimeSpan(4, 0, 0), Rooms.room4,
+                                                                           new TimeSpan(4, 0, 0), TestRooms.room4,
                                                                            Rates.standardEveningRate);
                                     oneWeekAgoAndComplete.Save(session);
 
                                     thisWeekAndCancelledWithOneDayNotice =
-                                        Booking.Create(new List<Contact> { Contacts.TheBeatles },
+                                        Booking.Create(_theBeatles.Id,
                                                        DateTime.Now,
                                                        new TimePart { Hour = 18 },
-                                                       new TimeSpan(4, 0, 0), Rooms.room4, Rates.standardEveningRate);
+                                                       new TimeSpan(4, 0, 0), TestRooms.room4, Rates.standardEveningRate);
                                     thisWeekAndCancelledWithOneDayNotice.Cancel(CancellationType.HalfCost, "nobbers",
                                                                                 twoWeeksAgoAndCancelledWithNoNotice.Date
                                                                                     .AddDays(-1));
@@ -89,9 +91,9 @@ namespace rhmg.StudioDiary.Tests
 
         Because of = () =>
         {
-            Contacts.TheBeatles.ApplyRefund(10.00, session);
+            _theBeatles.ApplyRefund(10.00, session);
             wait();
         };
-        It has_reduced_the_owings = () => Contacts.TheBeatles.CurrentlyOverdue(session).ShouldEqual(27.50);
+        It has_reduced_the_owings = () => _theBeatles.CurrentlyOverdue(session).ShouldEqual(27.50);
     }
 }

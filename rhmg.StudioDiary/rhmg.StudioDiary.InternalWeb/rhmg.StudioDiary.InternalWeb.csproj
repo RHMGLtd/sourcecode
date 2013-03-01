@@ -140,9 +140,12 @@
     <Content Include="Content\dark-hive\images\ui-icons_ffffff_256x240.png" />
     <Content Include="Content\dark-hive\jquery-ui-1.10.1.custom.css" />
     <Content Include="Content\dark-hive\jquery-ui-1.10.1.custom.min.css" />
+    <Content Include="Content\Images\arrow-left.gif" />
+    <Content Include="Content\Images\arrow-right.gif" />
     <Content Include="Content\Images\calendar.gif" />
     <Content Include="Content\jquery.ui.timepicker.css" />
     <Content Include="Content\Scripts\contact.lookup.impl.js" />
+    <Content Include="Content\Scripts\weekpicker.impl.js" />
     <Content Include="Content\Scripts\rate.lookup.impl.js" />
     <Content Include="Content\Scripts\datepicker.impl.js" />
     <Content Include="Content\Scripts\jquery-1.9.1.js" />
@@ -221,6 +224,24 @@
     <None Include="Views\Admin\AddEquipment.spark">
       <SubType>Designer</SubType>
     </None>
+    <None Include="Views\Shared\_existingRooms.spark">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Views\Shared\_existingRates.spark">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Views\Shared\_existingEquipment.spark">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Views\Admin\_room.spark">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Views\Admin\_rate.spark">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Views\Admin\_equipment.spark">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="Views\Admin\EditEquipment.spark">
       <SubType>Designer</SubType>
     </None>
@@ -234,6 +255,9 @@
       <SubType>Designer</SubType>
     </None>
     <None Include="Views\Admin\AdminIndex.spark">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Views\Layouts\Application.spark">
       <SubType>Designer</SubType>
     </None>
     <None Include="Views\Shared\_tableHeadings.spark">
@@ -251,14 +275,12 @@
     <None Include="Views\Booking\MakeBooking.spark">
       <SubType>Designer</SubType>
     </None>
-    <None Include="Views\Layouts\Application.spark" />
     <None Include="Views\Shared\_global.spark">
       <SubType>Designer</SubType>
     </None>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\Raven\" />
-    <Folder Include="Urls\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Account\Web.config" />

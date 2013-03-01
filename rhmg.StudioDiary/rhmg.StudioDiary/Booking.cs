@@ -2,16 +2,36 @@
 using System.Collections.Generic;
 using System.Linq;
 using Raven.Client;
+using Raven.Imports.Newtonsoft.Json;
 
 namespace rhmg.StudioDiary
 {
+    public class NullBooking : Booking
+    {
+        public override bool IsNull()
+        {
+            return true;
+        }
+        public override string SummariseBooking()
+        {
+            return string.Empty;
+        }
+    }
     public class Booking : Entity
     {
+        public virtual bool IsNull()
+        {
+            return false;
+        }
+
         public bool HasOutstandingOwings { get; set; }
         public bool IsCancelled { get; set; }
         public double CurrentlyOwed { get; set; }
+        public string BookingSummary { get; set; }
 
-        public List<Contact> Contacts { get; set; }
+        public string MainContactId { get; set; }
+        [JsonIgnore]
+        public Contact MainContact { get; set; }
         public DateTime Date { get; set; }
         public TimePart StartTime { get; set; }
         public TimeSpan Length { get; set; }
@@ -27,11 +47,12 @@ namespace rhmg.StudioDiary
 
         public bool CheckedIn { get; set; }
 
-        public static Booking Create(List<Contact> contacts, DateTime date, TimePart startTime, TimeSpan length, Room room, Rate rate)
+        public static NullBooking GetNull() { return new NullBooking(); }
+        public static Booking Create(string contactId, DateTime date, TimePart startTime, TimeSpan length, Room room, Rate rate)
         {
             return new Booking
                        {
-                           Contacts = contacts,
+                           MainContactId = contactId,
                            Date = date,
                            StartTime = startTime,
                            Length = length,
@@ -42,7 +63,9 @@ namespace rhmg.StudioDiary
 
         public static Booking Get(string id, IDocumentSession session)
         {
-            return session.Load<Booking>(id);
+            var booking = session.Include<Booking>(x => x.MainContactId).Load(id);
+            booking.MainContact = session.Load<Contact>(booking.MainContactId);
+            return booking;
         }
 
         public Booking()
@@ -65,6 +88,16 @@ namespace rhmg.StudioDiary
             return this;
         }
 
+        public virtual string SummariseBooking()
+        {
+            return string.Concat(MainContact.Name,
+                                 ". Phone number: ",
+                                 MainContact.PhoneNumber,
+                                 ". owes ",
+                                 string.Format("{0:£0.00}",
+                                               CurrentlyOwed));
+        }
+
         public double Value()
         {
             return Rate.For(Length) + AdditionalEquipment.Sum(x => x.UnitCost);
@@ -82,7 +115,7 @@ namespace rhmg.StudioDiary
                 if (Cancellation.Type == CancellationType.NoCost)
                     return 0.00;
                 if (Cancellation.Type == CancellationType.HalfCost)
-                    return Value()/2 - Payments.Sum(x => x.Amount);
+                    return Value() / 2 - Payments.Sum(x => x.Amount);
             }
             return Value() - Payments.Sum(x => x.Amount);
         }
@@ -145,5 +178,11 @@ namespace rhmg.StudioDiary
             var bob = fs.GetFile()
             folder.CopyTo(file);
         }*/
+
+        public bool IsValidFor(int hour)
+        {
+            var endTime = StartTime.Hour + Length.Hours;
+            return hour >= StartTime.Hour && hour <= endTime;
+        }
     }
 }

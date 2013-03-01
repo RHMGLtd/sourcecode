@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 using Nancy;
 using Nancy.ModelBinding;
@@ -21,44 +22,60 @@ namespace rhmg.StudioDiary.InternalWeb.Modules
                                                                                                 Date =
                                                                                                     date,
                                                                                                 CurrentBookings = DiaryManager.DayCheck(date, session),
-                                                                                                Rooms = session.Query<Room>().ToList(),
-                                                                                                AvailableAdditionalEquipment = session.Query<AdditionalEquipment>().ToList()
+                                                                                                Rooms = Room.All(session),
+                                                                                                AvailableAdditionalEquipment = AdditionalEquipment.All(session)
                                                                                             }];
                                                               };
                 Post["/rehearsal/{day}/{month}/{year}/newbooking"] = parameters =>
                                                                {
                                                                    var booking = this.Bind<MakeBookingModel>();
-                                                                  /*Contact contact;
+                                                                   string contactId;
                                                                    if (string.IsNullOrEmpty(booking.ContactId))
                                                                    {
                                                                        // create a new contact
-                                                                       contact = new Contact
-                                                                                         {
-                                                                                             EmailAddress =
-                                                                                                 booking.EmailAddress,
-                                                                                             Name = booking.BandName,
-                                                                                             PhoneNumber =
-                                                                                                 booking.PhoneNumber,
-                                                                                             MainContactName =
-                                                                                                 booking.MainContactName
-                                                                                         };
-                                                                       contact.Save(session);
+                                                                       contactId = new Contact
+                                                                       {
+                                                                           EmailAddress =
+                                                                               booking.EmailAddress,
+                                                                           Name = booking.BandName,
+                                                                           PhoneNumber =
+                                                                               booking.PhoneNumber,
+                                                                           MainContactName =
+                                                                               booking.MainContactName
+                                                                       }.Save(session).Id;
                                                                    }
                                                                    else
                                                                    {
-                                                                       contact = Contact.Get(booking.ContactId, session);
+                                                                       contactId = booking.ContactId;
+                                                                   }
+                                                                   var eqs = new List<AdditionalEquipment>();
+                                                                   foreach (var i in booking.ExplodeAdditionalEquipment())
+                                                                   {
+                                                                       var eq = session.Load<AdditionalEquipment>(i.Key);
+                                                                       for (var j = 0; j < i.Value; j++)
+                                                                           eqs.Add(eq);
                                                                    }
                                                                    // create a new booking
+                                                                   var room = session.Load<Room>(booking.Room);
                                                                    var newBooking = new Booking
                                                                                         {
-                                                                                            Contacts =
-                                                                                                new List<Contact>
-                                                                                                    {contact},
+                                                                                            Date = new DateTime(parameters.year, parameters.month, parameters.day),
+                                                                                            MainContactId = contactId,
                                                                                             StartTime = TimePart.FromString(booking.StartTime),
-                                                                                            Length = TimePart.Duration(booking.StartTime, booking.EndTime)
-                                                                                            
-                                                                                        };*/
-                                                                   return "success";
+                                                                                            Length = TimePart.Duration(booking.StartTime, booking.EndTime),
+                                                                                            Room = room,
+                                                                                            Rate = room.Rates.First(x => x.Id == booking.Rate),
+                                                                                            Notes = new List<Note>
+                                                                                                        {
+                                                                                                            new Note
+                                                                                                                {
+                                                                                                                    Content = booking.Notes
+                                                                                                                }
+                                                                                                        },
+                                                                                            AdditionalEquipment = eqs
+                                                                                        };
+                                                                   newBooking.Save(session);
+                                                                   return Response.AsRedirect("/");
                                                                };
             }
         }

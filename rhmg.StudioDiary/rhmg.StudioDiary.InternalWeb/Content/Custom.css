@@ -1,13 +1,30 @@
 ﻿/* Tables
 ----------------------------------------------------------*/
 
+table {
+    text-align: left;
+}
+
+
+.header .weekNavigation  {
+    float: left;
+}
+.header .weekNavigation .middle {
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
 .roomNames 
 {
-    text-align: left
+    text-align: left;
 }
 
 .dayLine.odd {
     background-color: gainsboro;
+}
+
+.dayLineDay.today {
+    border-left: groove goldenrod thick;
 }
 
 .dayLine .dayLineDay {
@@ -33,8 +50,9 @@
 	overflow: hidden;
 	text-overflow: ellipsis;
 }
-
-
+.hourLine.peakTimeBeginning {
+    border-top: thin dotted darkgray;
+}
 .datepickerStuff {
     float: right;
 }

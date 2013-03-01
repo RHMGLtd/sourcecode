@@ -14,20 +14,19 @@ namespace rhmg.StudioDiary.InternalWeb.Modules
         {
             using (var session = store.GetSession())
             {
-                // gets
                 Get["/Admin"] = parameters => View[new AdminIndexModel
                 {
-                    Rooms = session.Query<Room>().ToList(),
-                    Rates = session.Query<Rate>().ToList(),
-                    AdditionalEquipment = session.Query<AdditionalEquipment>().ToList()
+                    Rooms = Room.All(session),
+                    Rates = Rate.All(session),
+                    AdditionalEquipment = AdditionalEquipment.All(session)
                 }];
                 Rooms(session);
                 Rates(session);
-                AdditionalEquipment(session);
+                AdditionalEquipments(session);
             }
         }
 
-        private void AdditionalEquipment(IDocumentSession session)
+        private void AdditionalEquipments(IDocumentSession session)
         {
             Get["/Admin/AdditionalEquipment/Add"] = parameters => View[new AddEquipmentModel
                                                              {
@@ -41,7 +40,7 @@ namespace rhmg.StudioDiary.InternalWeb.Modules
                     EquipmentId = eq.Id,
                     Description = eq.Description,
                     UnitCost = eq.UnitCost,
-                    CurrentEquipment = session.Query<AdditionalEquipment>().ToList()
+                    CurrentEquipment = AdditionalEquipment.All(session)
                 }];
             };
             Post["/Admin/AdditionalEquipment/Add"] = parameters =>
@@ -70,8 +69,8 @@ namespace rhmg.StudioDiary.InternalWeb.Modules
         {
             Get["/Admin/Rooms/Add"] = parameters => View[new AddRoomModel
                                                              {
-                                                                 CurrentRooms = session.Query<Room>().ToList(),
-                                                                 AvailableRates = session.Query<Rate>().ToList()
+                                                                 CurrentRooms = Room.All(session),
+                                                                 AvailableRates = Rate.All(session)
                                                              }];
             Get["/Admin/Rooms/{id}"] = parameters =>
             {
@@ -80,9 +79,10 @@ namespace rhmg.StudioDiary.InternalWeb.Modules
                 {
                     RoomId = room.Id,
                     Name = room.Name,
+                    DisplayOrder = room.DisplayOrder,
                     RateIds = room.Rates.Select(x => x.Id).ToList(),
-                    CurrentRooms = session.Query<Room>().ToList(),
-                    AvailableRates = session.Query<Rate>().ToList()
+                    CurrentRooms = Room.All(session),
+                    AvailableRates = Rate.All(session)
                 }];
             };
             Post["/Admin/Rooms/Add"] = parameters =>
@@ -92,7 +92,8 @@ namespace rhmg.StudioDiary.InternalWeb.Modules
                 var room = new Room
                 {
                     Name = model.Name,
-                    Rates = rates
+                    Rates = rates,
+                    DisplayOrder = model.DisplayOrder
                 };
                 room.Save(session);
                 return Response.AsRedirect("/Admin/");
@@ -104,6 +105,7 @@ namespace rhmg.StudioDiary.InternalWeb.Modules
                 var rates = session.Load<Rate>(model.RateIds);
                 room.Name = model.Name;
                 room.Rates = rates;
+                room.DisplayOrder = model.DisplayOrder;
                 room.Save(session);
                 return Response.AsRedirect("/Admin/");
             };
@@ -113,7 +115,7 @@ namespace rhmg.StudioDiary.InternalWeb.Modules
         {
             Get["/Admin/Rates/Add"] = parameters => View[new AddRateModel
             {
-                CurrentRates = session.Query<Rate>().ToList()
+                CurrentRates = Rate.All(session)
             }];
             Get["/Admin/Rates/{id}"] = parameters =>
                                            {
@@ -126,7 +128,7 @@ namespace rhmg.StudioDiary.InternalWeb.Modules
                                                             DaysPer = rate.Per.Days,
                                                             HoursPer = rate.Per.Hours,
                                                             MinutesPer = rate.Per.Minutes,
-                                                            CurrentRates = session.Query<Rate>().ToList()
+                                                            CurrentRates = Rate.All(session)
                                                         }];
                                            };
             Post["/Admin/Rates/Add"] = parameters =>

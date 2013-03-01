@@ -1,6 +1,6 @@
 ﻿namespace rhmg.StudioDiary.Tests.Contexts.test_entities
 {
-    public class Rooms
+    public class TestRooms
     {
         public static Room controlRoom
         {

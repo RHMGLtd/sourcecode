@@ -10,10 +10,16 @@ namespace rhmg.StudioDiary
     {
         public static WeekToAView WeekToAViewFor(DateTime date, IDocumentSession session)
         {
-            var monday = date.MondayDate();
-            var sunday = date.SundayDate();
-            var bookings = session.Query<Booking>().Where(x => !x.IsCancelled && x.Date >= monday && x.Date <= sunday);
-            return new WeekToAView(bookings, date.MondayDate(), date.SundayDate());
+            var monday = date.MondayDate().Date;
+            var sunday = date.SundayDate().Date;
+            var newBookings = session.Advanced.LuceneQuery<Booking>()
+                .Include(x => x.MainContactId)
+                .WhereEquals(x => x.IsCancelled, false)
+                .AndAlso()
+                .WhereBetweenOrEqual(x => x.Date, monday, sunday);
+            foreach (var booking in newBookings)
+                booking.MainContact = session.Load<Contact>(booking.MainContactId);
+            return new WeekToAView(newBookings, date.MondayDate(), date.SundayDate());
         }
 
         public static MonthToAView MonthToAViewFor(DateTime date, IDocumentSession session)
@@ -23,9 +29,17 @@ namespace rhmg.StudioDiary
 
         public static DayViewBookingLists DayCheck(DateTime checkDate, IDocumentSession session)
         {
+            var newBookings = session.Advanced.LuceneQuery<Booking>()
+                .Include(x => x.MainContactId)
+                .WhereEquals(x => x.IsCancelled, false)
+                .AndAlso()
+                .WhereEquals(x => x.Date, checkDate.Date)
+                .ToList();
+            foreach (var booking in newBookings)
+                booking.MainContact = session.Load<Contact>(booking.MainContactId);
             return new DayViewBookingLists
                        {
-                           Bookings = session.Query<Booking>().Where(x => !x.IsCancelled && x.Date.Date == checkDate.Date).ToList(),
+                           Bookings = new BookingList(newBookings),
                            Date = checkDate
                        };
         }

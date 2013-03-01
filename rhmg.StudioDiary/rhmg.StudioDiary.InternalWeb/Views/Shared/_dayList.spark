@@ -1,7 +1,16 @@
 ﻿<use namespace="System.Linq"/>
+<content name="scripts">
+  <script once="jquery-tooltip" >
+    $(function() {
+    $( document ).tooltip();
+    });
+  </script>
+</content>
+
 <div class="dayList">
-  <div class="hourLine" each="var thing in Enumerable.Range(10,14)">
+  <div each="var thing in Enumerable.Range(10,14)" class="hourLine peakTimeBeginning?{thing == 18 && !bookings.IsAWeekend}" >
+    <var booking="bookings.ForHour(thing)" />
     <span class="hour">!{thing}:00</span>
-    <div class="entry"></div>
+    <div if="!booking.IsNull()" class="entry booked?{!booking.IsNull()}" alt="${booking.SummariseBooking()}" title="${booking.SummariseBooking()}">${booking.SummariseBooking()}</div>
   </div>
 </div>

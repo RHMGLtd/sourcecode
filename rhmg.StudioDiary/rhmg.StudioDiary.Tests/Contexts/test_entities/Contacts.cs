@@ -8,7 +8,6 @@
             {
                 return new Contact
                 {
-                    Id = "contact/1",
                     Name = "The Beatles",
                     PhoneNumber = "ScouseLandSomewhere"
                 };
@@ -20,7 +19,6 @@
             {
                 return new Contact
                 {
-                    Id = "contact/2",
                     Name = "The Stones",
                     PhoneNumber = "RockNRollersRUs"
                 };

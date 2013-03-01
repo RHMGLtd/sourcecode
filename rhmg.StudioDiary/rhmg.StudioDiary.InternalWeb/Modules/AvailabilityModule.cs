@@ -12,13 +12,30 @@ namespace rhmg.StudioDiary.InternalWeb.Modules
         {
             using (var session = store.GetSession())
             {
-                Get["/"] = parameters => View[new AvailabilityWeekModel
-                                                  {
-                                                      ThisWeek = DiaryManager.WeekToAViewFor(DateTime.Now, session),
-                                                      Rooms = session.Query<Room>().ToList()
-                                                  }];
+                Get["/"] = parameters =>
+                               {
+                                   var thisWeek = DiaryManager.WeekToAViewFor(DateTime.Now, session);
+                                   return View[new AvailabilityWeekModel
+                                   {
+                                       PreviousWeekMonday = thisWeek.MondayDate.AddDays(-7),
+                                       NextWeekMonday = thisWeek.MondayDate.AddDays(7),
+                                       ThisWeek = thisWeek,
+                                       Rooms = Room.All(session)
+                                   }];
+                               };
+                Get["/{day}/{month}/{year}"] = parameters =>
+                                                   {
+                                                       var date = new DateTime(parameters.year, parameters.month, parameters.day);
+                                                       var thisWeek = DiaryManager.WeekToAViewFor(date, session);
+                                                       return View[new AvailabilityWeekModel
+                                                       {
+                                                           PreviousWeekMonday = thisWeek.MondayDate.AddDays(-7),
+                                                           NextWeekMonday = thisWeek.MondayDate.AddDays(7),
+                                                           ThisWeek = thisWeek,
+                                                           Rooms = Room.All(session)
+                                                       }];
+                                                   };
             }
-            //Get["/"] = parameters => "Hello World";
         }
     }
 }

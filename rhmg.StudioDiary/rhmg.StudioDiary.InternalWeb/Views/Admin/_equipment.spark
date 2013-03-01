@@ -1,0 +1,9 @@
+﻿<div id="description">
+  Please provide a description for this equipment:
+  <input type="text" name="Description" id="DescriptionInput" value="!{Model.Description}"/>
+</div>
+<div id="unitCost">
+  What is the unit cost of this equipment?
+  <input type="text" name="UnitCost" id="UnitCostInput" value="!{Model.UnitCost}"/>
+</div>
+<button type="submit">save</button>

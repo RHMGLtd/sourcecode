@@ -1,23 +1,19 @@
 using System;
-using System.Collections.Generic;
-using System.Linq;
 
 namespace rhmg.StudioDiary
 {
     public class DayViewBookingLists
     {
-        public List<Booking> Bookings { get; set; }
+        public BookingList Bookings { get; set; }
         public DateTime Date { get; set; }
-
-        public List<Booking> ForRoom(Room toCheck)
-        {
-            var result = Bookings.Where(x => x.Room.Id == toCheck.Id).ToList();
-            return !result.Any() ? new List<Booking>() : result;
-        }
 
         public DayViewBookingLists()
         {
-            Bookings = new List<Booking>();
+            Bookings = new BookingList();
+        }
+        public BookingList ForRoom(Room toCheck)
+        {
+            return Bookings.ForRoom(toCheck, Date.DayOfWeek);
         }
     }
 }

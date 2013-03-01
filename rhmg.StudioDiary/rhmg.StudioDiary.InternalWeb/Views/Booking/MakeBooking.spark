@@ -69,32 +69,47 @@
       What time until?
       <input type="text" readonly="readonly" id="endTimePicker" name="EndTime" value="!{Model.EndTime}" />
     </div>
+    <div id="notes">
+      Put notes for this booking here:
+      <textarea name="Note"></textarea>
+    </div>
     <div id="additionalEquipment">
       <h3>Please select Additional Equipment for this booking</h3>
       <div each="var eq in Model.AvailableAdditionalEquipment">
         <span>!{eq.Description} (&pound;!{eq.UnitCost} each)</span>
-        <input type="number" Min="0" name="NumberRequired" />
+        <select name="NumberRequired">
+          <option value="!{eq.Id}_0">Please Select</option>
+          <option value="!{eq.Id}_1">One</option>
+          <option value="!{eq.Id}_2">Two</option>
+          <option value="!{eq.Id}_3">Three</option>
+          <option value="!{eq.Id}_4">Four</option>
+          <option value="!{eq.Id}_5">Five</option>
+        </select>
       </div>
     </div>
     <button type="submit">save</button>
   </form>
   <div id="cancellationPolicyPanel" class="informationPanel">
-    <span class="heading">Cancellation Policy</span>
+    <span class="header">Cancellation Policy</span>
     <table>
-      <tr>
-        <th>Warning</th>
-        <th>Charge</th>
+      <tr class="">
+        <th>Warning provided</th>
+        <th width="50px"></th>
+        <th>Charge incurred</th>
       </tr>
       <tr>
         <td>no warning</td>
+        <td></td>
         <td>100% charge</td>
       </tr>
       <tr>
         <td>up to two days</td>
+        <td></td>
         <td>50% charge</td>
       </tr>
       <tr>
         <td>more than two days</td>
+        <td></td>
         <td>0% charge</td>
       </tr>
     </table>

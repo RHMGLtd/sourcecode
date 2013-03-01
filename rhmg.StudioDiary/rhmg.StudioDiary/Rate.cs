@@ -1,4 +1,6 @@
 using System;
+using System.Collections.Generic;
+using System.Linq;
 using Raven.Client;
 
 namespace rhmg.StudioDiary
@@ -20,6 +22,11 @@ namespace rhmg.StudioDiary
             session.Store(this);
             session.SaveChanges();
             return this;
+        }
+
+        public static List<Rate> All(IDocumentSession session)
+        {
+            return session.Query<Rate>().ToList();
         }
     }
 }

@@ -9,33 +9,8 @@
     <h1>Add a Rate</h1>
   </div>
   <form method="post">
-    <div id="description">
-      Please provide a description for this rate:
-      <input type="text" name="Description" id="DescriptionInput"/>
-    </div>
-    <div id="perAmount">
-      Please provide the "per days" 
-      <input type="text" name="DaysPer" id="DaysPerInput"/>
-      , "per hours" 
-      <input type="text" name="HoursPer" id="HoursPerInput"/>
-      and "per minutes" for this rate
-      <input type="text" name="MinutesPer" id="MinutesPerInput"/>
-    </div>
-    <div id="poundsAmount">
-      How much should the charge be for the specified time?
-      <input type="text" name="PoundsAmount" id="PoundsAmountInput"/>
-    </div>
-    <button type="submit">save</button>
+    <rate />
   </form>
   <hr />
-  <h1>
-    Current rates in the system:
-  </h1>
-  <p if="Model.CurrentRates.Count == 0">No rates to display</p>
-  <div each="var rate in Model.CurrentRates">
-    <span>!{rate.Description}</span>
-    <span>
-      <a href="/Admin/Rates/!{rate.Id}">edit...</a>
-    </span>
-  </div>
+  <existingRates rates="Model.CurrentRates" />
 </content>

@@ -26,14 +26,17 @@ namespace rhmg.StudioDiary.InternalWeb.Modules
                 Post["/lookup/contact/from/phoneNumber"] = parameters =>
                 {
                     var model = this.Bind<ContactLookupForm>();
+                    var contact = Contact.GetByPhone(model.PhoneNumber, session);
+                    if (contact == null)
+                        return Response.AsJson<Contact>(null);
                     return Response.AsJson(new ContactModel
                                                {
-                                                   Id = "contact/1",
-                                                   EmailAddress = "an.email@somewhere.com",
-                                                   MainContactName = "someone",
-                                                   Name = "a band",
+                                                   Id = contact.Id,
+                                                   EmailAddress = contact.EmailAddress,
+                                                   MainContactName = contact.MainContactName,
+                                                   Name = contact.Name,
                                                    PhoneNumber = model.PhoneNumber,
-                                                   CurrentOwings = string.Format("{0:£0.00}", 15.00)
+                                                   CurrentOwings = string.Format("{0:£0.00}", contact.CurrentlyOverdue(session))
                                                });
                 };
             }

@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 
 namespace rhmg.StudioDiary.Tests.Contexts.test_entities
 {
@@ -14,7 +13,7 @@ namespace rhmg.StudioDiary.Tests.Contexts.test_entities
                 {
                     Hour = 12
                 };
-                return Booking.Create(new List<Contact> { Contacts.TheBeatles }, dp, st, new TimeSpan(4, 0, 0), Rooms.room4, Rates.standardEveningRate);
+                return Booking.Create(Contacts.TheBeatles.Id, dp, st, new TimeSpan(4, 0, 0), TestRooms.room4, Rates.standardEveningRate);
             }
         } 
     }

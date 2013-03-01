@@ -101,6 +101,7 @@ first child of the left and right table columns */
     padding: 0px;
     background: darkred;
     width: 100%;
+    color: #ffffff;
 }
 
 .header h1

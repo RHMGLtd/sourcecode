@@ -12,14 +12,12 @@ namespace rhmg.StudioDiary.Raven.Indexes
         }
         public Bookings_ByContact()
         {
-            Map = docs => from booking in docs
-                          where !booking.IsCancelled
-                          from contact in booking.Contacts
-                          select new
-                          {
-                              ContactId = contact.Id,
-                              BookingIds = new[] { booking.Id }
-                          };
+            Map = docs => docs.Where(booking => !booking.IsCancelled).Select(booking => new
+                                                                                            {
+                                                                                                ContactId = booking.MainContactId,
+                                                                                                BookingIds =
+                                                                                            new[] {booking.Id}
+                                                                                            });
             Reduce = results => from result in results
                                 group result by result.ContactId
                                     into g

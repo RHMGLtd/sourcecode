@@ -1,0 +1,15 @@
+﻿<div id="phoneNumber">
+  Please provide a name for this room:
+  <input type="text" name="Name" id="NameInput" value="!{Model.Name}"/>
+</div>
+<div id="rates">
+  Please select all rates you want to apply for this room:
+  <select name="RateIds" multiple="multiple" size="5" >
+    <option each="var rate in Model.AvailableRates" value="!{rate.Id}" selected="?{Model.RateIds.Contains(rate.Id)}">!{rate.Description}</option>
+  </select>
+</div>
+<div id="displayOrder">
+  Select the display order (on avail screens and in dropdowns) for this room:
+  <input type="number" min="1" name="DisplayOrder" value="!{Model.DisplayOrder}" />
+</div>
+<button type="submit">save</button>

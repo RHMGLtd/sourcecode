@@ -1,0 +1,17 @@
+﻿<div id="description">
+  Please provide a description for this rate:
+  <input type="text" name="Description" id="DescriptionInput" value="!{Model.Description}"/>
+</div>
+<div id="perAmount">
+  Please provide the "per days"
+  <input type="text" name="DaysPer" id="DaysPerInput" value="!{Model.DaysPer}"/>
+  , "per hours"
+  <input type="text" name="HoursPer" id="HoursPerInput" value="!{Model.HoursPer}"/>
+  and "per minutes" for this rate
+  <input type="text" name="MinutesPer" id="MinutesPerInput" value="!{Model.MinutesPer}"/>
+</div>
+<div id="poundsAmount">
+  How much should the charge be for the specified time?
+  <input type="text" name="PoundsAmount" id="PoundsAmountInput" value="!{Model.PoundsAmount}"/>
+</div>
+<button type="submit">save</button>
