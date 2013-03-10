@@ -21,13 +21,13 @@ namespace rhmg.StudioDiary.Tests
                                         {
                                             Hour = 12
                                         };
-                                        var mondayBooking = Booking.Create(theBeatles.Id, Dates.monday, st, new TimeSpan(4, 0, 0), TestRooms.room4, Rates.standardEveningRate);
-                                        var tuesdayBooking = Booking.Create(theBeatles.Id, Dates.tuesday, st, new TimeSpan(4, 0, 0), TestRooms.room4, Rates.standardEveningRate);
-                                        var wednesdayBooking = Booking.Create(theBeatles.Id, Dates.wednesday, st, new TimeSpan(4, 0, 0), TestRooms.room4, Rates.standardEveningRate);
-                                        var thursdayBooking = Booking.Create(theBeatles.Id, Dates.thursday, st, new TimeSpan(4, 0, 0), TestRooms.room4, Rates.standardEveningRate);
-                                        var fridayBooking = Booking.Create(theBeatles.Id, Dates.friday, st, new TimeSpan(4, 0, 0), TestRooms.room4, Rates.standardEveningRate);
-                                        var saturdayBooking = Booking.Create(theBeatles.Id, Dates.saturday, st, new TimeSpan(4, 0, 0), TestRooms.room4, Rates.standardEveningRate);
-                                        var sundayBooking = Booking.Create(theBeatles.Id, Dates.sunday, st, new TimeSpan(4, 0, 0), TestRooms.room4, Rates.standardEveningRate);
+                                        var mondayBooking = Booking.Create(theBeatles.Id, Dates.monday, st, new TimeSpan(4, 0, 0), TestRooms.room4, Rates.standardEveningRate, Products.rehearsal);
+                                        var tuesdayBooking = Booking.Create(theBeatles.Id, Dates.tuesday, st, new TimeSpan(4, 0, 0), TestRooms.room4, Rates.standardEveningRate, Products.rehearsal);
+                                        var wednesdayBooking = Booking.Create(theBeatles.Id, Dates.wednesday, st, new TimeSpan(4, 0, 0), TestRooms.room4, Rates.standardEveningRate, Products.rehearsal);
+                                        var thursdayBooking = Booking.Create(theBeatles.Id, Dates.thursday, st, new TimeSpan(4, 0, 0), TestRooms.room4, Rates.standardEveningRate, Products.rehearsal);
+                                        var fridayBooking = Booking.Create(theBeatles.Id, Dates.friday, st, new TimeSpan(4, 0, 0), TestRooms.room4, Rates.standardEveningRate, Products.rehearsal);
+                                        var saturdayBooking = Booking.Create(theBeatles.Id, Dates.saturday, st, new TimeSpan(4, 0, 0), TestRooms.room4, Rates.standardEveningRate, Products.rehearsal);
+                                        var sundayBooking = Booking.Create(theBeatles.Id, Dates.sunday, st, new TimeSpan(4, 0, 0), TestRooms.room4, Rates.standardEveningRate, Products.rehearsal);
                                         mondayBooking.Save(session);
                                         tuesdayBooking.Save(session);
                                         wednesdayBooking.Save(session);
@@ -71,10 +71,10 @@ namespace rhmg.StudioDiary.Tests
                     Hour = 19
                 };
                 _theBeatles = Contacts.TheBeatles.Save(session);
-                var room2Booking = Booking.Create(_theBeatles.Id, Dates.monday, st, new TimeSpan(4, 0, 0), TestRooms.room2, Rates.standardEveningRate);
-                var room3Booking = Booking.Create(_theBeatles.Id, Dates.monday, st, new TimeSpan(4, 0, 0), TestRooms.room3, Rates.standardEveningRate);
-                var room4Booking = Booking.Create(_theBeatles.Id, Dates.monday, st, new TimeSpan(4, 0, 0), TestRooms.room4, Rates.standardEveningRate);
-                var liveRoomBooking = Booking.Create(_theBeatles.Id, Dates.monday, st, new TimeSpan(4, 0, 0), TestRooms.liveRoom, Rates.liveRoomEveningRate);
+                var room2Booking = Booking.Create(_theBeatles.Id, Dates.monday, st, new TimeSpan(4, 0, 0), TestRooms.room2, Rates.standardEveningRate, Products.rehearsal);
+                var room3Booking = Booking.Create(_theBeatles.Id, Dates.monday, st, new TimeSpan(4, 0, 0), TestRooms.room3, Rates.standardEveningRate, Products.rehearsal);
+                var room4Booking = Booking.Create(_theBeatles.Id, Dates.monday, st, new TimeSpan(4, 0, 0), TestRooms.room4, Rates.standardEveningRate, Products.rehearsal);
+                var liveRoomBooking = Booking.Create(_theBeatles.Id, Dates.monday, st, new TimeSpan(4, 0, 0), TestRooms.liveRoom, Rates.liveRoomEveningRate, Products.rehearsal);
                 room2Booking.Save(session);
                 room3Booking.Save(session);
                 room4Booking.Save(session);
@@ -113,12 +113,12 @@ namespace rhmg.StudioDiary.Tests
                 {
                     Hour = 19
                 };
-                var room2Booking = Booking.Create(Contacts.TheBeatles.Id, Dates.monday, sixPM, new TimeSpan(4, 0, 0), TestRooms.room2, Rates.standardEveningRate);
-                var room3Booking = Booking.Create(Contacts.TheBeatles.Id, Dates.monday, sevenPM, new TimeSpan(4, 0, 0), TestRooms.room3, Rates.standardEveningRate);
-                var room4Booking = Booking.Create(Contacts.TheBeatles.Id, Dates.monday, sevenPM, new TimeSpan(4, 0, 0), TestRooms.room4, Rates.standardEveningRate);
-                var liveRoomBooking = Booking.Create(Contacts.TheBeatles.Id, Dates.monday, sevenPM, new TimeSpan(4, 0, 0), TestRooms.liveRoom, Rates.liveRoomEveningRate);
+                var room2Booking = Booking.Create(Contacts.TheBeatles.Id, Dates.monday, sixPM, new TimeSpan(4, 0, 0), TestRooms.room2, Rates.standardEveningRate, Products.rehearsal);
+                var room3Booking = Booking.Create(Contacts.TheBeatles.Id, Dates.monday, sevenPM, new TimeSpan(4, 0, 0), TestRooms.room3, Rates.standardEveningRate, Products.rehearsal);
+                var room4Booking = Booking.Create(Contacts.TheBeatles.Id, Dates.monday, sevenPM, new TimeSpan(4, 0, 0), TestRooms.room4, Rates.standardEveningRate, Products.rehearsal);
+                var liveRoomBooking = Booking.Create(Contacts.TheBeatles.Id, Dates.monday, sevenPM, new TimeSpan(4, 0, 0), TestRooms.liveRoom, Rates.liveRoomEveningRate, Products.rehearsal);
 
-                var tuesdayRoom3Booking = Booking.Create(Contacts.TheBeatles.Id, Dates.tuesday, sevenPM, new TimeSpan(4, 0, 0), TestRooms.room3, Rates.standardEveningRate);
+                var tuesdayRoom3Booking = Booking.Create(Contacts.TheBeatles.Id, Dates.tuesday, sevenPM, new TimeSpan(4, 0, 0), TestRooms.room3, Rates.standardEveningRate, Products.rehearsal);
 
                 room2Booking.Save(session);
                 room3Booking.Save(session);
@@ -149,7 +149,7 @@ namespace rhmg.StudioDiary.Tests
                 {
                     Hour = 10
                 };
-                var liveRoomBooking = Booking.Create(Contacts.TheBeatles.Id, Dates.saturday, time, new TimeSpan(8, 0, 0), TestRooms.liveRoom, Rates.liveRoomEveningRate);
+                var liveRoomBooking = Booking.Create(Contacts.TheBeatles.Id, Dates.saturday, time, new TimeSpan(8, 0, 0), TestRooms.liveRoom, Rates.liveRoomEveningRate, Products.rehearsal);
 
                 liveRoomBooking.Save(session);
             };
@@ -172,7 +172,7 @@ namespace rhmg.StudioDiary.Tests
                 {
                     Hour = 10
                 };
-                var liveRoomBooking = Booking.Create(Contacts.TheBeatles.Id, Dates.saturday, time, new TimeSpan(4, 0, 0), TestRooms.liveRoom, Rates.liveRoomEveningRate);
+                var liveRoomBooking = Booking.Create(Contacts.TheBeatles.Id, Dates.saturday, time, new TimeSpan(4, 0, 0), TestRooms.liveRoom, Rates.liveRoomEveningRate, Products.rehearsal);
 
                 liveRoomBooking.Save(session);
             };
@@ -200,10 +200,10 @@ namespace rhmg.StudioDiary.Tests
                 {
                     Hour = 16
                 };
-                var liveRoomBooking1 = Booking.Create(Contacts.TheBeatles.Id, Dates.saturday, ten, new TimeSpan(4, 0, 0), TestRooms.liveRoom, Rates.liveRoomEveningRate);
+                var liveRoomBooking1 = Booking.Create(Contacts.TheBeatles.Id, Dates.saturday, ten, new TimeSpan(4, 0, 0), TestRooms.liveRoom, Rates.liveRoomEveningRate, Products.rehearsal);
 
                 liveRoomBooking1.Save(session);
-                var liveRoomBooking2 = Booking.Create(Contacts.TheBeatles.Id, Dates.saturday, four, new TimeSpan(4, 0, 0), TestRooms.liveRoom, Rates.liveRoomEveningRate);
+                var liveRoomBooking2 = Booking.Create(Contacts.TheBeatles.Id, Dates.saturday, four, new TimeSpan(4, 0, 0), TestRooms.liveRoom, Rates.liveRoomEveningRate, Products.rehearsal);
 
                 liveRoomBooking2.Save(session);
             };

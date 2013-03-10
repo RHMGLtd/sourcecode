@@ -1,16 +1,27 @@
-﻿<use namespace="System.Linq"/>
+﻿<use namespace="System.Linq" once="linqNamespace"/>
 <content name="scripts">
-  <script once="jquery-tooltip" >
-    $(function() {
-    $( document ).tooltip();
-    });
-  </script>
+  <script src="~/Content/Scripts/booking.actions.impl.js" type="text/javascript" once="bookingActionsScript"></script>
 </content>
 
 <div class="dayList">
-  <div each="var thing in Enumerable.Range(10,14)" class="hourLine peakTimeBeginning?{thing == 18 && !bookings.IsAWeekend}" >
+  <div each="var thing in Enumerable.Range(10,13)" class="hourLine peakTimeBeginning?{thing == 18 && !bookings.IsAWeekend}" >
     <var booking="bookings.ForHour(thing)" />
     <span class="hour">!{thing}:00</span>
-    <div if="!booking.IsNull()" class="entry booked?{!booking.IsNull()}" alt="${booking.SummariseBooking()}" title="${booking.SummariseBooking()}">${booking.SummariseBooking()}</div>
+    <div if="!booking.IsNull()" class="entry booked?{!booking.IsNull()}" bookingId="!{booking.Id}" product="!{}" alt="${booking.SummariseBooking()}" title="${booking.SummariseBooking()}">${booking.SummariseBooking()}</div>
+  </div>
+</div>
+
+<div id="dialog" title="jobby" once="dialogMarkup">
+  <div class="navBarItem" id="arriveBooking">
+    Arrive the booking
+  </div>
+  <div class="navBarItem" id="cancelBooking">
+    Cancel the booking
+  </div>
+  <div class="navBarItem" id="noShowBooking">
+    No Show the booking
+  </div>
+  <div class="navBarItem" id="editBooking">
+    Edit the booking
   </div>
 </div>

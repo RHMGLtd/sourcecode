@@ -1,0 +1,50 @@
+﻿<viewdata model="rhmg.StudioDiary.InternalWeb.ViewModels.ExtendedFormBookingModel" />
+<bookingHeaderSection />
+<content name="body">
+  <bookingHeader />
+  <form  method="post">
+    <fieldset>
+      <basicBandForm />
+      <div id="address">
+        What is your address?
+        <input type="text" name="Address" class="textEntry" value="!{Model.Address}" />
+      </div>
+      <div id="postcode">
+        What is your postcode?
+        <input type="text" name="Postcode" class="textEntry" value="!{Model.Postcode}" />
+      </div>
+      <div id="secondaryContactName">
+        What is the secondary contact name?
+        <input type="text" name="SecondaryContactName" class="textEntry" value="!{Model.SecondaryContactName}" />
+      </div>
+      <div id="secondaryContactName">
+        What is the relevant age?
+        <input type="text" name="Age" class="textEntry" value="!{Model.Age}" />
+      </div>
+      <basicBookingForm />
+      <div id="makeUpSession">
+        Do you want a make up session?
+        <input type="checkbox" name="MakeUpSession" checked="?{Model.MakeUpSession}" />
+      </div>
+      <div id="biscuits">
+        Will you want biscuits?
+        <input type="checkbox" name="Biscuits" checked="?{Model.Biscuits}" />
+      </div>
+      <div id="songChoice">
+        Which song(s) are you singing?
+        <input type="string" name="SongChoice" class="textEntry" value="!{Model.SongChoice}" />
+      </div>
+      <div id="numberInParty">
+        How many in the party?
+        <input type="string" name="NumberInParty" value="!{Model.NumberInParty}" />
+      </div>
+      <div id="pizzaOnTheDay">
+        Will you want pizza?
+        <input type="checkbox" name="PizzaOnTheDay" checked="?{Model.PizzaOnTheDay}" />
+      </div>
+      <button type="submit">save</button>
+    </fieldset>
+  </form>
+  <cancellationPolicy />
+  <currentBookingsForADay />
+</content>

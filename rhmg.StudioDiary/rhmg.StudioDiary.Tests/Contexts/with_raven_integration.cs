@@ -12,11 +12,11 @@ namespace rhmg.StudioDiary.Tests.Contexts
         where TDocument : new()
     {
         protected static EmbeddableDocumentStore store;
-        protected static IDocumentSession session;
+        public static IDocumentSession session;
         Cleanup after_each = () => store.Dispose();
 
         Establish ravendb = Make;
-
+        
         public static void Make()
         {
             with_automocking.Make();

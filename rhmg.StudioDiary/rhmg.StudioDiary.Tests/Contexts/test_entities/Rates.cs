@@ -40,7 +40,7 @@ namespace rhmg.StudioDiary.Tests.Contexts.test_entities
                 };
             }
         }
-        public static Rate liverRoomDayTimeHourly
+        public static Rate liveRoomDayTimeHourly
         {
             get
             {

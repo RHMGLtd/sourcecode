@@ -1,0 +1,41 @@
+﻿<content name="scripts">
+  <script src="~/Content/Scripts/producttype.hint.impl.js" type="text/javascript"></script>
+  <script src="~/Content/Scripts/selectedform.hint.impl.js" type="text/javascript"></script>
+</content>
+
+<div id="name">
+  Please provide a name for this product:
+  <input type="text" name="Name" id="NameInput" value="!{Model.Name}"/>
+</div>
+<div id="Type">
+  Please select the type of product this is:
+  <select id="typeSelector" name="Type">
+    <option value="1" selected="?{Model.Type == 1}">Can Pick From</option>
+    <option value="2" selected="?{Model.Type == 2}">Books Out</option>
+  </select>
+  <div class="informationPanel" id="typeInformation"></div>
+</div>
+<div id="Type">
+  Please select the type of form to use when making a booking:
+  <select id="formSelector" name="SelectedForm">
+    <option value="1" selected="?{Model.SelectedForm == 1}">Standard</option>
+    <option value="2" selected="?{Model.SelectedForm == 2}">Extended</option>
+    <option value="3" selected="?{Model.SelectedForm == 3}">Abbreviated</option>
+  </select>
+  <div class="informationPanel" id="formInformation"></div>
+</div>
+<div id="rates">
+  Please select all rooms you want to associate with this product:
+  <select name="RoomIds" multiple="multiple" size="5" >
+    <option each="var room in Model.AvailableRooms" value="!{room.Id}" selected="?{Model.RoomIds.Contains(room.Id)}">!{room.Name}</option>
+  </select>
+</div>
+<div id="displayOrder">
+  Select the display order (on avail screens and in dropdowns) for this product:
+  <input type="number" min="1" name="DisplayOrder" value="!{Model.DisplayOrder}" />
+</div>
+<div id="bookingHint">
+  Select the booking hint to display (if any) when making a booking of this product type:
+  <textarea name="BookingHint">!{Model.BookingHint}</textarea>
+</div>
+<button type="submit">save</button>

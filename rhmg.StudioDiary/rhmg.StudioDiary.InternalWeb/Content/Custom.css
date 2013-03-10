@@ -1,65 +1,91 @@
 ﻿/* Tables
 ----------------------------------------------------------*/
 
-table {
-    text-align: left;
-}
-
-
-.header .weekNavigation  {
-    float: left;
-}
-.header .weekNavigation .middle {
-    margin-left: 25px;
-    margin-right: 25px;
-}
-
-.roomNames 
+table
 {
     text-align: left;
 }
 
-.dayLine.odd {
+a:link, a:visited, a:hover, a:active
+{
+    color: firebrick;
+    text-decoration: none;
+}
+
+.weekpickerStuff
+{
+    float: right;
+}
+
+.roomNames
+{
+    text-align: left;
+}
+
+.dayLine.odd
+{
     background-color: gainsboro;
 }
 
-.dayLineDay.today {
+.dayLineDay.today
+{
     border-left: groove goldenrod thick;
 }
 
-.dayLine .dayLineDay {
+.dayLine .dayLineDay
+{
     vertical-align: top;
 }
 
-.dayList {
+.dayList
+{
     font-size: 0.7em;
     text-align: left;
 }
-.dayList .hourLine .hour {
+.dayList .hourLine .hour
+{
     width: 31px;
 }
-.dayList .hourLine .entry {
-    width: 140px;
+.dayList .hourLine .entry
+{
+    width: 138px;
     float: right;
 }
-.entry.booked {
+.entry.booked
+{
     background-color: firebrick;
     color: white;
     white-space: nowrap;
     width: 140px;
-	overflow: hidden;
-	text-overflow: ellipsis;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
-.hourLine.peakTimeBeginning {
+.hourLine.peakTimeBeginning
+{
     border-top: thin dotted darkgray;
 }
-.datepickerStuff {
+.datepickerStuff
+{
     float: right;
 }
 
-.informationPanel {
+.informationPanel
+{
     border: 1px firebrick dotted;
     padding: 4px;
     margin: 4px;
     font-size: 1.2em;
+}
+
+.navBar
+{
+    padding: 0.3em;
+    border-bottom: 1px firebrick solid;
+}
+.navBarItem
+{
+    font-variant: small-caps;
+    padding-left: 1em;
+    padding-right: 1em;
+    font-size: 1.5em;
 }

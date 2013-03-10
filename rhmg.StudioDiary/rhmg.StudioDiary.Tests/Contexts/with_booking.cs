@@ -7,7 +7,7 @@ namespace rhmg.StudioDiary.Tests.Contexts
         public static Booking standard_4_hour_evening_rehearsal_booking;
         public with_booking()
         {
-            standard_4_hour_evening_rehearsal_booking = Bookings.standard_4_hour_evening_rehearsal_booking;
+            standard_4_hour_evening_rehearsal_booking = Bookings.rehearsals.standard_4_hour_evening_rehearsal_booking;
         }
     }
 }

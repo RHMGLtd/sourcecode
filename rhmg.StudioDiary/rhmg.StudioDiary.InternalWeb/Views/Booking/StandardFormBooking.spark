@@ -1,0 +1,14 @@
+﻿<viewdata model="rhmg.StudioDiary.InternalWeb.ViewModels.StandardFormBookingModel" />
+<bookingHeaderSection />
+<content name="body">
+  <bookingHeader />
+  <form  method="post">
+    <fieldset>
+      <basicBandForm />
+      <basicBookingForm />
+      <button type="submit">save</button>
+    </fieldset>
+  </form>
+  <cancellationPolicy />
+  <currentBookingsForADay />
+</content>

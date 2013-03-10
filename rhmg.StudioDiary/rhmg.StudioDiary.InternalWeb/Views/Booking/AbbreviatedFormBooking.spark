@@ -1,0 +1,24 @@
+﻿<viewdata model="rhmg.StudioDiary.InternalWeb.ViewModels.AbbreviatedFormBookingModel" />
+<bookingHeaderSection />
+<content name="body">
+  <bookingHeader />
+  <form  method="post">
+    <fieldset>
+      <div id="startTime">
+        What time from?
+        <input type="text" readonly="readonly" id="startTimePicker" name="StartTime" value="!{Model.StartTime}" />
+      </div>
+      <div id="endTime">
+        What time until?
+        <input type="text" readonly="readonly" id="endTimePicker" name="EndTime" value="!{Model.EndTime}" />
+      </div>
+      <div id="notes">
+        Put notes for this booking here:
+        <textarea name="Note"></textarea>
+      </div>
+      <button type="submit">save</button>
+    </fieldset>
+  </form>
+  <cancellationPolicy />
+  <currentBookingsForADay />
+</content>

@@ -8,13 +8,17 @@
   <div class="header">
     <h1>Admin pages</h1>
   </div>
+  <existingRates rates="Model.Rates" />
+  <hr />
+  <a href="/Admin/Rates/Add">Add a new rate...</a>
+  <hr />
   <existingRooms rooms="Model.Rooms" />
   <hr />
   <a href="/Admin/Rooms/Add">Add a new room...</a>
   <hr />
-  <existingRates rates="Model.Rates" />
+  <existingProducts products="Model.Products" />
   <hr />
-  <a href="/Admin/Rates/Add">Add a new rate...</a>
+  <a href="/Admin/Products/Add">Add a new product...</a>
   <hr />
   <existingEquipment equipment="Model.AdditionalEquipment" />
   <hr />

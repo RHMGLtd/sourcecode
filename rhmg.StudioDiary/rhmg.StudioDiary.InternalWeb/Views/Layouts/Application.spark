@@ -1,4 +1,5 @@
-﻿<html>
+﻿<use namespace="System" once="systemNamespace"/>
+<html>
   <head>
     <use content="head"/>
     <link href="~/Content/Site.css" rel="stylesheet" type="text/css" />
@@ -14,6 +15,14 @@
     </use>
   </head>
   <body class="page">
+    <div class="navBar">
+      <span class="navBarItem">
+        <a href="~/!{DateTime.Now.Date.ToString('dd/MM/yyyy')}">current week view</a>
+      </span> ::
+      <span class="navBarItem">
+        <a href="~/Admin">admin page</a>
+      </span> ::
+    </div>
     <use content="body" />
     <use content="tail" />
     <div class="footer">

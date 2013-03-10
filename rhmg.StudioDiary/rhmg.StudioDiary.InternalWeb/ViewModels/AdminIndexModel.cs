@@ -6,6 +6,7 @@ namespace rhmg.StudioDiary.InternalWeb.ViewModels
     {
         public List<Room> Rooms { get; set; }
         public List<Rate> Rates { get; set; }
-        public List<AdditionalEquipment> AdditionalEquipment { get; set; } 
+        public List<AdditionalEquipment> AdditionalEquipment { get; set; }
+        public List<Product> Products { get; set; } 
     }
 }

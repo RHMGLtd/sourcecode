@@ -1,0 +1,10 @@
+﻿<h1>
+  Current products in the system:
+</h1>
+<p if="products.Count == 0">No products to display</p>
+<div each="var product in products">
+  <span>!{product.Name} [!{product}] (!{product.DisplayOrder})</span>
+  <span>
+    <a href="/Admin/!{product.Id}">edit...</a>
+  </span>
+</div>

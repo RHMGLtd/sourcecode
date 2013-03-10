@@ -1,11 +1,11 @@
-﻿<use namespace="System"/>
+﻿<use namespace="System" once="systemNamespace"/>
 	<tr class="dayLine odd?{odd}">
 		<td if="showDayName" class="dayLineDay today?{day.Date == DateTime.Now.Date}">
       !{dayName}<br />
-      <a href="~/Rehearsal/!{day.Date.ToString('dd/MM/yyyy')}/NewBooking">rehearsal</a><br />
-      <a href="~/Recording/!{day.Date.ToString('dd/MM/yyyy')}/NewBooking">recording</a><br />
-      <a href="~/Production/!{day.Date.ToString('dd/MM/yyyy')}/NewBooking">production</a><br />
-      <a href="~/Party/!{day.Date.ToString('dd/MM/yyyy')}/NewBooking">party</a>
+      <for each="var product in products2">
+        <a href="~/!{product.Name.Replace(' ', '')}/!{day.Date.ToString('dd/MM/yyyy')}/NewBooking/">!{product.Name}</a>
+        <br />
+      </for> 
     </td>
 		<td each="var room in rooms2">
       <dayList bookings="day.ForRoom(room)" />

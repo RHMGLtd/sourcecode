@@ -12,14 +12,15 @@ namespace rhmg.StudioDiary
         {
             var monday = date.MondayDate().Date;
             var sunday = date.SundayDate().Date;
-            var newBookings = session.Advanced.LuceneQuery<Booking>()
+            var bookings = session.Advanced.LuceneQuery<Booking>()
                 .Include(x => x.MainContactId)
                 .WhereEquals(x => x.IsCancelled, false)
                 .AndAlso()
                 .WhereBetweenOrEqual(x => x.Date, monday, sunday);
-            foreach (var booking in newBookings)
-                booking.MainContact = session.Load<Contact>(booking.MainContactId);
-            return new WeekToAView(newBookings, date.MondayDate(), date.SundayDate());
+            foreach (var booking in bookings)
+                if (!string.IsNullOrEmpty(booking.MainContactId))
+                    booking.MainContact = session.Load<Contact>(booking.MainContactId);
+            return new WeekToAView(bookings, date.MondayDate(), date.SundayDate());
         }
 
         public static MonthToAView MonthToAViewFor(DateTime date, IDocumentSession session)

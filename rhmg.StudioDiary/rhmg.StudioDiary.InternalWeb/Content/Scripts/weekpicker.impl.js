@@ -4,7 +4,7 @@ $(document).ready(function () {
         selectOtherMonths: true,
         buttonImage: '/Content/images/calendar.gif',
         buttonImageOnly: true,
-        buttonText: "Change date of booking",
+        buttonText: "Change week display",
         changeMonth: true,
         changeYear: true,
         showOn: 'both',

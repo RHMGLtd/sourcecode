@@ -19,7 +19,7 @@ namespace rhmg.StudioDiary
         public bool IsAWeekend { get; private set; }
         public BookingList ForRoom(Room toCheck, DayOfWeek day)
         {
-            var result = Bookings.Where(x => x.Room.Id == toCheck.Id).ToList();
+            var result = Bookings.Where(x => x.Rooms.Any(y => y.Id == toCheck.Id)).ToList();
             return new BookingList { Bookings = result, IsAWeekend = (day == DayOfWeek.Saturday || day == DayOfWeek.Sunday) };
         }
         public Booking ForHour(int hour)

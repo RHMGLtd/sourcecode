@@ -10,19 +10,10 @@
 
 <content name="body">
   <div class="header">
-    <div class="weekNavigation">
-      <a href="~/!{Model.PreviousWeekMonday.ToString('dd/MM/yyyy')}" class="previous">
-        <img src="~/Content/Images/arrow-left_small.gif" alt="Navigate to the previous week" />
-      </a>
-      <br />
-      <a href="~/!{Model.NextWeekMonday.ToString('dd/MM/yyyy')}" class="next">
-        <img src="~/Content/Images/arrow-right_small.gif" alt="Navigate to the next week" />
-      </a>
-    </div>
-    <h1 class="middle">Displaying week commencing Monday !{Model.ThisWeek.MondayDate.ToString('dd MMM yyyy')}</h1>
-  </div>
   <span class="weekpickerStuff">
     <input type="hidden" id="weekpicker" />
   </span>
-  <weekTable thisWeek="Model.ThisWeek" rooms="Model.Rooms"/>
+    <h1>Displaying week commencing Monday !{Model.ThisWeek.MondayDate.ToString('dd MMM yyyy')}</h1>
+  </div>
+  <weekTable thisWeek="Model.ThisWeek" products="Model.Products" rooms="Model.Rooms"/>
 </content>

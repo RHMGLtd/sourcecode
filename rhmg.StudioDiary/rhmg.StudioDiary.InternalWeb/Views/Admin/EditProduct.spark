@@ -1,0 +1,21 @@
+﻿<viewdata model="rhmg.StudioDiary.InternalWeb.ViewModels.EditProductModel" />
+
+<content name="head">
+  <title>Edit a Product</title>
+</content>
+
+<content name="body">
+  <div class="header">
+    <h1>Edit a Product</h1>
+  </div>
+  <div if="Model.AvailableRooms.Count == 0">
+    <a href="/Admin/Rooms/Add" >no rooms to select, please click here to create one first</a>
+  </div>
+  <div if="Model.AvailableRooms.Count > 0">
+    <form method="post">
+      <input type="hidden" name="ProductId" value="!{Model.ProductId}" />
+      <product />
+    </form>
+  </div>
+  <existingProducts products="Model.CurrentProducts" />
+</content>

@@ -1,0 +1,25 @@
+﻿<div id="bandDetails">
+  <div id="contactInformationPanel" class="informationPanel" style="display:none;">
+    <div>
+      Outstanding Owings For Customer: <span id="outstandingOwings"></span>
+    </div>
+  </div>
+  <div id="phoneNumber">
+    Please provide a phone number for this booking:
+    <input type="text" name="phoneNumber" class="textEntry" id="phoneNumberInput" value="!{Model.PhoneNumber}"/>
+    <span id="phoneNumberLookup">click to look up...</span>
+  </div>
+  <input type="hidden" name="ContactId" id="contactIdInput" value="!{Model.ContactId}" />
+  <div id="mainContactName">
+    What is your main contact name?
+    <input type="text" name="MainContactName" class="textEntry" id="mainContactNameInput" value="!{Model.MainContactName}" />
+  </div>
+  <div id="bandName">
+    What is your band name?
+    <input type="text" name="BandName" class="textEntry" id="bandNameInput" value="!{Model.BandName}"/>
+  </div>
+  <div id="emailAddress">
+    What is your email address?
+    <input type="text" name="EmailAddress" class="textEntry" id="emailAddressInput" value="!{Model.EmailAddress}"/>
+  </div>
+</div>

@@ -35,9 +35,17 @@ namespace rhmg.StudioDiary
         public DateTime Date { get; set; }
         public TimePart StartTime { get; set; }
         public TimeSpan Length { get; set; }
-        public Room Room { get; set; }
+        public List<Room> Rooms { get; set; }
         public Rate Rate { get; set; }
+        public double OneOffCharge { get; set; }
+        public Product Product { get; set; }
         public List<Note> Notes { get; set; }
+
+        public bool MakeUpSession { get; set; }
+        public bool Biscuits { get; set; }
+        public string SongChoice { get; set; }
+        public string NumberInParty { get; set; }
+        public bool PizzaOnTheDay { get; set; }
 
         public Cancellation Cancellation { get; set; }
         public List<Payment> Payments { get; set; }
@@ -47,8 +55,10 @@ namespace rhmg.StudioDiary
 
         public bool CheckedIn { get; set; }
 
+        public bool DidNotShow { get; set; }
+
         public static NullBooking GetNull() { return new NullBooking(); }
-        public static Booking Create(string contactId, DateTime date, TimePart startTime, TimeSpan length, Room room, Rate rate)
+        public static Booking Create(string contactId, DateTime date, TimePart startTime, TimeSpan length, Room room, Rate rate, Product product)
         {
             return new Booking
                        {
@@ -56,8 +66,9 @@ namespace rhmg.StudioDiary
                            Date = date,
                            StartTime = startTime,
                            Length = length,
-                           Room = room,
-                           Rate = rate
+                           Rooms = new List<Room> { room },
+                           Rate = rate,
+                           Product = product
                        };
         }
 
@@ -72,6 +83,7 @@ namespace rhmg.StudioDiary
         {
             Payments = new List<Payment>();
             Refunds = new List<Payment>();
+            Rooms = new List<Room>();
             AdditionalEquipment = new List<AdditionalEquipment>();
             Notes = new List<Note>();
         }
@@ -90,16 +102,20 @@ namespace rhmg.StudioDiary
 
         public virtual string SummariseBooking()
         {
+            if (MainContact == null)
+                return Product.Name;
             return string.Concat(MainContact.Name,
                                  ". Phone number: ",
                                  MainContact.PhoneNumber,
-                                 ". owes ",
+                                 ". value: ",
                                  string.Format("{0:£0.00}",
-                                               CurrentlyOwed));
+                                               Value()));
         }
 
         public double Value()
         {
+            if (OneOffCharge > 0)
+                return OneOffCharge + AdditionalEquipment.Sum(x => x.UnitCost);
             return Rate.For(Length) + AdditionalEquipment.Sum(x => x.UnitCost);
         }
 
@@ -182,7 +198,13 @@ namespace rhmg.StudioDiary
         public bool IsValidFor(int hour)
         {
             var endTime = StartTime.Hour + Length.Hours;
-            return hour >= StartTime.Hour && hour <= endTime;
+            return hour >= StartTime.Hour && hour < endTime;
+        }
+
+        public void NoShow()
+        {
+            DidNotShow = true;
         }
     }
 }
+

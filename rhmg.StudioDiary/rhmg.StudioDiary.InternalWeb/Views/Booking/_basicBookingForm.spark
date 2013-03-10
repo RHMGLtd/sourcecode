@@ -1,0 +1,40 @@
+﻿<div id="room" if="Model.Rooms.Any()">
+  Which room?
+  <select name="Room" id="roomSelector">
+    <option value="">... select a room</option>
+    <option each="var room in Model.Rooms" value="!{room.Id}">!{room.Name}</option>
+  </select>
+</div>
+<div id="rate">
+  Please either select a rate, or put in a one off charge for this booking.
+  <select name="Rate" id="rateSelector">
+    <option value="">... select a room to get available rates</option>
+  </select>
+  <input type="number" Min="0" class="textEntry" name="OneOffCharge" />
+</div>
+<div id="startTime">
+  What time from?
+  <input type="text" readonly="readonly" id="startTimePicker" name="StartTime" value="!{Model.StartTime}" />
+</div>
+<div id="endTime">
+  What time until?
+  <input type="text" readonly="readonly" id="endTimePicker" name="EndTime" value="!{Model.EndTime}" />
+</div>
+<div id="notes">
+  Put notes for this booking here:
+  <textarea name="Note"></textarea>
+</div>
+<div id="additionalEquipment">
+  <h3>Please select Additional Equipment for this booking</h3>
+  <div each="var eq in Model.AvailableAdditionalEquipment">
+    <span>!{eq.Description} (&pound;!{eq.UnitCost} each)</span>
+    <select name="NumberRequired">
+      <option value="!{eq.Id}_0">Please Select</option>
+      <option value="!{eq.Id}_1">One</option>
+      <option value="!{eq.Id}_2">Two</option>
+      <option value="!{eq.Id}_3">Three</option>
+      <option value="!{eq.Id}_4">Four</option>
+      <option value="!{eq.Id}_5">Five</option>
+    </select>
+  </div>
+</div>

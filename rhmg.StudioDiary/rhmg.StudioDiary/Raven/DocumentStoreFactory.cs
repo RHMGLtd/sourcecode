@@ -40,7 +40,7 @@ namespace rhmg.StudioDiary.Raven
             var store = new EmbeddableDocumentStore
             {
                 RunInMemory = false,
-                DataDirectory = AppDomain.CurrentDomain.BaseDirectory + "App_Data\\Raven\\",
+                DataDirectory = @"c:\RavenData\",
                 Conventions = DocumentConventionFactory.getConvention(),
                 Configuration = { Port = 3136 },
                 UseEmbeddedHttpServer = true

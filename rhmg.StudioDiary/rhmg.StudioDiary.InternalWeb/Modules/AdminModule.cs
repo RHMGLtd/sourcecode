@@ -18,15 +18,17 @@ namespace rhmg.StudioDiary.InternalWeb.Modules
                 {
                     Rooms = Room.All(session),
                     Rates = Rate.All(session),
-                    AdditionalEquipment = AdditionalEquipment.All(session)
+                    AdditionalEquipment = AdditionalEquipment.All(session),
+                    Products = Product.All(session)
                 }];
                 Rooms(session);
                 Rates(session);
                 AdditionalEquipments(session);
+                Products(session);
             }
         }
 
-        private void AdditionalEquipments(IDocumentSession session)
+        void AdditionalEquipments(IDocumentSession session)
         {
             Get["/Admin/AdditionalEquipment/Add"] = parameters => View[new AddEquipmentModel
                                                              {
@@ -111,7 +113,7 @@ namespace rhmg.StudioDiary.InternalWeb.Modules
             };
         }
 
-        private void Rates(IDocumentSession session)
+        void Rates(IDocumentSession session)
         {
             Get["/Admin/Rates/Add"] = parameters => View[new AddRateModel
             {
@@ -151,6 +153,59 @@ namespace rhmg.StudioDiary.InternalWeb.Modules
                 rate.PoundsAmount = model.PoundsAmount;
                 rate.Per = new TimeSpan(model.DaysPer, model.HoursPer, model.MinutesPer, 0);
                 rate.Save(session);
+                return Response.AsRedirect("/Admin/");
+            };
+        }
+
+        void Products(IDocumentSession session)
+        {
+            Get["/Admin/Products/Add"] = parameters => View[new AddProductModel
+            {
+                CurrentProducts = Product.All(session),
+                AvailableRooms = Room.All(session)
+            }];
+            Get["/Admin/Products/{id}"] = parameters =>
+            {
+                var product = session.Load<Product>("products/" + parameters.id.ToString()) as Product;
+                return View[new EditProductModel
+                {
+                    ProductId = product.Id,
+                    Name = product.Name,
+                    RoomIds = product.RoomIds,
+                    DisplayOrder = product.DisplayOrder,
+                    Type = (int)product.Type,
+                    SelectedForm = (int)product.SelectedForm,
+                    BookingHint = product.BookingHint,
+                    CurrentProducts = Product.All(session),
+                    AvailableRooms = Room.All(session)
+                }];
+            };
+            Post["/Admin/Products/Add"] = parameters =>
+            {
+                var model = this.Bind<AddProductModel>();
+                var rate = new Product
+                               {
+                                   Name = model.Name,
+                                   Type = (Product.ProductType)model.Type,
+                                   SelectedForm = (Product.FormType)model.SelectedForm,
+                                   RoomIds = model.RoomIds,
+                                   BookingHint = model.BookingHint,
+                                   DisplayOrder = model.DisplayOrder
+                               };
+                rate.Save(session);
+                return Response.AsRedirect("/Admin/");
+            };
+            Post["/Admin/Products/{id}"] = parameters =>
+            {
+                var model = this.Bind<EditProductModel>();
+                var product = session.Load<Product>(model.ProductId);
+                product.Name = model.Name;
+                product.Type = (Product.ProductType)model.Type;
+                product.SelectedForm = (Product.FormType)model.SelectedForm;
+                product.RoomIds = model.RoomIds;
+                product.DisplayOrder = model.DisplayOrder;
+                product.BookingHint = model.BookingHint;
+                product.Save(session);
                 return Response.AsRedirect("/Admin/");
             };
         }

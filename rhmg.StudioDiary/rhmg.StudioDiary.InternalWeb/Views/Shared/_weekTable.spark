@@ -1,10 +1,10 @@
 ﻿<table width="100%">
   <tableHeadings showDayName="true" rooms2="rooms"/>
-  <dayLine dayName="'Monday'" day="thisWeek.Monday" rooms2="rooms" odd="true" showDayName="true"/>
-  <dayLine dayName="'Tuesday'" day="thisWeek.Tuesday" rooms2="rooms" odd="false" showDayName="true"/>
-  <dayLine dayName="'Wednesday'" day="thisWeek.Wednesday" rooms2="rooms" odd="true" showDayName="true"/>
-  <dayLine dayName="'Thursday'" day="thisWeek.Thursday" rooms2="rooms" odd="false" showDayName="true"/>
-  <dayLine dayName="'Friday'" day="thisWeek.Friday" rooms2="rooms" odd="true" showDayName="true"/>
-  <dayLine dayName="'Saturday'" day="thisWeek.Saturday" rooms2="rooms" odd="false" showDayName="true"/>
-  <dayLine dayName="'Sunday'" day="thisWeek.Sunday" rooms2="rooms" odd="true" showDayName="true"/>
+  <dayLine dayName="'Monday'" day="thisWeek.Monday" products2="products" rooms2="rooms" odd="true" showDayName="true"/>
+  <dayLine dayName="'Tuesday'" day="thisWeek.Tuesday" products2="products" rooms2="rooms" odd="false" showDayName="true"/>
+  <dayLine dayName="'Wednesday'" day="thisWeek.Wednesday" products2="products" rooms2="rooms" odd="true" showDayName="true"/>
+  <dayLine dayName="'Thursday'" day="thisWeek.Thursday" products2="products" rooms2="rooms" odd="false" showDayName="true"/>
+  <dayLine dayName="'Friday'" day="thisWeek.Friday" products2="products" rooms2="rooms" odd="true" showDayName="true"/>
+  <dayLine dayName="'Saturday'" day="thisWeek.Saturday" products2="products" rooms2="rooms" odd="false" showDayName="true"/>
+  <dayLine dayName="'Sunday'" day="thisWeek.Sunday" products2="products" rooms2="rooms" odd="true" showDayName="true"/>
 </table>

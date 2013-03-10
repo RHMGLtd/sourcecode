@@ -1,0 +1,25 @@
+﻿  <div id="cancellationPolicyPanel" class="informationPanel">
+    <span class="header">Cancellation Policy</span>
+    <table>
+      <tr class="">
+        <th>Warning provided</th>
+        <th width="50px"></th>
+        <th>Charge incurred</th>
+      </tr>
+      <tr>
+        <td>no warning</td>
+        <td></td>
+        <td>100% charge</td>
+      </tr>
+      <tr>
+        <td>up to two days</td>
+        <td></td>
+        <td>50% charge</td>
+      </tr>
+      <tr>
+        <td>more than two days</td>
+        <td></td>
+        <td>0% charge</td>
+      </tr>
+    </table>
+  </div>

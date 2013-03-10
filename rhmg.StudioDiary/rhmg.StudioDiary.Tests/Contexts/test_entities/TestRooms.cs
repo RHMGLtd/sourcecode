@@ -13,7 +13,7 @@
                     Rates = new[]
                                            {
                                                Rates.liveRoomEveningRate,
-                                               Rates.liverRoomDayTimeHourly
+                                               Rates.liveRoomDayTimeHourly
                                            }
                 };
             }
@@ -29,7 +29,7 @@
                     Rates = new[]
                                            {
                                                Rates.liveRoomEveningRate,
-                                               Rates.liverRoomDayTimeHourly
+                                               Rates.liveRoomDayTimeHourly
                                            }
                 };
             }

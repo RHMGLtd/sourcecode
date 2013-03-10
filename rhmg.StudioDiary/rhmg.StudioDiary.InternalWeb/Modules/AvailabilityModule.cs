@@ -6,6 +6,7 @@ using rhmg.StudioDiary.Raven;
 
 namespace rhmg.StudioDiary.InternalWeb.Modules
 {
+
     public class AvailabilityModule : NancyModule
     {
         public AvailabilityModule(IRavenSessionProvider store)
@@ -20,10 +21,11 @@ namespace rhmg.StudioDiary.InternalWeb.Modules
                                        PreviousWeekMonday = thisWeek.MondayDate.AddDays(-7),
                                        NextWeekMonday = thisWeek.MondayDate.AddDays(7),
                                        ThisWeek = thisWeek,
-                                       Rooms = Room.All(session)
+                                       Rooms = Room.All(session),
+                                       Products = Product.All(session)
                                    }];
                                };
-                Get["/{day}/{month}/{year}"] = parameters =>
+                Get[@"/(?<day>[\d]{1,2})/(?<month>[\d]{1,2})/(?<year>[\d]{1,4})/"] = parameters =>
                                                    {
                                                        var date = new DateTime(parameters.year, parameters.month, parameters.day);
                                                        var thisWeek = DiaryManager.WeekToAViewFor(date, session);
@@ -32,7 +34,8 @@ namespace rhmg.StudioDiary.InternalWeb.Modules
                                                            PreviousWeekMonday = thisWeek.MondayDate.AddDays(-7),
                                                            NextWeekMonday = thisWeek.MondayDate.AddDays(7),
                                                            ThisWeek = thisWeek,
-                                                           Rooms = Room.All(session)
+                                                           Rooms = Room.All(session),
+                                                           Products = Product.All(session)
                                                        }];
                                                    };
             }
