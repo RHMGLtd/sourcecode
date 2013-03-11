@@ -6,9 +6,16 @@ $(document).ready(function () {
         changeMonth: true,
         changeYear: true,
         showOn: 'both',
-        onSelect: function (date, instance) {
-            window.location = "http://local.rhmgdiary/rehearsal/" + date + "/newbooking";
-        },
-        dateFormat: 'dd/mm/yy'
-     });
+        onSelect: function (dateText, instance) {
+            var day, month, year;
+            var date = new Date(dateText);
+            day = date.getDate();
+            var months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun",
+               "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+            month = months[date.getMonth()];
+            year = date.getFullYear();
+            $('#monthTitle').html(day + ' ' + month + ' ' + year);
+            $('#dateInput').val(day + ' ' + month + ' ' + year);
+        }
+    });
 });

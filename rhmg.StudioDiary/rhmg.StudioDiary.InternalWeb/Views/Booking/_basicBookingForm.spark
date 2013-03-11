@@ -2,13 +2,14 @@
   Which room?
   <select name="Room" id="roomSelector">
     <option value="">... select a room</option>
-    <option each="var room in Model.Rooms" value="!{room.Id}">!{room.Name}</option>
+    <option each="var room in Model.Rooms" value="!{room.Id}" selected="?{Model.Room == room.Id}">!{room.Name}</option>
   </select>
 </div>
 <div id="rate">
   Please either select a rate, or put in a one off charge for this booking.
-  <select name="Rate" id="rateSelector">
-    <option value="">... select a room to get available rates</option>
+  <select name="RateId" id="rateSelector">
+    <option if="string.IsNullOrEmpty(Model.RateId)" value="">... select a room to get available rates</option>
+    <option each="var rate in Model.RatesToPickFromMaybe" value="!{rate.Id}" selected="!{Model.RateId == rate.Id}">!{Model.RateDescription}</option>
   </select>
   <input type="number" Min="0" class="textEntry" name="OneOffCharge" />
 </div>

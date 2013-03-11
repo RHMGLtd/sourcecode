@@ -80,10 +80,9 @@ namespace rhmg.StudioDiary
 
         public List<Room> RoomsToPickFrom(IDocumentSession session)
         {
-            if (Type == ProductType.CanPickFrom)
-                return session.Load<Room>(RoomIds).ToList();
-            return new List<Room>();
+            return Type == ProductType.CanPickFrom ? session.Load<Room>(RoomIds).ToList() : new List<Room>();
         }
+
         public List<Room> RoomsToBookOut(string roomId, IDocumentSession session)
         {
             var result = new List<Room>();

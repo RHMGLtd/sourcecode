@@ -21,15 +21,17 @@ $(function () {
             offset: "20 40"
         });
         $("#arriveBooking").attr("bookingId", $(this).attr('bookingId'));
-        $("#arriveBooking").attr("product", $(this).attr('product'));
-        
+
         $("#cancelBooking").attr("bookingId", $(this).attr('bookingId'));
+
         $("#noShowBooking").attr("bookingId", $(this).attr('bookingId'));
+
         $("#editBooking").attr("bookingId", $(this).attr('bookingId'));
+
         $("#dialog").dialog("open");
     });
     $("#editBooking").click(function (e) {
         e.preventDefault();
-        alert($(this).attr('bookingId'));
+        window.location = '/' + $(this).attr('bookingId');
     });
 });

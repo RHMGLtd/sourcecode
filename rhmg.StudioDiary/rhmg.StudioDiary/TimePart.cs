@@ -37,5 +37,20 @@ namespace rhmg.StudioDiary
 
             return endTime - startTime;
         }
+        public override string ToString()
+        {
+            return string.Format("{0}:{1}", Hour.ToString("00"), Minute.ToString("00"));
+        }
+
+        public static TimePart EndTime(TimePart start, TimeSpan length)
+        {
+            var startTime = new DateTime(2010, 1, 1, start.Hour, start.Minute, 0);
+            var end = startTime + length;
+            return new TimePart
+                       {
+                           Hour = (short)end.Hour,
+                           Minute = (short)end.Minute
+                       };
+        }
     }
 }

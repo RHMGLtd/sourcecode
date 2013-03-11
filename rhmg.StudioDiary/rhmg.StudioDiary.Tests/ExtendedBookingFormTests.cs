@@ -29,7 +29,7 @@ namespace rhmg.StudioDiary.Tests
                                                      Notes = "some notes"
                                                  };
                                 };
-        Because of = () => _booking = _model.CreateBooking(_date, _product, session);
+        Because of = () => _booking = _model.CreateBooking(_product, session);
         It has_saved_the_booking = () => _booking.Id.ShouldNotBeNull();
         It has_the_room_saved_correctly = () => _booking.Rooms.Count().ShouldEqual(5);
     }

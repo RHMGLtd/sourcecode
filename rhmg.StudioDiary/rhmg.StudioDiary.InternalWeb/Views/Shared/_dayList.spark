@@ -7,7 +7,7 @@
   <div each="var thing in Enumerable.Range(10,13)" class="hourLine peakTimeBeginning?{thing == 18 && !bookings.IsAWeekend}" >
     <var booking="bookings.ForHour(thing)" />
     <span class="hour">!{thing}:00</span>
-    <div if="!booking.IsNull()" class="entry booked?{!booking.IsNull()}" bookingId="!{booking.Id}" product="!{}" alt="${booking.SummariseBooking()}" title="${booking.SummariseBooking()}">${booking.SummariseBooking()}</div>
+    <div if="!booking.IsNull()" class="entry booked?{!booking.IsNull()}" bookingId="!{booking.Id}" alt="${booking.SummariseBooking()}" title="${booking.SummariseBooking()}">${booking.SummariseBooking()}</div>
   </div>
 </div>
 

@@ -241,6 +241,9 @@
     <None Include="Views\Booking\AbbreviatedFormBooking.spark">
       <SubType>Designer</SubType>
     </None>
+    <None Include="Views\Booking\_sharedBookingForm.spark">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="Views\Booking\ExtendedFormBooking.spark">
       <SubType>Designer</SubType>
     </None>

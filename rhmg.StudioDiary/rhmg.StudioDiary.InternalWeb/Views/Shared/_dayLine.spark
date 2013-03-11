@@ -3,7 +3,7 @@
 		<td if="showDayName" class="dayLineDay today?{day.Date == DateTime.Now.Date}">
       !{dayName}<br />
       <for each="var product in products2">
-        <a href="~/!{product.Name.Replace(' ', '')}/!{day.Date.ToString('dd/MM/yyyy')}/NewBooking/">!{product.Name}</a>
+        <a href="~/booking?day=!{day.Date.Day}&month=!{day.Date.Month}&year=!{day.Date.Year}&product=!{product.Name.Replace(' ', '')}">!{product.Name}</a>
         <br />
       </for> 
     </td>

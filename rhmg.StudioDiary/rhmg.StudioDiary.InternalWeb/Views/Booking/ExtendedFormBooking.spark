@@ -4,6 +4,7 @@
   <bookingHeader />
   <form  method="post">
     <fieldset>
+      <sharedBookingForm />
       <basicBandForm />
       <div id="address">
         What is your address?

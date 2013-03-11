@@ -2,7 +2,9 @@
 <use namespace="System.Linq" once="linqNamespace"/>
 
 <content name="head">
-  <title>Making a !{Model.ProductFriendlyName} booking for !{Model.Date.ToString('dd MMM yyyy')}</title>
+  <title>
+    This is a !{Model.ProductFriendlyName} booking
+  </title>
 </content>
 <content name="scripts">
   <script src="~/Content/Scripts/timepicker.impl.js" type="text/javascript"></script>

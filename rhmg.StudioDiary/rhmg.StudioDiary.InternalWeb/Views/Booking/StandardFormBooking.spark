@@ -4,6 +4,7 @@
   <bookingHeader />
   <form  method="post">
     <fieldset>
+      <sharedBookingForm />
       <basicBandForm />
       <basicBookingForm />
       <button type="submit">save</button>

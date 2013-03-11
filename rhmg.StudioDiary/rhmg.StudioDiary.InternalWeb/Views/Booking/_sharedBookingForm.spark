@@ -1,0 +1,3 @@
+﻿<input type="hidden" name="BookingId" value="!{Model.BookingId}" />
+<input type="hidden" name="ProductFriendlyName" value="!{Model.ProductFriendlyName}" />
+<input type="hidden" id="dateInput" name="Date" value="!{Model.Date}" />

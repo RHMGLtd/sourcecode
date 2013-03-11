@@ -27,7 +27,7 @@ namespace rhmg.StudioDiary.Tests
                                                  {
                                                      ProductFriendlyName = _product.Name,
                                                      Room = _product.RoomIds.First(),
-                                                     Rate = rate.Id,
+                                                     RateId = rate.Id,
                                                      OneOffCharge = 0.00,
                                                      BandName = "bob",
                                                      Date = _date,
@@ -39,7 +39,7 @@ namespace rhmg.StudioDiary.Tests
                                                      PhoneNumber = "01234 567890"
                                                  };
                                 };
-        Because of = () => _booking = _model.CreateBooking(_date, _product, session);
+        Because of = () => _booking = _model.CreateBooking(_product, session);
         It has_saved_the_booking = () => _booking.Id.ShouldNotBeNull();
         It has_the_room_saved_correctly = () => _booking.Rooms.First().Id.ShouldEqual("rooms/2");
     }
@@ -67,7 +67,8 @@ namespace rhmg.StudioDiary.Tests
                 ProductFriendlyName = _product.Name,
                 Room = _product.RoomIds.First(),
                 ContactId = _band.Id,
-                Rate = rate.Id,
+                RateId = rate.Id,
+                RatesToPickFromMaybe = room.Rates.ToList(),
                 OneOffCharge = 0.00,
                 Date = _date,
                 StartTime = "19:00",
@@ -76,7 +77,7 @@ namespace rhmg.StudioDiary.Tests
                 PhoneNumber = "01234 567890"
             };
         };
-        Because of = () => _booking = _model.CreateBooking(_date, _product, session);
+        Because of = () => _booking = _model.CreateBooking(_product, session);
         It has_saved_the_booking = () => _booking.Id.ShouldNotBeNull();
         It has_the_correct_contact = () => _booking.MainContactId.ShouldEqual(_band.Id);
         It has_the_room_saved_correctly = () => _booking.Rooms.First().Id.ShouldEqual("rooms/2");
@@ -110,7 +111,7 @@ namespace rhmg.StudioDiary.Tests
                 PhoneNumber = "01234 567890"
             };
         };
-        Because of = () => _booking = _model.CreateBooking(_date, _product, session);
+        Because of = () => _booking = _model.CreateBooking(_product, session);
         It has_saved_the_booking = () => _booking.Id.ShouldNotBeNull();
         It has_the_correct_contact = () => _booking.MainContactId.ShouldEqual(_band.Id);
         It has_the_room_saved_correctly = () => _booking.Rooms.Count.ShouldEqual(5);

@@ -9,8 +9,26 @@ namespace rhmg.StudioDiary.InternalWeb.ViewModels
     {
         public StandardFormBookingModel()
         {
-            Rooms = new List<Room>();
             NumberRequired = new List<string>();
+            RatesToPickFromMaybe = new List<Rate>();
+        }
+
+        public StandardFormBookingModel(Booking booking)
+            : base(booking)
+        {
+            ContactId = booking.MainContactId;
+            PhoneNumber = booking.MainContact.PhoneNumber;
+            MainContactName = booking.MainContact.MainContactName;
+            BandName = booking.MainContact.Name;
+            EmailAddress = booking.MainContact.EmailAddress;
+            if (booking.Product.Type == Product.ProductType.CanPickFrom)
+                Room = booking.Rooms.FirstOrDefault().Id;
+            RateId = booking.Rate == null ? null : booking.Rate.Id;
+            RateDescription = booking.Rate == null ? null : booking.Rate.Description;
+            RatesToPickFromMaybe = booking.Rate == null
+                                       ? new List<Rate>()
+                                       : booking.Rooms.FirstOrDefault().Rates.ToList();
+            OneOffCharge = booking.OneOffCharge;
         }
 
         List<AdditionalEquipment> _additionalEquipment;
@@ -34,18 +52,20 @@ namespace rhmg.StudioDiary.InternalWeb.ViewModels
         public string BandName { get; set; }
         public string EmailAddress { get; set; }
         public string Room { get; set; }
-        public string Rate { get; set; }
+        public string RateId { get; set; }
+        public string RateDescription { get; set; }
         public double OneOffCharge { get; set; }
         public List<string> NumberRequired { get; set; }
 
+        public List<Rate> RatesToPickFromMaybe { get; set; }
 
-        public virtual Booking CreateBooking(DateTime date, Product product, IDocumentSession session)
+        public virtual Booking CreateBooking(Product product, IDocumentSession session)
         {
             var contactId = !string.IsNullOrEmpty(ContactId) ? ContactId : createNewContact().Save(session).Id;
             var eqs = ExplodeAdditionalEquipment(session);
             var rooms = product.RoomsToBookOut(Room, session);
             var rate = GetRateToUse(rooms);
-            var newBooking = ActuallyCreateBooking(date, rate, eqs, contactId, rooms, product);
+            var newBooking = ActuallyCreateBooking(Date, rate, eqs, contactId, rooms, product, session);
             newBooking.Save(session);
             return newBooking;
         }
@@ -78,29 +98,29 @@ namespace rhmg.StudioDiary.InternalWeb.ViewModels
         protected Rate GetRateToUse(List<Room> rooms)
         {
             return (OneOffCharge == 0.00)
-                       ? rooms.First().Rates.First(x => x.Id == Rate)
+                       ? rooms.First().Rates.First(x => x.Id == RateId)
                        : null;
         }
-        protected virtual Booking ActuallyCreateBooking(DateTime date, Rate rate, List<AdditionalEquipment> eqs, string contactId, List<Room> rooms, Product product)
+        protected virtual Booking ActuallyCreateBooking(DateTime date, Rate rate, List<AdditionalEquipment> eqs, string contactId, List<Room> rooms, Product product, IDocumentSession session)
         {
-            return new Booking
-                       {
-                           Date = date,
-                           MainContactId = contactId,
-                           StartTime = TimePart.FromString(StartTime),
-                           Length = TimePart.Duration(StartTime, EndTime),
-                           Rooms = rooms,
-                           OneOffCharge = OneOffCharge,
-                           Rate = rate,
-                           Notes = new List<Note>
-                                       {
-                                           new Note
-                                               {
-                                                   Content = Notes
-                                               }
-                                       },
-                           AdditionalEquipment = eqs
-                       };
+            var booking = string.IsNullOrEmpty(BookingId) ? new Booking() : session.Load<Booking>(BookingId);
+            booking.Date = date == DateTime.MinValue ? Date : date;
+            booking.MainContactId = contactId;
+            booking.StartTime = TimePart.FromString(StartTime);
+            booking.Length = TimePart.Duration(StartTime, EndTime);
+            booking.Rooms = rooms;
+            booking.OneOffCharge = OneOffCharge;
+            booking.Rate = rate;
+            booking.Product = product;
+            booking.Notes = new List<Note>
+                                {
+                                    new Note
+                                        {
+                                            Content = Notes
+                                        }
+                                };
+            booking.AdditionalEquipment = eqs;
+            return booking;
         }
     }
 }

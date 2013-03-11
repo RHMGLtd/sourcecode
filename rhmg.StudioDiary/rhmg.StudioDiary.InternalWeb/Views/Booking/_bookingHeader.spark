@@ -2,9 +2,8 @@
   <input type="hidden" id="datepicker" />
 </span>
 <h1>
-  Making a !{Model.ProductFriendlyName} booking for !{Model.Date.ToString('dd MMM yyyy')}
+  This is a !{Model.ProductFriendlyName} booking for <span id="monthTitle">!{Model.Date.ToString('dd MMM yyyy')}</span>
 </h1>
-</div>
 <h2>
   Fill in the form below to complete a booking.
 </h2>

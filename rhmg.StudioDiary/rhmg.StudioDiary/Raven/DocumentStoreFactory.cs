@@ -44,7 +44,6 @@ namespace rhmg.StudioDiary.Raven
                 Conventions = DocumentConventionFactory.getConvention(),
                 Configuration = { Port = 3136 },
                 UseEmbeddedHttpServer = true
-
             };
             store.Initialize();
             IndexCreation.CreateIndexes(Assembly.GetAssembly(typeof(CustomerArrears)), store);

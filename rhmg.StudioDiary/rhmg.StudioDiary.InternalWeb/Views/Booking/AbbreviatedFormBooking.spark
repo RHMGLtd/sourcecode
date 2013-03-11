@@ -4,6 +4,7 @@
   <bookingHeader />
   <form  method="post">
     <fieldset>
+      <sharedBookingForm />
       <div id="startTime">
         What time from?
         <input type="text" readonly="readonly" id="startTimePicker" name="StartTime" value="!{Model.StartTime}" />

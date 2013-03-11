@@ -17,7 +17,7 @@ namespace rhmg.StudioDiary.InternalWeb.ViewModels
         public string NumberInParty { get; set; }
         public bool PizzaOnTheDay { get; set; }
 
-        public override Booking CreateBooking(DateTime date, Product product, IDocumentSession session)
+        public override Booking CreateBooking(Product product, IDocumentSession session)
         {
             var contactId = ContactId;
             if (string.IsNullOrEmpty(ContactId))
@@ -32,7 +32,7 @@ namespace rhmg.StudioDiary.InternalWeb.ViewModels
             var eqs = ExplodeAdditionalEquipment(session);
             var rooms = product.RoomsToBookOut(Room, session);
             var rate = GetRateToUse(rooms);
-            var newBooking = ActuallyCreateBooking(date, rate, eqs, contactId, rooms, product);
+            var newBooking = ActuallyCreateBooking(Date, rate, eqs, contactId, rooms, product, session);
             newBooking.MakeUpSession = MakeUpSession;
             newBooking.Biscuits = Biscuits;
             newBooking.SongChoice = SongChoice;
