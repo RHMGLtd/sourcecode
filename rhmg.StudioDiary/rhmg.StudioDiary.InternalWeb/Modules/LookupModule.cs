@@ -1,4 +1,5 @@
-﻿using Nancy;
+﻿using System;
+using Nancy;
 using Nancy.ModelBinding;
 using rhmg.StudioDiary.InternalWeb.ViewModels;
 using rhmg.StudioDiary.Raven;
@@ -23,6 +24,18 @@ namespace rhmg.StudioDiary.InternalWeb.Modules
                                                                 return new NotFoundResponse();
                                                             return Response.AsJson(((Room)room).Rates);
                                                         };
+                Get[@"/lookup/occupancy/for/day/{day}/{month}/{year}/"] = parameters =>
+                {
+                    var dateString = string.Format("{0} {1} {2}",
+                        parameters.day, parameters.month, parameters.year);
+                    var date = DateTime.Parse(dateString);
+                    return View[new DayOccupancyModel
+                                        {
+                                            CurrentBookings = DiaryManager.DayCheck(date, session),
+                                            AllRooms = Room.All(session),
+                                            Date = date
+                                        }];
+                };
                 Post["/lookup/contact/from/phoneNumber"] = parameters =>
                 {
                     var model = this.Bind<ContactLookupForm>();

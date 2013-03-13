@@ -27,7 +27,6 @@ namespace rhmg.StudioDiary.InternalWeb.Modules
                 Products(session);
             }
         }
-
         void AdditionalEquipments(IDocumentSession session)
         {
             Get["/Admin/AdditionalEquipment/Add"] = parameters => View[new AddEquipmentModel

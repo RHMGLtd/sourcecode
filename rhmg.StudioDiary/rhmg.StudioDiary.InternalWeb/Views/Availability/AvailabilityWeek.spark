@@ -2,6 +2,7 @@
 
 <content name="scripts">
   <script src="~/Content/Scripts/weekpicker.impl.js" type="text/javascript"></script>
+  <script src="~/Content/Scripts/booking.actions.impl.js" type="text/javascript" once="bookingActionsScript"></script>
 </content>
 
 <content name="head">
@@ -10,10 +11,25 @@
 
 <content name="body">
   <div class="header">
-  <span class="weekpickerStuff">
-    <input type="hidden" id="weekpicker" />
-  </span>
+    <span class="weekpickerStuff">
+      <input type="hidden" id="weekpicker" />
+    </span>
     <h1>Displaying week commencing Monday !{Model.ThisWeek.MondayDate.ToString('dd MMM yyyy')}</h1>
   </div>
   <weekTable thisWeek="Model.ThisWeek" products="Model.Products" rooms="Model.Rooms"/>
+
+  <div id="dialog" title="jobby" once="dialogMarkup">
+    <div class="navBarItem" id="arriveBooking">
+      Arrive the booking
+    </div>
+    <div class="navBarItem" id="cancelBooking">
+      Cancel the booking
+    </div>
+    <div class="navBarItem" id="noShowBooking">
+      No Show the booking
+    </div>
+    <div class="navBarItem" id="editBooking">
+      Edit the booking
+    </div>
+  </div>
 </content>

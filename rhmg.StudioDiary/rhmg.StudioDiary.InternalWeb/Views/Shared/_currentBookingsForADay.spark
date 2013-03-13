@@ -1,0 +1,9 @@
+﻿<div id="currentBookingsForDay">
+  <h1>
+    Current bookings for !{Model.Date.ToString('dd MMM yyyy')}
+  </h1>
+  <table width="100%">
+    <tableHeadings showDayName="false" rooms2="Model.AllRooms"/>
+    <dayLine day="Model.CurrentBookings" odd="false" rooms2="Model.AllRooms" products2="new Product[] {}" dayName="'today'" showDayName="false"/>
+  </table>
+</div>

@@ -219,6 +219,7 @@
     <Compile Include="ViewModels\AdminIndexModel.cs" />
     <Compile Include="ViewModels\AvailabilityWeekModel.cs" />
     <Compile Include="ViewModels\BaseFormBookingModel.cs" />
+    <Compile Include="ViewModels\DayOccupancyModel.cs" />
     <Compile Include="ViewModels\ExtendedFormBookingModel.cs" />
     <Compile Include="ViewModels\ContactModel.cs" />
     <Compile Include="ViewModels\EditRoomModel.cs" />
@@ -247,7 +248,7 @@
     <None Include="Views\Booking\ExtendedFormBooking.spark">
       <SubType>Designer</SubType>
     </None>
-    <None Include="Views\Booking\_currentBookingsForADay.spark">
+    <None Include="Views\Shared\_currentBookingsForADay.spark">
       <SubType>Designer</SubType>
     </None>
     <None Include="Views\Booking\_basicBookingForm.spark">
@@ -269,6 +270,9 @@
       <SubType>Designer</SubType>
     </None>
     <None Include="Views\Layouts\Application.spark">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Views\Lookup\DayOccupancy.spark">
       <SubType>Designer</SubType>
     </None>
     <None Include="Views\Shared\_product.spark">

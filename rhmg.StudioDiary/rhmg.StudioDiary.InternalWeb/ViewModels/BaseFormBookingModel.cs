@@ -31,6 +31,10 @@ namespace rhmg.StudioDiary.InternalWeb.ViewModels
         /// These are the rooms which are AVAILABLE to pick from, not the one which is associated with the booking per se
         /// </summary>
         public List<Room> Rooms { get; set; }
+        /// <summary>
+        /// These are all the rooms in the system, for displaying current occupancy
+        /// </summary>
+        public List<Room> AllRooms { get; set; } 
 
         public string StartTime { get; set; }
         public string EndTime { get; set; }

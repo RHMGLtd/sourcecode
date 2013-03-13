@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Linq;
 using Nancy;
 using rhmg.StudioDiary.InternalWeb.ViewModels;
 using rhmg.StudioDiary.Raven;

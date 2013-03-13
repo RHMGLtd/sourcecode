@@ -1,0 +1,4 @@
+﻿<use namespace="rhmg.StudioDiary" once="studioDiaryNamespace"/>
+<use master=""/>
+<viewdata model="rhmg.StudioDiary.InternalWeb.ViewModels.DayOccupancyModel" />
+<currentBookingsForADay />

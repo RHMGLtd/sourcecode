@@ -9,12 +9,7 @@ $(document).ready(function () {
         changeYear: true,
         showOn: 'both',
         onSelect: function (date, instance) {
-            window.location = "http://local.rhmgdiary/rehearsal/" + date + "/newbooking";
-        },
-        beforeShow: function () {
-            $(".ui-state-default").on("mouseenter", function () {
-                Debug.write("jobby");
-            });
+            window.location = "/" + date;
         },
         dateFormat: 'dd/mm/yy'
     });

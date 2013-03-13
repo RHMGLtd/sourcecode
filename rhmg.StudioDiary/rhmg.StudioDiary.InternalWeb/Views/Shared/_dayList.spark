@@ -1,27 +1,8 @@
 ﻿<use namespace="System.Linq" once="linqNamespace"/>
-<content name="scripts">
-  <script src="~/Content/Scripts/booking.actions.impl.js" type="text/javascript" once="bookingActionsScript"></script>
-</content>
-
 <div class="dayList">
   <div each="var thing in Enumerable.Range(10,13)" class="hourLine peakTimeBeginning?{thing == 18 && !bookings.IsAWeekend}" >
     <var booking="bookings.ForHour(thing)" />
     <span class="hour">!{thing}:00</span>
     <div if="!booking.IsNull()" class="entry booked?{!booking.IsNull()}" bookingId="!{booking.Id}" alt="${booking.SummariseBooking()}" title="${booking.SummariseBooking()}">${booking.SummariseBooking()}</div>
-  </div>
-</div>
-
-<div id="dialog" title="jobby" once="dialogMarkup">
-  <div class="navBarItem" id="arriveBooking">
-    Arrive the booking
-  </div>
-  <div class="navBarItem" id="cancelBooking">
-    Cancel the booking
-  </div>
-  <div class="navBarItem" id="noShowBooking">
-    No Show the booking
-  </div>
-  <div class="navBarItem" id="editBooking">
-    Edit the booking
   </div>
 </div>

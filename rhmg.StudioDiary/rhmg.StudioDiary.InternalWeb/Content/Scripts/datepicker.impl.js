@@ -16,6 +16,15 @@ $(document).ready(function () {
             year = date.getFullYear();
             $('#monthTitle').html(day + ' ' + month + ' ' + year);
             $('#dateInput').val(day + ' ' + month + ' ' + year);
+
+            $.ajax({
+                type: "GET",
+                url: "/lookup/occupancy/for/day/" + day + '/' + month + '/' + year
+            }).done(function (html) {
+                if (html) {
+                    $('#currentBookingsForDay').html(html);
+                }
+            });
         }
     });
 });
