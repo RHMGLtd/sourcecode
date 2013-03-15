@@ -3,25 +3,20 @@ using System.Collections.Generic;
 using System.Linq;
 using Raven.Client;
 using Raven.Client.Linq;
+using Raven.Imports.Newtonsoft.Json;
 
 namespace rhmg.StudioDiary
 {
     public class BackFill : Entity
     {
-        public Contact Contact { get; set; }
+        public string MainContactId { get; set; }
+        [JsonIgnore]
+        public Contact MainContact { get; set; }
 
         public DateTime Date { get; set; }
 
         public bool Upgraded { get; set; }
-
-        public static BackFill Create(Contact contact, DateTime date)
-        {
-            return new BackFill
-                       {
-                           Contact = contact,
-                           Date = date
-                       };
-        }
+        
 
         public BackFill Save(IDocumentSession session)
         {
@@ -32,11 +27,25 @@ namespace rhmg.StudioDiary
 
         public static BackFill Get(string id, IDocumentSession session)
         {
-            return session.Load<BackFill>(id);
+            var backfill = session.Include<BackFill>(x => x.MainContactId).Load(id);
+            backfill.MainContact = session.Load<Contact>(backfill.MainContactId);
+            return backfill;
         }
         public static List<BackFill> Get(DateTime effectiveDate, IDocumentSession session)
         {
-            return session.Query<BackFill>().Where(x => x.Date == effectiveDate).ToList();
+            var backfills =session.Query<BackFill>().Where(x => x.Date == effectiveDate).ToList();
+            if (backfills.Any())
+            {
+                var contactIds = backfills.Select(x => x.MainContactId);
+                var contacts = session.Load<Contact>(contactIds);
+                foreach (var backFill in backfills)
+                {
+                    var contact = contacts.FirstOrDefault(x => x.Id == backFill.MainContactId);
+                    if (contact != null)
+                        backFill.MainContact = contact;
+                }
+            }
+            return backfills;
         }
 
         public void Upgrade()

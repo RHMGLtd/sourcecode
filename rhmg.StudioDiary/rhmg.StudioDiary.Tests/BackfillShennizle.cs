@@ -5,50 +5,43 @@ using rhmg.StudioDiary.Tests.Contexts.test_entities;
 
 namespace rhmg.StudioDiary.Tests
 {
-    public class when_a_new_backfill_is_created
+    public class when_a_new_backfill_is_created : with_raven_integration<BackFill, BackFill>
     {
         static BackFill backFill;
-
-        Because of = () => backFill = BackFills.standardBackFill;
-
-        It has_a_contact_set = () => backFill.Contact.PhoneNumber.ShouldEqual(Contacts.TheBeatles.PhoneNumber);
-        It has_a_date_set = () => backFill.Date.ShouldEqual(Dates.monday);
-    }
-
-    public class when_a_new_backfill_is_saved : with_raven_integration<BackFill, BackFill>
-    {
-        static BackFill backFill;
-
-        Establish context = () => backFill = BackFills.standardBackFill;
-
-        Because of = () => backFill = backFill.Save(session);
-
-        It has_provided_an_id = () => backFill.Id.ShouldEqual("backfill/1");
-    }
-
-    public class when_retrieving_a_backfill : with_raven_integration<BackFill, BackFill>
-    {
-        static BackFill backfill;
 
         Establish context = () =>
                                 {
-                                    var bob = BackFills.standardBackFill;
-                                    bob.Save(session);
+                                    var contact = Contacts.TheBeatles;
+                                    contact.Save(session);
+                                    backFill = new BackFill
+                                                   {
+                                                       MainContactId = contact.Id,
+                                                       Date = Dates.monday
+                                                   };
+                                    backFill.Save(session);
                                 };
 
-        Because of = () => backfill = BackFill.Get("backfill/1", session);
+        Because of = () => backFill = BackFill.Get(backFill.Id, session);
 
-        It has_loaded = () => backfill.ShouldNotBeNull();
+        It has_a_contact_set = () => backFill.MainContact.PhoneNumber.ShouldEqual(Contacts.TheBeatles.PhoneNumber);
+        It has_a_date_set = () => backFill.Date.ShouldEqual(Dates.monday);
     }
 
     public class when_retrieving_backfill_for_a_specific_day : with_raven_integration<BackFill, BackFill>
     {
         static List<BackFill> backfills;
+        static BackFill backFill;
 
         Establish context = () =>
         {
-            var bob = BackFills.standardBackFill;
-            bob.Save(session);
+            var contact = Contacts.TheBeatles;
+            contact.Save(session);
+            backFill = new BackFill
+            {
+                MainContactId = contact.Id,
+                Date = Dates.monday
+            };
+            backFill.Save(session);
         };
         Because of = () => backfills = BackFill.Get(BackFills.standardBackFill.Date, session);
 

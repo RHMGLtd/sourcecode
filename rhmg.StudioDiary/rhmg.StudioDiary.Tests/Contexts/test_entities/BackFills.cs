@@ -6,7 +6,11 @@
         {
             get
             {
-                return BackFill.Create(Contacts.TheBeatles, Dates.monday);
+                return new BackFill
+                           {
+                               MainContactId = Contacts.TheBeatles.Id,
+                               Date = Dates.monday
+                           };
             }
         }
     }
