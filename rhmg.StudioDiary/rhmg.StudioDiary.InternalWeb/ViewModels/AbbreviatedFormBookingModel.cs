@@ -7,6 +7,16 @@ namespace rhmg.StudioDiary.InternalWeb.ViewModels
 {
     public class AbbreviatedFormBookingModel : BaseFormBookingModel
     {
+        public AbbreviatedFormBookingModel()
+        {
+            
+        }
+
+        public AbbreviatedFormBookingModel(Booking booking)
+            :base(booking)
+        {
+            
+        }
         public Booking CreateBooking(Product product, IDocumentSession session)
         {
             var rate = session.Query<Rate>().FirstOrDefault(x => x.Description == "***SYSTEM USE ONLY***") ?? new Rate

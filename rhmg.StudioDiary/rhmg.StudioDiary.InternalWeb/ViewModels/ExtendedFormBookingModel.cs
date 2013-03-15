@@ -1,10 +1,25 @@
-﻿using System;
-using Raven.Client;
+﻿using Raven.Client;
 
 namespace rhmg.StudioDiary.InternalWeb.ViewModels
 {
     public class ExtendedFormBookingModel : StandardFormBookingModel
     {
+        public ExtendedFormBookingModel() { }
+        public ExtendedFormBookingModel(Booking booking)
+            : base(booking)
+        {
+            Address = booking.MainContact.Address;
+            Postcode = booking.MainContact.Postcode;
+            SecondaryContactName = booking.MainContact.SecondaryContactName;
+            Age = booking.MainContact.Age;
+
+            MakeUpSession = booking.MakeUpSession;
+            Biscuits = booking.Biscuits;
+            SongChoice = booking.SongChoice;
+            NumberInParty = booking.NumberInParty;
+            PizzaOnTheDay = booking.PizzaOnTheDay;
+        }
+
         // contact stuff
         public string Address { get; set; }
         public string Postcode { get; set; }

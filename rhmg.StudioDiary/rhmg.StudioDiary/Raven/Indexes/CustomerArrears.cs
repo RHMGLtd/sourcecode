@@ -16,7 +16,7 @@ namespace rhmg.StudioDiary.Raven.Indexes
         public CustomerArrears()
         {
             Map = docs => from booking in docs
-                          where (booking.IsCancelled || booking.CheckedIn || booking.DidNotShow) && booking.HasOutstandingOwings
+                          where (booking.IsCancelled || booking.CheckedIn || booking.IsNoShow) && booking.HasOutstandingOwings
                           select new
                                      {
                                          ContactId = booking.MainContactId,

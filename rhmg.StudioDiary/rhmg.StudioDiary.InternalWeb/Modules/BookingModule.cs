@@ -68,6 +68,8 @@ namespace rhmg.StudioDiary.InternalWeb.Modules
                     var booking =
                         Booking.Get("booking/" + parameters.bookingId,
                                     session) as Booking;
+                    if (booking == null)
+                        return new NotFoundResponse();
                     if (booking.Product.SelectedForm == Product.FormType.Standard)
                         return View[new StandardFormBookingModel(booking)
                         {
@@ -76,9 +78,58 @@ namespace rhmg.StudioDiary.InternalWeb.Modules
                             AllRooms = Room.All(session),
                             AvailableAdditionalEquipment = AdditionalEquipment.All(session)
                         }];
+                    if (booking.Product.SelectedForm == Product.FormType.Extended)
+                        return View[new ExtendedFormBookingModel(booking)
+                        {
+                            CurrentBookings = DiaryManager.DayCheck(booking.Date, session),
+                            Rooms = booking.Product.RoomsToPickFrom(session),
+                            AllRooms = Room.All(session),
+                            AvailableAdditionalEquipment = AdditionalEquipment.All(session)
+                        }];
+                    if (booking.Product.SelectedForm == Product.FormType.Abbreviated)
+                        return View[new AbbreviatedFormBookingModel(booking)
+                        {
+                            CurrentBookings = DiaryManager.DayCheck(booking.Date, session),
+                            Rooms = booking.Product.RoomsToPickFrom(session),
+                            AllRooms = Room.All(session)
+                        }];
                     return new NotFoundResponse();
                 };
+                Get[@"/booking/{bookingId}/NoShow"] = parameters =>
+                {
+                    var booking =
+                           Booking.Get("booking/" + parameters.bookingId,
+                                       session) as Booking;
+                    if (booking == null)
+                        return new NotFoundResponse();
+                    booking.NoShow();
+                    booking.Save(session);
+                    return true;
+                };
+                Get[@"/booking/{bookingId}/CheckIn"] = parameters =>
+                {
+                    var booking =
+                           Booking.Get("booking/" + parameters.bookingId,
+                                       session) as Booking;
+                    if (booking == null)
+                        return new NotFoundResponse();
+                    booking.CheckIn();
+                    booking.Save(session);
+                    return true;
+                };
 
+                Post[@"/booking/{bookingId}/cancel"] = parameters =>
+                {
+                    var booking =
+                           Booking.Get("booking/" + parameters.bookingId,
+                                       session) as Booking;
+                    if (booking == null)
+                        return new NotFoundResponse();
+                    var model = this.Bind<CancellationModel>();
+                    booking.Cancel(model.CancellationType, model.Reason, DateTime.Now);
+                    booking.Save(session);
+                    return true;
+                };
                 Post[@"/booking"] = parameters => SaveBooking(session);
                 Post[@"/booking/{bookingId}"] = parameters => SaveBooking(session);
             }

@@ -219,6 +219,7 @@
     <Compile Include="ViewModels\AdminIndexModel.cs" />
     <Compile Include="ViewModels\AvailabilityWeekModel.cs" />
     <Compile Include="ViewModels\BaseFormBookingModel.cs" />
+    <Compile Include="ViewModels\CancellationModel.cs" />
     <Compile Include="ViewModels\DayOccupancyModel.cs" />
     <Compile Include="ViewModels\ExtendedFormBookingModel.cs" />
     <Compile Include="ViewModels\ContactModel.cs" />

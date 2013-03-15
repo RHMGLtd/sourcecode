@@ -55,7 +55,7 @@ namespace rhmg.StudioDiary
 
         public bool CheckedIn { get; set; }
 
-        public bool DidNotShow { get; set; }
+        public bool IsNoShow { get; set; }
 
         public static NullBooking GetNull() { return new NullBooking(); }
         public static Booking Create(string contactId, DateTime date, TimePart startTime, TimeSpan length, Room room, Rate rate, Product product)
@@ -144,7 +144,6 @@ namespace rhmg.StudioDiary
         {
             Refunds.Add(refund);
         }
-
         public void Cancel(CancellationType cancellationType, string reason, DateTime madeOn)
         {
             if (Cancellation == null)
@@ -155,7 +154,6 @@ namespace rhmg.StudioDiary
                                        Type = cancellationType
                                    };
         }
-
 
         public void AddAdditionalEquipment(AdditionalEquipment additionalEquipment)
         {
@@ -182,6 +180,12 @@ namespace rhmg.StudioDiary
         public void CheckIn()
         {
             CheckedIn = true;
+            IsNoShow = false;
+        }
+        public void NoShow()
+        {
+            IsNoShow = true;
+            CheckedIn = false;
         }
 
         /*public void SaveAttachment(IFile file, IFileSystem fs, string rootDirectory)
@@ -200,11 +204,5 @@ namespace rhmg.StudioDiary
             var endTime = StartTime.Hour + Length.Hours;
             return hour >= StartTime.Hour && hour < endTime;
         }
-
-        public void NoShow()
-        {
-            DidNotShow = true;
-        }
     }
 }
-

@@ -235,7 +235,7 @@ namespace rhmg.StudioDiary.Tests
 
         Because of = () => booking.NoShow();
 
-        It sets_the_booking_as_checked_in = () => booking.DidNotShow.ShouldBeTrue();
+        It sets_the_booking_as_checked_in = () => booking.IsNoShow.ShouldBeTrue();
     }
 
 

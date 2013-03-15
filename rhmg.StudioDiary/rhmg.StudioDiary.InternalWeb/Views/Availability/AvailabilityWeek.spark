@@ -18,18 +18,39 @@
   </div>
   <weekTable thisWeek="Model.ThisWeek" products="Model.Products" rooms="Model.Rooms"/>
 
-  <div id="dialog" title="jobby" once="dialogMarkup">
-    <div class="navBarItem" id="arriveBooking">
-      Arrive the booking
+  <div id="contextMenu" title="jobby" once="contextMenuMarkup">
+    <div id="menuItems">
+      <div class="navBarItem" id="checkInBooking">
+        Check In the booking
+      </div>
+      <div class="navBarItem" id="cancelBooking">
+        Cancel the booking
+      </div>
+      <div class="navBarItem" id="noShowBooking">
+        No Show the booking
+      </div>
+      <div class="navBarItem" id="editBooking">
+        Edit the booking
+      </div>
     </div>
-    <div class="navBarItem" id="cancelBooking">
-      Cancel the booking
-    </div>
-    <div class="navBarItem" id="noShowBooking">
-      No Show the booking
-    </div>
-    <div class="navBarItem" id="editBooking">
-      Edit the booking
+    <div id="cancellationDialogue" style="visibility:none; ">
+      <form>
+        <fieldset>
+          <input type="hidden" name="BookingId" id="bookingIdInput" />
+          <div id="cancellationType">
+            Cancellation type?
+            <select name="CancellationType" id="cancellationTypeInput">
+              <option value="NoCost">No Cost</option>
+              <option value="HalfCost">Half Cost</option>
+              <option value="FullCost">Full Cost</option>
+            </select>
+          </div>
+          <div id="reason">
+            Cancellation reason?
+            <input name="Reason" type="text" id="reasonInput" /> <button type="submit" id="cancelButton">cancel</button>
+          </div>
+        </fieldset>
+      </form>
     </div>
   </div>
 </content>

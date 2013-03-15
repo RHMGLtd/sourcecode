@@ -48,7 +48,7 @@ a:link, a:visited, a:hover, a:active
 }
 .dayList .hourLine .entry
 {
-    width: 138px;
+    width: 133px;
     float: right;
 }
 .entry.booked
@@ -59,6 +59,14 @@ a:link, a:visited, a:hover, a:active
     width: 140px;
     overflow: hidden;
     text-overflow: ellipsis;
+}
+.entry.booked.noShow
+{
+    border-left: groove black thick;
+}
+.entry.booked.arrived
+{
+    border-left: groove blue thick;
 }
 .hourLine.peakTimeBeginning
 {
