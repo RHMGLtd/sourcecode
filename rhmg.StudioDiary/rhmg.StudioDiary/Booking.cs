@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using Nancy.Extensions;
 using Raven.Client;
 using Raven.Imports.Newtonsoft.Json;
 
@@ -23,7 +24,6 @@ namespace rhmg.StudioDiary
         {
             return false;
         }
-
         public bool HasOutstandingOwings { get; set; }
         public bool IsCancelled { get; set; }
         public double CurrentlyOwed { get; set; }
@@ -187,7 +187,6 @@ namespace rhmg.StudioDiary
             IsNoShow = true;
             CheckedIn = false;
         }
-
         /*public void SaveAttachment(IFile file, IFileSystem fs, string rootDirectory)
         {
             if (string.IsNullOrEmpty(Id))
@@ -198,11 +197,17 @@ namespace rhmg.StudioDiary
             var bob = fs.GetFile()
             folder.CopyTo(file);
         }*/
-
         public bool IsValidFor(int hour)
         {
             var endTime = StartTime.Hour + Length.Hours;
             return hour >= StartTime.Hour && hour < endTime;
+        }
+
+        public List<string> FlattenAdditionalEquipment()
+        {
+            return AdditionalEquipment.DistinctBy(x => x.Id).Select(eq => string.Format("{0}_{1}", 
+                                                                            eq.Id.Replace("additionalequipment/", "eq"), 
+                                                                            AdditionalEquipment.Count(x => x.Id == eq.Id))).ToList();
         }
     }
 }

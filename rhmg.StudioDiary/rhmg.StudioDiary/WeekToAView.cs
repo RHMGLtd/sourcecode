@@ -5,7 +5,7 @@ namespace rhmg.StudioDiary
 {
     public class WeekToAView
     {
-        public WeekToAView(IEnumerable<Booking> bookings, DateTime mondayDate, DateTime sundayDate)
+        public WeekToAView(IEnumerable<Booking> bookings, IEnumerable<BackFill> backFill, DateTime mondayDate, DateTime sundayDate)
         {
             MondayDate = mondayDate;
             SundayDate = sundayDate;
@@ -17,6 +17,7 @@ namespace rhmg.StudioDiary
             Saturday = new DayViewBookingLists { Date = mondayDate.AddDays(5) };
             Sunday = new DayViewBookingLists { Date = sundayDate };
             Init(bookings);
+            Init(backFill);
         }
 
         void Init(IEnumerable<Booking> bookings)
@@ -37,6 +38,26 @@ namespace rhmg.StudioDiary
                     Saturday.Bookings.Add(booking);
                 if (booking.Date.DayOfWeek == DayOfWeek.Sunday)
                     Sunday.Bookings.Add(booking);
+            }
+        }
+        void Init(IEnumerable<BackFill> backFills)
+        {
+            foreach (var backFill in backFills)
+            {
+                if (backFill.Date.DayOfWeek == DayOfWeek.Monday)
+                    Monday.BackFill.Add(backFill);
+                if (backFill.Date.DayOfWeek == DayOfWeek.Tuesday)
+                    Tuesday.BackFill.Add(backFill);
+                if (backFill.Date.DayOfWeek == DayOfWeek.Wednesday)
+                    Wednesday.BackFill.Add(backFill);
+                if (backFill.Date.DayOfWeek == DayOfWeek.Thursday)
+                    Thursday.BackFill.Add(backFill);
+                if (backFill.Date.DayOfWeek == DayOfWeek.Friday)
+                    Friday.BackFill.Add(backFill);
+                if (backFill.Date.DayOfWeek == DayOfWeek.Saturday)
+                    Saturday.BackFill.Add(backFill);
+                if (backFill.Date.DayOfWeek == DayOfWeek.Sunday)
+                    Sunday.BackFill.Add(backFill);
             }
         }
 

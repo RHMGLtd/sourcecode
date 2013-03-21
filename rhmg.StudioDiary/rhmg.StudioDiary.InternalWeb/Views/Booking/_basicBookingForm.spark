@@ -9,7 +9,7 @@
   Please either select a rate, or put in a one off charge for this booking.
   <select name="RateId" id="rateSelector">
     <option if="string.IsNullOrEmpty(Model.RateId)" value="">... select a room to get available rates</option>
-    <option each="var rate in Model.RatesToPickFromMaybe" value="!{rate.Id}" selected="!{Model.RateId == rate.Id}">!{Model.RateDescription}</option>
+    <option each="var rate in Model.RatesToPickFromMaybe" value="!{rate.Id}" selected="?{Model.RateId == rate.Id}">!{rate.Description}</option>
   </select>
   <input type="number" Min="0" class="textEntry" name="OneOffCharge" />
 </div>
@@ -23,19 +23,19 @@
 </div>
 <div id="notes">
   Put notes for this booking here:
-  <textarea name="Note"></textarea>
+  <textarea name="Notes">!{Model.Notes}</textarea>
 </div>
 <div id="additionalEquipment">
   <h3>Please select Additional Equipment for this booking</h3>
   <div each="var eq in Model.AvailableAdditionalEquipment">
     <span>!{eq.Description} (&pound;!{eq.UnitCost} each)</span>
-    <select name="NumberRequired">
+    <select name="AdditionalEquipmentAndNumberRequired">
       <option value="!{eq.Id}_0">Please Select</option>
-      <option value="!{eq.Id}_1">One</option>
-      <option value="!{eq.Id}_2">Two</option>
-      <option value="!{eq.Id}_3">Three</option>
-      <option value="!{eq.Id}_4">Four</option>
-      <option value="!{eq.Id}_5">Five</option>
+      <option value="!{eq.Id}_1" selected="?{Model.SelectThisAdditionalEquipment(eq.Id, 1)}">One</option>
+      <option value="!{eq.Id}_2" selected="?{Model.SelectThisAdditionalEquipment(eq.Id, 2)}">Two</option>
+      <option value="!{eq.Id}_3" selected="?{Model.SelectThisAdditionalEquipment(eq.Id, 3)}">Three</option>
+      <option value="!{eq.Id}_4" selected="?{Model.SelectThisAdditionalEquipment(eq.Id, 4)}">Four</option>
+      <option value="!{eq.Id}_5" selected="?{Model.SelectThisAdditionalEquipment(eq.Id, 5)}">Five</option>
     </select>
   </div>
 </div>

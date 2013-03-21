@@ -19,7 +19,6 @@ namespace rhmg.StudioDiary
         public string Age { get; set; }
         [JsonIgnore]
         public List<Booking> Bookings { get; set; }
-
         
         public Contact Save(IDocumentSession session)
         {

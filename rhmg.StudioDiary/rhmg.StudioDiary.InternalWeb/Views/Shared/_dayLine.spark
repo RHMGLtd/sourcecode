@@ -1,13 +1,22 @@
 ﻿<use namespace="System" once="systemNamespace"/>
-	<tr class="dayLine odd?{odd}">
-		<td if="showDayName" class="dayLineDay today?{day.Date == DateTime.Now.Date}">
-      !{dayName}<br />
-      <for each="var product in products2">
-        <a href="~/booking?day=!{day.Date.Day}&month=!{day.Date.Month}&year=!{day.Date.Year}&product=!{product.Name.Replace(' ', '')}">!{product.Name}</a>
-        <br />
-      </for> 
-    </td>
-		<td each="var room in rooms2">
-      <dayList bookings="day.ForRoom(room)" />
-		</td>
-	</tr>
+<tr class="dayLine odd?{odd}">
+  <td></td>
+  <td colspan="!{rooms2.Count}">
+    <div id="backFilling" if="day.BackFill.Any()">
+      there is backfill
+    </div>
+    &nbsp;
+  </td>
+</tr>
+<tr class="dayLine odd?{odd}">
+  <td if="showDayName" class="dayLineDay today?{day.Date == DateTime.Now.Date}">
+    !{dayName}<br />
+    <for each="var product in products2">
+      <a href="~/booking?day=!{day.Date.Day}&month=!{day.Date.Month}&year=!{day.Date.Year}&product=!{product.Name.Replace(' ', '')}">!{product.Name}</a>
+      <br />
+    </for>
+  </td>
+  <td each="var room in rooms2">
+    <dayList bookings="day.ForRoom(room)" />
+  </td>
+</tr>

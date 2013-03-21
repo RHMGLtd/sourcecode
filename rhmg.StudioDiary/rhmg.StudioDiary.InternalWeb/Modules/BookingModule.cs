@@ -134,7 +134,6 @@ namespace rhmg.StudioDiary.InternalWeb.Modules
                 Post[@"/booking/{bookingId}"] = parameters => SaveBooking(session);
             }
         }
-
         dynamic SaveBooking(IDocumentSession session)
         {
             var baseForm = this.Bind<BaseFormBookingModel>();

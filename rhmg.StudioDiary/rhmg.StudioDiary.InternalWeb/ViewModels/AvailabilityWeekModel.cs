@@ -9,6 +9,6 @@ namespace rhmg.StudioDiary.InternalWeb.ViewModels
         public DateTime NextWeekMonday { get; set; }
         public WeekToAView ThisWeek { get; set; }
         public List<Room> Rooms { get; set; }
-        public List<Product> Products { get; set; } 
+        public List<Product> Products { get; set; }
     }
 }

@@ -9,7 +9,7 @@ namespace rhmg.StudioDiary.InternalWeb.ViewModels
     {
         public StandardFormBookingModel()
         {
-            NumberRequired = new List<string>();
+            AdditionalEquipmentAndNumberRequired = new List<string>();
             RatesToPickFromMaybe = new List<Rate>();
         }
 
@@ -29,6 +29,7 @@ namespace rhmg.StudioDiary.InternalWeb.ViewModels
                                        ? new List<Rate>()
                                        : booking.Rooms.FirstOrDefault().Rates.ToList();
             OneOffCharge = booking.OneOffCharge;
+            AdditionalEquipmentAndNumberRequired = booking.FlattenAdditionalEquipment();
         }
 
         List<AdditionalEquipment> _additionalEquipment;
@@ -55,7 +56,7 @@ namespace rhmg.StudioDiary.InternalWeb.ViewModels
         public string RateId { get; set; }
         public string RateDescription { get; set; }
         public double OneOffCharge { get; set; }
-        public List<string> NumberRequired { get; set; }
+        public List<string> AdditionalEquipmentAndNumberRequired { get; set; }
 
         public List<Rate> RatesToPickFromMaybe { get; set; }
 
@@ -72,7 +73,7 @@ namespace rhmg.StudioDiary.InternalWeb.ViewModels
 
         public virtual List<AdditionalEquipment> ExplodeAdditionalEquipment(IDocumentSession session)
         {
-            var list = NumberRequired.ToDictionary(eq => "additionalequipment/" + eq.Split('_')[0].Replace("eq", ""), eq => int.Parse(eq.Split('_')[1]));
+            var list = AdditionalEquipmentAndNumberRequired.ToDictionary(eq => "additionalequipment/" + eq.Split('_')[0].Replace("eq", ""), eq => int.Parse(eq.Split('_')[1]));
             var eqs = new List<AdditionalEquipment>();
             foreach (var i in list)
             {
@@ -121,6 +122,10 @@ namespace rhmg.StudioDiary.InternalWeb.ViewModels
                                 };
             booking.AdditionalEquipment = eqs;
             return booking;
+        }
+        public bool SelectThisAdditionalEquipment(string id, int count)
+        {
+            return (AdditionalEquipmentAndNumberRequired.Any(x => x == string.Format("{0}_{1}", id, count)));
         }
     }
 }

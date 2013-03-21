@@ -26,7 +26,7 @@ namespace rhmg.StudioDiary.Tests
 
         Because of = () => input = new StandardFormBookingModel
                                        {
-                                           NumberRequired = new List<string>
+                                           AdditionalEquipmentAndNumberRequired = new List<string>
                                                                 {
                                                                     "eq1_2"
                                                                 }

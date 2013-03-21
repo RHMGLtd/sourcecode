@@ -20,7 +20,16 @@ namespace rhmg.StudioDiary
             foreach (var booking in bookings)
                 if (!string.IsNullOrEmpty(booking.MainContactId))
                     booking.MainContact = session.Load<Contact>(booking.MainContactId);
-            return new WeekToAView(bookings, date.MondayDate(), date.SundayDate());
+            var backFill = session.Advanced.LuceneQuery<BackFill>()
+                .Include(x => x.MainContactId)
+                .WhereEquals(x => x.Upgraded, false)
+                .AndAlso()
+                .WhereBetweenOrEqual(x => x.Date, monday, sunday);
+            foreach (var bf in backFill)
+                if (!string.IsNullOrEmpty(bf.MainContactId))
+                    bf.MainContact = session.Load<Contact>(bf.MainContactId);
+
+            return new WeekToAView(bookings, backFill, date.MondayDate(), date.SundayDate());
         }
 
         public static MonthToAView MonthToAViewFor(DateTime date, IDocumentSession session)

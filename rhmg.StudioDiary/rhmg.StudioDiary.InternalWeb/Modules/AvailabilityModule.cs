@@ -6,7 +6,6 @@ using rhmg.StudioDiary.Raven;
 
 namespace rhmg.StudioDiary.InternalWeb.Modules
 {
-
     public class AvailabilityModule : NancyModule
     {
         public AvailabilityModule(IRavenSessionProvider store)
@@ -14,11 +13,8 @@ namespace rhmg.StudioDiary.InternalWeb.Modules
             using (var session = store.GetSession())
             {
                 Get["/"] = parameters => GetDiaryForWeek(session, DateTime.Now.Date);
-                Get[@"/(?<day>[\d]{1,2})/(?<month>[\d]{1,2})/(?<year>[\d]{1,4})/"] = parameters =>
-                                                   {
-                                                       var date = new DateTime(parameters.year, parameters.month, parameters.day);
-                                                       return GetDiaryForWeek(session, date);
-                                                   };
+                Get[@"/(?<day>[\d]{1,2})/(?<month>[\d]{1,2})/(?<year>[\d]{1,4})/"] = 
+                    parameters => GetDiaryForWeek(session, new DateTime(parameters.year, parameters.month, parameters.day));
             }
         }
 

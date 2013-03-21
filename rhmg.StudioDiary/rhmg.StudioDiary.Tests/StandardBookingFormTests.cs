@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 using Machine.Specifications;
 using rhmg.StudioDiary.InternalWeb.ViewModels;
@@ -115,5 +116,43 @@ namespace rhmg.StudioDiary.Tests
         It has_saved_the_booking = () => _booking.Id.ShouldNotBeNull();
         It has_the_correct_contact = () => _booking.MainContactId.ShouldEqual(_band.Id);
         It has_the_room_saved_correctly = () => _booking.Rooms.Count.ShouldEqual(5);
+    }
+
+    public class flattening_additional_equipment_for_binding_to_form
+    {
+        static Booking _booking;
+        static List<string> result;
+        Establish context = () =>
+                            {
+                                _booking = new Booking()
+                                               {
+                                                   AdditionalEquipment = new List<AdditionalEquipment>
+                                                                                 {
+                                                                                     new AdditionalEquipment
+                                                                                         {
+                                                                                             Id ="AdditionalEquipment/1",
+                                                                                             Description = "Test 1"
+                                                                                         },
+                                                                                     new AdditionalEquipment
+                                                                                         {
+                                                                                             Id ="AdditionalEquipment/1",
+                                                                                             Description = "Test 1"
+                                                                                         },
+                                                                                     new AdditionalEquipment
+                                                                                         {
+                                                                                             Id ="AdditionalEquipment/1",
+                                                                                             Description = "Test 1"
+                                                                                         },
+                                                                                     new AdditionalEquipment
+                                                                                         {
+                                                                                             Id ="AdditionalEquipment/2",
+                                                                                             Description = "Test 2"
+                                                                                         }
+                                                                                 }
+                                               };
+                            };
+
+        Because of = () => result = _booking.FlattenAdditionalEquipment();
+        It has_got_two_flattened_equipments = () => result.Count.ShouldEqual(2);
     }
 }

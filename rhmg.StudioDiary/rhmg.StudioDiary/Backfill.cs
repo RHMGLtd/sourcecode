@@ -12,9 +12,7 @@ namespace rhmg.StudioDiary
         public string MainContactId { get; set; }
         [JsonIgnore]
         public Contact MainContact { get; set; }
-
         public DateTime Date { get; set; }
-
         public bool Upgraded { get; set; }
         
 
