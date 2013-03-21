@@ -109,7 +109,7 @@ a:link, a:visited, a:hover, a:active
     padding: 2px;
 }
 .weekLine .day .dayHeading.availability {
-    background-color: firebrick;
+    background-color: goldenrod;
     color: white;
 }
 .weekLine .day.today

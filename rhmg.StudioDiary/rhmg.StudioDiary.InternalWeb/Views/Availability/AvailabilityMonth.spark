@@ -26,7 +26,9 @@
         </test>
       <td class="today?{summary.Date == DateTime.Now.Date} day notThisMonth?{summary.Date.Month != Model.MonthNumber}">
         <div class="dayHeading availability?{summary.HasAvailability}">
-          !{summary.Date.ToString('dd MMM yyyy')}
+          <a href="~/day/!{summary.Date.Day}/!{summary.Date.Month}/!{summary.Date.Year}">
+            !{summary.Date.ToString('dd MMM yyyy')}
+          </a>
         </div>
         <div>
           &nbsp;

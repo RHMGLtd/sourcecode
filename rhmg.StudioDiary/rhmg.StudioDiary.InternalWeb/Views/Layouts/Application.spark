@@ -17,6 +17,9 @@
   <body class="page">
     <div class="navBar">
       <span class="navBarItem">
+        <a href="~/day">today</a>
+      </span> ::
+      <span class="navBarItem">
         <a href="~/">current week</a>
       </span> ::
       <span class="navBarItem">

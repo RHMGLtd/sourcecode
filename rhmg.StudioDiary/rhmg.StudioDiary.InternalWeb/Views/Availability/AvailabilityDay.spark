@@ -1,0 +1,15 @@
+﻿<viewdata model="rhmg.StudioDiary.InternalWeb.ViewModels.AvailabilityDayModel" />
+<use namespace="rhmg.StudioDiary" once="studioDiaryNamespace"/>
+<content name="head">
+  <title>Availability for !{Model.ThisDay.Date.ToString('dd MMM yyyy')}</title>
+</content>
+
+<content name="body">
+  <div class="header">
+    <h1>Availability for !{Model.ThisDay.Date.ToString('dd MMM yyyy')}</h1>
+  </div>
+  <table width="100%">
+    <tableHeadings showDayName="false" rooms2="Model.AllRooms"/>
+    <dayLine day="Model.ThisDay" odd="false" rooms2="Model.AllRooms" products2="new Product[] {}" dayName="'today'" showDayName="false"/>
+  </table>
+</content>
