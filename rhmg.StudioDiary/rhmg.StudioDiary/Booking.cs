@@ -50,11 +50,9 @@ namespace rhmg.StudioDiary
         public Cancellation Cancellation { get; set; }
         public List<Payment> Payments { get; set; }
         public List<Payment> Refunds { get; set; }
-
         public List<AdditionalEquipment> AdditionalEquipment { get; set; }
 
         public bool CheckedIn { get; set; }
-
         public bool IsNoShow { get; set; }
 
         public static NullBooking GetNull() { return new NullBooking(); }
@@ -71,14 +69,12 @@ namespace rhmg.StudioDiary
                            Product = product
                        };
         }
-
         public static Booking Get(string id, IDocumentSession session)
         {
             var booking = session.Include<Booking>(x => x.MainContactId).Load(id);
             booking.MainContact = session.Load<Contact>(booking.MainContactId);
             return booking;
         }
-
         public Booking()
         {
             Payments = new List<Payment>();
@@ -87,7 +83,6 @@ namespace rhmg.StudioDiary
             AdditionalEquipment = new List<AdditionalEquipment>();
             Notes = new List<Note>();
         }
-
         public Booking Save(IDocumentSession session)
         {
             // set flags for searching
@@ -99,7 +94,6 @@ namespace rhmg.StudioDiary
             session.SaveChanges();
             return this;
         }
-
         public virtual string SummariseBooking()
         {
             if (MainContact == null)
@@ -135,7 +129,6 @@ namespace rhmg.StudioDiary
             }
             return Value() - Payments.Sum(x => x.Amount);
         }
-
         public void ApplyPayment(Payment payment)
         {
             Payments.Add(payment);
@@ -154,17 +147,14 @@ namespace rhmg.StudioDiary
                                        Type = cancellationType
                                    };
         }
-
         public void AddAdditionalEquipment(AdditionalEquipment additionalEquipment)
         {
             AdditionalEquipment.Add(additionalEquipment);
         }
-
         public void AddNote(Note note)
         {
             Notes.Add(note);
         }
-
         public bool IsInWeekdayPeakTime()
         {
             if (Date.DayOfWeek == DayOfWeek.Saturday || Date.DayOfWeek == DayOfWeek.Sunday)
@@ -176,7 +166,6 @@ namespace rhmg.StudioDiary
                 return true;
             return false;
         }
-
         public void CheckIn()
         {
             CheckedIn = true;

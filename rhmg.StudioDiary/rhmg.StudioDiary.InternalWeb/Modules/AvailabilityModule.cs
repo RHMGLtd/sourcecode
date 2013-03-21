@@ -14,18 +14,22 @@ namespace rhmg.StudioDiary.InternalWeb.Modules
             using (var session = store.GetSession())
             {
                 Get["/"] = parameters => GetDiaryForWeek(session, DateTime.Now.Date);
-                Get["/month"] = parameters =>
-                                    {
-                                        var thisMonth = DiaryManager.FullMonthToAViewFor(DateTime.Now.Date, session);
-                                        return View[new AvailabilityMonthModel
-                                                        {
-                                                            ThisMonth = thisMonth,
-                                                            MonthName = CultureInfo.CurrentCulture.DateTimeFormat.GetMonthName(DateTime.Now.Month)
-                                                        }];
-                                    };
+                Get["/month"] = parameters => GetDiaryForMonth(session, DateTime.Now);
+                Get["/month/{month}/{year}"] = parameters => GetDiaryForMonth(session, new DateTime(parameters.year, parameters.month, 1));
                 Get[@"/(?<day>[\d]{1,2})/(?<month>[\d]{1,2})/(?<year>[\d]{1,4})/"] = 
                     parameters => GetDiaryForWeek(session, new DateTime(parameters.year, parameters.month, parameters.day));
             }
+        }
+
+        dynamic GetDiaryForMonth(IDocumentSession session, DateTime dateTime)
+        {
+            var thisMonth = DiaryManager.FullMonthToAViewFor(dateTime.Date, session);
+            return View[new AvailabilityMonthModel
+                            {
+                                ThisMonth = thisMonth,
+                                MonthNumber = dateTime.Month,
+                                MonthName = CultureInfo.CurrentCulture.DateTimeFormat.GetMonthName(dateTime.Month)
+                            }];
         }
 
         dynamic GetDiaryForWeek(IDocumentSession session, DateTime date)

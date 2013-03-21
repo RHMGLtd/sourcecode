@@ -42,7 +42,9 @@ namespace rhmg.StudioDiary
             if (Date.DayOfWeek == DayOfWeek.Saturday)
             {
                 // if we have a recording longer than 8 hours we are full
-                HasAvailability = !ThisDaysBookings.Any(x => x.Rooms.Any(y => y.Name == "Live Room") && x.Length >= new TimeSpan(0, 8, 0, 0));
+                HasAvailability = !ThisDaysBookings.Any(x => x.Rooms.Any(y => y.Name == "Live Room") && x.Length >= new TimeSpan(0, 8, 0, 0))
+                    // if we have a sum of more than eight hours in the day we are full
+                    || ThisDaysBookings.Where(x => x.Rooms.Any(y => y.Name == "Live Room")).Sum(y => y.Length.TotalHours) < 8 ;
                 return;
             }
             // if today is a sunday

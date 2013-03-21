@@ -18,14 +18,19 @@
       <th width="14%">Saturday</th>
       <th width="14%">Sunday</th>
     </tr>
-    <tr>
+    <tr class="weekLine">
       <for each="var summary in Model.ThisMonth.WithPeakAvailability">
-        <test if="summaryIndex%7 == 0">
+        <test if="summaryIndex != 0 && summaryIndex%7 == 0">
           </tr>
-    <tr>
-      </test>
-      <td>
-        !{summary.Date.ToString('dd MMM yyyy')}
+          <tr class="weekLine">
+        </test>
+      <td class="today?{summary.Date == DateTime.Now.Date} day notThisMonth?{summary.Date.Month != Model.MonthNumber}">
+        <div class="dayHeading availability?{summary.HasAvailability}">
+          !{summary.Date.ToString('dd MMM yyyy')}
+        </div>
+        <div>
+          &nbsp;
+        </div>
       </td>
       </for>
     </tr>
