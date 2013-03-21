@@ -17,7 +17,13 @@
   <body class="page">
     <div class="navBar">
       <span class="navBarItem">
-        <a href="~/!{DateTime.Now.Date.ToString('dd/MM/yyyy')}">current week view</a>
+        <a href="~/">current week</a>
+      </span> ::
+      <span class="navBarItem">
+        <a href="~/month">current month</a>
+      </span> ::
+      <span class="navBarItem">
+        <a href="~/year">current year</a>
       </span> ::
       <span class="navBarItem">
         <a href="~/Admin">admin page</a>

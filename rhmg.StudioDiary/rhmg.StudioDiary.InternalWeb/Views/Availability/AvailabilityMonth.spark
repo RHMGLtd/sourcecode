@@ -1,0 +1,38 @@
+﻿<viewdata model="rhmg.StudioDiary.InternalWeb.ViewModels.AvailabilityMonthModel" />
+
+<content name="head">
+  <title>Availability for !{Model.MonthName}</title>
+</content>
+
+<content name="body">
+  <div class="header">
+    <h1>Availability for !{Model.MonthName}</h1>
+  </div>
+  <table width="100%">
+    <tr>
+      <th width="14%">Monday</th>
+      <th width="14%">Tuesday</th>
+      <th width="14%">Wednesday</th>
+      <th width="14%">Thursday</th>
+      <th width="14%">Friday</th>
+      <th width="14%">Saturday</th>
+      <th width="14%">Sunday</th>
+    </tr>
+    <tr>
+      <for each="var summary in Model.ThisMonth.WithPeakAvailability">
+        <test if="summaryIndex%7 == 0">
+          </tr>
+    <tr>
+      </test>
+      <td>
+        !{summary.Date.ToString('dd MMM yyyy')}
+      </td>
+      </for>
+    </tr>
+    <tr>
+      <td>
+
+      </td>
+    </tr>
+  </table>
+</content>

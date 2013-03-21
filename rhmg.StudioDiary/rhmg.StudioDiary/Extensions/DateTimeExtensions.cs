@@ -49,5 +49,13 @@ namespace rhmg.StudioDiary.Extensions
                     throw new ArgumentOutOfRangeException("inputDate");
             }
         }
+        public static DateTime FirstDayOfMonth(this DateTime inputDate)
+        {
+            return new DateTime(inputDate.Year, inputDate.Month, 1);
+        }
+        public static DateTime LastDayOfMonth(this DateTime inputDate)
+        {
+            return new DateTime(inputDate.Year, inputDate.Month, DateTime.DaysInMonth(inputDate.Year, inputDate.Month));
+        }
     }
 }

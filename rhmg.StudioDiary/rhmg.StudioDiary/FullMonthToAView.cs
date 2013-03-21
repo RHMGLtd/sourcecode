@@ -4,32 +4,31 @@ using System.Linq;
 
 namespace rhmg.StudioDiary
 {
-    public class MonthToAView
+    public class FullMonthToAView
     {
         public List<DaySummary> WithPeakAvailability { get; set; }
-
-        public MonthToAView(List<Booking> bookings, DateTime date)
+        public FullMonthToAView(List<Booking> bookings, DateTime startDate, DateTime endDate)
         {
             WithPeakAvailability = new List<DaySummary>();
-            Init(bookings, date);
+            Init(bookings, startDate, endDate);
         }
 
-        void Init(List<Booking> bookings, DateTime date)
+        void Init(List<Booking> bookings, DateTime startDate, DateTime endDate)
         {
-            //for each day of the month requested
-            var dateInMonth = new DateTime(date.Year, date.Month, 1);
-            while (dateInMonth.Month == date.Month)
+            var currentDate = startDate;
+            while (currentDate <= endDate)
             {
-                // get any bookings for this date which are peak time
-                var thisDaysBookings = bookings.Where(x => x.Date == dateInMonth);
-                WithPeakAvailability.Add(new DaySummary(dateInMonth, thisDaysBookings));
-                dateInMonth = dateInMonth.AddDays(1);
+                WithPeakAvailability.Add(new DaySummary(currentDate, bookings.Where(x => x.Date == currentDate)));
+                currentDate = currentDate.AddDays(1);
             }
         }
     }
 
     public class DaySummary
     {
+        public DateTime Date { get; set; }
+        public IEnumerable<Booking> ThisDaysBookings { get; set; }
+        public bool HasAvailability { get; set; }
         public DaySummary(DateTime dateInMonth, IEnumerable<Booking> thisDaysBookings)
         {
             Date = dateInMonth;
@@ -55,9 +54,5 @@ namespace rhmg.StudioDiary
             // if today is a weekday
             HasAvailability = ThisDaysBookings.Count(x => x.IsInWeekdayPeakTime()) < 4;
         }
-
-        public DateTime Date { get; set; }
-        public IEnumerable<Booking> ThisDaysBookings { get; set; }
-        public bool HasAvailability { get; set; }
     }
 }

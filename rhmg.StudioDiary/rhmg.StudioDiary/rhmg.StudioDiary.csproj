@@ -125,7 +125,7 @@
     <Compile Include="Extensions\EnumExtensions.cs" />
     <Compile Include="Extensions\ListExtensions.cs" />
     <Compile Include="Extensions\StringExtensions.cs" />
-    <Compile Include="MonthToAView.cs" />
+    <Compile Include="FullMonthToAView.cs" />
     <Compile Include="Product.cs" />
     <Compile Include="Raven\DocumentConventionFactory.cs" />
     <Compile Include="Raven\DocumentStoreFactory.cs" />

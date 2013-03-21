@@ -58,7 +58,6 @@ namespace rhmg.StudioDiary.Tests
             It has_an_entry_for_sunday = () => thisWeek.Sunday.Bookings.Bookings.ShouldNotBeEmpty();
             It has_the_correct_date_for_sunday = () => thisWeek.Sunday.Date.ShouldEqual(Dates.sunday);
         }
-
         public class when_we_are_full_on_one_day : with_raven_integration<Booking, Booking>
         {
             static WeekToAView thisWeek;
@@ -101,7 +100,7 @@ namespace rhmg.StudioDiary.Tests
     {
         public class when_there_is_available_peak_slots_on_one_day_and_not_on_another_on_week_days : with_raven_integration<Booking, Booking>
         {
-            static MonthToAView monthToAView;
+            static FullMonthToAView monthToAView;
 
             Establish context = () =>
             {
@@ -129,7 +128,7 @@ namespace rhmg.StudioDiary.Tests
             Because and_we_ask_for_the_month_to_a_view = () =>
             {
                 monthToAView =
-                    DiaryManager.MonthToAViewFor(
+                    DiaryManager.FullMonthToAViewFor(
                         Dates.monday, session);
             };
 
@@ -138,10 +137,9 @@ namespace rhmg.StudioDiary.Tests
             It has_availability_for_the_tuesday =
                 () => monthToAView.WithPeakAvailability.FirstOrDefault(x => x.Date == Dates.tuesday).HasAvailability.ShouldBeTrue();
         }
-
         public class when_there_is_recording_on_a_saturday_of_eight_hours_length : with_raven_integration<Booking, Booking>
         {
-            static MonthToAView monthToAView;
+            static FullMonthToAView monthToAView;
 
             Establish context = () =>
             {
@@ -156,7 +154,7 @@ namespace rhmg.StudioDiary.Tests
             Because and_we_ask_for_the_month_to_a_view = () =>
             {
                 monthToAView =
-                    DiaryManager.MonthToAViewFor(
+                    DiaryManager.FullMonthToAViewFor(
                         Dates.monday, session);
             };
             It has_no_availability_for_the_saturday =
@@ -164,7 +162,7 @@ namespace rhmg.StudioDiary.Tests
         }
         public class when_there_is_recording_on_a_saturday_of_four_hours_length : with_raven_integration<Booking, Booking>
         {
-            static MonthToAView monthToAView;
+            static FullMonthToAView monthToAView;
 
             Establish context = () =>
             {
@@ -179,16 +177,15 @@ namespace rhmg.StudioDiary.Tests
             Because and_we_ask_for_the_month_to_a_view = () =>
             {
                 monthToAView =
-                    DiaryManager.MonthToAViewFor(
+                    DiaryManager.FullMonthToAViewFor(
                         Dates.monday, session);
             };
             It has_no_availability_for_the_saturday =
                 () => monthToAView.WithPeakAvailability.FirstOrDefault(x => x.Date == Dates.saturday).HasAvailability.ShouldBeTrue();
         }
-
         public class when_there_are_multiple_recordings_on_saturday : with_raven_integration<Booking, Booking>
         {
-            static MonthToAView monthToAView;
+            static FullMonthToAView monthToAView;
 
             Establish context = () =>
             {
@@ -210,11 +207,40 @@ namespace rhmg.StudioDiary.Tests
             Because and_we_ask_for_the_month_to_a_view = () =>
             {
                 monthToAView =
-                    DiaryManager.MonthToAViewFor(
+                    DiaryManager.FullMonthToAViewFor(
                         Dates.monday, session);
             };
             It has_no_availability_for_the_saturday =
                 () => monthToAView.WithPeakAvailability.FirstOrDefault(x => x.Date == Dates.saturday).HasAvailability.ShouldBeTrue();
         }
+    }
+
+    public class full_month_to_a_view : with_raven_integration<Booking, Booking>
+    {
+        static List<Booking> bookings;
+        static FullMonthToAView result;
+
+        Establish context = () =>
+                                {
+                                    bookings = new List<Booking>();
+                                    for (var i = 0; i < 50; i++)
+                                    {
+                                        var booking = Bookings.rehearsals.standard_4_hour_evening_rehearsal_booking;
+                                        booking.Date = Dates.monday.AddDays(i);
+                                        bookings.Add(booking);
+                                    }
+                                    foreach (var booking in bookings)
+                                    {
+                                        session.Store(booking);
+                                    }
+                                    session.SaveChanges();
+                                };
+
+        Because of = () => result = DiaryManager.FullMonthToAViewFor(Dates.sunday, session);
+
+        It has_the_correct_first_date =
+            () => result.WithPeakAvailability.First().Date.ShouldEqual(new DateTime(2012, 11, 26));
+
+        It has_the_correct_number_of_days = () => result.WithPeakAvailability.Count.ShouldEqual(42);
     }
 }
